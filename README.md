@@ -2,7 +2,7 @@
 
 Anonymous code and data release for an ACL Rolling Review submission.
 
-Reinforcement learning (RL) is often credited with teaching reasoning models to write *wait* before they re-check a step. We trace this marker through the training histories of open models with label-free indices (frequency, position, form, usage) and an injected-error alarm test, all computed from sampled outputs. Zero-RL from bases that do not use the marker almost never coins it; the marker arrives with training data (mid-training, reasoning-rich pretraining, or fine-tuning on reasoning traces); where it already exists, released RL-Zero recipes multiply it and reshape it, while other recipes leave it unchanged or erase it. This repository contains the measurement pipeline, the scripts that turn result files into every number, table and figure, the pre-registration log, and the anonymised human-audit labels.
+Reinforcement learning (RL) is often credited with teaching reasoning models to write *wait* before they re-check a step. We trace this marker through the training histories of open models with label-free indices (frequency, position, form, usage) and an injected-error alarm test, all computed from sampled outputs. Zero-RL from bases that do not use the marker almost never coins it; the marker arrives with training data (mid-training, reasoning-rich pretraining, or fine-tuning on reasoning traces); where it already exists, released RL-Zero recipes multiply it and reshape it, while other recipes leave it unchanged or erase it. This repository contains the measurement pipeline, the scripts that turn result files into every number, table and figure, the pre-registration log, and the anonymised expert consensus labels of the human audits.
 
 ## Repository map
 
@@ -16,7 +16,7 @@ Reinforcement learning (RL) is often credited with teaching reasoning models to 
 | `code/paper_tools/` | `json2tex`-style key export, table generators (`make_prov_tables.py`, `make_route_table.py`, `make_cw_tables.py`), derivations (`derive_zerorl.py`, `derive_cw.py`) |
 | `code/figure_scripts/` | figure scripts (matplotlib) |
 | `results/keys/` | the small JSON result files every number in the paper is read from |
-| `results/human_audit/` | blind revision-audit labels (single annotator, anonymised as `A1`) and agreement statistics |
+| `results/human_audit/` | blind revision-audit labels: consensus labels from a panel of ten annotators with PhD-level training in related fields, agreed through discussion and recorded by an author (anonymised as `A1`); judge-vs-consensus agreement statistics |
 | `prereg/` | the dated pre-registration and decision log (`DECISIONS.md`, D-numbers cited in the paper) and licence notes |
 | `data/` | MATH-500 (MIT) and a download script for the other benchmarks |
 
