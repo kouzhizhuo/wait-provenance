@@ -1,0 +1,94 @@
+{
+ "entries": [
+  {
+   "key": "h1.route.sftfree.n",
+   "value": 14,
+   "src": "figures/scripts/hero_strip.py (provenance_map.json)"
+  },
+  {
+   "key": "h1.route.sftfree.n_ge05",
+   "value": 13,
+   "src": "hero_strip.py: after-rate >= 0.05 per 1k"
+  },
+  {
+   "key": "h1.route.sftfree.median",
+   "value": "3.54",
+   "src": "hero_strip.py: median after-rate per 1k"
+  },
+  {
+   "key": "h1.route.nobase.n",
+   "value": 4,
+   "src": "figures/scripts/hero_strip.py (provenance_map.json)"
+  },
+  {
+   "key": "h1.route.nobase.n_ge05",
+   "value": 4,
+   "src": "hero_strip.py: after-rate >= 0.05 per 1k"
+  },
+  {
+   "key": "h1.route.nobase.median",
+   "value": "4.24",
+   "src": "hero_strip.py: median after-rate per 1k"
+  },
+  {
+   "key": "h1.route.postmarked.n",
+   "value": 9,
+   "src": "figures/scripts/hero_strip.py (provenance_map.json)"
+  },
+  {
+   "key": "h1.route.postmarked.n_ge05",
+   "value": 9,
+   "src": "hero_strip.py: after-rate >= 0.05 per 1k"
+  },
+  {
+   "key": "h1.route.postmarked.median",
+   "value": "3.77",
+   "src": "hero_strip.py: median after-rate per 1k"
+  },
+  {
+   "key": "h1.route.rlmarked.n",
+   "value": 9,
+   "src": "figures/scripts/hero_strip.py (provenance_map.json)"
+  },
+  {
+   "key": "h1.route.rlmarked.n_ge05",
+   "value": 9,
+   "src": "hero_strip.py: after-rate >= 0.05 per 1k"
+  },
+  {
+   "key": "h1.route.rlmarked.median",
+   "value": "4.23",
+   "src": "hero_strip.py: median after-rate per 1k"
+  },
+  {
+   "key": "h1.route.olmo.n",
+   "value": 1,
+   "src": "figures/scripts/hero_strip.py (provenance_map.json)"
+  },
+  {
+   "key": "h1.route.olmo.n_ge05",
+   "value": 1,
+   "src": "hero_strip.py: after-rate >= 0.05 per 1k"
+  },
+  {
+   "key": "h1.route.olmo.median",
+   "value": "4.03",
+   "src": "hero_strip.py: median after-rate per 1k"
+  },
+  {
+   "key": "h1.route.zerorl.n",
+   "value": 17,
+   "src": "figures/scripts/hero_strip.py (provenance_map.json)"
+  },
+  {
+   "key": "h1.route.zerorl.n_ge05",
+   "value": 1,
+   "src": "hero_strip.py: after-rate >= 0.05 per 1k"
+  },
+  {
+   "key": "h1.route.zerorl.median",
+   "value": "0",
+   "src": "hero_strip.py: median after-rate per 1k"
+  }
+ ]
+}

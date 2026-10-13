@@ -1,0 +1,4144 @@
+{
+  "entries": [
+    {
+      "key": "h1.s1.base.form_hmm.freq4",
+      "src": "exp/results/main/S1/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.7095
+    },
+    {
+      "key": "h1.s1.base.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.6751
+    },
+    {
+      "key": "h1.s1.base.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.7451
+    },
+    {
+      "key": "h1.s1.base.form_hmm.n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 1603
+    },
+    {
+      "key": "h1.s1.base.form_holdon.freq4",
+      "src": "exp/results/main/S1/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0836
+    },
+    {
+      "key": "h1.s1.base.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0721
+    },
+    {
+      "key": "h1.s1.base.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0965
+    },
+    {
+      "key": "h1.s1.base.form_holdon.n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 189
+    },
+    {
+      "key": "h1.s1.base.form_alternatively.freq4",
+      "src": "exp/results/main/S1/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.35
+    },
+    {
+      "key": "h1.s1.base.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.3
+    },
+    {
+      "key": "h1.s1.base.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.39
+    },
+    {
+      "key": "h1.s1.base.form_alternatively.n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 3041
+    },
+    {
+      "key": "h1.s1.base.form_letmecheck.freq4",
+      "src": "exp/results/main/S1/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.763
+    },
+    {
+      "key": "h1.s1.base.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.7274
+    },
+    {
+      "key": "h1.s1.base.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.7999
+    },
+    {
+      "key": "h1.s1.base.form_letmecheck.n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 1724
+    },
+    {
+      "key": "h1.s1.base.form_actually.freq4",
+      "src": "exp/results/main/S1/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.266
+    },
+    {
+      "key": "h1.s1.base.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.2451
+    },
+    {
+      "key": "h1.s1.base.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.2881
+    },
+    {
+      "key": "h1.s1.base.form_actually.n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 601
+    },
+    {
+      "key": "h1.s1.base.form_butwait.freq4",
+      "src": "exp/results/main/S1/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.3372
+    },
+    {
+      "key": "h1.s1.base.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.3137
+    },
+    {
+      "key": "h1.s1.base.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.3621
+    },
+    {
+      "key": "h1.s1.base.form_butwait.n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 762
+    },
+    {
+      "key": "h1.s1.base.form_r1nowait.freq4",
+      "src": "exp/results/main/S1/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 8.77
+    },
+    {
+      "key": "h1.s1.base.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 8.65
+    },
+    {
+      "key": "h1.s1.base.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 8.89
+    },
+    {
+      "key": "h1.s1.base.form_r1nowait.n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 19810
+    },
+    {
+      "key": "h1.s1.base.form_hmm.si",
+      "src": "exp/results/main/S1/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 98.6
+    },
+    {
+      "key": "h1.s1.base.form_hmm.si.lo",
+      "src": "Wilson 95%",
+      "value": 97.9
+    },
+    {
+      "key": "h1.s1.base.form_hmm.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.1
+    },
+    {
+      "key": "h1.s1.base.form_hmm.si_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 1603
+    },
+    {
+      "key": "h1.s1.base.form_hmm.orth",
+      "src": "exp/results/main/S1/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 71.9
+    },
+    {
+      "key": "h1.s1.base.form_hmm.orth.lo",
+      "src": "Wilson 95%",
+      "value": 69.6
+    },
+    {
+      "key": "h1.s1.base.form_hmm.orth.hi",
+      "src": "Wilson 95%",
+      "value": 74.0
+    },
+    {
+      "key": "h1.s1.base.form_hmm.orth_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 1603
+    },
+    {
+      "key": "h1.s1.base.form_hmm.chain",
+      "src": "exp/results/main/S1/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1.base.form_hmm.chain.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1.base.form_hmm.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.2
+    },
+    {
+      "key": "h1.s1.base.form_hmm.chain_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 1603
+    },
+    {
+      "key": "h1.s1.base.form_alternatively.si",
+      "src": "exp/results/main/S1/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.8
+    },
+    {
+      "key": "h1.s1.base.form_alternatively.si.lo",
+      "src": "Wilson 95%",
+      "value": 99.6
+    },
+    {
+      "key": "h1.s1.base.form_alternatively.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.9
+    },
+    {
+      "key": "h1.s1.base.form_alternatively.si_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 3041
+    },
+    {
+      "key": "h1.s1.base.form_alternatively.orth",
+      "src": "exp/results/main/S1/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.8
+    },
+    {
+      "key": "h1.s1.base.form_alternatively.orth.lo",
+      "src": "Wilson 95%",
+      "value": 99.6
+    },
+    {
+      "key": "h1.s1.base.form_alternatively.orth.hi",
+      "src": "Wilson 95%",
+      "value": 99.9
+    },
+    {
+      "key": "h1.s1.base.form_alternatively.orth_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 3041
+    },
+    {
+      "key": "h1.s1.base.form_alternatively.chain",
+      "src": "exp/results/main/S1/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1.base.form_alternatively.chain.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1.base.form_alternatively.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1.base.form_alternatively.chain_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 3041
+    },
+    {
+      "key": "h1.s1.final.form_hmm.freq4",
+      "src": "exp/results/main/S1/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.8412
+    },
+    {
+      "key": "h1.s1.final.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.8131
+    },
+    {
+      "key": "h1.s1.final.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.87
+    },
+    {
+      "key": "h1.s1.final.form_hmm.n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 3394
+    },
+    {
+      "key": "h1.s1.final.form_holdon.freq4",
+      "src": "exp/results/main/S1/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.3529
+    },
+    {
+      "key": "h1.s1.final.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.3348
+    },
+    {
+      "key": "h1.s1.final.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.3717
+    },
+    {
+      "key": "h1.s1.final.form_holdon.n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 1424
+    },
+    {
+      "key": "h1.s1.final.form_alternatively.freq4",
+      "src": "exp/results/main/S1/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.3
+    },
+    {
+      "key": "h1.s1.final.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.27
+    },
+    {
+      "key": "h1.s1.final.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.34
+    },
+    {
+      "key": "h1.s1.final.form_alternatively.n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 5262
+    },
+    {
+      "key": "h1.s1.final.form_letmecheck.freq4",
+      "src": "exp/results/main/S1/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.8246
+    },
+    {
+      "key": "h1.s1.final.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.7968
+    },
+    {
+      "key": "h1.s1.final.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.8531
+    },
+    {
+      "key": "h1.s1.final.form_letmecheck.n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 3327
+    },
+    {
+      "key": "h1.s1.final.form_actually.freq4",
+      "src": "exp/results/main/S1/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.2364
+    },
+    {
+      "key": "h1.s1.final.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.2217
+    },
+    {
+      "key": "h1.s1.final.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.2519
+    },
+    {
+      "key": "h1.s1.final.form_actually.n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 954
+    },
+    {
+      "key": "h1.s1.final.form_butwait.freq4",
+      "src": "exp/results/main/S1/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.7373
+    },
+    {
+      "key": "h1.s1.final.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.7111
+    },
+    {
+      "key": "h1.s1.final.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.7643
+    },
+    {
+      "key": "h1.s1.final.form_butwait.n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 2975
+    },
+    {
+      "key": "h1.s1.final.form_r1nowait.freq4",
+      "src": "exp/results/main/S1/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 8.03
+    },
+    {
+      "key": "h1.s1.final.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 7.94
+    },
+    {
+      "key": "h1.s1.final.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 8.12
+    },
+    {
+      "key": "h1.s1.final.form_r1nowait.n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 32399
+    },
+    {
+      "key": "h1.s1.final.form_hmm.si",
+      "src": "exp/results/main/S1/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.4
+    },
+    {
+      "key": "h1.s1.final.form_hmm.si.lo",
+      "src": "Wilson 95%",
+      "value": 99.0
+    },
+    {
+      "key": "h1.s1.final.form_hmm.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.6
+    },
+    {
+      "key": "h1.s1.final.form_hmm.si_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 3394
+    },
+    {
+      "key": "h1.s1.final.form_hmm.orth",
+      "src": "exp/results/main/S1/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 55.3
+    },
+    {
+      "key": "h1.s1.final.form_hmm.orth.lo",
+      "src": "Wilson 95%",
+      "value": 53.6
+    },
+    {
+      "key": "h1.s1.final.form_hmm.orth.hi",
+      "src": "Wilson 95%",
+      "value": 56.9
+    },
+    {
+      "key": "h1.s1.final.form_hmm.orth_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 3394
+    },
+    {
+      "key": "h1.s1.final.form_hmm.chain",
+      "src": "exp/results/main/S1/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.5
+    },
+    {
+      "key": "h1.s1.final.form_hmm.chain.lo",
+      "src": "Wilson 95%",
+      "value": 0.3
+    },
+    {
+      "key": "h1.s1.final.form_hmm.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.8
+    },
+    {
+      "key": "h1.s1.final.form_hmm.chain_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 3394
+    },
+    {
+      "key": "h1.s1.final.form_alternatively.si",
+      "src": "exp/results/main/S1/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.5
+    },
+    {
+      "key": "h1.s1.final.form_alternatively.si.lo",
+      "src": "Wilson 95%",
+      "value": 99.3
+    },
+    {
+      "key": "h1.s1.final.form_alternatively.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.7
+    },
+    {
+      "key": "h1.s1.final.form_alternatively.si_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 5262
+    },
+    {
+      "key": "h1.s1.final.form_alternatively.orth",
+      "src": "exp/results/main/S1/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 90.5
+    },
+    {
+      "key": "h1.s1.final.form_alternatively.orth.lo",
+      "src": "Wilson 95%",
+      "value": 89.7
+    },
+    {
+      "key": "h1.s1.final.form_alternatively.orth.hi",
+      "src": "Wilson 95%",
+      "value": 91.3
+    },
+    {
+      "key": "h1.s1.final.form_alternatively.orth_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 5262
+    },
+    {
+      "key": "h1.s1.final.form_alternatively.chain",
+      "src": "exp/results/main/S1/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1.final.form_alternatively.chain.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1.final.form_alternatively.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.2
+    },
+    {
+      "key": "h1.s1.final.form_alternatively.chain_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 5262
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_hmm.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0118
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0063
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0202
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_hmm.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 13
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_holdon.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0018
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0002
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0066
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_holdon.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 2
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_alternatively.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0064
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0026
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0131
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_alternatively.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 7
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_letmecheck.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0034
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_letmecheck.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_actually.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0963
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0789
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.1165
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_actually.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 106
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_butwait.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0034
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_butwait.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_r1nowait.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.82
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.74
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.9
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.form_r1nowait.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 2006
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_hmm.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0143
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0078
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0239
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_hmm.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 14
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_holdon.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0061
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0022
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0133
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_holdon.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 6
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_alternatively.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0132
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.007
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0226
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_alternatively.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 13
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_letmecheck.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0038
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_letmecheck.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_actually.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.1558
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.1321
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.1825
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_actually.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 153
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_butwait.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.002
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0002
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0074
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_butwait.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 2
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_r1nowait.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 2.1
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 2.01
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 2.19
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.form_r1nowait.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 2061
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_hmm.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0123
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0053
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0242
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_hmm.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 8
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_holdon.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0031
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0004
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0111
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_holdon.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 2
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_alternatively.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0154
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0074
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0283
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_alternatively.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 10
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_letmecheck.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0057
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_letmecheck.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_actually.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.166
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.1362
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.2004
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_actually.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 108
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_butwait.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0057
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_butwait.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_r1nowait.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 2.51
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 2.39
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 2.63
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.form_r1nowait.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 1631
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_hmm.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.5825
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.541
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.6262
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_hmm.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 732
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_holdon.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0549
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0427
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0695
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_holdon.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 69
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_alternatively.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.13
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.07
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.19
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_alternatively.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 1414
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_letmecheck.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.6413
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.5978
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.6872
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_letmecheck.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 806
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_actually.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.2387
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.2125
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.2673
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_actually.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 300
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_butwait.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.3183
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.2879
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.3511
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_butwait.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 400
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_r1nowait.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 7.79
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 7.64
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 7.94
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_r1nowait.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 9789
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_hmm.si",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.5
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_hmm.si.lo",
+      "src": "Wilson 95%",
+      "value": 98.6
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_hmm.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.8
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_hmm.si_n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 732
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_hmm.orth",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 67.6
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_hmm.orth.lo",
+      "src": "Wilson 95%",
+      "value": 64.1
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_hmm.orth.hi",
+      "src": "Wilson 95%",
+      "value": 70.9
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_hmm.orth_n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 732
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_hmm.chain",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_hmm.chain.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_hmm.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.5
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_hmm.chain_n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 732
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_alternatively.si",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.7
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_alternatively.si.lo",
+      "src": "Wilson 95%",
+      "value": 99.3
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_alternatively.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.9
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_alternatively.si_n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 1414
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_alternatively.orth",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.7
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_alternatively.orth.lo",
+      "src": "Wilson 95%",
+      "value": 99.3
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_alternatively.orth.hi",
+      "src": "Wilson 95%",
+      "value": 99.9
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_alternatively.orth_n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 1414
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_alternatively.chain",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_alternatively.chain.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_alternatively.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.3
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.form_alternatively.chain_n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 1414
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_hmm.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.6055
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.5744
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.6379
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_hmm.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 1416
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_holdon.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.1159
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.1025
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.1305
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_holdon.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 271
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_alternatively.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.3
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.25
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.34
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_alternatively.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 3033
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_letmecheck.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.8758
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.8383
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.9146
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_letmecheck.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 2048
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_actually.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.3785
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.3539
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.4042
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_actually.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 885
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_butwait.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.3588
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.3349
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.3839
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_butwait.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 839
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_r1nowait.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 9.22
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 9.1
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 9.35
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_r1nowait.n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 21572
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_hmm.si",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 98.7
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_hmm.si.lo",
+      "src": "Wilson 95%",
+      "value": 98.0
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_hmm.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.2
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_hmm.si_n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 1416
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_hmm.orth",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 71.8
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_hmm.orth.lo",
+      "src": "Wilson 95%",
+      "value": 69.4
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_hmm.orth.hi",
+      "src": "Wilson 95%",
+      "value": 74.1
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_hmm.orth_n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 1416
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_hmm.chain",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_hmm.chain.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_hmm.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.3
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_hmm.chain_n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 1416
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_alternatively.si",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.8
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_alternatively.si.lo",
+      "src": "Wilson 95%",
+      "value": 99.6
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_alternatively.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.9
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_alternatively.si_n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 3033
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_alternatively.orth",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.8
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_alternatively.orth.lo",
+      "src": "Wilson 95%",
+      "value": 99.5
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_alternatively.orth.hi",
+      "src": "Wilson 95%",
+      "value": 99.9
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_alternatively.orth_n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 3033
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_alternatively.chain",
+      "src": "exp/results/main/S1pre/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_alternatively.chain.lo",
+      "src": "Wilson 95%",
+      "value": -0.0
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_alternatively.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.form_alternatively.chain_n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 3033
+    },
+    {
+      "key": "h1.s2.base.form_hmm.freq4",
+      "src": "exp/results/main/S2/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.9815
+    },
+    {
+      "key": "h1.s2.base.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.94
+    },
+    {
+      "key": "h1.s2.base.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.02
+    },
+    {
+      "key": "h1.s2.base.form_hmm.n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 2641
+    },
+    {
+      "key": "h1.s2.base.form_holdon.freq4",
+      "src": "exp/results/main/S2/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.4066
+    },
+    {
+      "key": "h1.s2.base.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.3829
+    },
+    {
+      "key": "h1.s2.base.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.4314
+    },
+    {
+      "key": "h1.s2.base.form_holdon.n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 1094
+    },
+    {
+      "key": "h1.s2.base.form_alternatively.freq4",
+      "src": "exp/results/main/S2/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.3
+    },
+    {
+      "key": "h1.s2.base.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.26
+    },
+    {
+      "key": "h1.s2.base.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.35
+    },
+    {
+      "key": "h1.s2.base.form_alternatively.n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 3507
+    },
+    {
+      "key": "h1.s2.base.form_letmecheck.freq4",
+      "src": "exp/results/main/S2/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.5474
+    },
+    {
+      "key": "h1.s2.base.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.5198
+    },
+    {
+      "key": "h1.s2.base.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.5761
+    },
+    {
+      "key": "h1.s2.base.form_letmecheck.n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 1473
+    },
+    {
+      "key": "h1.s2.base.form_actually.freq4",
+      "src": "exp/results/main/S2/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.8347
+    },
+    {
+      "key": "h1.s2.base.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.8006
+    },
+    {
+      "key": "h1.s2.base.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.87
+    },
+    {
+      "key": "h1.s2.base.form_actually.n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 2246
+    },
+    {
+      "key": "h1.s2.base.form_butwait.freq4",
+      "src": "exp/results/main/S2/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.4077
+    },
+    {
+      "key": "h1.s2.base.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.3839
+    },
+    {
+      "key": "h1.s2.base.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.4326
+    },
+    {
+      "key": "h1.s2.base.form_butwait.n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 1097
+    },
+    {
+      "key": "h1.s2.base.form_r1nowait.freq4",
+      "src": "exp/results/main/S2/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 7.55
+    },
+    {
+      "key": "h1.s2.base.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 7.45
+    },
+    {
+      "key": "h1.s2.base.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 7.66
+    },
+    {
+      "key": "h1.s2.base.form_r1nowait.n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 20322
+    },
+    {
+      "key": "h1.s2.base.form_hmm.si",
+      "src": "exp/results/main/S2/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 98.4
+    },
+    {
+      "key": "h1.s2.base.form_hmm.si.lo",
+      "src": "Wilson 95%",
+      "value": 97.8
+    },
+    {
+      "key": "h1.s2.base.form_hmm.si.hi",
+      "src": "Wilson 95%",
+      "value": 98.8
+    },
+    {
+      "key": "h1.s2.base.form_hmm.si_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 2641
+    },
+    {
+      "key": "h1.s2.base.form_hmm.orth",
+      "src": "exp/results/main/S2/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 84.7
+    },
+    {
+      "key": "h1.s2.base.form_hmm.orth.lo",
+      "src": "Wilson 95%",
+      "value": 83.2
+    },
+    {
+      "key": "h1.s2.base.form_hmm.orth.hi",
+      "src": "Wilson 95%",
+      "value": 86.0
+    },
+    {
+      "key": "h1.s2.base.form_hmm.orth_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 2641
+    },
+    {
+      "key": "h1.s2.base.form_hmm.chain",
+      "src": "exp/results/main/S2/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2.base.form_hmm.chain.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2.base.form_hmm.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s2.base.form_hmm.chain_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 2641
+    },
+    {
+      "key": "h1.s2.base.form_alternatively.si",
+      "src": "exp/results/main/S2/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.7
+    },
+    {
+      "key": "h1.s2.base.form_alternatively.si.lo",
+      "src": "Wilson 95%",
+      "value": 99.4
+    },
+    {
+      "key": "h1.s2.base.form_alternatively.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.8
+    },
+    {
+      "key": "h1.s2.base.form_alternatively.si_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 3507
+    },
+    {
+      "key": "h1.s2.base.form_alternatively.orth",
+      "src": "exp/results/main/S2/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.3
+    },
+    {
+      "key": "h1.s2.base.form_alternatively.orth.lo",
+      "src": "Wilson 95%",
+      "value": 99.0
+    },
+    {
+      "key": "h1.s2.base.form_alternatively.orth.hi",
+      "src": "Wilson 95%",
+      "value": 99.6
+    },
+    {
+      "key": "h1.s2.base.form_alternatively.orth_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 3507
+    },
+    {
+      "key": "h1.s2.base.form_alternatively.chain",
+      "src": "exp/results/main/S2/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2.base.form_alternatively.chain.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2.base.form_alternatively.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s2.base.form_alternatively.chain_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 3507
+    },
+    {
+      "key": "h1.s2.late.form_hmm.freq4",
+      "src": "exp/results/main/S2/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.43
+    },
+    {
+      "key": "h1.s2.late.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.39
+    },
+    {
+      "key": "h1.s2.late.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.47
+    },
+    {
+      "key": "h1.s2.late.form_hmm.n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 4408
+    },
+    {
+      "key": "h1.s2.late.form_holdon.freq4",
+      "src": "exp/results/main/S2/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.3957
+    },
+    {
+      "key": "h1.s2.late.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.3738
+    },
+    {
+      "key": "h1.s2.late.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.4185
+    },
+    {
+      "key": "h1.s2.late.form_holdon.n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 1221
+    },
+    {
+      "key": "h1.s2.late.form_alternatively.freq4",
+      "src": "exp/results/main/S2/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.63
+    },
+    {
+      "key": "h1.s2.late.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.58
+    },
+    {
+      "key": "h1.s2.late.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.68
+    },
+    {
+      "key": "h1.s2.late.form_alternatively.n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 5029
+    },
+    {
+      "key": "h1.s2.late.form_letmecheck.freq4",
+      "src": "exp/results/main/S2/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.7923
+    },
+    {
+      "key": "h1.s2.late.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.7612
+    },
+    {
+      "key": "h1.s2.late.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.8243
+    },
+    {
+      "key": "h1.s2.late.form_letmecheck.n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 2445
+    },
+    {
+      "key": "h1.s2.late.form_actually.freq4",
+      "src": "exp/results/main/S2/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.6983
+    },
+    {
+      "key": "h1.s2.late.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.6691
+    },
+    {
+      "key": "h1.s2.late.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.7284
+    },
+    {
+      "key": "h1.s2.late.form_actually.n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 2155
+    },
+    {
+      "key": "h1.s2.late.form_butwait.freq4",
+      "src": "exp/results/main/S2/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.234
+    },
+    {
+      "key": "h1.s2.late.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.2172
+    },
+    {
+      "key": "h1.s2.late.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.2517
+    },
+    {
+      "key": "h1.s2.late.form_butwait.n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 722
+    },
+    {
+      "key": "h1.s2.late.form_r1nowait.freq4",
+      "src": "exp/results/main/S2/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 7.1
+    },
+    {
+      "key": "h1.s2.late.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 7.01
+    },
+    {
+      "key": "h1.s2.late.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 7.2
+    },
+    {
+      "key": "h1.s2.late.form_r1nowait.n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 21926
+    },
+    {
+      "key": "h1.s2.late.form_hmm.si",
+      "src": "exp/results/main/S2/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.5
+    },
+    {
+      "key": "h1.s2.late.form_hmm.si.lo",
+      "src": "Wilson 95%",
+      "value": 99.2
+    },
+    {
+      "key": "h1.s2.late.form_hmm.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.6
+    },
+    {
+      "key": "h1.s2.late.form_hmm.si_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 4408
+    },
+    {
+      "key": "h1.s2.late.form_hmm.orth",
+      "src": "exp/results/main/S2/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 72.3
+    },
+    {
+      "key": "h1.s2.late.form_hmm.orth.lo",
+      "src": "Wilson 95%",
+      "value": 71.0
+    },
+    {
+      "key": "h1.s2.late.form_hmm.orth.hi",
+      "src": "Wilson 95%",
+      "value": 73.6
+    },
+    {
+      "key": "h1.s2.late.form_hmm.orth_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 4408
+    },
+    {
+      "key": "h1.s2.late.form_hmm.chain",
+      "src": "exp/results/main/S2/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s2.late.form_hmm.chain.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2.late.form_hmm.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.2
+    },
+    {
+      "key": "h1.s2.late.form_hmm.chain_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 4408
+    },
+    {
+      "key": "h1.s2.late.form_alternatively.si",
+      "src": "exp/results/main/S2/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.8
+    },
+    {
+      "key": "h1.s2.late.form_alternatively.si.lo",
+      "src": "Wilson 95%",
+      "value": 99.7
+    },
+    {
+      "key": "h1.s2.late.form_alternatively.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.9
+    },
+    {
+      "key": "h1.s2.late.form_alternatively.si_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 5029
+    },
+    {
+      "key": "h1.s2.late.form_alternatively.orth",
+      "src": "exp/results/main/S2/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.7
+    },
+    {
+      "key": "h1.s2.late.form_alternatively.orth.lo",
+      "src": "Wilson 95%",
+      "value": 99.5
+    },
+    {
+      "key": "h1.s2.late.form_alternatively.orth.hi",
+      "src": "Wilson 95%",
+      "value": 99.8
+    },
+    {
+      "key": "h1.s2.late.form_alternatively.orth_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 5029
+    },
+    {
+      "key": "h1.s2.late.form_alternatively.chain",
+      "src": "exp/results/main/S2/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2.late.form_alternatively.chain.lo",
+      "src": "Wilson 95%",
+      "value": -0.0
+    },
+    {
+      "key": "h1.s2.late.form_alternatively.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s2.late.form_alternatively.chain_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 5029
+    },
+    {
+      "key": "h1.s2ctl.early.form_hmm.freq4",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.68
+    },
+    {
+      "key": "h1.s2ctl.early.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.63
+    },
+    {
+      "key": "h1.s2ctl.early.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.72
+    },
+    {
+      "key": "h1.s2ctl.early.form_hmm.n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 5355
+    },
+    {
+      "key": "h1.s2ctl.early.form_holdon.freq4",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.3627
+    },
+    {
+      "key": "h1.s2ctl.early.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.3421
+    },
+    {
+      "key": "h1.s2ctl.early.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.3842
+    },
+    {
+      "key": "h1.s2ctl.early.form_holdon.n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 1158
+    },
+    {
+      "key": "h1.s2ctl.early.form_alternatively.freq4",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 3.01
+    },
+    {
+      "key": "h1.s2ctl.early.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 2.95
+    },
+    {
+      "key": "h1.s2ctl.early.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 3.08
+    },
+    {
+      "key": "h1.s2ctl.early.form_alternatively.n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 9625
+    },
+    {
+      "key": "h1.s2ctl.early.form_letmecheck.freq4",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.07
+    },
+    {
+      "key": "h1.s2ctl.early.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.04
+    },
+    {
+      "key": "h1.s2ctl.early.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.11
+    },
+    {
+      "key": "h1.s2ctl.early.form_letmecheck.n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 3419
+    },
+    {
+      "key": "h1.s2ctl.early.form_actually.freq4",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.6402
+    },
+    {
+      "key": "h1.s2ctl.early.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.6128
+    },
+    {
+      "key": "h1.s2ctl.early.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.6686
+    },
+    {
+      "key": "h1.s2ctl.early.form_actually.n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 2044
+    },
+    {
+      "key": "h1.s2ctl.early.form_butwait.freq4",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.1879
+    },
+    {
+      "key": "h1.s2ctl.early.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.1732
+    },
+    {
+      "key": "h1.s2ctl.early.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.2036
+    },
+    {
+      "key": "h1.s2ctl.early.form_butwait.n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 600
+    },
+    {
+      "key": "h1.s2ctl.early.form_r1nowait.freq4",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 8.62
+    },
+    {
+      "key": "h1.s2ctl.early.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 8.52
+    },
+    {
+      "key": "h1.s2ctl.early.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 8.72
+    },
+    {
+      "key": "h1.s2ctl.early.form_r1nowait.n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 27514
+    },
+    {
+      "key": "h1.s2ctl.early.form_hmm.si",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.3
+    },
+    {
+      "key": "h1.s2ctl.early.form_hmm.si.lo",
+      "src": "Wilson 95%",
+      "value": 99.0
+    },
+    {
+      "key": "h1.s2ctl.early.form_hmm.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.5
+    },
+    {
+      "key": "h1.s2ctl.early.form_hmm.si_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 5355
+    },
+    {
+      "key": "h1.s2ctl.early.form_hmm.orth",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 78.1
+    },
+    {
+      "key": "h1.s2ctl.early.form_hmm.orth.lo",
+      "src": "Wilson 95%",
+      "value": 76.9
+    },
+    {
+      "key": "h1.s2ctl.early.form_hmm.orth.hi",
+      "src": "Wilson 95%",
+      "value": 79.2
+    },
+    {
+      "key": "h1.s2ctl.early.form_hmm.orth_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 5355
+    },
+    {
+      "key": "h1.s2ctl.early.form_hmm.chain",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s2ctl.early.form_hmm.chain.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2ctl.early.form_hmm.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.2
+    },
+    {
+      "key": "h1.s2ctl.early.form_hmm.chain_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 5355
+    },
+    {
+      "key": "h1.s2ctl.early.form_alternatively.si",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.9
+    },
+    {
+      "key": "h1.s2ctl.early.form_alternatively.si.lo",
+      "src": "Wilson 95%",
+      "value": 99.8
+    },
+    {
+      "key": "h1.s2ctl.early.form_alternatively.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.9
+    },
+    {
+      "key": "h1.s2ctl.early.form_alternatively.si_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 9625
+    },
+    {
+      "key": "h1.s2ctl.early.form_alternatively.orth",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.9
+    },
+    {
+      "key": "h1.s2ctl.early.form_alternatively.orth.lo",
+      "src": "Wilson 95%",
+      "value": 99.8
+    },
+    {
+      "key": "h1.s2ctl.early.form_alternatively.orth.hi",
+      "src": "Wilson 95%",
+      "value": 99.9
+    },
+    {
+      "key": "h1.s2ctl.early.form_alternatively.orth_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 9625
+    },
+    {
+      "key": "h1.s2ctl.early.form_alternatively.chain",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2ctl.early.form_alternatively.chain.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2ctl.early.form_alternatively.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2ctl.early.form_alternatively.chain_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 9625
+    },
+    {
+      "key": "h1.s2ctl.late.form_hmm.freq4",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.77
+    },
+    {
+      "key": "h1.s2ctl.late.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.72
+    },
+    {
+      "key": "h1.s2ctl.late.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.82
+    },
+    {
+      "key": "h1.s2ctl.late.form_hmm.n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 4509
+    },
+    {
+      "key": "h1.s2ctl.late.form_holdon.freq4",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.3334
+    },
+    {
+      "key": "h1.s2ctl.late.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.3114
+    },
+    {
+      "key": "h1.s2ctl.late.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.3566
+    },
+    {
+      "key": "h1.s2ctl.late.form_holdon.n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 851
+    },
+    {
+      "key": "h1.s2ctl.late.form_alternatively.freq4",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 2.64
+    },
+    {
+      "key": "h1.s2ctl.late.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 2.58
+    },
+    {
+      "key": "h1.s2ctl.late.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 2.7
+    },
+    {
+      "key": "h1.s2ctl.late.form_alternatively.n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 6734
+    },
+    {
+      "key": "h1.s2ctl.late.form_letmecheck.freq4",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.15
+    },
+    {
+      "key": "h1.s2ctl.late.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.11
+    },
+    {
+      "key": "h1.s2ctl.late.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.19
+    },
+    {
+      "key": "h1.s2ctl.late.form_letmecheck.n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 2938
+    },
+    {
+      "key": "h1.s2ctl.late.form_actually.freq4",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.6398
+    },
+    {
+      "key": "h1.s2ctl.late.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.6091
+    },
+    {
+      "key": "h1.s2ctl.late.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.6716
+    },
+    {
+      "key": "h1.s2ctl.late.form_actually.n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 1633
+    },
+    {
+      "key": "h1.s2ctl.late.form_butwait.freq4",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.1833
+    },
+    {
+      "key": "h1.s2ctl.late.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.1671
+    },
+    {
+      "key": "h1.s2ctl.late.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.2007
+    },
+    {
+      "key": "h1.s2ctl.late.form_butwait.n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 468
+    },
+    {
+      "key": "h1.s2ctl.late.form_r1nowait.freq4",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 7.98
+    },
+    {
+      "key": "h1.s2ctl.late.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 7.87
+    },
+    {
+      "key": "h1.s2ctl.late.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 8.09
+    },
+    {
+      "key": "h1.s2ctl.late.form_r1nowait.n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 20361
+    },
+    {
+      "key": "h1.s2ctl.late.form_hmm.si",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.6
+    },
+    {
+      "key": "h1.s2ctl.late.form_hmm.si.lo",
+      "src": "Wilson 95%",
+      "value": 99.3
+    },
+    {
+      "key": "h1.s2ctl.late.form_hmm.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.7
+    },
+    {
+      "key": "h1.s2ctl.late.form_hmm.si_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 4509
+    },
+    {
+      "key": "h1.s2ctl.late.form_hmm.orth",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 83.0
+    },
+    {
+      "key": "h1.s2ctl.late.form_hmm.orth.lo",
+      "src": "Wilson 95%",
+      "value": 81.9
+    },
+    {
+      "key": "h1.s2ctl.late.form_hmm.orth.hi",
+      "src": "Wilson 95%",
+      "value": 84.1
+    },
+    {
+      "key": "h1.s2ctl.late.form_hmm.orth_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 4509
+    },
+    {
+      "key": "h1.s2ctl.late.form_hmm.chain",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2ctl.late.form_hmm.chain.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2ctl.late.form_hmm.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.2
+    },
+    {
+      "key": "h1.s2ctl.late.form_hmm.chain_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 4509
+    },
+    {
+      "key": "h1.s2ctl.late.form_alternatively.si",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.9
+    },
+    {
+      "key": "h1.s2ctl.late.form_alternatively.si.lo",
+      "src": "Wilson 95%",
+      "value": 99.8
+    },
+    {
+      "key": "h1.s2ctl.late.form_alternatively.si.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s2ctl.late.form_alternatively.si_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 6734
+    },
+    {
+      "key": "h1.s2ctl.late.form_alternatively.orth",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.9
+    },
+    {
+      "key": "h1.s2ctl.late.form_alternatively.orth.lo",
+      "src": "Wilson 95%",
+      "value": 99.8
+    },
+    {
+      "key": "h1.s2ctl.late.form_alternatively.orth.hi",
+      "src": "Wilson 95%",
+      "value": 99.9
+    },
+    {
+      "key": "h1.s2ctl.late.form_alternatively.orth_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 6734
+    },
+    {
+      "key": "h1.s2ctl.late.form_alternatively.chain",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2ctl.late.form_alternatively.chain.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2ctl.late.form_alternatively.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s2ctl.late.form_alternatively.chain_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 6734
+    },
+    {
+      "key": "h1.s3a.base.form_hmm.freq4",
+      "src": "exp/results/main/S3/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0167
+    },
+    {
+      "key": "h1.s3a.base.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.01
+    },
+    {
+      "key": "h1.s3a.base.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.026
+    },
+    {
+      "key": "h1.s3a.base.form_hmm.n",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 19
+    },
+    {
+      "key": "h1.s3a.base.form_holdon.freq4",
+      "src": "exp/results/main/S3/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.base.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.base.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0032
+    },
+    {
+      "key": "h1.s3a.base.form_holdon.n",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s3a.base.form_alternatively.freq4",
+      "src": "exp/results/main/S3/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0035
+    },
+    {
+      "key": "h1.s3a.base.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.001
+    },
+    {
+      "key": "h1.s3a.base.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.009
+    },
+    {
+      "key": "h1.s3a.base.form_alternatively.n",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 4
+    },
+    {
+      "key": "h1.s3a.base.form_letmecheck.freq4",
+      "src": "exp/results/main/S3/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.base.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.base.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0032
+    },
+    {
+      "key": "h1.s3a.base.form_letmecheck.n",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s3a.base.form_actually.freq4",
+      "src": "exp/results/main/S3/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0228
+    },
+    {
+      "key": "h1.s3a.base.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0149
+    },
+    {
+      "key": "h1.s3a.base.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0334
+    },
+    {
+      "key": "h1.s3a.base.form_actually.n",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 26
+    },
+    {
+      "key": "h1.s3a.base.form_butwait.freq4",
+      "src": "exp/results/main/S3/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.base.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.base.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0032
+    },
+    {
+      "key": "h1.s3a.base.form_butwait.n",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s3a.base.form_r1nowait.freq4",
+      "src": "exp/results/main/S3/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.24
+    },
+    {
+      "key": "h1.s3a.base.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.18
+    },
+    {
+      "key": "h1.s3a.base.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.31
+    },
+    {
+      "key": "h1.s3a.base.form_r1nowait.n",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 1415
+    },
+    {
+      "key": "h1.s3a.late.form_hmm.freq4",
+      "src": "exp/results/main/S3/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0128
+    },
+    {
+      "key": "h1.s3a.late.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0072
+    },
+    {
+      "key": "h1.s3a.late.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0212
+    },
+    {
+      "key": "h1.s3a.late.form_hmm.n",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 15
+    },
+    {
+      "key": "h1.s3a.late.form_holdon.freq4",
+      "src": "exp/results/main/S3/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.late.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.late.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0032
+    },
+    {
+      "key": "h1.s3a.late.form_holdon.n",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s3a.late.form_alternatively.freq4",
+      "src": "exp/results/main/S3/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0026
+    },
+    {
+      "key": "h1.s3a.late.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0005
+    },
+    {
+      "key": "h1.s3a.late.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0075
+    },
+    {
+      "key": "h1.s3a.late.form_alternatively.n",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 3
+    },
+    {
+      "key": "h1.s3a.late.form_letmecheck.freq4",
+      "src": "exp/results/main/S3/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.late.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.late.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0032
+    },
+    {
+      "key": "h1.s3a.late.form_letmecheck.n",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s3a.late.form_actually.freq4",
+      "src": "exp/results/main/S3/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0265
+    },
+    {
+      "key": "h1.s3a.late.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.018
+    },
+    {
+      "key": "h1.s3a.late.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0376
+    },
+    {
+      "key": "h1.s3a.late.form_actually.n",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 31
+    },
+    {
+      "key": "h1.s3a.late.form_butwait.freq4",
+      "src": "exp/results/main/S3/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.late.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.late.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0032
+    },
+    {
+      "key": "h1.s3a.late.form_butwait.n",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s3a.late.form_r1nowait.freq4",
+      "src": "exp/results/main/S3/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.13
+    },
+    {
+      "key": "h1.s3a.late.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.07
+    },
+    {
+      "key": "h1.s3a.late.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.19
+    },
+    {
+      "key": "h1.s3a.late.form_r1nowait.n",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 1315
+    },
+    {
+      "key": "h1.s9.base.form_hmm.freq4",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.18
+    },
+    {
+      "key": "h1.s9.base.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.15
+    },
+    {
+      "key": "h1.s9.base.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.21
+    },
+    {
+      "key": "h1.s9.base.form_hmm.n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 5584
+    },
+    {
+      "key": "h1.s9.base.form_holdon.freq4",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.321
+    },
+    {
+      "key": "h1.s9.base.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.3051
+    },
+    {
+      "key": "h1.s9.base.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.3376
+    },
+    {
+      "key": "h1.s9.base.form_holdon.n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 1521
+    },
+    {
+      "key": "h1.s9.base.form_alternatively.freq4",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.7
+    },
+    {
+      "key": "h1.s9.base.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.67
+    },
+    {
+      "key": "h1.s9.base.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.74
+    },
+    {
+      "key": "h1.s9.base.form_alternatively.n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 8064
+    },
+    {
+      "key": "h1.s9.base.form_letmecheck.freq4",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.9382
+    },
+    {
+      "key": "h1.s9.base.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.9108
+    },
+    {
+      "key": "h1.s9.base.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.9662
+    },
+    {
+      "key": "h1.s9.base.form_letmecheck.n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 4445
+    },
+    {
+      "key": "h1.s9.base.form_actually.freq4",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.6467
+    },
+    {
+      "key": "h1.s9.base.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.624
+    },
+    {
+      "key": "h1.s9.base.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.67
+    },
+    {
+      "key": "h1.s9.base.form_actually.n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 3064
+    },
+    {
+      "key": "h1.s9.base.form_butwait.freq4",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.2448
+    },
+    {
+      "key": "h1.s9.base.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.2309
+    },
+    {
+      "key": "h1.s9.base.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.2593
+    },
+    {
+      "key": "h1.s9.base.form_butwait.n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 1160
+    },
+    {
+      "key": "h1.s9.base.form_r1nowait.freq4",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 7.34
+    },
+    {
+      "key": "h1.s9.base.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 7.26
+    },
+    {
+      "key": "h1.s9.base.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 7.42
+    },
+    {
+      "key": "h1.s9.base.form_r1nowait.n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 34772
+    },
+    {
+      "key": "h1.s9.base.form_hmm.si",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.2
+    },
+    {
+      "key": "h1.s9.base.form_hmm.si.lo",
+      "src": "Wilson 95%",
+      "value": 98.9
+    },
+    {
+      "key": "h1.s9.base.form_hmm.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.4
+    },
+    {
+      "key": "h1.s9.base.form_hmm.si_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 5584
+    },
+    {
+      "key": "h1.s9.base.form_hmm.orth",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 80.7
+    },
+    {
+      "key": "h1.s9.base.form_hmm.orth.lo",
+      "src": "Wilson 95%",
+      "value": 79.7
+    },
+    {
+      "key": "h1.s9.base.form_hmm.orth.hi",
+      "src": "Wilson 95%",
+      "value": 81.7
+    },
+    {
+      "key": "h1.s9.base.form_hmm.orth_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 5584
+    },
+    {
+      "key": "h1.s9.base.form_hmm.chain",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s9.base.form_hmm.chain.lo",
+      "src": "Wilson 95%",
+      "value": -0.0
+    },
+    {
+      "key": "h1.s9.base.form_hmm.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s9.base.form_hmm.chain_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 5584
+    },
+    {
+      "key": "h1.s9.base.form_alternatively.si",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.8
+    },
+    {
+      "key": "h1.s9.base.form_alternatively.si.lo",
+      "src": "Wilson 95%",
+      "value": 99.7
+    },
+    {
+      "key": "h1.s9.base.form_alternatively.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.9
+    },
+    {
+      "key": "h1.s9.base.form_alternatively.si_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 8064
+    },
+    {
+      "key": "h1.s9.base.form_alternatively.orth",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.6
+    },
+    {
+      "key": "h1.s9.base.form_alternatively.orth.lo",
+      "src": "Wilson 95%",
+      "value": 99.4
+    },
+    {
+      "key": "h1.s9.base.form_alternatively.orth.hi",
+      "src": "Wilson 95%",
+      "value": 99.7
+    },
+    {
+      "key": "h1.s9.base.form_alternatively.orth_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 8064
+    },
+    {
+      "key": "h1.s9.base.form_alternatively.chain",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s9.base.form_alternatively.chain.lo",
+      "src": "Wilson 95%",
+      "value": -0.0
+    },
+    {
+      "key": "h1.s9.base.form_alternatively.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s9.base.form_alternatively.chain_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 8064
+    },
+    {
+      "key": "h1.s9.final.form_hmm.freq4",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.8391
+    },
+    {
+      "key": "h1.s9.final.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.8127
+    },
+    {
+      "key": "h1.s9.final.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.8661
+    },
+    {
+      "key": "h1.s9.final.form_hmm.n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 3830
+    },
+    {
+      "key": "h1.s9.final.form_holdon.freq4",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.3915
+    },
+    {
+      "key": "h1.s9.final.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.3736
+    },
+    {
+      "key": "h1.s9.final.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.4101
+    },
+    {
+      "key": "h1.s9.final.form_holdon.n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 1787
+    },
+    {
+      "key": "h1.s9.final.form_alternatively.freq4",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 1.36
+    },
+    {
+      "key": "h1.s9.final.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.33
+    },
+    {
+      "key": "h1.s9.final.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.4
+    },
+    {
+      "key": "h1.s9.final.form_alternatively.n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 6216
+    },
+    {
+      "key": "h1.s9.final.form_letmecheck.freq4",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.9296
+    },
+    {
+      "key": "h1.s9.final.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.9018
+    },
+    {
+      "key": "h1.s9.final.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.958
+    },
+    {
+      "key": "h1.s9.final.form_letmecheck.n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 4243
+    },
+    {
+      "key": "h1.s9.final.form_actually.freq4",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.6255
+    },
+    {
+      "key": "h1.s9.final.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.6028
+    },
+    {
+      "key": "h1.s9.final.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.6489
+    },
+    {
+      "key": "h1.s9.final.form_actually.n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 2855
+    },
+    {
+      "key": "h1.s9.final.form_butwait.freq4",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 0.5276
+    },
+    {
+      "key": "h1.s9.final.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.5067
+    },
+    {
+      "key": "h1.s9.final.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.5491
+    },
+    {
+      "key": "h1.s9.final.form_butwait.n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 2408
+    },
+    {
+      "key": "h1.s9.final.form_r1nowait.freq4",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (rate per 1k response tokens; regex count)",
+      "value": 9.59
+    },
+    {
+      "key": "h1.s9.final.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 9.5
+    },
+    {
+      "key": "h1.s9.final.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 9.68
+    },
+    {
+      "key": "h1.s9.final.form_r1nowait.n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 43756
+    },
+    {
+      "key": "h1.s9.final.form_hmm.si",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 98.4
+    },
+    {
+      "key": "h1.s9.final.form_hmm.si.lo",
+      "src": "Wilson 95%",
+      "value": 98.0
+    },
+    {
+      "key": "h1.s9.final.form_hmm.si.hi",
+      "src": "Wilson 95%",
+      "value": 98.8
+    },
+    {
+      "key": "h1.s9.final.form_hmm.si_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 3830
+    },
+    {
+      "key": "h1.s9.final.form_hmm.orth",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 78.3
+    },
+    {
+      "key": "h1.s9.final.form_hmm.orth.lo",
+      "src": "Wilson 95%",
+      "value": 76.9
+    },
+    {
+      "key": "h1.s9.final.form_hmm.orth.hi",
+      "src": "Wilson 95%",
+      "value": 79.5
+    },
+    {
+      "key": "h1.s9.final.form_hmm.orth_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 3830
+    },
+    {
+      "key": "h1.s9.final.form_hmm.chain",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s9.final.form_hmm.chain.lo",
+      "src": "Wilson 95%",
+      "value": -0.0
+    },
+    {
+      "key": "h1.s9.final.form_hmm.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s9.final.form_hmm.chain_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 3830
+    },
+    {
+      "key": "h1.s9.final.form_alternatively.si",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.5
+    },
+    {
+      "key": "h1.s9.final.form_alternatively.si.lo",
+      "src": "Wilson 95%",
+      "value": 99.3
+    },
+    {
+      "key": "h1.s9.final.form_alternatively.si.hi",
+      "src": "Wilson 95%",
+      "value": 99.7
+    },
+    {
+      "key": "h1.s9.final.form_alternatively.si_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 6216
+    },
+    {
+      "key": "h1.s9.final.form_alternatively.orth",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 99.0
+    },
+    {
+      "key": "h1.s9.final.form_alternatively.orth.lo",
+      "src": "Wilson 95%",
+      "value": 98.7
+    },
+    {
+      "key": "h1.s9.final.form_alternatively.orth.hi",
+      "src": "Wilson 95%",
+      "value": 99.2
+    },
+    {
+      "key": "h1.s9.final.form_alternatively.orth_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 6216
+    },
+    {
+      "key": "h1.s9.final.form_alternatively.chain",
+      "src": "exp/results/s9/S9/gen/<EMAIL> (share of occurrences; Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s9.final.form_alternatively.chain.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s9.final.form_alternatively.chain.hi",
+      "src": "Wilson 95%",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s9.final.form_alternatively.chain_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 6216
+    },
+    {
+      "key": "h1.s7r1.base.form_hmm.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.base.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.base.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0022
+    },
+    {
+      "key": "h1.s7r1.base.form_hmm.n",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r1.base.form_holdon.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.base.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.base.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0022
+    },
+    {
+      "key": "h1.s7r1.base.form_holdon.n",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r1.base.form_alternatively.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0035
+    },
+    {
+      "key": "h1.s7r1.base.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0013
+    },
+    {
+      "key": "h1.s7r1.base.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0076
+    },
+    {
+      "key": "h1.s7r1.base.form_alternatively.n",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 6
+    },
+    {
+      "key": "h1.s7r1.base.form_letmecheck.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0006
+    },
+    {
+      "key": "h1.s7r1.base.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.base.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0033
+    },
+    {
+      "key": "h1.s7r1.base.form_letmecheck.n",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 1
+    },
+    {
+      "key": "h1.s7r1.base.form_actually.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0228
+    },
+    {
+      "key": "h1.s7r1.base.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0162
+    },
+    {
+      "key": "h1.s7r1.base.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0312
+    },
+    {
+      "key": "h1.s7r1.base.form_actually.n",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 39
+    },
+    {
+      "key": "h1.s7r1.base.form_butwait.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.base.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.base.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0022
+    },
+    {
+      "key": "h1.s7r1.base.form_butwait.n",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r1.base.form_r1nowait.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 1.66
+    },
+    {
+      "key": "h1.s7r1.base.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.6
+    },
+    {
+      "key": "h1.s7r1.base.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.72
+    },
+    {
+      "key": "h1.s7r1.base.form_r1nowait.n",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 2839
+    },
+    {
+      "key": "h1.s7r1.final.form_hmm.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.001
+    },
+    {
+      "key": "h1.s7r1.final.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.final.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0058
+    },
+    {
+      "key": "h1.s7r1.final.form_hmm.n",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 1
+    },
+    {
+      "key": "h1.s7r1.final.form_holdon.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.final.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.final.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0039
+    },
+    {
+      "key": "h1.s7r1.final.form_holdon.n",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r1.final.form_alternatively.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.001
+    },
+    {
+      "key": "h1.s7r1.final.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.final.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0058
+    },
+    {
+      "key": "h1.s7r1.final.form_alternatively.n",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 1
+    },
+    {
+      "key": "h1.s7r1.final.form_letmecheck.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.final.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.final.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0039
+    },
+    {
+      "key": "h1.s7r1.final.form_letmecheck.n",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r1.final.form_actually.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0147
+    },
+    {
+      "key": "h1.s7r1.final.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.008
+    },
+    {
+      "key": "h1.s7r1.final.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0246
+    },
+    {
+      "key": "h1.s7r1.final.form_actually.n",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 14
+    },
+    {
+      "key": "h1.s7r1.final.form_butwait.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.final.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.final.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0039
+    },
+    {
+      "key": "h1.s7r1.final.form_butwait.n",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r1.final.form_r1nowait.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 1.38
+    },
+    {
+      "key": "h1.s7r1.final.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.3
+    },
+    {
+      "key": "h1.s7r1.final.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.45
+    },
+    {
+      "key": "h1.s7r1.final.form_r1nowait.n",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 1313
+    },
+    {
+      "key": "h1.s7r2.base.form_hmm.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.004
+    },
+    {
+      "key": "h1.s7r2.base.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0016
+    },
+    {
+      "key": "h1.s7r2.base.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0082
+    },
+    {
+      "key": "h1.s7r2.base.form_hmm.n",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 7
+    },
+    {
+      "key": "h1.s7r2.base.form_holdon.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.base.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.base.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0021
+    },
+    {
+      "key": "h1.s7r2.base.form_holdon.n",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r2.base.form_alternatively.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.004
+    },
+    {
+      "key": "h1.s7r2.base.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0016
+    },
+    {
+      "key": "h1.s7r2.base.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0082
+    },
+    {
+      "key": "h1.s7r2.base.form_alternatively.n",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 7
+    },
+    {
+      "key": "h1.s7r2.base.form_letmecheck.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.base.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.base.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0021
+    },
+    {
+      "key": "h1.s7r2.base.form_letmecheck.n",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r2.base.form_actually.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0317
+    },
+    {
+      "key": "h1.s7r2.base.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0239
+    },
+    {
+      "key": "h1.s7r2.base.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0411
+    },
+    {
+      "key": "h1.s7r2.base.form_actually.n",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 56
+    },
+    {
+      "key": "h1.s7r2.base.form_butwait.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.base.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.base.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0021
+    },
+    {
+      "key": "h1.s7r2.base.form_butwait.n",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r2.base.form_r1nowait.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 1.51
+    },
+    {
+      "key": "h1.s7r2.base.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.45
+    },
+    {
+      "key": "h1.s7r2.base.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.56
+    },
+    {
+      "key": "h1.s7r2.base.form_r1nowait.n",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 2663
+    },
+    {
+      "key": "h1.s7r2.final.form_hmm.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.final.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.final.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0039
+    },
+    {
+      "key": "h1.s7r2.final.form_hmm.n",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r2.final.form_holdon.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.final.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.final.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0039
+    },
+    {
+      "key": "h1.s7r2.final.form_holdon.n",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r2.final.form_alternatively.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.final.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.final.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0039
+    },
+    {
+      "key": "h1.s7r2.final.form_alternatively.n",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r2.final.form_letmecheck.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.final.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.final.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0039
+    },
+    {
+      "key": "h1.s7r2.final.form_letmecheck.n",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r2.final.form_actually.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0199
+    },
+    {
+      "key": "h1.s7r2.final.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.012
+    },
+    {
+      "key": "h1.s7r2.final.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0311
+    },
+    {
+      "key": "h1.s7r2.final.form_actually.n",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 19
+    },
+    {
+      "key": "h1.s7r2.final.form_butwait.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.final.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.final.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0039
+    },
+    {
+      "key": "h1.s7r2.final.form_butwait.n",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r2.final.form_r1nowait.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 1.6
+    },
+    {
+      "key": "h1.s7r2.final.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.53
+    },
+    {
+      "key": "h1.s7r2.final.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.69
+    },
+    {
+      "key": "h1.s7r2.final.form_r1nowait.n",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 1529
+    },
+    {
+      "key": "h1.s7r7b.base.form_hmm.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0016
+    },
+    {
+      "key": "h1.s7r7b.base.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0003
+    },
+    {
+      "key": "h1.s7r7b.base.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0047
+    },
+    {
+      "key": "h1.s7r7b.base.form_hmm.n",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 3
+    },
+    {
+      "key": "h1.s7r7b.base.form_holdon.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0005
+    },
+    {
+      "key": "h1.s7r7b.base.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.base.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.003
+    },
+    {
+      "key": "h1.s7r7b.base.form_holdon.n",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 1
+    },
+    {
+      "key": "h1.s7r7b.base.form_alternatively.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0032
+    },
+    {
+      "key": "h1.s7r7b.base.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0012
+    },
+    {
+      "key": "h1.s7r7b.base.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.007
+    },
+    {
+      "key": "h1.s7r7b.base.form_alternatively.n",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 6
+    },
+    {
+      "key": "h1.s7r7b.base.form_letmecheck.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.base.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.base.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.002
+    },
+    {
+      "key": "h1.s7r7b.base.form_letmecheck.n",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r7b.base.form_actually.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0214
+    },
+    {
+      "key": "h1.s7r7b.base.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0153
+    },
+    {
+      "key": "h1.s7r7b.base.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0291
+    },
+    {
+      "key": "h1.s7r7b.base.form_actually.n",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 40
+    },
+    {
+      "key": "h1.s7r7b.base.form_butwait.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0005
+    },
+    {
+      "key": "h1.s7r7b.base.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.base.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.003
+    },
+    {
+      "key": "h1.s7r7b.base.form_butwait.n",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 1
+    },
+    {
+      "key": "h1.s7r7b.base.form_r1nowait.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 1.43
+    },
+    {
+      "key": "h1.s7r7b.base.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.38
+    },
+    {
+      "key": "h1.s7r7b.base.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.49
+    },
+    {
+      "key": "h1.s7r7b.base.form_r1nowait.n",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0.graded.jsonl.gz",
+      "value": 2679
+    },
+    {
+      "key": "h1.s7r7b.final.form_hmm.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0021
+    },
+    {
+      "key": "h1.s7r7b.final.form_hmm.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0003
+    },
+    {
+      "key": "h1.s7r7b.final.form_hmm.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0075
+    },
+    {
+      "key": "h1.s7r7b.final.form_hmm.n",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 2
+    },
+    {
+      "key": "h1.s7r7b.final.form_holdon.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.final.form_holdon.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.final.form_holdon.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0038
+    },
+    {
+      "key": "h1.s7r7b.final.form_holdon.n",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r7b.final.form_alternatively.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.final.form_alternatively.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.final.form_alternatively.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0038
+    },
+    {
+      "key": "h1.s7r7b.final.form_alternatively.n",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r7b.final.form_letmecheck.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.final.form_letmecheck.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.final.form_letmecheck.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0038
+    },
+    {
+      "key": "h1.s7r7b.final.form_letmecheck.n",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r7b.final.form_actually.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0031
+    },
+    {
+      "key": "h1.s7r7b.final.form_actually.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0006
+    },
+    {
+      "key": "h1.s7r7b.final.form_actually.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0091
+    },
+    {
+      "key": "h1.s7r7b.final.form_actually.n",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 3
+    },
+    {
+      "key": "h1.s7r7b.final.form_butwait.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.final.form_butwait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.final.form_butwait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0038
+    },
+    {
+      "key": "h1.s7r7b.final.form_butwait.n",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r7b.final.form_r1nowait.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400.graded.jsonl.gz (rate per 1k response tokens; regex count)",
+      "value": 1.47
+    },
+    {
+      "key": "h1.s7r7b.final.form_r1nowait.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 1.39
+    },
+    {
+      "key": "h1.s7r7b.final.form_r1nowait.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 1.55
+    },
+    {
+      "key": "h1.s7r7b.final.form_r1nowait.n",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400.graded.jsonl.gz",
+      "value": 1420
+    }
+  ]
+}

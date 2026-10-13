@@ -1,0 +1,372 @@
+{
+  "confusion_overlap": {
+    "branch|branch": 3,
+    "continue|continue": 19,
+    "continue|reverify_confirm": 1,
+    "restart|branch": 1,
+    "reverify_confirm|branch": 1,
+    "reverify_confirm|continue": 14,
+    "reverify_confirm|reverify_confirm": 19,
+    "revise_value|revise_value": 2
+  },
+  "human_audit": {
+    "confusion_human_vs_judge": {
+      "branch|branch": 4,
+      "branch|continue": 1,
+      "continue|branch": 5,
+      "continue|continue": 15,
+      "continue|reverify_confirm": 8,
+      "continue|revise_value": 2,
+      "reverify_confirm|branch": 5,
+      "reverify_confirm|continue": 7,
+      "reverify_confirm|reverify_confirm": 2,
+      "reverify_confirm|revise_value": 2,
+      "revise_value|branch": 2,
+      "revise_value|continue": 1,
+      "revise_value|reverify_confirm": 3,
+      "revise_value|revise_value": 2
+    },
+    "human_vs_judge": {
+      "S1": {
+        "agreement_5way": {
+          "est": 0.26666666666666666,
+          "hi": 0.43333333333333335,
+          "lo": 0.1
+        },
+        "agreement_binary": {
+          "est": 0.8666666666666667,
+          "hi": 0.9666666666666667,
+          "lo": 0.7333333333333333
+        },
+        "kappa_5way": {
+          "est": 0.006024096385542207,
+          "hi": 0.21918643501503493,
+          "lo": -0.2111801242236025
+        },
+        "kappa_binary": {
+          "est": 0.42857142857142855,
+          "hi": 0.8387096774193549,
+          "lo": -0.07142857142857194
+        },
+        "n": 30,
+        "n_revise_a": 5,
+        "n_revise_b": 3
+      },
+      "S2": {
+        "agreement_5way": {
+          "est": 0.4,
+          "hi": 0.7,
+          "lo": 0.1
+        },
+        "agreement_binary": {
+          "est": 0.8,
+          "hi": 1.0,
+          "lo": 0.5
+        },
+        "kappa_5way": {
+          "est": 0.14285714285714282,
+          "hi": 0.3333333333333333,
+          "lo": -0.11111111111111113
+        },
+        "kappa_binary": {
+          "est": 0.0,
+          "hi": 1.0,
+          "lo": 0.0
+        },
+        "n": 10,
+        "n_revise_a": 2,
+        "n_revise_b": 0
+      },
+      "S3": {
+        "agreement_5way": {
+          "est": 0.5789473684210527,
+          "hi": 0.7894736842105263,
+          "lo": 0.3684210526315789
+        },
+        "agreement_binary": {
+          "est": 0.7894736842105263,
+          "hi": 0.9473684210526315,
+          "lo": 0.5789473684210527
+        },
+        "kappa_5way": {
+          "est": 0.050000000000000266,
+          "hi": 0.2500702247191003,
+          "lo": -0.13675213675213643
+        },
+        "kappa_binary": {
+          "est": -0.08571428571428545,
+          "hi": 0.0,
+          "lo": -0.2201834862385322
+        },
+        "n": 19,
+        "n_revise_a": 1,
+        "n_revise_b": 3
+      },
+      "all": {
+        "agreement_5way": {
+          "est": 0.3898305084745763,
+          "hi": 0.5084745762711864,
+          "lo": 0.2711864406779661
+        },
+        "agreement_binary": {
+          "est": 0.8305084745762712,
+          "hi": 0.9152542372881356,
+          "lo": 0.7288135593220338
+        },
+        "kappa_5way": {
+          "est": 0.12412371134020628,
+          "hi": 0.28731665228645387,
+          "lo": -0.0333611342785655
+        },
+        "kappa_binary": {
+          "est": 0.1917808219178077,
+          "hi": 0.519021739130435,
+          "lo": -0.10971786833855791
+        },
+        "n": 59,
+        "n_revise_a": 8,
+        "n_revise_b": 6
+      }
+    },
+    "human_vs_reference": {
+      "S1": {
+        "agreement_5way": {
+          "est": 0.4666666666666667,
+          "hi": 0.6333333333333333,
+          "lo": 0.3
+        },
+        "agreement_binary": {
+          "est": 0.8666666666666667,
+          "hi": 0.9666666666666667,
+          "lo": 0.7333333333333333
+        },
+        "kappa_5way": {
+          "est": 0.17808219178082202,
+          "hi": 0.41406249999999994,
+          "lo": -0.06762018215815187
+        },
+        "kappa_binary": {
+          "est": 0.29411764705882365,
+          "hi": 0.7826086956521738,
+          "lo": 0.0
+        },
+        "n": 30,
+        "n_revise_a": 5,
+        "n_revise_b": 1
+      },
+      "S2": {
+        "agreement_5way": {
+          "est": 0.8,
+          "hi": 1.0,
+          "lo": 0.5
+        },
+        "agreement_binary": {
+          "est": 0.8,
+          "hi": 1.0,
+          "lo": 0.5
+        },
+        "kappa_5way": {
+          "est": 0.7058823529411765,
+          "hi": 1.0,
+          "lo": 0.3589743589743589
+        },
+        "kappa_binary": {
+          "est": 0.0,
+          "hi": 1.0,
+          "lo": 0.0
+        },
+        "n": 10,
+        "n_revise_a": 2,
+        "n_revise_b": 0
+      },
+      "S3": {
+        "agreement_5way": {
+          "est": 0.8421052631578947,
+          "hi": 1.0,
+          "lo": 0.6828947368421058
+        },
+        "agreement_binary": {
+          "est": 0.9473684210526315,
+          "hi": 1.0,
+          "lo": 0.8421052631578947
+        },
+        "kappa_5way": {
+          "est": 0.0,
+          "hi": 1.0,
+          "lo": 0.0
+        },
+        "kappa_binary": {
+          "est": 0.0,
+          "hi": 1.0,
+          "lo": 0.0
+        },
+        "n": 19,
+        "n_revise_a": 1,
+        "n_revise_b": 0
+      },
+      "all": {
+        "agreement_5way": {
+          "est": 0.6440677966101694,
+          "hi": 0.7627118644067796,
+          "lo": 0.5254237288135594
+        },
+        "agreement_binary": {
+          "est": 0.8813559322033898,
+          "hi": 0.9491525423728814,
+          "lo": 0.7966101694915254
+        },
+        "kappa_5way": {
+          "est": 0.4031791907514449,
+          "hi": 0.5827513606989169,
+          "lo": 0.21708769829270752
+        },
+        "kappa_binary": {
+          "est": 0.1980582524271837,
+          "hi": 0.5501114392377484,
+          "lo": 0.0
+        },
+        "n": 59,
+        "n_revise_a": 8,
+        "n_revise_b": 1
+      }
+    },
+    "judge_binary_vs_human": {
+      "P_J_below_0": 0.055,
+      "P_J_below_0.2": 0.509,
+      "fn": 6,
+      "fp": 4,
+      "note": "with 8 human-REVISE items sensitivity is barely identified",
+      "sensitivity": [
+        0.07544932830133656,
+        0.2873608350138633,
+        0.6005830990466866
+      ],
+      "specificity": [
+        0.8178095260733339,
+        0.91149720032133,
+        0.9679032947802576
+      ],
+      "tn": 47,
+      "tp": 2,
+      "youden_J": [
+        -0.03200247344592342,
+        0.19732181890923794,
+        0.515003258252298
+      ]
+    },
+    "judge_vs_reference": {
+      "S1": {
+        "agreement_5way": {
+          "est": 0.5333333333333333,
+          "hi": 0.7,
+          "lo": 0.36666666666666664
+        },
+        "agreement_binary": {
+          "est": 0.9333333333333333,
+          "hi": 1.0,
+          "lo": 0.8333333333333334
+        },
+        "kappa_5way": {
+          "est": 0.33121019108280253,
+          "hi": 0.5602605863192182,
+          "lo": 0.0867525026343519
+        },
+        "kappa_binary": {
+          "est": 0.47368421052631604,
+          "hi": 1.0,
+          "lo": 0.0
+        },
+        "n": 30,
+        "n_revise_a": 3,
+        "n_revise_b": 1
+      },
+      "S2": {
+        "agreement_5way": {
+          "est": 0.4,
+          "hi": 0.7,
+          "lo": 0.1
+        },
+        "agreement_binary": {
+          "est": 1.0,
+          "hi": 1.0,
+          "lo": 1.0
+        },
+        "kappa_5way": {
+          "est": 0.11764705882352951,
+          "hi": 0.3333333333333333,
+          "lo": -0.1941791044776118
+        },
+        "kappa_binary": {
+          "est": 1.0,
+          "hi": 1.0,
+          "lo": 1.0
+        },
+        "n": 10,
+        "n_revise_a": 0,
+        "n_revise_b": 0
+      },
+      "S3": {
+        "agreement_5way": {
+          "est": 0.631578947368421,
+          "hi": 0.8421052631578947,
+          "lo": 0.42105263157894735
+        },
+        "agreement_binary": {
+          "est": 0.8421052631578947,
+          "hi": 1.0,
+          "lo": 0.6842105263157895
+        },
+        "kappa_5way": {
+          "est": 0.0,
+          "hi": 0.0,
+          "lo": 0.0
+        },
+        "kappa_binary": {
+          "est": 0.0,
+          "hi": 1.0,
+          "lo": 0.0
+        },
+        "n": 19,
+        "n_revise_a": 3,
+        "n_revise_b": 0
+      },
+      "all": {
+        "agreement_5way": {
+          "est": 0.5423728813559322,
+          "hi": 0.6610169491525424,
+          "lo": 0.423728813559322
+        },
+        "agreement_binary": {
+          "est": 0.9152542372881356,
+          "hi": 0.9830508474576272,
+          "lo": 0.8305084745762712
+        },
+        "kappa_5way": {
+          "est": 0.2985468956406868,
+          "hi": 0.471568833413985,
+          "lo": 0.11940298507462685
+        },
+        "kappa_binary": {
+          "est": 0.26433915211969994,
+          "hi": 0.658959537572255,
+          "lo": 0.0
+        },
+        "n": 59,
+        "n_revise_a": 6,
+        "n_revise_b": 1
+      }
+    },
+    "n_human_labels": 59,
+    "n_matched": 59,
+    "scope": "human = the user (author), used as given; reference = Claude LLM raters; judge = Qwen2.5-7B-Instruct v1.0"
+  },
+  "n_disagreements": 17,
+  "overlap": {
+    "agreement_5way": 0.7166666666666667,
+    "agreement_revise": 0.9833333333333333,
+    "kappa_5way": 0.5448460508701473,
+    "kappa_revise": 0.791666666666666,
+    "n": 60
+  },
+  "scope": "inter-LLM agreement on the overlap (Opus 5.5 vs Fable 5.1), independent labels; NOT human labels"
+}

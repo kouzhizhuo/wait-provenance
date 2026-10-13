@@ -1,0 +1,2410 @@
+{
+  "entries": [
+    {
+      "key": "gold.all.agree5_human_judge",
+      "src": "human_audit_results.json::human_vs_judge.all.agreement_5way.est",
+      "value": 39.0
+    },
+    {
+      "key": "gold.all.agree5_human_judge.lo",
+      "src": "human_audit_results.json::human_vs_judge.all.agreement_5way.lo",
+      "value": 27.1
+    },
+    {
+      "key": "gold.all.agree5_human_judge.hi",
+      "src": "human_audit_results.json::human_vs_judge.all.agreement_5way.hi",
+      "value": 50.8
+    },
+    {
+      "key": "gold.all.kappa5_human_judge",
+      "src": "human_audit_results.json::human_vs_judge.all.kappa_5way.est",
+      "value": 0.12
+    },
+    {
+      "key": "gold.all.kappa5_human_judge.lo",
+      "src": "human_audit_results.json::human_vs_judge.all.kappa_5way.lo",
+      "value": -0.03
+    },
+    {
+      "key": "gold.all.kappa5_human_judge.hi",
+      "src": "human_audit_results.json::human_vs_judge.all.kappa_5way.hi",
+      "value": 0.29
+    },
+    {
+      "key": "gold.all.agreebin_human_judge",
+      "src": "human_audit_results.json::human_vs_judge.all.agreement_binary.est",
+      "value": 83.1
+    },
+    {
+      "key": "gold.all.agreebin_human_judge.lo",
+      "src": "human_audit_results.json::human_vs_judge.all.agreement_binary.lo",
+      "value": 72.9
+    },
+    {
+      "key": "gold.all.agreebin_human_judge.hi",
+      "src": "human_audit_results.json::human_vs_judge.all.agreement_binary.hi",
+      "value": 91.5
+    },
+    {
+      "key": "gold.all.kappabin_human_judge",
+      "src": "human_audit_results.json::human_vs_judge.all.kappa_binary.est",
+      "value": 0.19
+    },
+    {
+      "key": "gold.all.kappabin_human_judge.lo",
+      "src": "human_audit_results.json::human_vs_judge.all.kappa_binary.lo",
+      "value": -0.11
+    },
+    {
+      "key": "gold.all.kappabin_human_judge.hi",
+      "src": "human_audit_results.json::human_vs_judge.all.kappa_binary.hi",
+      "value": 0.52
+    },
+    {
+      "key": "gold.all.n_human_judge",
+      "src": "human_audit_results.json",
+      "value": 59
+    },
+    {
+      "key": "gold.all.agree5_judge_llm",
+      "src": "human_audit_results.json::judge_vs_reference.all.agreement_5way.est",
+      "value": 54.2
+    },
+    {
+      "key": "gold.all.agree5_judge_llm.lo",
+      "src": "human_audit_results.json::judge_vs_reference.all.agreement_5way.lo",
+      "value": 42.4
+    },
+    {
+      "key": "gold.all.agree5_judge_llm.hi",
+      "src": "human_audit_results.json::judge_vs_reference.all.agreement_5way.hi",
+      "value": 66.1
+    },
+    {
+      "key": "gold.all.kappa5_judge_llm",
+      "src": "human_audit_results.json::judge_vs_reference.all.kappa_5way.est",
+      "value": 0.3
+    },
+    {
+      "key": "gold.all.kappa5_judge_llm.lo",
+      "src": "human_audit_results.json::judge_vs_reference.all.kappa_5way.lo",
+      "value": 0.12
+    },
+    {
+      "key": "gold.all.kappa5_judge_llm.hi",
+      "src": "human_audit_results.json::judge_vs_reference.all.kappa_5way.hi",
+      "value": 0.47
+    },
+    {
+      "key": "gold.all.agreebin_judge_llm",
+      "src": "human_audit_results.json::judge_vs_reference.all.agreement_binary.est",
+      "value": 91.5
+    },
+    {
+      "key": "gold.all.agreebin_judge_llm.lo",
+      "src": "human_audit_results.json::judge_vs_reference.all.agreement_binary.lo",
+      "value": 83.1
+    },
+    {
+      "key": "gold.all.agreebin_judge_llm.hi",
+      "src": "human_audit_results.json::judge_vs_reference.all.agreement_binary.hi",
+      "value": 98.3
+    },
+    {
+      "key": "gold.all.kappabin_judge_llm",
+      "src": "human_audit_results.json::judge_vs_reference.all.kappa_binary.est",
+      "value": 0.26
+    },
+    {
+      "key": "gold.all.kappabin_judge_llm.lo",
+      "src": "human_audit_results.json::judge_vs_reference.all.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.all.kappabin_judge_llm.hi",
+      "src": "human_audit_results.json::judge_vs_reference.all.kappa_binary.hi",
+      "value": 0.66
+    },
+    {
+      "key": "gold.all.n_judge_llm",
+      "src": "human_audit_results.json",
+      "value": 59
+    },
+    {
+      "key": "gold.s1.agree5_human_judge",
+      "src": "human_audit_results.json::human_vs_judge.S1.agreement_5way.est",
+      "value": 26.7
+    },
+    {
+      "key": "gold.s1.agree5_human_judge.lo",
+      "src": "human_audit_results.json::human_vs_judge.S1.agreement_5way.lo",
+      "value": 10.0
+    },
+    {
+      "key": "gold.s1.agree5_human_judge.hi",
+      "src": "human_audit_results.json::human_vs_judge.S1.agreement_5way.hi",
+      "value": 43.3
+    },
+    {
+      "key": "gold.s1.kappa5_human_judge",
+      "src": "human_audit_results.json::human_vs_judge.S1.kappa_5way.est",
+      "value": 0.01
+    },
+    {
+      "key": "gold.s1.kappa5_human_judge.lo",
+      "src": "human_audit_results.json::human_vs_judge.S1.kappa_5way.lo",
+      "value": -0.21
+    },
+    {
+      "key": "gold.s1.kappa5_human_judge.hi",
+      "src": "human_audit_results.json::human_vs_judge.S1.kappa_5way.hi",
+      "value": 0.22
+    },
+    {
+      "key": "gold.s1.agreebin_human_judge",
+      "src": "human_audit_results.json::human_vs_judge.S1.agreement_binary.est",
+      "value": 86.7
+    },
+    {
+      "key": "gold.s1.agreebin_human_judge.lo",
+      "src": "human_audit_results.json::human_vs_judge.S1.agreement_binary.lo",
+      "value": 73.3
+    },
+    {
+      "key": "gold.s1.agreebin_human_judge.hi",
+      "src": "human_audit_results.json::human_vs_judge.S1.agreement_binary.hi",
+      "value": 96.7
+    },
+    {
+      "key": "gold.s1.kappabin_human_judge",
+      "src": "human_audit_results.json::human_vs_judge.S1.kappa_binary.est",
+      "value": 0.43
+    },
+    {
+      "key": "gold.s1.kappabin_human_judge.lo",
+      "src": "human_audit_results.json::human_vs_judge.S1.kappa_binary.lo",
+      "value": -0.07
+    },
+    {
+      "key": "gold.s1.kappabin_human_judge.hi",
+      "src": "human_audit_results.json::human_vs_judge.S1.kappa_binary.hi",
+      "value": 0.84
+    },
+    {
+      "key": "gold.s1.n_human_judge",
+      "src": "human_audit_results.json",
+      "value": 30
+    },
+    {
+      "key": "gold.s1.agree5_judge_llm",
+      "src": "human_audit_results.json::judge_vs_reference.S1.agreement_5way.est",
+      "value": 53.3
+    },
+    {
+      "key": "gold.s1.agree5_judge_llm.lo",
+      "src": "human_audit_results.json::judge_vs_reference.S1.agreement_5way.lo",
+      "value": 36.7
+    },
+    {
+      "key": "gold.s1.agree5_judge_llm.hi",
+      "src": "human_audit_results.json::judge_vs_reference.S1.agreement_5way.hi",
+      "value": 70.0
+    },
+    {
+      "key": "gold.s1.kappa5_judge_llm",
+      "src": "human_audit_results.json::judge_vs_reference.S1.kappa_5way.est",
+      "value": 0.33
+    },
+    {
+      "key": "gold.s1.kappa5_judge_llm.lo",
+      "src": "human_audit_results.json::judge_vs_reference.S1.kappa_5way.lo",
+      "value": 0.09
+    },
+    {
+      "key": "gold.s1.kappa5_judge_llm.hi",
+      "src": "human_audit_results.json::judge_vs_reference.S1.kappa_5way.hi",
+      "value": 0.56
+    },
+    {
+      "key": "gold.s1.agreebin_judge_llm",
+      "src": "human_audit_results.json::judge_vs_reference.S1.agreement_binary.est",
+      "value": 93.3
+    },
+    {
+      "key": "gold.s1.agreebin_judge_llm.lo",
+      "src": "human_audit_results.json::judge_vs_reference.S1.agreement_binary.lo",
+      "value": 83.3
+    },
+    {
+      "key": "gold.s1.agreebin_judge_llm.hi",
+      "src": "human_audit_results.json::judge_vs_reference.S1.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s1.kappabin_judge_llm",
+      "src": "human_audit_results.json::judge_vs_reference.S1.kappa_binary.est",
+      "value": 0.47
+    },
+    {
+      "key": "gold.s1.kappabin_judge_llm.lo",
+      "src": "human_audit_results.json::judge_vs_reference.S1.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s1.kappabin_judge_llm.hi",
+      "src": "human_audit_results.json::judge_vs_reference.S1.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s1.n_judge_llm",
+      "src": "human_audit_results.json",
+      "value": 30
+    },
+    {
+      "key": "gold.s2.agree5_human_judge",
+      "src": "human_audit_results.json::human_vs_judge.S2.agreement_5way.est",
+      "value": 40.0
+    },
+    {
+      "key": "gold.s2.agree5_human_judge.lo",
+      "src": "human_audit_results.json::human_vs_judge.S2.agreement_5way.lo",
+      "value": 10.0
+    },
+    {
+      "key": "gold.s2.agree5_human_judge.hi",
+      "src": "human_audit_results.json::human_vs_judge.S2.agreement_5way.hi",
+      "value": 70.0
+    },
+    {
+      "key": "gold.s2.kappa5_human_judge",
+      "src": "human_audit_results.json::human_vs_judge.S2.kappa_5way.est",
+      "value": 0.14
+    },
+    {
+      "key": "gold.s2.kappa5_human_judge.lo",
+      "src": "human_audit_results.json::human_vs_judge.S2.kappa_5way.lo",
+      "value": -0.11
+    },
+    {
+      "key": "gold.s2.kappa5_human_judge.hi",
+      "src": "human_audit_results.json::human_vs_judge.S2.kappa_5way.hi",
+      "value": 0.33
+    },
+    {
+      "key": "gold.s2.agreebin_human_judge",
+      "src": "human_audit_results.json::human_vs_judge.S2.agreement_binary.est",
+      "value": 80.0
+    },
+    {
+      "key": "gold.s2.agreebin_human_judge.lo",
+      "src": "human_audit_results.json::human_vs_judge.S2.agreement_binary.lo",
+      "value": 50.0
+    },
+    {
+      "key": "gold.s2.agreebin_human_judge.hi",
+      "src": "human_audit_results.json::human_vs_judge.S2.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s2.kappabin_human_judge",
+      "src": "human_audit_results.json::human_vs_judge.S2.kappa_binary.est",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s2.kappabin_human_judge.lo",
+      "src": "human_audit_results.json::human_vs_judge.S2.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s2.kappabin_human_judge.hi",
+      "src": "human_audit_results.json::human_vs_judge.S2.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s2.n_human_judge",
+      "src": "human_audit_results.json",
+      "value": 10
+    },
+    {
+      "key": "gold.s2.agree5_judge_llm",
+      "src": "human_audit_results.json::judge_vs_reference.S2.agreement_5way.est",
+      "value": 40.0
+    },
+    {
+      "key": "gold.s2.agree5_judge_llm.lo",
+      "src": "human_audit_results.json::judge_vs_reference.S2.agreement_5way.lo",
+      "value": 10.0
+    },
+    {
+      "key": "gold.s2.agree5_judge_llm.hi",
+      "src": "human_audit_results.json::judge_vs_reference.S2.agreement_5way.hi",
+      "value": 70.0
+    },
+    {
+      "key": "gold.s2.kappa5_judge_llm",
+      "src": "human_audit_results.json::judge_vs_reference.S2.kappa_5way.est",
+      "value": 0.12
+    },
+    {
+      "key": "gold.s2.kappa5_judge_llm.lo",
+      "src": "human_audit_results.json::judge_vs_reference.S2.kappa_5way.lo",
+      "value": -0.19
+    },
+    {
+      "key": "gold.s2.kappa5_judge_llm.hi",
+      "src": "human_audit_results.json::judge_vs_reference.S2.kappa_5way.hi",
+      "value": 0.33
+    },
+    {
+      "key": "gold.s2.agreebin_judge_llm",
+      "src": "human_audit_results.json::judge_vs_reference.S2.agreement_binary.est",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s2.agreebin_judge_llm.lo",
+      "src": "human_audit_results.json::judge_vs_reference.S2.agreement_binary.lo",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s2.agreebin_judge_llm.hi",
+      "src": "human_audit_results.json::judge_vs_reference.S2.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s2.kappabin_judge_llm",
+      "src": "human_audit_results.json::judge_vs_reference.S2.kappa_binary.est",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s2.kappabin_judge_llm.lo",
+      "src": "human_audit_results.json::judge_vs_reference.S2.kappa_binary.lo",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s2.kappabin_judge_llm.hi",
+      "src": "human_audit_results.json::judge_vs_reference.S2.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s2.n_judge_llm",
+      "src": "human_audit_results.json",
+      "value": 10
+    },
+    {
+      "key": "gold.s3a.agree5_human_judge",
+      "src": "human_audit_results.json::human_vs_judge.S3.agreement_5way.est",
+      "value": 57.9
+    },
+    {
+      "key": "gold.s3a.agree5_human_judge.lo",
+      "src": "human_audit_results.json::human_vs_judge.S3.agreement_5way.lo",
+      "value": 36.8
+    },
+    {
+      "key": "gold.s3a.agree5_human_judge.hi",
+      "src": "human_audit_results.json::human_vs_judge.S3.agreement_5way.hi",
+      "value": 78.9
+    },
+    {
+      "key": "gold.s3a.kappa5_human_judge",
+      "src": "human_audit_results.json::human_vs_judge.S3.kappa_5way.est",
+      "value": 0.05
+    },
+    {
+      "key": "gold.s3a.kappa5_human_judge.lo",
+      "src": "human_audit_results.json::human_vs_judge.S3.kappa_5way.lo",
+      "value": -0.14
+    },
+    {
+      "key": "gold.s3a.kappa5_human_judge.hi",
+      "src": "human_audit_results.json::human_vs_judge.S3.kappa_5way.hi",
+      "value": 0.25
+    },
+    {
+      "key": "gold.s3a.agreebin_human_judge",
+      "src": "human_audit_results.json::human_vs_judge.S3.agreement_binary.est",
+      "value": 78.9
+    },
+    {
+      "key": "gold.s3a.agreebin_human_judge.lo",
+      "src": "human_audit_results.json::human_vs_judge.S3.agreement_binary.lo",
+      "value": 57.9
+    },
+    {
+      "key": "gold.s3a.agreebin_human_judge.hi",
+      "src": "human_audit_results.json::human_vs_judge.S3.agreement_binary.hi",
+      "value": 94.7
+    },
+    {
+      "key": "gold.s3a.kappabin_human_judge",
+      "src": "human_audit_results.json::human_vs_judge.S3.kappa_binary.est",
+      "value": -0.09
+    },
+    {
+      "key": "gold.s3a.kappabin_human_judge.lo",
+      "src": "human_audit_results.json::human_vs_judge.S3.kappa_binary.lo",
+      "value": -0.22
+    },
+    {
+      "key": "gold.s3a.kappabin_human_judge.hi",
+      "src": "human_audit_results.json::human_vs_judge.S3.kappa_binary.hi",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.n_human_judge",
+      "src": "human_audit_results.json",
+      "value": 19
+    },
+    {
+      "key": "gold.s3a.agree5_judge_llm",
+      "src": "human_audit_results.json::judge_vs_reference.S3.agreement_5way.est",
+      "value": 63.2
+    },
+    {
+      "key": "gold.s3a.agree5_judge_llm.lo",
+      "src": "human_audit_results.json::judge_vs_reference.S3.agreement_5way.lo",
+      "value": 42.1
+    },
+    {
+      "key": "gold.s3a.agree5_judge_llm.hi",
+      "src": "human_audit_results.json::judge_vs_reference.S3.agreement_5way.hi",
+      "value": 84.2
+    },
+    {
+      "key": "gold.s3a.kappa5_judge_llm",
+      "src": "human_audit_results.json::judge_vs_reference.S3.kappa_5way.est",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappa5_judge_llm.lo",
+      "src": "human_audit_results.json::judge_vs_reference.S3.kappa_5way.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappa5_judge_llm.hi",
+      "src": "human_audit_results.json::judge_vs_reference.S3.kappa_5way.hi",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.agreebin_judge_llm",
+      "src": "human_audit_results.json::judge_vs_reference.S3.agreement_binary.est",
+      "value": 84.2
+    },
+    {
+      "key": "gold.s3a.agreebin_judge_llm.lo",
+      "src": "human_audit_results.json::judge_vs_reference.S3.agreement_binary.lo",
+      "value": 68.4
+    },
+    {
+      "key": "gold.s3a.agreebin_judge_llm.hi",
+      "src": "human_audit_results.json::judge_vs_reference.S3.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s3a.kappabin_judge_llm",
+      "src": "human_audit_results.json::judge_vs_reference.S3.kappa_binary.est",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappabin_judge_llm.lo",
+      "src": "human_audit_results.json::judge_vs_reference.S3.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappabin_judge_llm.hi",
+      "src": "human_audit_results.json::judge_vs_reference.S3.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s3a.n_judge_llm",
+      "src": "human_audit_results.json",
+      "value": 19
+    },
+    {
+      "key": "gold.all.agree5_human_llm",
+      "src": "human_audit_results.json::human_vs_reference.all.agreement_5way.est",
+      "value": 64.4
+    },
+    {
+      "key": "gold.all.agree5_human_llm.lo",
+      "src": "human_audit_results.json::human_vs_reference.all.agreement_5way.lo",
+      "value": 52.5
+    },
+    {
+      "key": "gold.all.agree5_human_llm.hi",
+      "src": "human_audit_results.json::human_vs_reference.all.agreement_5way.hi",
+      "value": 76.3
+    },
+    {
+      "key": "gold.all.kappa5_human_llm",
+      "src": "human_audit_results.json::human_vs_reference.all.kappa_5way.est",
+      "value": 0.4
+    },
+    {
+      "key": "gold.all.kappa5_human_llm.lo",
+      "src": "human_audit_results.json::human_vs_reference.all.kappa_5way.lo",
+      "value": 0.22
+    },
+    {
+      "key": "gold.all.kappa5_human_llm.hi",
+      "src": "human_audit_results.json::human_vs_reference.all.kappa_5way.hi",
+      "value": 0.58
+    },
+    {
+      "key": "gold.all.agreebin_human_llm",
+      "src": "human_audit_results.json::human_vs_reference.all.agreement_binary.est",
+      "value": 88.1
+    },
+    {
+      "key": "gold.all.agreebin_human_llm.lo",
+      "src": "human_audit_results.json::human_vs_reference.all.agreement_binary.lo",
+      "value": 79.7
+    },
+    {
+      "key": "gold.all.agreebin_human_llm.hi",
+      "src": "human_audit_results.json::human_vs_reference.all.agreement_binary.hi",
+      "value": 94.9
+    },
+    {
+      "key": "gold.all.kappabin_human_llm",
+      "src": "human_audit_results.json::human_vs_reference.all.kappa_binary.est",
+      "value": 0.2
+    },
+    {
+      "key": "gold.all.kappabin_human_llm.lo",
+      "src": "human_audit_results.json::human_vs_reference.all.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.all.kappabin_human_llm.hi",
+      "src": "human_audit_results.json::human_vs_reference.all.kappa_binary.hi",
+      "value": 0.55
+    },
+    {
+      "key": "gold.s1.agree5_human_llm",
+      "src": "human_audit_results.json::human_vs_reference.S1.agreement_5way.est",
+      "value": 46.7
+    },
+    {
+      "key": "gold.s1.agree5_human_llm.lo",
+      "src": "human_audit_results.json::human_vs_reference.S1.agreement_5way.lo",
+      "value": 30.0
+    },
+    {
+      "key": "gold.s1.agree5_human_llm.hi",
+      "src": "human_audit_results.json::human_vs_reference.S1.agreement_5way.hi",
+      "value": 63.3
+    },
+    {
+      "key": "gold.s1.kappa5_human_llm",
+      "src": "human_audit_results.json::human_vs_reference.S1.kappa_5way.est",
+      "value": 0.18
+    },
+    {
+      "key": "gold.s1.kappa5_human_llm.lo",
+      "src": "human_audit_results.json::human_vs_reference.S1.kappa_5way.lo",
+      "value": -0.07
+    },
+    {
+      "key": "gold.s1.kappa5_human_llm.hi",
+      "src": "human_audit_results.json::human_vs_reference.S1.kappa_5way.hi",
+      "value": 0.41
+    },
+    {
+      "key": "gold.s1.agreebin_human_llm",
+      "src": "human_audit_results.json::human_vs_reference.S1.agreement_binary.est",
+      "value": 86.7
+    },
+    {
+      "key": "gold.s1.agreebin_human_llm.lo",
+      "src": "human_audit_results.json::human_vs_reference.S1.agreement_binary.lo",
+      "value": 73.3
+    },
+    {
+      "key": "gold.s1.agreebin_human_llm.hi",
+      "src": "human_audit_results.json::human_vs_reference.S1.agreement_binary.hi",
+      "value": 96.7
+    },
+    {
+      "key": "gold.s1.kappabin_human_llm",
+      "src": "human_audit_results.json::human_vs_reference.S1.kappa_binary.est",
+      "value": 0.29
+    },
+    {
+      "key": "gold.s1.kappabin_human_llm.lo",
+      "src": "human_audit_results.json::human_vs_reference.S1.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s1.kappabin_human_llm.hi",
+      "src": "human_audit_results.json::human_vs_reference.S1.kappa_binary.hi",
+      "value": 0.78
+    },
+    {
+      "key": "gold.s2.agree5_human_llm",
+      "src": "human_audit_results.json::human_vs_reference.S2.agreement_5way.est",
+      "value": 80.0
+    },
+    {
+      "key": "gold.s2.agree5_human_llm.lo",
+      "src": "human_audit_results.json::human_vs_reference.S2.agreement_5way.lo",
+      "value": 50.0
+    },
+    {
+      "key": "gold.s2.agree5_human_llm.hi",
+      "src": "human_audit_results.json::human_vs_reference.S2.agreement_5way.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s2.kappa5_human_llm",
+      "src": "human_audit_results.json::human_vs_reference.S2.kappa_5way.est",
+      "value": 0.71
+    },
+    {
+      "key": "gold.s2.kappa5_human_llm.lo",
+      "src": "human_audit_results.json::human_vs_reference.S2.kappa_5way.lo",
+      "value": 0.36
+    },
+    {
+      "key": "gold.s2.kappa5_human_llm.hi",
+      "src": "human_audit_results.json::human_vs_reference.S2.kappa_5way.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s2.agreebin_human_llm",
+      "src": "human_audit_results.json::human_vs_reference.S2.agreement_binary.est",
+      "value": 80.0
+    },
+    {
+      "key": "gold.s2.agreebin_human_llm.lo",
+      "src": "human_audit_results.json::human_vs_reference.S2.agreement_binary.lo",
+      "value": 50.0
+    },
+    {
+      "key": "gold.s2.agreebin_human_llm.hi",
+      "src": "human_audit_results.json::human_vs_reference.S2.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s2.kappabin_human_llm",
+      "src": "human_audit_results.json::human_vs_reference.S2.kappa_binary.est",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s2.kappabin_human_llm.lo",
+      "src": "human_audit_results.json::human_vs_reference.S2.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s2.kappabin_human_llm.hi",
+      "src": "human_audit_results.json::human_vs_reference.S2.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s3a.agree5_human_llm",
+      "src": "human_audit_results.json::human_vs_reference.S3.agreement_5way.est",
+      "value": 84.2
+    },
+    {
+      "key": "gold.s3a.agree5_human_llm.lo",
+      "src": "human_audit_results.json::human_vs_reference.S3.agreement_5way.lo",
+      "value": 68.3
+    },
+    {
+      "key": "gold.s3a.agree5_human_llm.hi",
+      "src": "human_audit_results.json::human_vs_reference.S3.agreement_5way.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s3a.kappa5_human_llm",
+      "src": "human_audit_results.json::human_vs_reference.S3.kappa_5way.est",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappa5_human_llm.lo",
+      "src": "human_audit_results.json::human_vs_reference.S3.kappa_5way.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappa5_human_llm.hi",
+      "src": "human_audit_results.json::human_vs_reference.S3.kappa_5way.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s3a.agreebin_human_llm",
+      "src": "human_audit_results.json::human_vs_reference.S3.agreement_binary.est",
+      "value": 94.7
+    },
+    {
+      "key": "gold.s3a.agreebin_human_llm.lo",
+      "src": "human_audit_results.json::human_vs_reference.S3.agreement_binary.lo",
+      "value": 84.2
+    },
+    {
+      "key": "gold.s3a.agreebin_human_llm.hi",
+      "src": "human_audit_results.json::human_vs_reference.S3.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s3a.kappabin_human_llm",
+      "src": "human_audit_results.json::human_vs_reference.S3.kappa_binary.est",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappabin_human_llm.lo",
+      "src": "human_audit_results.json::human_vs_reference.S3.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappabin_human_llm.hi",
+      "src": "human_audit_results.json::human_vs_reference.S3.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s1.v1_sens_judge",
+      "src": "human_audit_results.json::judge_binary_vs_human.sensitivity (posterior median, 95% interval).est",
+      "value": 28.7
+    },
+    {
+      "key": "gold.s1.v1_sens_judge.lo",
+      "src": "human_audit_results.json::judge_binary_vs_human.sensitivity (posterior median, 95% interval).lo",
+      "value": 7.5
+    },
+    {
+      "key": "gold.s1.v1_sens_judge.hi",
+      "src": "human_audit_results.json::judge_binary_vs_human.sensitivity (posterior median, 95% interval).hi",
+      "value": 60.1
+    },
+    {
+      "key": "gold.s1.v1_spec_judge",
+      "src": "human_audit_results.json::judge_binary_vs_human.specificity (posterior median, 95% interval).est",
+      "value": 91.1
+    },
+    {
+      "key": "gold.s1.v1_spec_judge.lo",
+      "src": "human_audit_results.json::judge_binary_vs_human.specificity (posterior median, 95% interval).lo",
+      "value": 81.8
+    },
+    {
+      "key": "gold.s1.v1_spec_judge.hi",
+      "src": "human_audit_results.json::judge_binary_vs_human.specificity (posterior median, 95% interval).hi",
+      "value": 96.8
+    },
+    {
+      "key": "gold.s1.v1_j_judge",
+      "src": "human_audit_results.json::judge_binary_vs_human.youden_J (posterior median, 95% interval).est",
+      "value": 0.2
+    },
+    {
+      "key": "gold.s1.v1_j_judge.lo",
+      "src": "human_audit_results.json::judge_binary_vs_human.youden_J (posterior median, 95% interval).lo",
+      "value": -0.03
+    },
+    {
+      "key": "gold.s1.v1_j_judge.hi",
+      "src": "human_audit_results.json::judge_binary_vs_human.youden_J (posterior median, 95% interval).hi",
+      "value": 0.52
+    },
+    {
+      "key": "gold.all.agree5_human_oss",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.all.agreement_5way.est",
+      "value": 59.3
+    },
+    {
+      "key": "gold.all.agree5_human_oss.lo",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.all.agreement_5way.lo",
+      "value": 47.5
+    },
+    {
+      "key": "gold.all.agree5_human_oss.hi",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.all.agreement_5way.hi",
+      "value": 71.2
+    },
+    {
+      "key": "gold.all.kappa5_human_oss",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.all.kappa_5way.est",
+      "value": 0.3
+    },
+    {
+      "key": "gold.all.kappa5_human_oss.lo",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.all.kappa_5way.lo",
+      "value": 0.09
+    },
+    {
+      "key": "gold.all.kappa5_human_oss.hi",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.all.kappa_5way.hi",
+      "value": 0.5
+    },
+    {
+      "key": "gold.all.agreebin_human_oss",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.all.agreement_binary.est",
+      "value": 93.2
+    },
+    {
+      "key": "gold.all.agreebin_human_oss.lo",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.all.agreement_binary.lo",
+      "value": 86.4
+    },
+    {
+      "key": "gold.all.agreebin_human_oss.hi",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.all.agreement_binary.hi",
+      "value": 98.3
+    },
+    {
+      "key": "gold.all.kappabin_human_oss",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.all.kappa_binary.est",
+      "value": 0.63
+    },
+    {
+      "key": "gold.all.kappabin_human_oss.lo",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.all.kappa_binary.lo",
+      "value": 0.23
+    },
+    {
+      "key": "gold.all.kappabin_human_oss.hi",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.all.kappa_binary.hi",
+      "value": 0.91
+    },
+    {
+      "key": "gold.all.n_human_oss",
+      "src": "human_audit_results_gptoss.json",
+      "value": 59
+    },
+    {
+      "key": "gold.all.agree5_oss_llm",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.all.agreement_5way.est",
+      "value": 69.5
+    },
+    {
+      "key": "gold.all.agree5_oss_llm.lo",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.all.agreement_5way.lo",
+      "value": 57.6
+    },
+    {
+      "key": "gold.all.agree5_oss_llm.hi",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.all.agreement_5way.hi",
+      "value": 81.4
+    },
+    {
+      "key": "gold.all.kappa5_oss_llm",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.all.kappa_5way.est",
+      "value": 0.38
+    },
+    {
+      "key": "gold.all.kappa5_oss_llm.lo",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.all.kappa_5way.lo",
+      "value": 0.14
+    },
+    {
+      "key": "gold.all.kappa5_oss_llm.hi",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.all.kappa_5way.hi",
+      "value": 0.6
+    },
+    {
+      "key": "gold.all.agreebin_oss_llm",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.all.agreement_binary.est",
+      "value": 94.9
+    },
+    {
+      "key": "gold.all.agreebin_oss_llm.lo",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.all.agreement_binary.lo",
+      "value": 88.1
+    },
+    {
+      "key": "gold.all.agreebin_oss_llm.hi",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.all.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.all.kappabin_oss_llm",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.all.kappa_binary.est",
+      "value": 0.38
+    },
+    {
+      "key": "gold.all.kappabin_oss_llm.lo",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.all.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.all.kappabin_oss_llm.hi",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.all.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.all.n_oss_llm",
+      "src": "human_audit_results_gptoss.json",
+      "value": 59
+    },
+    {
+      "key": "gold.s1.agree5_human_oss",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S1.agreement_5way.est",
+      "value": 46.7
+    },
+    {
+      "key": "gold.s1.agree5_human_oss.lo",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S1.agreement_5way.lo",
+      "value": 30.0
+    },
+    {
+      "key": "gold.s1.agree5_human_oss.hi",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S1.agreement_5way.hi",
+      "value": 63.3
+    },
+    {
+      "key": "gold.s1.kappa5_human_oss",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S1.kappa_5way.est",
+      "value": 0.15
+    },
+    {
+      "key": "gold.s1.kappa5_human_oss.lo",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S1.kappa_5way.lo",
+      "value": -0.12
+    },
+    {
+      "key": "gold.s1.kappa5_human_oss.hi",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S1.kappa_5way.hi",
+      "value": 0.41
+    },
+    {
+      "key": "gold.s1.agreebin_human_oss",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S1.agreement_binary.est",
+      "value": 90.0
+    },
+    {
+      "key": "gold.s1.agreebin_human_oss.lo",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S1.agreement_binary.lo",
+      "value": 79.9
+    },
+    {
+      "key": "gold.s1.agreebin_human_oss.hi",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S1.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s1.kappabin_human_oss",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S1.kappa_binary.est",
+      "value": 0.53
+    },
+    {
+      "key": "gold.s1.kappabin_human_oss.lo",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S1.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s1.kappabin_human_oss.hi",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S1.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s1.n_human_oss",
+      "src": "human_audit_results_gptoss.json",
+      "value": 30
+    },
+    {
+      "key": "gold.s1.agree5_oss_llm",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S1.agreement_5way.est",
+      "value": 63.3
+    },
+    {
+      "key": "gold.s1.agree5_oss_llm.lo",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S1.agreement_5way.lo",
+      "value": 46.7
+    },
+    {
+      "key": "gold.s1.agree5_oss_llm.hi",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S1.agreement_5way.hi",
+      "value": 80.0
+    },
+    {
+      "key": "gold.s1.kappa5_oss_llm",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S1.kappa_5way.est",
+      "value": 0.36
+    },
+    {
+      "key": "gold.s1.kappa5_oss_llm.lo",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S1.kappa_5way.lo",
+      "value": 0.05
+    },
+    {
+      "key": "gold.s1.kappa5_oss_llm.hi",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S1.kappa_5way.hi",
+      "value": 0.64
+    },
+    {
+      "key": "gold.s1.agreebin_oss_llm",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S1.agreement_binary.est",
+      "value": 96.7
+    },
+    {
+      "key": "gold.s1.agreebin_oss_llm.lo",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S1.agreement_binary.lo",
+      "value": 90.0
+    },
+    {
+      "key": "gold.s1.agreebin_oss_llm.hi",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S1.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s1.kappabin_oss_llm",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S1.kappa_binary.est",
+      "value": 0.65
+    },
+    {
+      "key": "gold.s1.kappabin_oss_llm.lo",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S1.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s1.kappabin_oss_llm.hi",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S1.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s1.n_oss_llm",
+      "src": "human_audit_results_gptoss.json",
+      "value": 30
+    },
+    {
+      "key": "gold.s2.agree5_human_oss",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S2.agreement_5way.est",
+      "value": 50.0
+    },
+    {
+      "key": "gold.s2.agree5_human_oss.lo",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S2.agreement_5way.lo",
+      "value": 20.0
+    },
+    {
+      "key": "gold.s2.agree5_human_oss.hi",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S2.agreement_5way.hi",
+      "value": 80.0
+    },
+    {
+      "key": "gold.s2.kappa5_human_oss",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S2.kappa_5way.est",
+      "value": 0.3
+    },
+    {
+      "key": "gold.s2.kappa5_human_oss.lo",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S2.kappa_5way.lo",
+      "value": -0.13
+    },
+    {
+      "key": "gold.s2.kappa5_human_oss.hi",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S2.kappa_5way.hi",
+      "value": 0.7
+    },
+    {
+      "key": "gold.s2.agreebin_human_oss",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S2.agreement_binary.est",
+      "value": 90.0
+    },
+    {
+      "key": "gold.s2.agreebin_human_oss.lo",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S2.agreement_binary.lo",
+      "value": 70.0
+    },
+    {
+      "key": "gold.s2.agreebin_human_oss.hi",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S2.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s2.kappabin_human_oss",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S2.kappa_binary.est",
+      "value": 0.62
+    },
+    {
+      "key": "gold.s2.kappabin_human_oss.lo",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S2.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s2.kappabin_human_oss.hi",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S2.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s2.n_human_oss",
+      "src": "human_audit_results_gptoss.json",
+      "value": 10
+    },
+    {
+      "key": "gold.s2.agree5_oss_llm",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S2.agreement_5way.est",
+      "value": 50.0
+    },
+    {
+      "key": "gold.s2.agree5_oss_llm.lo",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S2.agreement_5way.lo",
+      "value": 20.0
+    },
+    {
+      "key": "gold.s2.agree5_oss_llm.hi",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S2.agreement_5way.hi",
+      "value": 80.0
+    },
+    {
+      "key": "gold.s2.kappa5_oss_llm",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S2.kappa_5way.est",
+      "value": 0.18
+    },
+    {
+      "key": "gold.s2.kappa5_oss_llm.lo",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S2.kappa_5way.lo",
+      "value": -0.25
+    },
+    {
+      "key": "gold.s2.kappa5_oss_llm.hi",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S2.kappa_5way.hi",
+      "value": 0.64
+    },
+    {
+      "key": "gold.s2.agreebin_oss_llm",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S2.agreement_binary.est",
+      "value": 90.0
+    },
+    {
+      "key": "gold.s2.agreebin_oss_llm.lo",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S2.agreement_binary.lo",
+      "value": 70.0
+    },
+    {
+      "key": "gold.s2.agreebin_oss_llm.hi",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S2.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s2.kappabin_oss_llm",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S2.kappa_binary.est",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s2.kappabin_oss_llm.lo",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S2.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s2.kappabin_oss_llm.hi",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S2.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s2.n_oss_llm",
+      "src": "human_audit_results_gptoss.json",
+      "value": 10
+    },
+    {
+      "key": "gold.s3a.agree5_human_oss",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S3.agreement_5way.est",
+      "value": 84.2
+    },
+    {
+      "key": "gold.s3a.agree5_human_oss.lo",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S3.agreement_5way.lo",
+      "value": 68.4
+    },
+    {
+      "key": "gold.s3a.agree5_human_oss.hi",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S3.agreement_5way.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s3a.kappa5_human_oss",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S3.kappa_5way.est",
+      "value": 0.34
+    },
+    {
+      "key": "gold.s3a.kappa5_human_oss.lo",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S3.kappa_5way.lo",
+      "value": -0.14
+    },
+    {
+      "key": "gold.s3a.kappa5_human_oss.hi",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S3.kappa_5way.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s3a.agreebin_human_oss",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S3.agreement_binary.est",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s3a.agreebin_human_oss.lo",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S3.agreement_binary.lo",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s3a.agreebin_human_oss.hi",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S3.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s3a.kappabin_human_oss",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S3.kappa_binary.est",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s3a.kappabin_human_oss.lo",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S3.kappa_binary.lo",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s3a.kappabin_human_oss.hi",
+      "src": "human_audit_results_gptoss.json::human_vs_judge.S3.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s3a.n_human_oss",
+      "src": "human_audit_results_gptoss.json",
+      "value": 19
+    },
+    {
+      "key": "gold.s3a.agree5_oss_llm",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S3.agreement_5way.est",
+      "value": 89.5
+    },
+    {
+      "key": "gold.s3a.agree5_oss_llm.lo",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S3.agreement_5way.lo",
+      "value": 73.7
+    },
+    {
+      "key": "gold.s3a.agree5_oss_llm.hi",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S3.agreement_5way.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s3a.kappa5_oss_llm",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S3.kappa_5way.est",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappa5_oss_llm.lo",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S3.kappa_5way.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappa5_oss_llm.hi",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S3.kappa_5way.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s3a.agreebin_oss_llm",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S3.agreement_binary.est",
+      "value": 94.7
+    },
+    {
+      "key": "gold.s3a.agreebin_oss_llm.lo",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S3.agreement_binary.lo",
+      "value": 84.2
+    },
+    {
+      "key": "gold.s3a.agreebin_oss_llm.hi",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S3.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s3a.kappabin_oss_llm",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S3.kappa_binary.est",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappabin_oss_llm.lo",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S3.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappabin_oss_llm.hi",
+      "src": "human_audit_results_gptoss.json::judge_vs_reference.S3.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s3a.n_oss_llm",
+      "src": "human_audit_results_gptoss.json",
+      "value": 19
+    },
+    {
+      "key": "gold.s1.v1_sens_oss",
+      "src": "human_audit_results_gptoss.json::judge_binary_vs_human.sensitivity (posterior median, 95% interval).est",
+      "value": 49.6
+    },
+    {
+      "key": "gold.s1.v1_sens_oss.lo",
+      "src": "human_audit_results_gptoss.json::judge_binary_vs_human.sensitivity (posterior median, 95% interval).lo",
+      "value": 20.9
+    },
+    {
+      "key": "gold.s1.v1_sens_oss.hi",
+      "src": "human_audit_results_gptoss.json::judge_binary_vs_human.sensitivity (posterior median, 95% interval).hi",
+      "value": 77.8
+    },
+    {
+      "key": "gold.s1.v1_spec_oss",
+      "src": "human_audit_results_gptoss.json::judge_binary_vs_human.specificity (posterior median, 95% interval).est",
+      "value": 98.7
+    },
+    {
+      "key": "gold.s1.v1_spec_oss.lo",
+      "src": "human_audit_results_gptoss.json::judge_binary_vs_human.specificity (posterior median, 95% interval).lo",
+      "value": 93.0
+    },
+    {
+      "key": "gold.s1.v1_spec_oss.hi",
+      "src": "human_audit_results_gptoss.json::judge_binary_vs_human.specificity (posterior median, 95% interval).hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s1.v1_j_oss",
+      "src": "human_audit_results_gptoss.json::judge_binary_vs_human.youden_J (posterior median, 95% interval).est",
+      "value": 0.47
+    },
+    {
+      "key": "gold.s1.v1_j_oss.lo",
+      "src": "human_audit_results_gptoss.json::judge_binary_vs_human.youden_J (posterior median, 95% interval).lo",
+      "value": 0.19
+    },
+    {
+      "key": "gold.s1.v1_j_oss.hi",
+      "src": "human_audit_results_gptoss.json::judge_binary_vs_human.youden_J (posterior median, 95% interval).hi",
+      "value": 0.77
+    },
+    {
+      "key": "gold.all.agree5_human_oss120",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.all.agreement_5way.est",
+      "value": 61.0
+    },
+    {
+      "key": "gold.all.agree5_human_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.all.agreement_5way.lo",
+      "value": 49.2
+    },
+    {
+      "key": "gold.all.agree5_human_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.all.agreement_5way.hi",
+      "value": 72.9
+    },
+    {
+      "key": "gold.all.kappa5_human_oss120",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.all.kappa_5way.est",
+      "value": 0.3
+    },
+    {
+      "key": "gold.all.kappa5_human_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.all.kappa_5way.lo",
+      "value": 0.11
+    },
+    {
+      "key": "gold.all.kappa5_human_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.all.kappa_5way.hi",
+      "value": 0.49
+    },
+    {
+      "key": "gold.all.agreebin_human_oss120",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.all.agreement_binary.est",
+      "value": 89.8
+    },
+    {
+      "key": "gold.all.agreebin_human_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.all.agreement_binary.lo",
+      "value": 81.4
+    },
+    {
+      "key": "gold.all.agreebin_human_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.all.agreement_binary.hi",
+      "value": 96.6
+    },
+    {
+      "key": "gold.all.kappabin_human_oss120",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.all.kappa_binary.est",
+      "value": 0.45
+    },
+    {
+      "key": "gold.all.kappabin_human_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.all.kappa_binary.lo",
+      "value": -0.03
+    },
+    {
+      "key": "gold.all.kappabin_human_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.all.kappa_binary.hi",
+      "value": 0.78
+    },
+    {
+      "key": "gold.all.n_human_oss120",
+      "src": "human_audit_results_gptoss120b.json",
+      "value": 59
+    },
+    {
+      "key": "gold.all.agree5_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.all.agreement_5way.est",
+      "value": 71.2
+    },
+    {
+      "key": "gold.all.agree5_oss120_llm.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.all.agreement_5way.lo",
+      "value": 59.3
+    },
+    {
+      "key": "gold.all.agree5_oss120_llm.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.all.agreement_5way.hi",
+      "value": 83.1
+    },
+    {
+      "key": "gold.all.kappa5_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.all.kappa_5way.est",
+      "value": 0.36
+    },
+    {
+      "key": "gold.all.kappa5_oss120_llm.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.all.kappa_5way.lo",
+      "value": 0.12
+    },
+    {
+      "key": "gold.all.kappa5_oss120_llm.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.all.kappa_5way.hi",
+      "value": 0.58
+    },
+    {
+      "key": "gold.all.agreebin_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.all.agreement_binary.est",
+      "value": 94.9
+    },
+    {
+      "key": "gold.all.agreebin_oss120_llm.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.all.agreement_binary.lo",
+      "value": 88.1
+    },
+    {
+      "key": "gold.all.agreebin_oss120_llm.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.all.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.all.kappabin_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.all.kappa_binary.est",
+      "value": 0.38
+    },
+    {
+      "key": "gold.all.kappabin_oss120_llm.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.all.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.all.kappabin_oss120_llm.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.all.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.all.n_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json",
+      "value": 59
+    },
+    {
+      "key": "gold.s1.agree5_human_oss120",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S1.agreement_5way.est",
+      "value": 53.3
+    },
+    {
+      "key": "gold.s1.agree5_human_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S1.agreement_5way.lo",
+      "value": 36.7
+    },
+    {
+      "key": "gold.s1.agree5_human_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S1.agreement_5way.hi",
+      "value": 70.0
+    },
+    {
+      "key": "gold.s1.kappa5_human_oss120",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S1.kappa_5way.est",
+      "value": 0.28
+    },
+    {
+      "key": "gold.s1.kappa5_human_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S1.kappa_5way.lo",
+      "value": 0.08
+    },
+    {
+      "key": "gold.s1.kappa5_human_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S1.kappa_5way.hi",
+      "value": 0.5
+    },
+    {
+      "key": "gold.s1.agreebin_human_oss120",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S1.agreement_binary.est",
+      "value": 90.0
+    },
+    {
+      "key": "gold.s1.agreebin_human_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S1.agreement_binary.lo",
+      "value": 76.7
+    },
+    {
+      "key": "gold.s1.agreebin_human_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S1.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s1.kappabin_human_oss120",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S1.kappa_binary.est",
+      "value": 0.53
+    },
+    {
+      "key": "gold.s1.kappabin_human_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S1.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s1.kappabin_human_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S1.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s1.n_human_oss120",
+      "src": "human_audit_results_gptoss120b.json",
+      "value": 30
+    },
+    {
+      "key": "gold.s1.agree5_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S1.agreement_5way.est",
+      "value": 63.3
+    },
+    {
+      "key": "gold.s1.agree5_oss120_llm.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S1.agreement_5way.lo",
+      "value": 46.7
+    },
+    {
+      "key": "gold.s1.agree5_oss120_llm.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S1.agreement_5way.hi",
+      "value": 80.0
+    },
+    {
+      "key": "gold.s1.kappa5_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S1.kappa_5way.est",
+      "value": 0.35
+    },
+    {
+      "key": "gold.s1.kappa5_oss120_llm.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S1.kappa_5way.lo",
+      "value": 0.07
+    },
+    {
+      "key": "gold.s1.kappa5_oss120_llm.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S1.kappa_5way.hi",
+      "value": 0.61
+    },
+    {
+      "key": "gold.s1.agreebin_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S1.agreement_binary.est",
+      "value": 96.7
+    },
+    {
+      "key": "gold.s1.agreebin_oss120_llm.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S1.agreement_binary.lo",
+      "value": 90.0
+    },
+    {
+      "key": "gold.s1.agreebin_oss120_llm.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S1.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s1.kappabin_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S1.kappa_binary.est",
+      "value": 0.65
+    },
+    {
+      "key": "gold.s1.kappabin_oss120_llm.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S1.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s1.kappabin_oss120_llm.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S1.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s1.n_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json",
+      "value": 30
+    },
+    {
+      "key": "gold.s2.agree5_human_oss120",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S2.agreement_5way.est",
+      "value": 50.0
+    },
+    {
+      "key": "gold.s2.agree5_human_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S2.agreement_5way.lo",
+      "value": 20.0
+    },
+    {
+      "key": "gold.s2.agree5_human_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S2.agreement_5way.hi",
+      "value": 80.0
+    },
+    {
+      "key": "gold.s2.kappa5_human_oss120",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S2.kappa_5way.est",
+      "value": 0.26
+    },
+    {
+      "key": "gold.s2.kappa5_human_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S2.kappa_5way.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s2.kappa5_human_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S2.kappa_5way.hi",
+      "value": 0.64
+    },
+    {
+      "key": "gold.s2.agreebin_human_oss120",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S2.agreement_binary.est",
+      "value": 80.0
+    },
+    {
+      "key": "gold.s2.agreebin_human_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S2.agreement_binary.lo",
+      "value": 50.0
+    },
+    {
+      "key": "gold.s2.agreebin_human_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S2.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s2.kappabin_human_oss120",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S2.kappa_binary.est",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s2.kappabin_human_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S2.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s2.kappabin_human_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S2.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s2.n_human_oss120",
+      "src": "human_audit_results_gptoss120b.json",
+      "value": 10
+    },
+    {
+      "key": "gold.s2.agree5_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S2.agreement_5way.est",
+      "value": 70.0
+    },
+    {
+      "key": "gold.s2.agree5_oss120_llm.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S2.agreement_5way.lo",
+      "value": 40.0
+    },
+    {
+      "key": "gold.s2.agree5_oss120_llm.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S2.agreement_5way.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s2.kappa5_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S2.kappa_5way.est",
+      "value": 0.42
+    },
+    {
+      "key": "gold.s2.kappa5_oss120_llm.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S2.kappa_5way.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s2.kappa5_oss120_llm.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S2.kappa_5way.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s2.agreebin_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S2.agreement_binary.est",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s2.agreebin_oss120_llm.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S2.agreement_binary.lo",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s2.agreebin_oss120_llm.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S2.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s2.kappabin_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S2.kappa_binary.est",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s2.kappabin_oss120_llm.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S2.kappa_binary.lo",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s2.kappabin_oss120_llm.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S2.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s2.n_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json",
+      "value": 10
+    },
+    {
+      "key": "gold.s3a.agree5_human_oss120",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S3.agreement_5way.est",
+      "value": 78.9
+    },
+    {
+      "key": "gold.s3a.agree5_human_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S3.agreement_5way.lo",
+      "value": 57.9
+    },
+    {
+      "key": "gold.s3a.agree5_human_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S3.agreement_5way.hi",
+      "value": 94.7
+    },
+    {
+      "key": "gold.s3a.kappa5_human_oss120",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S3.kappa_5way.est",
+      "value": 0.25
+    },
+    {
+      "key": "gold.s3a.kappa5_human_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S3.kappa_5way.lo",
+      "value": -0.15
+    },
+    {
+      "key": "gold.s3a.kappa5_human_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S3.kappa_5way.hi",
+      "value": 0.77
+    },
+    {
+      "key": "gold.s3a.agreebin_human_oss120",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S3.agreement_binary.est",
+      "value": 94.7
+    },
+    {
+      "key": "gold.s3a.agreebin_human_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S3.agreement_binary.lo",
+      "value": 84.2
+    },
+    {
+      "key": "gold.s3a.agreebin_human_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S3.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s3a.kappabin_human_oss120",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S3.kappa_binary.est",
+      "value": 0.64
+    },
+    {
+      "key": "gold.s3a.kappabin_human_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S3.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappabin_human_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::human_vs_judge.S3.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s3a.n_human_oss120",
+      "src": "human_audit_results_gptoss120b.json",
+      "value": 19
+    },
+    {
+      "key": "gold.s3a.agree5_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S3.agreement_5way.est",
+      "value": 84.2
+    },
+    {
+      "key": "gold.s3a.agree5_oss120_llm.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S3.agreement_5way.lo",
+      "value": 68.4
+    },
+    {
+      "key": "gold.s3a.agree5_oss120_llm.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S3.agreement_5way.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s3a.kappa5_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S3.kappa_5way.est",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappa5_oss120_llm.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S3.kappa_5way.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappa5_oss120_llm.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S3.kappa_5way.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s3a.agreebin_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S3.agreement_binary.est",
+      "value": 89.5
+    },
+    {
+      "key": "gold.s3a.agreebin_oss120_llm.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S3.agreement_binary.lo",
+      "value": 73.7
+    },
+    {
+      "key": "gold.s3a.agreebin_oss120_llm.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S3.agreement_binary.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.s3a.kappabin_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S3.kappa_binary.est",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappabin_oss120_llm.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S3.kappa_binary.lo",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s3a.kappabin_oss120_llm.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_vs_reference.S3.kappa_binary.hi",
+      "value": 1.0
+    },
+    {
+      "key": "gold.s3a.n_oss120_llm",
+      "src": "human_audit_results_gptoss120b.json",
+      "value": 19
+    },
+    {
+      "key": "gold.s1.v1_sens_oss120",
+      "src": "human_audit_results_gptoss120b.json::judge_binary_vs_human.sensitivity (posterior median, 95% interval).est",
+      "value": 39.3
+    },
+    {
+      "key": "gold.s1.v1_sens_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_binary_vs_human.sensitivity (posterior median, 95% interval).lo",
+      "value": 13.4
+    },
+    {
+      "key": "gold.s1.v1_sens_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_binary_vs_human.sensitivity (posterior median, 95% interval).hi",
+      "value": 69.5
+    },
+    {
+      "key": "gold.s1.v1_spec_oss120",
+      "src": "human_audit_results_gptoss120b.json::judge_binary_vs_human.specificity (posterior median, 95% interval).est",
+      "value": 96.9
+    },
+    {
+      "key": "gold.s1.v1_spec_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_binary_vs_human.specificity (posterior median, 95% interval).lo",
+      "value": 90.1
+    },
+    {
+      "key": "gold.s1.v1_spec_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_binary_vs_human.specificity (posterior median, 95% interval).hi",
+      "value": 99.5
+    },
+    {
+      "key": "gold.s1.v1_j_oss120",
+      "src": "human_audit_results_gptoss120b.json::judge_binary_vs_human.youden_J (posterior median, 95% interval).est",
+      "value": 0.35
+    },
+    {
+      "key": "gold.s1.v1_j_oss120.lo",
+      "src": "human_audit_results_gptoss120b.json::judge_binary_vs_human.youden_J (posterior median, 95% interval).lo",
+      "value": 0.09
+    },
+    {
+      "key": "gold.s1.v1_j_oss120.hi",
+      "src": "human_audit_results_gptoss120b.json::judge_binary_vs_human.youden_J (posterior median, 95% interval).hi",
+      "value": 0.66
+    },
+    {
+      "key": "gold.s1.agree5_llm_llm",
+      "src": "kappa.json::overlap.agreement_5way",
+      "value": 71.7
+    },
+    {
+      "key": "gold.s1.kappa5_llm_llm",
+      "src": "kappa.json::overlap.kappa_5way",
+      "value": 0.54
+    },
+    {
+      "key": "gold.s1.agreebin_llm_llm",
+      "src": "kappa.json::overlap.agreement_revise",
+      "value": 98.3
+    },
+    {
+      "key": "gold.s1.kappabin_llm_llm",
+      "src": "kappa.json::overlap.kappa_revise",
+      "value": 0.79
+    },
+    {
+      "key": "gold.s1.n_llm_llm",
+      "src": "kappa.json::overlap.n",
+      "value": 60
+    },
+    {
+      "key": "gold.v2.n",
+      "src": "human_audit_v2_results.json::n_labelled",
+      "value": 40
+    },
+    {
+      "key": "gold.v2.n_unsure",
+      "src": "human_audit_v2_results.json::n_unsure",
+      "value": 3
+    },
+    {
+      "key": "gold.v2.n_human_revise",
+      "src": "human_audit_v2_results.json::human_revise_count",
+      "value": 10
+    },
+    {
+      "key": "gold.v2.kappabin_human_judge",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.unweighted.kappa.est",
+      "value": 0.3
+    },
+    {
+      "key": "gold.v2.kappabin_human_judge.lo",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.unweighted.kappa.lo",
+      "value": 0.05
+    },
+    {
+      "key": "gold.v2.kappabin_human_judge.hi",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.unweighted.kappa.hi",
+      "value": 0.55
+    },
+    {
+      "key": "gold.v2.agreebin_human_judge",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.unweighted.agreement.est",
+      "value": 65.0
+    },
+    {
+      "key": "gold.v2.agreebin_human_judge.lo",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.unweighted.agreement.lo",
+      "value": 52.5
+    },
+    {
+      "key": "gold.v2.agreebin_human_judge.hi",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.unweighted.agreement.hi",
+      "value": 77.5
+    },
+    {
+      "key": "gold.v2.kappabin_w_human_judge",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.weighted.kappa.est",
+      "value": 0.24
+    },
+    {
+      "key": "gold.v2.kappabin_w_human_judge.lo",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.weighted.kappa.lo",
+      "value": 0.03
+    },
+    {
+      "key": "gold.v2.kappabin_w_human_judge.hi",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.weighted.kappa.hi",
+      "value": 0.62
+    },
+    {
+      "key": "gold.v2.sens_judge",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.weighted.sensitivity.est",
+      "value": 26.8
+    },
+    {
+      "key": "gold.v2.sens_judge.lo",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.weighted.sensitivity.lo",
+      "value": 10.4
+    },
+    {
+      "key": "gold.v2.sens_judge.hi",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.weighted.sensitivity.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.v2.spec_judge",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.weighted.specificity.est",
+      "value": 93.9
+    },
+    {
+      "key": "gold.v2.spec_judge.lo",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.weighted.specificity.lo",
+      "value": 91.7
+    },
+    {
+      "key": "gold.v2.spec_judge.hi",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.weighted.specificity.hi",
+      "value": 96.0
+    },
+    {
+      "key": "gold.v2.ppv_judge",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.weighted.PPV.est",
+      "value": 38.5
+    },
+    {
+      "key": "gold.v2.ppv_judge.lo",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.weighted.PPV.lo",
+      "value": 18.5
+    },
+    {
+      "key": "gold.v2.ppv_judge.hi",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.weighted.PPV.hi",
+      "value": 60.0
+    },
+    {
+      "key": "gold.v2.j_judge",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.weighted.youden_J.est",
+      "value": 0.21
+    },
+    {
+      "key": "gold.v2.j_judge.lo",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.weighted.youden_J.lo",
+      "value": 0.02
+    },
+    {
+      "key": "gold.v2.j_judge.hi",
+      "src": "human_audit_v2_results.json::judges.qwen7b.primary_unsure_included.weighted.youden_J.hi",
+      "value": 0.95
+    },
+    {
+      "key": "gold.v2.kappabin_human_judge_excl_unsure",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.unweighted.kappa.est",
+      "value": 0.29
+    },
+    {
+      "key": "gold.v2.kappabin_human_judge_excl_unsure.lo",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.unweighted.kappa.lo",
+      "value": 0.01
+    },
+    {
+      "key": "gold.v2.kappabin_human_judge_excl_unsure.hi",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.unweighted.kappa.hi",
+      "value": 0.56
+    },
+    {
+      "key": "gold.v2.agreebin_human_judge_excl_unsure",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.unweighted.agreement.est",
+      "value": 64.9
+    },
+    {
+      "key": "gold.v2.agreebin_human_judge_excl_unsure.lo",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.unweighted.agreement.lo",
+      "value": 51.4
+    },
+    {
+      "key": "gold.v2.agreebin_human_judge_excl_unsure.hi",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.unweighted.agreement.hi",
+      "value": 78.4
+    },
+    {
+      "key": "gold.v2.kappabin_w_human_judge_excl_unsure",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.weighted.kappa.est",
+      "value": 0.22
+    },
+    {
+      "key": "gold.v2.kappabin_w_human_judge_excl_unsure.lo",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.weighted.kappa.lo",
+      "value": 0.01
+    },
+    {
+      "key": "gold.v2.kappabin_w_human_judge_excl_unsure.hi",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.weighted.kappa.hi",
+      "value": 0.62
+    },
+    {
+      "key": "gold.v2.sens_judge_excl_unsure",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.weighted.sensitivity.est",
+      "value": 24.6
+    },
+    {
+      "key": "gold.v2.sens_judge_excl_unsure.lo",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.weighted.sensitivity.lo",
+      "value": 9.1
+    },
+    {
+      "key": "gold.v2.sens_judge_excl_unsure.hi",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.weighted.sensitivity.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.v2.spec_judge_excl_unsure",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.weighted.specificity.est",
+      "value": 94.1
+    },
+    {
+      "key": "gold.v2.spec_judge_excl_unsure.lo",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.weighted.specificity.lo",
+      "value": 91.9
+    },
+    {
+      "key": "gold.v2.spec_judge_excl_unsure.hi",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.weighted.specificity.hi",
+      "value": 96.2
+    },
+    {
+      "key": "gold.v2.ppv_judge_excl_unsure",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.weighted.PPV.est",
+      "value": 38.0
+    },
+    {
+      "key": "gold.v2.ppv_judge_excl_unsure.lo",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.weighted.PPV.lo",
+      "value": 15.8
+    },
+    {
+      "key": "gold.v2.ppv_judge_excl_unsure.hi",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.weighted.PPV.hi",
+      "value": 60.3
+    },
+    {
+      "key": "gold.v2.j_judge_excl_unsure",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.weighted.youden_J.est",
+      "value": 0.19
+    },
+    {
+      "key": "gold.v2.j_judge_excl_unsure.lo",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.weighted.youden_J.lo",
+      "value": 0.01
+    },
+    {
+      "key": "gold.v2.j_judge_excl_unsure.hi",
+      "src": "human_audit_v2_results.json::judges.qwen7b.sensitivity_unsure_excluded.weighted.youden_J.hi",
+      "value": 0.95
+    },
+    {
+      "key": "gold.v2.band_code_judge",
+      "src": "human_audit_v2_results.json::judges.qwen7b.decision_band (2 primary >= .6, 1 corrected-primary .4-.6, 0 exploratory < .4)",
+      "value": 0
+    },
+    {
+      "key": "gold.v2.kappabin_human_oss",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.unweighted.kappa.est",
+      "value": 0.43
+    },
+    {
+      "key": "gold.v2.kappabin_human_oss.lo",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.unweighted.kappa.lo",
+      "value": 0.07
+    },
+    {
+      "key": "gold.v2.kappabin_human_oss.hi",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.unweighted.kappa.hi",
+      "value": 0.73
+    },
+    {
+      "key": "gold.v2.agreebin_human_oss",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.unweighted.agreement.est",
+      "value": 80.0
+    },
+    {
+      "key": "gold.v2.agreebin_human_oss.lo",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.unweighted.agreement.lo",
+      "value": 67.5
+    },
+    {
+      "key": "gold.v2.agreebin_human_oss.hi",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.unweighted.agreement.hi",
+      "value": 90.0
+    },
+    {
+      "key": "gold.v2.kappabin_w_human_oss",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.weighted.kappa.est",
+      "value": 0.23
+    },
+    {
+      "key": "gold.v2.kappabin_w_human_oss.lo",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.weighted.kappa.lo",
+      "value": 0.04
+    },
+    {
+      "key": "gold.v2.kappabin_w_human_oss.hi",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.weighted.kappa.hi",
+      "value": 0.72
+    },
+    {
+      "key": "gold.v2.sens_oss",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.weighted.sensitivity.est",
+      "value": 16.9
+    },
+    {
+      "key": "gold.v2.sens_oss.lo",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.weighted.sensitivity.lo",
+      "value": 4.5
+    },
+    {
+      "key": "gold.v2.sens_oss.hi",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.weighted.sensitivity.hi",
+      "value": 75.9
+    },
+    {
+      "key": "gold.v2.spec_oss",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.weighted.specificity.est",
+      "value": 98.6
+    },
+    {
+      "key": "gold.v2.spec_oss.lo",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.weighted.specificity.lo",
+      "value": 96.9
+    },
+    {
+      "key": "gold.v2.spec_oss.hi",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.weighted.specificity.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.v2.ppv_oss",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.weighted.PPV.est",
+      "value": 63.0
+    },
+    {
+      "key": "gold.v2.ppv_oss.lo",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.weighted.PPV.lo",
+      "value": 27.2
+    },
+    {
+      "key": "gold.v2.ppv_oss.hi",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.weighted.PPV.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.v2.j_oss",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.weighted.youden_J.est",
+      "value": 0.15
+    },
+    {
+      "key": "gold.v2.j_oss.lo",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.weighted.youden_J.lo",
+      "value": 0.03
+    },
+    {
+      "key": "gold.v2.j_oss.hi",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.primary_unsure_included.weighted.youden_J.hi",
+      "value": 0.75
+    },
+    {
+      "key": "gold.v2.kappabin_human_oss_excl_unsure",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.unweighted.kappa.est",
+      "value": 0.36
+    },
+    {
+      "key": "gold.v2.kappabin_human_oss_excl_unsure.lo",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.unweighted.kappa.lo",
+      "value": 0.01
+    },
+    {
+      "key": "gold.v2.kappabin_human_oss_excl_unsure.hi",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.unweighted.kappa.hi",
+      "value": 0.69
+    },
+    {
+      "key": "gold.v2.agreebin_human_oss_excl_unsure",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.unweighted.agreement.est",
+      "value": 78.4
+    },
+    {
+      "key": "gold.v2.agreebin_human_oss_excl_unsure.lo",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.unweighted.agreement.lo",
+      "value": 64.9
+    },
+    {
+      "key": "gold.v2.agreebin_human_oss_excl_unsure.hi",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.unweighted.agreement.hi",
+      "value": 89.2
+    },
+    {
+      "key": "gold.v2.kappabin_w_human_oss_excl_unsure",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.weighted.kappa.est",
+      "value": 0.19
+    },
+    {
+      "key": "gold.v2.kappabin_w_human_oss_excl_unsure.lo",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.weighted.kappa.lo",
+      "value": 0.02
+    },
+    {
+      "key": "gold.v2.kappabin_w_human_oss_excl_unsure.hi",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.weighted.kappa.hi",
+      "value": 0.69
+    },
+    {
+      "key": "gold.v2.sens_oss_excl_unsure",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.weighted.sensitivity.est",
+      "value": 14.4
+    },
+    {
+      "key": "gold.v2.sens_oss_excl_unsure.lo",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.weighted.sensitivity.lo",
+      "value": 3.2
+    },
+    {
+      "key": "gold.v2.sens_oss_excl_unsure.hi",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.weighted.sensitivity.hi",
+      "value": 73.8
+    },
+    {
+      "key": "gold.v2.spec_oss_excl_unsure",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.weighted.specificity.est",
+      "value": 98.5
+    },
+    {
+      "key": "gold.v2.spec_oss_excl_unsure.lo",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.weighted.specificity.lo",
+      "value": 96.8
+    },
+    {
+      "key": "gold.v2.spec_oss_excl_unsure.hi",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.weighted.specificity.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.v2.ppv_oss_excl_unsure",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.weighted.PPV.est",
+      "value": 58.4
+    },
+    {
+      "key": "gold.v2.ppv_oss_excl_unsure.lo",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.weighted.PPV.lo",
+      "value": 19.2
+    },
+    {
+      "key": "gold.v2.ppv_oss_excl_unsure.hi",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.weighted.PPV.hi",
+      "value": 100.0
+    },
+    {
+      "key": "gold.v2.j_oss_excl_unsure",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.weighted.youden_J.est",
+      "value": 0.13
+    },
+    {
+      "key": "gold.v2.j_oss_excl_unsure.lo",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.weighted.youden_J.lo",
+      "value": 0.01
+    },
+    {
+      "key": "gold.v2.j_oss_excl_unsure.hi",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.sensitivity_unsure_excluded.weighted.youden_J.hi",
+      "value": 0.72
+    },
+    {
+      "key": "gold.v2.band_code_oss",
+      "src": "human_audit_v2_results.json::judges.gptoss20b.decision_band (2 primary >= .6, 1 corrected-primary .4-.6, 0 exploratory < .4)",
+      "value": 1
+    }
+  ],
+  "note": "human = the user (author), used as given; llm = Claude reference raters; judge = Qwen2.5-7B-Instruct; oss = gpt-oss-20b"
+}

@@ -1,0 +1,994 @@
+{
+  "entries": [
+    {
+      "key": "h2.s2.base.hr",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.hr.est",
+      "value": 70.8
+    },
+    {
+      "key": "h2.s2.base.hr.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.hr.lo",
+      "value": 66.0
+    },
+    {
+      "key": "h2.s2.base.hr.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.hr.hi",
+      "value": 75.6
+    },
+    {
+      "key": "h2.s2.base.fa",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.fa.est",
+      "value": 39.2
+    },
+    {
+      "key": "h2.s2.base.fa.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.fa.lo",
+      "value": 34.0
+    },
+    {
+      "key": "h2.s2.base.fa.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.fa.hi",
+      "value": 44.6
+    },
+    {
+      "key": "h2.s2.base.dprime",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.dprime.est",
+      "value": 0.82
+    },
+    {
+      "key": "h2.s2.base.dprime.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.dprime.lo",
+      "value": 0.69
+    },
+    {
+      "key": "h2.s2.base.dprime.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.dprime.hi",
+      "value": 0.96
+    },
+    {
+      "key": "h2.s2.base.crit",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.criterion.est",
+      "value": -0.14
+    },
+    {
+      "key": "h2.s2.base.crit.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.criterion.lo",
+      "value": -0.26
+    },
+    {
+      "key": "h2.s2.base.crit.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.criterion.hi",
+      "value": -0.02
+    },
+    {
+      "key": "h2.s2.base.hr_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.hr_wait.est",
+      "value": 56.9
+    },
+    {
+      "key": "h2.s2.base.hr_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.hr_wait.lo",
+      "value": 51.6
+    },
+    {
+      "key": "h2.s2.base.hr_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.hr_wait.hi",
+      "value": 62.0
+    },
+    {
+      "key": "h2.s2.base.fa_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.fa_wait.est",
+      "value": 18.9
+    },
+    {
+      "key": "h2.s2.base.fa_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.fa_wait.lo",
+      "value": 14.9
+    },
+    {
+      "key": "h2.s2.base.fa_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.base.fa_wait.hi",
+      "value": 23.1
+    },
+    {
+      "key": "h2.s2.step0025.hr",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.hr.est",
+      "value": 68.6
+    },
+    {
+      "key": "h2.s2.step0025.hr.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.hr.lo",
+      "value": 63.2
+    },
+    {
+      "key": "h2.s2.step0025.hr.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.hr.hi",
+      "value": 74.0
+    },
+    {
+      "key": "h2.s2.step0025.fa",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.fa.est",
+      "value": 34.0
+    },
+    {
+      "key": "h2.s2.step0025.fa.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.fa.lo",
+      "value": 28.7
+    },
+    {
+      "key": "h2.s2.step0025.fa.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.fa.hi",
+      "value": 40.0
+    },
+    {
+      "key": "h2.s2.step0025.dprime",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.dprime.est",
+      "value": 0.9
+    },
+    {
+      "key": "h2.s2.step0025.dprime.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.dprime.lo",
+      "value": 0.74
+    },
+    {
+      "key": "h2.s2.step0025.dprime.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.dprime.hi",
+      "value": 1.07
+    },
+    {
+      "key": "h2.s2.step0025.crit",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.criterion.est",
+      "value": -0.03
+    },
+    {
+      "key": "h2.s2.step0025.crit.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.criterion.lo",
+      "value": -0.17
+    },
+    {
+      "key": "h2.s2.step0025.crit.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.criterion.hi",
+      "value": 0.09
+    },
+    {
+      "key": "h2.s2.step0025.hr_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.hr_wait.est",
+      "value": 58.7
+    },
+    {
+      "key": "h2.s2.step0025.hr_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.hr_wait.lo",
+      "value": 53.1
+    },
+    {
+      "key": "h2.s2.step0025.hr_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.hr_wait.hi",
+      "value": 64.4
+    },
+    {
+      "key": "h2.s2.step0025.fa_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.fa_wait.est",
+      "value": 16.2
+    },
+    {
+      "key": "h2.s2.step0025.fa_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.fa_wait.lo",
+      "value": 12.3
+    },
+    {
+      "key": "h2.s2.step0025.fa_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.fa_wait.hi",
+      "value": 20.2
+    },
+    {
+      "key": "h2.s2.early.hr",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.hr.est",
+      "value": 68.6
+    },
+    {
+      "key": "h2.s2.early.hr.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.hr.lo",
+      "value": 63.2
+    },
+    {
+      "key": "h2.s2.early.hr.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.hr.hi",
+      "value": 74.0
+    },
+    {
+      "key": "h2.s2.early.fa",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.fa.est",
+      "value": 34.0
+    },
+    {
+      "key": "h2.s2.early.fa.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.fa.lo",
+      "value": 28.7
+    },
+    {
+      "key": "h2.s2.early.fa.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.fa.hi",
+      "value": 40.0
+    },
+    {
+      "key": "h2.s2.early.dprime",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.dprime.est",
+      "value": 0.9
+    },
+    {
+      "key": "h2.s2.early.dprime.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.dprime.lo",
+      "value": 0.74
+    },
+    {
+      "key": "h2.s2.early.dprime.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.dprime.hi",
+      "value": 1.07
+    },
+    {
+      "key": "h2.s2.early.crit",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.criterion.est",
+      "value": -0.03
+    },
+    {
+      "key": "h2.s2.early.crit.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.criterion.lo",
+      "value": -0.17
+    },
+    {
+      "key": "h2.s2.early.crit.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.criterion.hi",
+      "value": 0.09
+    },
+    {
+      "key": "h2.s2.early.hr_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.hr_wait.est",
+      "value": 58.7
+    },
+    {
+      "key": "h2.s2.early.hr_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.hr_wait.lo",
+      "value": 53.1
+    },
+    {
+      "key": "h2.s2.early.hr_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.hr_wait.hi",
+      "value": 64.4
+    },
+    {
+      "key": "h2.s2.early.fa_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.fa_wait.est",
+      "value": 16.2
+    },
+    {
+      "key": "h2.s2.early.fa_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.fa_wait.lo",
+      "value": 12.3
+    },
+    {
+      "key": "h2.s2.early.fa_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.25.fa_wait.hi",
+      "value": 20.2
+    },
+    {
+      "key": "h2.s2.step0100.hr",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.hr.est",
+      "value": 64.2
+    },
+    {
+      "key": "h2.s2.step0100.hr.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.hr.lo",
+      "value": 58.9
+    },
+    {
+      "key": "h2.s2.step0100.hr.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.hr.hi",
+      "value": 69.2
+    },
+    {
+      "key": "h2.s2.step0100.fa",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.fa.est",
+      "value": 37.3
+    },
+    {
+      "key": "h2.s2.step0100.fa.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.fa.lo",
+      "value": 31.9
+    },
+    {
+      "key": "h2.s2.step0100.fa.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.fa.hi",
+      "value": 42.6
+    },
+    {
+      "key": "h2.s2.step0100.dprime",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.dprime.est",
+      "value": 0.69
+    },
+    {
+      "key": "h2.s2.step0100.dprime.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.dprime.lo",
+      "value": 0.56
+    },
+    {
+      "key": "h2.s2.step0100.dprime.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.dprime.hi",
+      "value": 0.82
+    },
+    {
+      "key": "h2.s2.step0100.crit",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.criterion.est",
+      "value": -0.02
+    },
+    {
+      "key": "h2.s2.step0100.crit.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.criterion.lo",
+      "value": -0.14
+    },
+    {
+      "key": "h2.s2.step0100.crit.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.criterion.hi",
+      "value": 0.11
+    },
+    {
+      "key": "h2.s2.step0100.hr_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.hr_wait.est",
+      "value": 53.0
+    },
+    {
+      "key": "h2.s2.step0100.hr_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.hr_wait.lo",
+      "value": 47.5
+    },
+    {
+      "key": "h2.s2.step0100.hr_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.hr_wait.hi",
+      "value": 58.6
+    },
+    {
+      "key": "h2.s2.step0100.fa_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.fa_wait.est",
+      "value": 18.0
+    },
+    {
+      "key": "h2.s2.step0100.fa_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.fa_wait.lo",
+      "value": 13.8
+    },
+    {
+      "key": "h2.s2.step0100.fa_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.100.fa_wait.hi",
+      "value": 22.0
+    },
+    {
+      "key": "h2.s2.step0250.hr",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.hr.est",
+      "value": 62.6
+    },
+    {
+      "key": "h2.s2.step0250.hr.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.hr.lo",
+      "value": 57.1
+    },
+    {
+      "key": "h2.s2.step0250.hr.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.hr.hi",
+      "value": 67.6
+    },
+    {
+      "key": "h2.s2.step0250.fa",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.fa.est",
+      "value": 30.8
+    },
+    {
+      "key": "h2.s2.step0250.fa.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.fa.lo",
+      "value": 25.9
+    },
+    {
+      "key": "h2.s2.step0250.fa.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.fa.hi",
+      "value": 35.9
+    },
+    {
+      "key": "h2.s2.step0250.dprime",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.dprime.est",
+      "value": 0.82
+    },
+    {
+      "key": "h2.s2.step0250.dprime.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.dprime.lo",
+      "value": 0.68
+    },
+    {
+      "key": "h2.s2.step0250.dprime.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.dprime.hi",
+      "value": 0.96
+    },
+    {
+      "key": "h2.s2.step0250.crit",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.criterion.est",
+      "value": 0.09
+    },
+    {
+      "key": "h2.s2.step0250.crit.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.criterion.lo",
+      "value": -0.03
+    },
+    {
+      "key": "h2.s2.step0250.crit.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.criterion.hi",
+      "value": 0.21
+    },
+    {
+      "key": "h2.s2.step0250.hr_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.hr_wait.est",
+      "value": 55.0
+    },
+    {
+      "key": "h2.s2.step0250.hr_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.hr_wait.lo",
+      "value": 49.6
+    },
+    {
+      "key": "h2.s2.step0250.hr_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.hr_wait.hi",
+      "value": 60.2
+    },
+    {
+      "key": "h2.s2.step0250.fa_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.fa_wait.est",
+      "value": 15.1
+    },
+    {
+      "key": "h2.s2.step0250.fa_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.fa_wait.lo",
+      "value": 11.3
+    },
+    {
+      "key": "h2.s2.step0250.fa_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.250.fa_wait.hi",
+      "value": 19.1
+    },
+    {
+      "key": "h2.s2.step0500.hr",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.hr.est",
+      "value": 70.6
+    },
+    {
+      "key": "h2.s2.step0500.hr.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.hr.lo",
+      "value": 65.8
+    },
+    {
+      "key": "h2.s2.step0500.hr.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.hr.hi",
+      "value": 75.7
+    },
+    {
+      "key": "h2.s2.step0500.fa",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.fa.est",
+      "value": 39.1
+    },
+    {
+      "key": "h2.s2.step0500.fa.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.fa.lo",
+      "value": 34.1
+    },
+    {
+      "key": "h2.s2.step0500.fa.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.fa.hi",
+      "value": 44.6
+    },
+    {
+      "key": "h2.s2.step0500.dprime",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.dprime.est",
+      "value": 0.82
+    },
+    {
+      "key": "h2.s2.step0500.dprime.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.dprime.lo",
+      "value": 0.68
+    },
+    {
+      "key": "h2.s2.step0500.dprime.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.dprime.hi",
+      "value": 0.96
+    },
+    {
+      "key": "h2.s2.step0500.crit",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.criterion.est",
+      "value": -0.13
+    },
+    {
+      "key": "h2.s2.step0500.crit.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.criterion.lo",
+      "value": -0.26
+    },
+    {
+      "key": "h2.s2.step0500.crit.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.criterion.hi",
+      "value": -0.02
+    },
+    {
+      "key": "h2.s2.step0500.hr_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.hr_wait.est",
+      "value": 61.0
+    },
+    {
+      "key": "h2.s2.step0500.hr_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.hr_wait.lo",
+      "value": 55.8
+    },
+    {
+      "key": "h2.s2.step0500.hr_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.hr_wait.hi",
+      "value": 66.2
+    },
+    {
+      "key": "h2.s2.step0500.fa_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.fa_wait.est",
+      "value": 21.7
+    },
+    {
+      "key": "h2.s2.step0500.fa_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.fa_wait.lo",
+      "value": 17.4
+    },
+    {
+      "key": "h2.s2.step0500.fa_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.fa_wait.hi",
+      "value": 26.2
+    },
+    {
+      "key": "h2.s2.mid.hr",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.hr.est",
+      "value": 70.6
+    },
+    {
+      "key": "h2.s2.mid.hr.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.hr.lo",
+      "value": 65.8
+    },
+    {
+      "key": "h2.s2.mid.hr.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.hr.hi",
+      "value": 75.7
+    },
+    {
+      "key": "h2.s2.mid.fa",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.fa.est",
+      "value": 39.1
+    },
+    {
+      "key": "h2.s2.mid.fa.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.fa.lo",
+      "value": 34.1
+    },
+    {
+      "key": "h2.s2.mid.fa.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.fa.hi",
+      "value": 44.6
+    },
+    {
+      "key": "h2.s2.mid.dprime",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.dprime.est",
+      "value": 0.82
+    },
+    {
+      "key": "h2.s2.mid.dprime.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.dprime.lo",
+      "value": 0.68
+    },
+    {
+      "key": "h2.s2.mid.dprime.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.dprime.hi",
+      "value": 0.96
+    },
+    {
+      "key": "h2.s2.mid.crit",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.criterion.est",
+      "value": -0.13
+    },
+    {
+      "key": "h2.s2.mid.crit.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.criterion.lo",
+      "value": -0.26
+    },
+    {
+      "key": "h2.s2.mid.crit.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.criterion.hi",
+      "value": -0.02
+    },
+    {
+      "key": "h2.s2.mid.hr_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.hr_wait.est",
+      "value": 61.0
+    },
+    {
+      "key": "h2.s2.mid.hr_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.hr_wait.lo",
+      "value": 55.8
+    },
+    {
+      "key": "h2.s2.mid.hr_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.hr_wait.hi",
+      "value": 66.2
+    },
+    {
+      "key": "h2.s2.mid.fa_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.fa_wait.est",
+      "value": 21.7
+    },
+    {
+      "key": "h2.s2.mid.fa_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.fa_wait.lo",
+      "value": 17.4
+    },
+    {
+      "key": "h2.s2.mid.fa_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.500.fa_wait.hi",
+      "value": 26.2
+    },
+    {
+      "key": "h2.s2.step0750.hr",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.hr.est",
+      "value": 70.4
+    },
+    {
+      "key": "h2.s2.step0750.hr.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.hr.lo",
+      "value": 65.6
+    },
+    {
+      "key": "h2.s2.step0750.hr.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.hr.hi",
+      "value": 75.1
+    },
+    {
+      "key": "h2.s2.step0750.fa",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.fa.est",
+      "value": 35.1
+    },
+    {
+      "key": "h2.s2.step0750.fa.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.fa.lo",
+      "value": 30.2
+    },
+    {
+      "key": "h2.s2.step0750.fa.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.fa.hi",
+      "value": 40.0
+    },
+    {
+      "key": "h2.s2.step0750.dprime",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.dprime.est",
+      "value": 0.92
+    },
+    {
+      "key": "h2.s2.step0750.dprime.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.dprime.lo",
+      "value": 0.79
+    },
+    {
+      "key": "h2.s2.step0750.dprime.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.dprime.hi",
+      "value": 1.06
+    },
+    {
+      "key": "h2.s2.step0750.crit",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.criterion.est",
+      "value": -0.08
+    },
+    {
+      "key": "h2.s2.step0750.crit.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.criterion.lo",
+      "value": -0.19
+    },
+    {
+      "key": "h2.s2.step0750.crit.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.criterion.hi",
+      "value": 0.04
+    },
+    {
+      "key": "h2.s2.step0750.hr_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.hr_wait.est",
+      "value": 61.9
+    },
+    {
+      "key": "h2.s2.step0750.hr_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.hr_wait.lo",
+      "value": 57.1
+    },
+    {
+      "key": "h2.s2.step0750.hr_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.hr_wait.hi",
+      "value": 67.2
+    },
+    {
+      "key": "h2.s2.step0750.fa_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.fa_wait.est",
+      "value": 14.5
+    },
+    {
+      "key": "h2.s2.step0750.fa_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.fa_wait.lo",
+      "value": 11.1
+    },
+    {
+      "key": "h2.s2.step0750.fa_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.750.fa_wait.hi",
+      "value": 17.9
+    },
+    {
+      "key": "h2.s2.step1000.hr",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.hr.est",
+      "value": 72.1
+    },
+    {
+      "key": "h2.s2.step1000.hr.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.hr.lo",
+      "value": 67.0
+    },
+    {
+      "key": "h2.s2.step1000.hr.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.hr.hi",
+      "value": 76.8
+    },
+    {
+      "key": "h2.s2.step1000.fa",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.fa.est",
+      "value": 41.5
+    },
+    {
+      "key": "h2.s2.step1000.fa.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.fa.lo",
+      "value": 35.7
+    },
+    {
+      "key": "h2.s2.step1000.fa.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.fa.hi",
+      "value": 47.4
+    },
+    {
+      "key": "h2.s2.step1000.dprime",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.dprime.est",
+      "value": 0.8
+    },
+    {
+      "key": "h2.s2.step1000.dprime.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.dprime.lo",
+      "value": 0.65
+    },
+    {
+      "key": "h2.s2.step1000.dprime.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.dprime.hi",
+      "value": 0.95
+    },
+    {
+      "key": "h2.s2.step1000.crit",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.criterion.est",
+      "value": -0.19
+    },
+    {
+      "key": "h2.s2.step1000.crit.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.criterion.lo",
+      "value": -0.31
+    },
+    {
+      "key": "h2.s2.step1000.crit.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.criterion.hi",
+      "value": -0.06
+    },
+    {
+      "key": "h2.s2.step1000.hr_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.hr_wait.est",
+      "value": 61.4
+    },
+    {
+      "key": "h2.s2.step1000.hr_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.hr_wait.lo",
+      "value": 56.1
+    },
+    {
+      "key": "h2.s2.step1000.hr_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.hr_wait.hi",
+      "value": 66.4
+    },
+    {
+      "key": "h2.s2.step1000.fa_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.fa_wait.est",
+      "value": 19.5
+    },
+    {
+      "key": "h2.s2.step1000.fa_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.fa_wait.lo",
+      "value": 14.8
+    },
+    {
+      "key": "h2.s2.step1000.fa_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1000.fa_wait.hi",
+      "value": 24.1
+    },
+    {
+      "key": "h2.s2.step1375.hr",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.hr.est",
+      "value": 75.7
+    },
+    {
+      "key": "h2.s2.step1375.hr.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.hr.lo",
+      "value": 70.9
+    },
+    {
+      "key": "h2.s2.step1375.hr.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.hr.hi",
+      "value": 80.1
+    },
+    {
+      "key": "h2.s2.step1375.fa",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.fa.est",
+      "value": 37.3
+    },
+    {
+      "key": "h2.s2.step1375.fa.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.fa.lo",
+      "value": 31.8
+    },
+    {
+      "key": "h2.s2.step1375.fa.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.fa.hi",
+      "value": 42.8
+    },
+    {
+      "key": "h2.s2.step1375.dprime",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.dprime.est",
+      "value": 1.02
+    },
+    {
+      "key": "h2.s2.step1375.dprime.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.dprime.lo",
+      "value": 0.87
+    },
+    {
+      "key": "h2.s2.step1375.dprime.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.dprime.hi",
+      "value": 1.18
+    },
+    {
+      "key": "h2.s2.step1375.crit",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.criterion.est",
+      "value": -0.19
+    },
+    {
+      "key": "h2.s2.step1375.crit.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.criterion.lo",
+      "value": -0.31
+    },
+    {
+      "key": "h2.s2.step1375.crit.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.criterion.hi",
+      "value": -0.06
+    },
+    {
+      "key": "h2.s2.step1375.hr_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.hr_wait.est",
+      "value": 66.5
+    },
+    {
+      "key": "h2.s2.step1375.hr_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.hr_wait.lo",
+      "value": 61.0
+    },
+    {
+      "key": "h2.s2.step1375.hr_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.hr_wait.hi",
+      "value": 71.5
+    },
+    {
+      "key": "h2.s2.step1375.fa_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.fa_wait.est",
+      "value": 19.4
+    },
+    {
+      "key": "h2.s2.step1375.fa_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.fa_wait.lo",
+      "value": 15.2
+    },
+    {
+      "key": "h2.s2.step1375.fa_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.fa_wait.hi",
+      "value": 24.1
+    },
+    {
+      "key": "h2.s2.late.hr",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.hr.est",
+      "value": 75.7
+    },
+    {
+      "key": "h2.s2.late.hr.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.hr.lo",
+      "value": 70.9
+    },
+    {
+      "key": "h2.s2.late.hr.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.hr.hi",
+      "value": 80.1
+    },
+    {
+      "key": "h2.s2.late.fa",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.fa.est",
+      "value": 37.3
+    },
+    {
+      "key": "h2.s2.late.fa.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.fa.lo",
+      "value": 31.8
+    },
+    {
+      "key": "h2.s2.late.fa.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.fa.hi",
+      "value": 42.8
+    },
+    {
+      "key": "h2.s2.late.dprime",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.dprime.est",
+      "value": 1.02
+    },
+    {
+      "key": "h2.s2.late.dprime.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.dprime.lo",
+      "value": 0.87
+    },
+    {
+      "key": "h2.s2.late.dprime.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.dprime.hi",
+      "value": 1.18
+    },
+    {
+      "key": "h2.s2.late.crit",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.criterion.est",
+      "value": -0.19
+    },
+    {
+      "key": "h2.s2.late.crit.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.criterion.lo",
+      "value": -0.31
+    },
+    {
+      "key": "h2.s2.late.crit.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.criterion.hi",
+      "value": -0.06
+    },
+    {
+      "key": "h2.s2.late.hr_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.hr_wait.est",
+      "value": 66.5
+    },
+    {
+      "key": "h2.s2.late.hr_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.hr_wait.lo",
+      "value": 61.0
+    },
+    {
+      "key": "h2.s2.late.hr_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.hr_wait.hi",
+      "value": 71.5
+    },
+    {
+      "key": "h2.s2.late.fa_wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.fa_wait.est",
+      "value": 19.4
+    },
+    {
+      "key": "h2.s2.late.fa_wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.fa_wait.lo",
+      "value": 15.2
+    },
+    {
+      "key": "h2.s2.late.fa_wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/sdt.json::checkpoints.1375.fa_wait.hi",
+      "value": 24.1
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+step    0  trunc 0.233  wait/1k all 6.592 finished 7.449  tokens/finished 3670  acc 0.439
+step   20  trunc 0.131  wait/1k all 5.326 finished 5.787  tokens/finished 3326  acc 0.501
+step  100  trunc 0.001  wait/1k all 0.015 finished 0.015  tokens/finished 1051  acc 0.728
+step  200  trunc 0.004  wait/1k all 0.004 finished 0.004  tokens/finished 1049  acc 0.754
+step  300  trunc 0.053  wait/1k all 0.001 finished 0.001  tokens/finished 1020  acc 0.748
+step  400  trunc 0.185  wait/1k all 0.002 finished 0.002  tokens/finished 773  acc 0.681

@@ -1,0 +1,514 @@
+{
+  "entries": [
+    {
+      "key": "h1.fork_ref1m.step0100.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s100.graded.jsonl.gz",
+      "value": 0.81
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s100.graded.jsonl.gz",
+      "value": 0.76
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s100.graded.jsonl.gz",
+      "value": 0.86
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s200.graded.jsonl.gz",
+      "value": 0.87
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s200.graded.jsonl.gz",
+      "value": 0.81
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s200.graded.jsonl.gz",
+      "value": 0.93
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s300.graded.jsonl.gz",
+      "value": 0.98
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s300.graded.jsonl.gz",
+      "value": 0.92
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s300.graded.jsonl.gz",
+      "value": 1.05
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s350.graded.jsonl.gz",
+      "value": 0.96
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s350.graded.jsonl.gz",
+      "value": 0.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s350.graded.jsonl.gz",
+      "value": 1.02
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s400.graded.jsonl.gz",
+      "value": 0.97
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s400.graded.jsonl.gz",
+      "value": 0.91
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s400.graded.jsonl.gz",
+      "value": 1.04
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.a_boot_fin",
+      "src": "cluster bootstrap over 471 problems, B=5000, paired; finished only; s100.graded.jsonl.gz",
+      "value": 0.89
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.a_boot_fin.lo",
+      "src": "cluster bootstrap over 471 problems, B=5000, paired; finished only; s100.graded.jsonl.gz",
+      "value": 0.82
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.a_boot_fin.hi",
+      "src": "cluster bootstrap over 471 problems, B=5000, paired; finished only; s100.graded.jsonl.gz",
+      "value": 0.96
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.a_boot_fin",
+      "src": "cluster bootstrap over 476 problems, B=5000, paired; finished only; s200.graded.jsonl.gz",
+      "value": 0.98
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.a_boot_fin.lo",
+      "src": "cluster bootstrap over 476 problems, B=5000, paired; finished only; s200.graded.jsonl.gz",
+      "value": 0.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.a_boot_fin.hi",
+      "src": "cluster bootstrap over 476 problems, B=5000, paired; finished only; s200.graded.jsonl.gz",
+      "value": 1.07
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.a_boot_fin",
+      "src": "cluster bootstrap over 479 problems, B=5000, paired; finished only; s300.graded.jsonl.gz",
+      "value": 1.13
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.a_boot_fin.lo",
+      "src": "cluster bootstrap over 479 problems, B=5000, paired; finished only; s300.graded.jsonl.gz",
+      "value": 1.04
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.a_boot_fin.hi",
+      "src": "cluster bootstrap over 479 problems, B=5000, paired; finished only; s300.graded.jsonl.gz",
+      "value": 1.23
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.a_boot_fin",
+      "src": "cluster bootstrap over 478 problems, B=5000, paired; finished only; s350.graded.jsonl.gz",
+      "value": 1.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.a_boot_fin.lo",
+      "src": "cluster bootstrap over 478 problems, B=5000, paired; finished only; s350.graded.jsonl.gz",
+      "value": 1.02
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.a_boot_fin.hi",
+      "src": "cluster bootstrap over 478 problems, B=5000, paired; finished only; s350.graded.jsonl.gz",
+      "value": 1.19
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.a_boot_fin",
+      "src": "cluster bootstrap over 479 problems, B=5000, paired; finished only; s400.graded.jsonl.gz",
+      "value": 1.13
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.a_boot_fin.lo",
+      "src": "cluster bootstrap over 479 problems, B=5000, paired; finished only; s400.graded.jsonl.gz",
+      "value": 1.05
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.a_boot_fin.hi",
+      "src": "cluster bootstrap over 479 problems, B=5000, paired; finished only; s400.graded.jsonl.gz",
+      "value": 1.22
+    },
+    {
+      "key": "h1.fork_b0m.step0020.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s20.graded.jsonl.gz",
+      "value": 1.03
+    },
+    {
+      "key": "h1.fork_b0m.step0020.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s20.graded.jsonl.gz",
+      "value": 0.97
+    },
+    {
+      "key": "h1.fork_b0m.step0020.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s20.graded.jsonl.gz",
+      "value": 1.1
+    },
+    {
+      "key": "h1.fork_b0m.step0100.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s100.graded.jsonl.gz",
+      "value": 0.73
+    },
+    {
+      "key": "h1.fork_b0m.step0100.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s100.graded.jsonl.gz",
+      "value": 0.68
+    },
+    {
+      "key": "h1.fork_b0m.step0100.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s100.graded.jsonl.gz",
+      "value": 0.78
+    },
+    {
+      "key": "h1.fork_b0m.step0200.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s200.graded.jsonl.gz",
+      "value": 0.82
+    },
+    {
+      "key": "h1.fork_b0m.step0200.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s200.graded.jsonl.gz",
+      "value": 0.76
+    },
+    {
+      "key": "h1.fork_b0m.step0200.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s200.graded.jsonl.gz",
+      "value": 0.88
+    },
+    {
+      "key": "h1.fork_b0m.step0300.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s300.graded.jsonl.gz",
+      "value": 0.97
+    },
+    {
+      "key": "h1.fork_b0m.step0300.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s300.graded.jsonl.gz",
+      "value": 0.91
+    },
+    {
+      "key": "h1.fork_b0m.step0300.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s300.graded.jsonl.gz",
+      "value": 1.04
+    },
+    {
+      "key": "h1.fork_b0m.step0400.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s400.graded.jsonl.gz",
+      "value": 0.81
+    },
+    {
+      "key": "h1.fork_b0m.step0400.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s400.graded.jsonl.gz",
+      "value": 0.76
+    },
+    {
+      "key": "h1.fork_b0m.step0400.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; s400.graded.jsonl.gz",
+      "value": 0.87
+    },
+    {
+      "key": "h1.fork_b0m.step0020.a_boot_fin",
+      "src": "cluster bootstrap over 453 problems, B=5000, paired; finished only; s20.graded.jsonl.gz",
+      "value": 1.08
+    },
+    {
+      "key": "h1.fork_b0m.step0020.a_boot_fin.lo",
+      "src": "cluster bootstrap over 453 problems, B=5000, paired; finished only; s20.graded.jsonl.gz",
+      "value": 1.01
+    },
+    {
+      "key": "h1.fork_b0m.step0020.a_boot_fin.hi",
+      "src": "cluster bootstrap over 453 problems, B=5000, paired; finished only; s20.graded.jsonl.gz",
+      "value": 1.17
+    },
+    {
+      "key": "h1.fork_b0m.step0100.a_boot_fin",
+      "src": "cluster bootstrap over 474 problems, B=5000, paired; finished only; s100.graded.jsonl.gz",
+      "value": 0.78
+    },
+    {
+      "key": "h1.fork_b0m.step0100.a_boot_fin.lo",
+      "src": "cluster bootstrap over 474 problems, B=5000, paired; finished only; s100.graded.jsonl.gz",
+      "value": 0.72
+    },
+    {
+      "key": "h1.fork_b0m.step0100.a_boot_fin.hi",
+      "src": "cluster bootstrap over 474 problems, B=5000, paired; finished only; s100.graded.jsonl.gz",
+      "value": 0.85
+    },
+    {
+      "key": "h1.fork_b0m.step0200.a_boot_fin",
+      "src": "cluster bootstrap over 475 problems, B=5000, paired; finished only; s200.graded.jsonl.gz",
+      "value": 0.91
+    },
+    {
+      "key": "h1.fork_b0m.step0200.a_boot_fin.lo",
+      "src": "cluster bootstrap over 475 problems, B=5000, paired; finished only; s200.graded.jsonl.gz",
+      "value": 0.83
+    },
+    {
+      "key": "h1.fork_b0m.step0200.a_boot_fin.hi",
+      "src": "cluster bootstrap over 475 problems, B=5000, paired; finished only; s200.graded.jsonl.gz",
+      "value": 1.0
+    },
+    {
+      "key": "h1.fork_b0m.step0300.a_boot_fin",
+      "src": "cluster bootstrap over 479 problems, B=5000, paired; finished only; s300.graded.jsonl.gz",
+      "value": 1.11
+    },
+    {
+      "key": "h1.fork_b0m.step0300.a_boot_fin.lo",
+      "src": "cluster bootstrap over 479 problems, B=5000, paired; finished only; s300.graded.jsonl.gz",
+      "value": 1.03
+    },
+    {
+      "key": "h1.fork_b0m.step0300.a_boot_fin.hi",
+      "src": "cluster bootstrap over 479 problems, B=5000, paired; finished only; s300.graded.jsonl.gz",
+      "value": 1.21
+    },
+    {
+      "key": "h1.fork_b0m.step0400.a_boot_fin",
+      "src": "cluster bootstrap over 478 problems, B=5000, paired; finished only; s400.graded.jsonl.gz",
+      "value": 0.93
+    },
+    {
+      "key": "h1.fork_b0m.step0400.a_boot_fin.lo",
+      "src": "cluster bootstrap over 478 problems, B=5000, paired; finished only; s400.graded.jsonl.gz",
+      "value": 0.85
+    },
+    {
+      "key": "h1.fork_b0m.step0400.a_boot_fin.hi",
+      "src": "cluster bootstrap over 478 problems, B=5000, paired; finished only; s400.graded.jsonl.gz",
+      "value": 1.01
+    },
+    {
+      "key": "h1.s1.step0100.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 1.16
+    },
+    {
+      "key": "h1.s1.step0100.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 1.09
+    },
+    {
+      "key": "h1.s1.step0100.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 1.23
+    },
+    {
+      "key": "h1.s1.step0200.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 1.24
+    },
+    {
+      "key": "h1.s1.step0200.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 1.17
+    },
+    {
+      "key": "h1.s1.step0200.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 1.32
+    },
+    {
+      "key": "h1.s1.step0400.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 1.58
+    },
+    {
+      "key": "h1.s1.step0400.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 1.49
+    },
+    {
+      "key": "h1.s1.step0400.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 1.69
+    },
+    {
+      "key": "h1.s1.step0700.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 1.62
+    },
+    {
+      "key": "h1.s1.step0700.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 1.52
+    },
+    {
+      "key": "h1.s1.step0700.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 1.72
+    },
+    {
+      "key": "h1.s1.step1000.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 2.42
+    },
+    {
+      "key": "h1.s1.step1000.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 2.07
+    },
+    {
+      "key": "h1.s1.step1000.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 2.87
+    },
+    {
+      "key": "h1.s1.step1400.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 3.35
+    },
+    {
+      "key": "h1.s1.step1400.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 2.79
+    },
+    {
+      "key": "h1.s1.step1400.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 4.09
+    },
+    {
+      "key": "h1.s1.final.a_boot",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 2.52
+    },
+    {
+      "key": "h1.s1.final.a_boot.lo",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 2.15
+    },
+    {
+      "key": "h1.s1.final.a_boot.hi",
+      "src": "cluster bootstrap over 500 problems, B=5000, paired; all responses; <EMAIL>",
+      "value": 3.05
+    },
+    {
+      "key": "h1.s1.step0100.a_boot_fin",
+      "src": "cluster bootstrap over 448 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 1.21
+    },
+    {
+      "key": "h1.s1.step0100.a_boot_fin.lo",
+      "src": "cluster bootstrap over 448 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 1.12
+    },
+    {
+      "key": "h1.s1.step0100.a_boot_fin.hi",
+      "src": "cluster bootstrap over 448 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 1.31
+    },
+    {
+      "key": "h1.s1.step0200.a_boot_fin",
+      "src": "cluster bootstrap over 440 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 1.34
+    },
+    {
+      "key": "h1.s1.step0200.a_boot_fin.lo",
+      "src": "cluster bootstrap over 440 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 1.24
+    },
+    {
+      "key": "h1.s1.step0200.a_boot_fin.hi",
+      "src": "cluster bootstrap over 440 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 1.45
+    },
+    {
+      "key": "h1.s1.step0400.a_boot_fin",
+      "src": "cluster bootstrap over 448 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 1.7
+    },
+    {
+      "key": "h1.s1.step0400.a_boot_fin.lo",
+      "src": "cluster bootstrap over 448 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 1.58
+    },
+    {
+      "key": "h1.s1.step0400.a_boot_fin.hi",
+      "src": "cluster bootstrap over 448 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 1.85
+    },
+    {
+      "key": "h1.s1.step0700.a_boot_fin",
+      "src": "cluster bootstrap over 452 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 1.78
+    },
+    {
+      "key": "h1.s1.step0700.a_boot_fin.lo",
+      "src": "cluster bootstrap over 452 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 1.65
+    },
+    {
+      "key": "h1.s1.step0700.a_boot_fin.hi",
+      "src": "cluster bootstrap over 452 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 1.93
+    },
+    {
+      "key": "h1.s1.step1000.a_boot_fin",
+      "src": "cluster bootstrap over 454 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 2.17
+    },
+    {
+      "key": "h1.s1.step1000.a_boot_fin.lo",
+      "src": "cluster bootstrap over 454 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 2.02
+    },
+    {
+      "key": "h1.s1.step1000.a_boot_fin.hi",
+      "src": "cluster bootstrap over 454 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 2.35
+    },
+    {
+      "key": "h1.s1.step1400.a_boot_fin",
+      "src": "cluster bootstrap over 436 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 3.09
+    },
+    {
+      "key": "h1.s1.step1400.a_boot_fin.lo",
+      "src": "cluster bootstrap over 436 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 2.86
+    },
+    {
+      "key": "h1.s1.step1400.a_boot_fin.hi",
+      "src": "cluster bootstrap over 436 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 3.38
+    },
+    {
+      "key": "h1.s1.final.a_boot_fin",
+      "src": "cluster bootstrap over 452 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 2.7
+    },
+    {
+      "key": "h1.s1.final.a_boot_fin.lo",
+      "src": "cluster bootstrap over 452 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 2.51
+    },
+    {
+      "key": "h1.s1.final.a_boot_fin.hi",
+      "src": "cluster bootstrap over 452 problems, B=5000, paired; finished only; <EMAIL>",
+      "value": 2.93
+    }
+  ]
+}

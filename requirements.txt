@@ -1,0 +1,11 @@
+# Python 3.10
+vllm>=0.10        # generation (V1 engine)
+transformers>=4.56
+torch>=2.6        # CUDA 12
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib>=3.9
+sympy             # answer grading
+verl==0.4.*       # our GRPO runs (code/exp/rl)

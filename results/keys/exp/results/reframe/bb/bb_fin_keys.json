@@ -1,0 +1,40 @@
+{
+  "entries": [
+    {
+      "key": "h1.bb_qwen38_27b.final.fin.freq2",
+      "src": "exp/results/scale/bb/BB_qwen38_27b/gen (cap 8,192; finished responses only)",
+      "value": 0.82
+    },
+    {
+      "key": "h1.bb_qwen38_27b.final.fin.freq4",
+      "src": "exp/results/scale/bb/BB_qwen38_27b/gen (cap 8,192; finished responses only)",
+      "value": 0.8168
+    },
+    {
+      "key": "h1.bb_qwen38_27b.final.fin.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.7623
+    },
+    {
+      "key": "h1.bb_qwen38_27b.final.fin.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.8743
+    },
+    {
+      "key": "h1.bb_qwen38_27b.final.fin.nwait",
+      "src": "exp/results/scale/bb/BB_qwen38_27b/gen (cap 8,192; finished responses only)",
+      "value": 832
+    },
+    {
+      "key": "h1.bb_qwen38_27b.final.fin.ntok",
+      "src": "exp/results/scale/bb/BB_qwen38_27b/gen (cap 8,192; finished responses only)",
+      "value": 1018573
+    },
+    {
+      "key": "h1.bb_qwen38_27b.final.fin.n",
+      "src": "exp/results/scale/bb/BB_qwen38_27b/gen (cap 8,192; finished responses only)",
+      "value": 759
+    }
+  ],
+  "note": "finished-only (finish != length) wait rates at cap 8,192; to be superseded by the 32,768-cap reruns for the post-trained Qwen3.5 models"
+}

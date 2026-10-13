@@ -1,0 +1,734 @@
+{
+  "entries": [
+    {
+      "key": "h1.s7r1.base.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json",
+      "value": 0.0012
+    },
+    {
+      "key": "h1.s7r1.base.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json",
+      "value": 2
+    },
+    {
+      "key": "h1.s7r1.base.ntok",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json",
+      "value": 1707821
+    },
+    {
+      "key": "ctl.s7r1.base.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json",
+      "value": 19.1
+    },
+    {
+      "key": "ctl.s7r1.base.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 9.0
+    },
+    {
+      "key": "h1.s7r1.final.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.final.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r1.final.ntok",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json",
+      "value": 953700
+    },
+    {
+      "key": "ctl.s7r1.final.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json",
+      "value": 74.4
+    },
+    {
+      "key": "ctl.s7r1.final.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.0
+    },
+    {
+      "key": "ctl.s7r1.trend.dacc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc(last)-acc(first), points",
+      "value": 55.2
+    },
+    {
+      "key": "h1.s7r2.base.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json",
+      "value": 0.0028
+    },
+    {
+      "key": "h1.s7r2.base.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json",
+      "value": 5
+    },
+    {
+      "key": "h1.s7r2.base.ntok",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json",
+      "value": 1769314
+    },
+    {
+      "key": "ctl.s7r2.base.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json",
+      "value": 17.8
+    },
+    {
+      "key": "ctl.s7r2.base.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 10.2
+    },
+    {
+      "key": "h1.s7r2.final.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.final.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r2.final.ntok",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json",
+      "value": 952936
+    },
+    {
+      "key": "ctl.s7r2.final.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json",
+      "value": 74.2
+    },
+    {
+      "key": "ctl.s7r2.final.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.6
+    },
+    {
+      "key": "ctl.s7r2.trend.dacc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc(last)-acc(first), points",
+      "value": 56.4
+    },
+    {
+      "key": "h1.s7r7b.base.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json",
+      "value": 0.0016
+    },
+    {
+      "key": "h1.s7r7b.base.nwait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json",
+      "value": 3
+    },
+    {
+      "key": "h1.s7r7b.base.ntok",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json",
+      "value": 1872395
+    },
+    {
+      "key": "ctl.s7r7b.base.acc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json",
+      "value": 16.9
+    },
+    {
+      "key": "ctl.s7r7b.base.trunc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 9.7
+    },
+    {
+      "key": "h1.s7r7b.final.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.final.nwait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r7b.final.ntok",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json",
+      "value": 967101
+    },
+    {
+      "key": "ctl.s7r7b.final.acc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json",
+      "value": 76.0
+    },
+    {
+      "key": "ctl.s7r7b.final.trunc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.1
+    },
+    {
+      "key": "ctl.s7r7b.trend.dacc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::acc(last)-acc(first), points",
+      "value": 59.1
+    },
+    {
+      "key": "h1.s8base.final.freq4",
+      "src": "exp/results/scale/scale_summary.json::models.S8_base.E1_math500",
+      "value": 0.009
+    },
+    {
+      "key": "h1.s8base.final.nwait",
+      "src": "exp/results/scale/scale_summary.json::models.S8_base.E1_math500",
+      "value": 4
+    },
+    {
+      "key": "h1.s8base.final.ntok",
+      "src": "exp/results/scale/scale_summary.json::models.S8_base.E1_math500",
+      "value": 444292
+    },
+    {
+      "key": "h1.s8base.final.nwait.lo",
+      "src": "Poisson exact 95%",
+      "value": 1.1
+    },
+    {
+      "key": "h1.s8base.final.nwait.hi",
+      "src": "Poisson exact 95%",
+      "value": 10.2
+    },
+    {
+      "key": "ctl.s8base.final.acc",
+      "src": "exp/results/scale/scale_summary.json::models.S8_base.E1_math500",
+      "value": 35.8
+    },
+    {
+      "key": "h1.s8base.base.freq4",
+      "src": "exp/results/scale/scale_summary.json::models.S8_base.E1_math500",
+      "value": 0.009
+    },
+    {
+      "key": "h1.s8dapo.final.freq4",
+      "src": "exp/results/scale/scale_summary.json::models.S8_dapo.E1_math500",
+      "value": 0.0012
+    },
+    {
+      "key": "h1.s8dapo.final.nwait",
+      "src": "exp/results/scale/scale_summary.json::models.S8_dapo.E1_math500",
+      "value": 2
+    },
+    {
+      "key": "h1.s8dapo.final.ntok",
+      "src": "exp/results/scale/scale_summary.json::models.S8_dapo.E1_math500",
+      "value": 1645616
+    },
+    {
+      "key": "h1.s8dapo.final.nwait.lo",
+      "src": "Poisson exact 95%",
+      "value": 0.2
+    },
+    {
+      "key": "h1.s8dapo.final.nwait.hi",
+      "src": "Poisson exact 95%",
+      "value": 7.2
+    },
+    {
+      "key": "ctl.s8dapo.final.acc",
+      "src": "exp/results/scale/scale_summary.json::models.S8_dapo.E1_math500",
+      "value": 76.4
+    },
+    {
+      "key": "h1.s8orz.final.freq4",
+      "src": "exp/results/scale/scale_summary.json::models.S8_orz.E1_math500",
+      "value": 0.0054
+    },
+    {
+      "key": "h1.s8orz.final.nwait",
+      "src": "exp/results/scale/scale_summary.json::models.S8_orz.E1_math500",
+      "value": 18
+    },
+    {
+      "key": "h1.s8orz.final.ntok",
+      "src": "exp/results/scale/scale_summary.json::models.S8_orz.E1_math500",
+      "value": 3304557
+    },
+    {
+      "key": "h1.s8orz.final.nwait.lo",
+      "src": "Poisson exact 95%",
+      "value": 10.7
+    },
+    {
+      "key": "h1.s8orz.final.nwait.hi",
+      "src": "Poisson exact 95%",
+      "value": 28.4
+    },
+    {
+      "key": "ctl.s8orz.final.acc",
+      "src": "exp/results/scale/scale_summary.json::models.S8_orz.E1_math500",
+      "value": 78.8
+    },
+    {
+      "key": "h1.s8qwq.final.freq2",
+      "src": "exp/results/scale/scale_summary.json::models.S8_qwq.E1_math500",
+      "value": 4.42
+    },
+    {
+      "key": "h1.s8qwq.final.nwait",
+      "src": "exp/results/scale/scale_summary.json::models.S8_qwq.E1_math500",
+      "value": 13585
+    },
+    {
+      "key": "h1.s8qwq.final.ntok",
+      "src": "exp/results/scale/scale_summary.json::models.S8_qwq.E1_math500",
+      "value": 3076429
+    },
+    {
+      "key": "h1.s8qwq.final.nwait.lo",
+      "src": "Poisson exact 95%",
+      "value": 13357.5
+    },
+    {
+      "key": "h1.s8qwq.final.nwait.hi",
+      "src": "Poisson exact 95%",
+      "value": 13815.4
+    },
+    {
+      "key": "ctl.s8qwq.final.acc",
+      "src": "exp/results/scale/scale_summary.json::models.S8_qwq.E1_math500",
+      "value": 89.6
+    },
+    {
+      "key": "h1.s8r1d.final.freq2",
+      "src": "exp/results/scale/scale_summary.json::models.S8_r1distill.E1_math500",
+      "value": 3.25
+    },
+    {
+      "key": "h1.s8r1d.final.nwait",
+      "src": "exp/results/scale/scale_summary.json::models.S8_r1distill.E1_math500",
+      "value": 8031
+    },
+    {
+      "key": "h1.s8r1d.final.ntok",
+      "src": "exp/results/scale/scale_summary.json::models.S8_r1distill.E1_math500",
+      "value": 2470105
+    },
+    {
+      "key": "h1.s8r1d.final.nwait.lo",
+      "src": "Poisson exact 95%",
+      "value": 7856.3
+    },
+    {
+      "key": "h1.s8r1d.final.nwait.hi",
+      "src": "Poisson exact 95%",
+      "value": 8208.6
+    },
+    {
+      "key": "ctl.s8r1d.final.acc",
+      "src": "exp/results/scale/scale_summary.json::models.S8_r1distill.E1_math500",
+      "value": 89.5
+    },
+    {
+      "key": "ctl.s8dapo.trend.dacc",
+      "src": "exp/results/scale/scale_summary.json::models.S8_dapo.E1_math500::acc - S8_base acc, points",
+      "value": 40.6
+    },
+    {
+      "key": "ctl.s8orz.trend.dacc",
+      "src": "exp/results/scale/scale_summary.json::models.S8_orz.E1_math500::acc - S8_base acc, points",
+      "value": 43.0
+    },
+    {
+      "key": "h1.s3a.base.freq4",
+      "src": "exp/results/main/S3/gen/S3@<ckpt>.graded.jsonl.gz::indices.trace_counts",
+      "value": 0.0009
+    },
+    {
+      "key": "h1.s3a.base.nwait",
+      "src": "exp/results/main/S3/gen/S3@<ckpt>.graded.jsonl.gz::indices.trace_counts",
+      "value": 1
+    },
+    {
+      "key": "h1.s3a.base.ntok",
+      "src": "exp/results/main/S3/gen/S3@<ckpt>.graded.jsonl.gz::indices.trace_counts",
+      "value": 1140567
+    },
+    {
+      "key": "ctl.s3a.base.acc",
+      "src": "exp/results/main/S3/gen/S3@<ckpt>.graded.jsonl.gz::indices.trace_counts",
+      "value": 42.0
+    },
+    {
+      "key": "h1.s3a.late.freq4",
+      "src": "exp/results/main/S3/gen/S3@<ckpt>.graded.jsonl.gz::indices.trace_counts",
+      "value": 0.0009
+    },
+    {
+      "key": "h1.s3a.late.nwait",
+      "src": "exp/results/main/S3/gen/S3@<ckpt>.graded.jsonl.gz::indices.trace_counts",
+      "value": 1
+    },
+    {
+      "key": "h1.s3a.late.ntok",
+      "src": "exp/results/main/S3/gen/S3@<ckpt>.graded.jsonl.gz::indices.trace_counts",
+      "value": 1168869
+    },
+    {
+      "key": "ctl.s3a.late.acc",
+      "src": "exp/results/main/S3/gen/S3@<ckpt>.graded.jsonl.gz::indices.trace_counts",
+      "value": 45.9
+    },
+    {
+      "key": "h1.s3a.max.freq4",
+      "src": "exp/results/main/S3/gen/S3@<ckpt>.graded.jsonl.gz::indices.trace_counts (max over checkpoints)",
+      "value": 0.0018
+    },
+    {
+      "key": "h1.s3a.max.nwait",
+      "src": "exp/results/main/S3/gen/S3@<ckpt>.graded.jsonl.gz::indices.trace_counts",
+      "value": 2
+    },
+    {
+      "key": "h1.s3a.max.ntok",
+      "src": "exp/results/main/S3/gen/S3@<ckpt>.graded.jsonl.gz::indices.trace_counts",
+      "value": 1126292
+    },
+    {
+      "key": "ctl.s3a.trend.dacc",
+      "src": "exp/results/main/S3/gen/S3@<ckpt>.graded.jsonl.gz::indices.trace_counts acc(1566)-acc(base), points",
+      "value": 3.8
+    },
+    {
+      "key": "h1.s1.base.freq2",
+      "src": "exp/results/main/S1/gen/<EMAIL>::trace_counts",
+      "value": 4.94
+    },
+    {
+      "key": "h1.s1.base.nwait",
+      "src": "same",
+      "value": 11164
+    },
+    {
+      "key": "h1.s1.base.ntok",
+      "src": "same",
+      "value": 2259495
+    },
+    {
+      "key": "h1.s1.late.freq2",
+      "src": "exp/results/main/S1/gen/<EMAIL>::trace_counts",
+      "value": 17.04
+    },
+    {
+      "key": "h1.s1.late.nwait",
+      "src": "same",
+      "value": 76403
+    },
+    {
+      "key": "h1.s1.late.ntok",
+      "src": "same",
+      "value": 4482937
+    },
+    {
+      "key": "h1.s1.final.freq2",
+      "src": "exp/results/main/S1/gen/<EMAIL>::trace_counts",
+      "value": 12.44
+    },
+    {
+      "key": "h1.s1.final.nwait",
+      "src": "same",
+      "value": 50192
+    },
+    {
+      "key": "h1.s1.final.ntok",
+      "src": "same",
+      "value": 4034815
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.nwait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 39
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.ntok",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 1100467
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.freq2",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 0.04
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 0.0354
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.nwait.lo",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 27.7
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.nwait.hi",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 53.3
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.freq4.lo",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 0.0252
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.freq4.hi",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 0.0484
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.nwait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 28
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.ntok",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 650704
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.freq2",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 0.04
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 0.043
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.nwait.lo",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 18.6
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.nwait.hi",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 40.5
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.freq4.lo",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 0.0286
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.freq4.hi",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 0.0622
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.nwait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 28
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.ntok",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 982329
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.freq2",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 0.03
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 0.0285
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.nwait.lo",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 18.6
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.nwait.hi",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 40.5
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.freq4.lo",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 0.0189
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.freq4.hi",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 0.0412
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.nwait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 5066
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.ntok",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 1256751
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.freq2",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 4.03
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 4.031
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.nwait.lo",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 4927.4
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.nwait.hi",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 5207.5
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.freq4.lo",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 3.9208
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.freq4.hi",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 4.1436
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.nwait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 13906
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.ntok",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 2338449
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.freq2",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 5.95
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 5.9467
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.nwait.lo",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 13675.8
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.nwait.hi",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 14139.1
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.freq4.lo",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 5.8482
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.freq4.hi",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 6.0463
+    },
+    {
+      "key": "h1.s1pre.stage3-step11921.nwait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 11164
+    },
+    {
+      "key": "h1.s1pre.stage3-step11921.ntok",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 2259495
+    },
+    {
+      "key": "h1.s1pre.stage3-step11921.freq2",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 4.94
+    },
+    {
+      "key": "h1.s1pre.stage3-step11921.freq4",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts",
+      "value": 4.9409
+    },
+    {
+      "key": "h1.s1pre.stage3-step11921.nwait.lo",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 10957.9
+    },
+    {
+      "key": "h1.s1pre.stage3-step11921.nwait.hi",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 11373.0
+    },
+    {
+      "key": "h1.s1pre.stage3-step11921.freq4.lo",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 4.8497
+    },
+    {
+      "key": "h1.s1pre.stage3-step11921.freq4.hi",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::trace_counts (Poisson exact 95% CI)",
+      "value": 5.0334
+    },
+    {
+      "key": "h1.zerorl.n_runs",
+      "src": "count of distinct local zero-RL runs from marker-free BASE models (base FREQ_wait_1k < 0.01): s7r1, s7r2, s7r7b, s8dapo, s8orz",
+      "value": 5
+    },
+    {
+      "key": "h1.rlfree.n_runs",
+      "src": "zero-RL runs plus S3a (GRPO from Qwen2.5-1.5B-Instruct): RL from models that do not use the marker: s3a, s7r1, s7r2, s7r7b, s8dapo, s8orz",
+      "value": 6
+    },
+    {
+      "key": "ctl.zerorl.s7r1.dacc",
+      "src": "REF GRPO seed 1 (S7)",
+      "value": 55.2
+    },
+    {
+      "key": "ctl.zerorl.s7r2.dacc",
+      "src": "REF GRPO seed 2 (S7)",
+      "value": 56.4
+    },
+    {
+      "key": "ctl.zerorl.s7r7b.dacc",
+      "src": "REF GRPO seed 7 (S7)",
+      "value": 59.1
+    },
+    {
+      "key": "ctl.zerorl.s8dapo.dacc",
+      "src": "S8_dapo",
+      "value": 40.6
+    },
+    {
+      "key": "ctl.zerorl.s8orz.dacc",
+      "src": "S8_orz",
+      "value": 43.0
+    },
+    {
+      "key": "ctl.rlfree.s3a.dacc",
+      "src": "S3a Qwen2.5-1.5B GRPO",
+      "value": 3.8
+    },
+    {
+      "key": "ctl.zerorl.dacc_min",
+      "src": "min over the zero-RL runs",
+      "value": 40.6
+    },
+    {
+      "key": "ctl.zerorl.dacc_max",
+      "src": "max over the zero-RL runs",
+      "value": 59.1
+    },
+    {
+      "key": "ctl.zerorl.dacc_max_32b",
+      "src": "max over the 32B runs",
+      "value": 43.0
+    }
+  ]
+}

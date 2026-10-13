@@ -1,0 +1,139 @@
+{
+  "entries": [
+    {
+      "key": "ctl.seed.W512.sftcond.c3072.acc",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::a_default_rope_cap3072.all.acc (MATH-500 problems 0-199 x 4)",
+      "value": 45.4
+    },
+    {
+      "key": "ctl.seed.W512.sftcond.c3072.trunc",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::share of responses not finished (finish=length) = 1 - finished.n / all.n",
+      "value": 46.8
+    },
+    {
+      "key": "ctl.seed.W512.sftcond.c3072.over4k",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::share of responses over 4,000 tokens",
+      "value": 0.0
+    },
+    {
+      "key": "ctl.seed.W512.sftcond.c3072.loop",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::50-char block repeated in the last 1,000 characters",
+      "value": 15.4
+    },
+    {
+      "key": "ctl.seed.W512.sftcond.c3072.toks",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::mean tokens per response",
+      "value": 2416
+    },
+    {
+      "key": "h1.seed.W512.sftcond.c3072.freq2",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::all responses, wait per 1k tokens",
+      "value": 7.55
+    },
+    {
+      "key": "h1.seed.W512.sftcond.c3072.freq_finished2",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::finished responses only, wait per 1k tokens",
+      "value": 7.07
+    },
+    {
+      "key": "h1.seed.W512.sftcond.c3072.n",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json",
+      "value": 800
+    },
+    {
+      "key": "h1.seed.W512.sftcond.c3072.n_finished",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json",
+      "value": 426
+    },
+    {
+      "key": "ctl.seed.W512.sftcond.c8192.acc",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::b_default_rope_cap8192.all.acc (MATH-500 problems 0-199 x 4)",
+      "value": 45.2
+    },
+    {
+      "key": "ctl.seed.W512.sftcond.c8192.trunc",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::share of responses not finished (finish=length) = 1 - finished.n / all.n",
+      "value": 23.1
+    },
+    {
+      "key": "ctl.seed.W512.sftcond.c8192.over4k",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::share of responses over 4,000 tokens",
+      "value": 35.5
+    },
+    {
+      "key": "ctl.seed.W512.sftcond.c8192.loop",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::50-char block repeated in the last 1,000 characters",
+      "value": 15.2
+    },
+    {
+      "key": "ctl.seed.W512.sftcond.c8192.toks",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::mean tokens per response",
+      "value": 3954
+    },
+    {
+      "key": "h1.seed.W512.sftcond.c8192.freq2",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::all responses, wait per 1k tokens",
+      "value": 9.13
+    },
+    {
+      "key": "h1.seed.W512.sftcond.c8192.freq_finished2",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::finished responses only, wait per 1k tokens",
+      "value": 6.32
+    },
+    {
+      "key": "h1.seed.W512.sftcond.c8192.n",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json",
+      "value": 800
+    },
+    {
+      "key": "h1.seed.W512.sftcond.c8192.n_finished",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json",
+      "value": 615
+    },
+    {
+      "key": "ctl.seed.W512.sftcond.yarn.acc",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::c_yarn2.25_cap8192.all.acc (MATH-500 problems 0-199 x 4)",
+      "value": 47.4
+    },
+    {
+      "key": "ctl.seed.W512.sftcond.yarn.trunc",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::share of responses not finished (finish=length) = 1 - finished.n / all.n",
+      "value": 22.3
+    },
+    {
+      "key": "ctl.seed.W512.sftcond.yarn.over4k",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::share of responses over 4,000 tokens",
+      "value": 49.6
+    },
+    {
+      "key": "ctl.seed.W512.sftcond.yarn.loop",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::50-char block repeated in the last 1,000 characters",
+      "value": 20.4
+    },
+    {
+      "key": "ctl.seed.W512.sftcond.yarn.toks",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::mean tokens per response",
+      "value": 4670
+    },
+    {
+      "key": "h1.seed.W512.sftcond.yarn.freq2",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::all responses, wait per 1k tokens",
+      "value": 6.82
+    },
+    {
+      "key": "h1.seed.W512.sftcond.yarn.freq_finished2",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json::finished responses only, wait per 1k tokens",
+      "value": 7.52
+    },
+    {
+      "key": "h1.seed.W512.sftcond.yarn.n",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json",
+      "value": 800
+    },
+    {
+      "key": "h1.seed.W512.sftcond.yarn.n_finished",
+      "src": "exp/rl/results/seed_W512/sft_conditions.json",
+      "value": 622
+    }
+  ]
+}

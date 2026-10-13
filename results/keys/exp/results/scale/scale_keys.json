@@ -1,0 +1,5556 @@
+{
+  "entries": [
+    {
+      "key": "h1.s8base.final.freq",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.freq.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.freq.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.freq100",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.freq100.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.freq100.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.fdisc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 0.4
+    },
+    {
+      "key": "h1.s8base.final.fdisc.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 0.3
+    },
+    {
+      "key": "h1.s8base.final.fdisc.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 0.5
+    },
+    {
+      "key": "h1.s8base.final.si",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.SI.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.si.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.SI.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.si.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.SI.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.si.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 4
+    },
+    {
+      "key": "h1.s8base.final.siconn",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.SI_conn.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.siconn.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.siconn.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.siconn.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 4
+    },
+    {
+      "key": "h1.s8base.final.pi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.PI.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.pi.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.PI.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.pi.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.PI.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.orth",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.ORTH.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.orth.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.ORTH.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.orth.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.ORTH.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.orth.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 4
+    },
+    {
+      "key": "h1.s8base.final.orthmax",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 75.0
+    },
+    {
+      "key": "h1.s8base.final.orthmax.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 50.0
+    },
+    {
+      "key": "h1.s8base.final.orthmax.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8base.final.orthmax.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 4
+    },
+    {
+      "key": "h1.s8base.final.commadrop",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8base.final.commadrop.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8base.final.commadrop.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8base.final.commadrop.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 4
+    },
+    {
+      "key": "h1.s8base.final.chain",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.chain.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.chain.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.chainshare",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.CHAIN.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.chainshare.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.chainshare.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.neff",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.N_eff.est",
+      "value": 4.03
+    },
+    {
+      "key": "h1.s8base.final.neff.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.N_eff.lo",
+      "value": 2.69
+    },
+    {
+      "key": "h1.s8base.final.neff.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.N_eff.hi",
+      "value": 4.32
+    },
+    {
+      "key": "h1.s8base.final.sharewait",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.sharewait.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.sharewait.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.obl",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.OBL.est",
+      "value": 11.5
+    },
+    {
+      "key": "h1.s8base.final.obl.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.OBL.lo",
+      "value": 5.1
+    },
+    {
+      "key": "h1.s8base.final.obl.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.OBL.hi",
+      "value": 18.2
+    },
+    {
+      "key": "h1.s8base.final.obl.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.n_R",
+      "value": 87
+    },
+    {
+      "key": "h1.s8base.final.rel",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.REL.est",
+      "value": 8.4
+    },
+    {
+      "key": "h1.s8base.final.rel.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.REL.lo",
+      "value": 4.3
+    },
+    {
+      "key": "h1.s8base.final.rel.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.REL.hi",
+      "value": 13.1
+    },
+    {
+      "key": "h1.s8base.final.rel.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.n_M",
+      "value": 166
+    },
+    {
+      "key": "h1.s8base.final.eros",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.EROS.est",
+      "value": 37.0
+    },
+    {
+      "key": "h1.s8base.final.eros.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.EROS.lo",
+      "value": 3.0
+    },
+    {
+      "key": "h1.s8base.final.eros.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.EROS.hi",
+      "value": 102.0
+    },
+    {
+      "key": "h1.s8base.final.ctx",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.CTX.est",
+      "value": 9.75
+    },
+    {
+      "key": "h1.s8base.final.ctx.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.CTX.lo",
+      "value": 3.0
+    },
+    {
+      "key": "h1.s8base.final.ctx.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.CTX.hi",
+      "value": 19.0
+    },
+    {
+      "key": "h1.s8base.final.lex",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.LEX_share.est",
+      "value": 75.0
+    },
+    {
+      "key": "h1.s8base.final.lex.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8base.final.lex.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8base.final.revrate",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 0.4
+    },
+    {
+      "key": "h1.s8base.final.revrate.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 0.28
+    },
+    {
+      "key": "h1.s8base.final.revrate.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 0.52
+    },
+    {
+      "key": "h1.s8base.final.toks",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 555
+    },
+    {
+      "key": "h1.s8base.final.toks.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 514
+    },
+    {
+      "key": "h1.s8base.final.toks.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 601
+    },
+    {
+      "key": "n.s8base.final.resp",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.s8base.final.acc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.acc",
+      "value": 35.8
+    },
+    {
+      "key": "ctl.s8base.final.trunc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints.final.truncated",
+      "value": 0.1
+    },
+    {
+      "key": "n.s8base.ckpts",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/math500.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "ctl.s8base.final.aime_acc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/idx/aime24.json::acc",
+      "value": 3.3
+    },
+    {
+      "key": "h2.s8base.final.hr",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/sdt/conts.jsonl.gz::HR.est",
+      "value": 2.1
+    },
+    {
+      "key": "h2.s8base.final.hr.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/sdt/conts.jsonl.gz::HR.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h2.s8base.final.hr.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/sdt/conts.jsonl.gz::HR.hi",
+      "value": 3.9
+    },
+    {
+      "key": "h2.s8base.final.fa",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/sdt/conts.jsonl.gz::FA.est",
+      "value": 1.6
+    },
+    {
+      "key": "h2.s8base.final.fa.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/sdt/conts.jsonl.gz::FA.lo",
+      "value": 0.3
+    },
+    {
+      "key": "h2.s8base.final.fa.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/sdt/conts.jsonl.gz::FA.hi",
+      "value": 3.6
+    },
+    {
+      "key": "h2.s8base.final.dprime",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/sdt/conts.jsonl.gz::dprime.est",
+      "value": 0.11
+    },
+    {
+      "key": "h2.s8base.final.dprime.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/sdt/conts.jsonl.gz::dprime.lo",
+      "value": -0.2
+    },
+    {
+      "key": "h2.s8base.final.dprime.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/sdt/conts.jsonl.gz::dprime.hi",
+      "value": 0.54
+    },
+    {
+      "key": "h2.s8base.final.crit",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/sdt/conts.jsonl.gz::criterion.est",
+      "value": 2.07
+    },
+    {
+      "key": "h2.s8base.final.crit.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/sdt/conts.jsonl.gz::criterion.lo",
+      "value": 1.79
+    },
+    {
+      "key": "h2.s8base.final.crit.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_base/sdt/conts.jsonl.gz::criterion.hi",
+      "value": 2.51
+    },
+    {
+      "key": "h1.s8dapo.final.freq",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.freq.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.freq.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.freq100",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.freq100.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.freq100.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.fdisc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 0.3
+    },
+    {
+      "key": "h1.s8dapo.final.fdisc.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 0.3
+    },
+    {
+      "key": "h1.s8dapo.final.fdisc.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 0.4
+    },
+    {
+      "key": "h1.s8dapo.final.si",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.SI.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.si.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.SI.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.si.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.SI.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.si.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 2
+    },
+    {
+      "key": "h1.s8dapo.final.siconn",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.SI_conn.est",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8dapo.final.siconn.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8dapo.final.siconn.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8dapo.final.siconn.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 2
+    },
+    {
+      "key": "h1.s8dapo.final.pi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.PI.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.pi.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.PI.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.pi.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.PI.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.orth",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.ORTH.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.orth.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.ORTH.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.orth.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.ORTH.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.orth.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 2
+    },
+    {
+      "key": "h1.s8dapo.final.orthmax",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8dapo.final.orthmax.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8dapo.final.orthmax.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8dapo.final.orthmax.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 2
+    },
+    {
+      "key": "h1.s8dapo.final.commadrop",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.commadrop.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.commadrop.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.commadrop.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 2
+    },
+    {
+      "key": "h1.s8dapo.final.chain",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.chain.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.chain.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.chainshare",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.CHAIN.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.chainshare.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.chainshare.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.neff",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.N_eff.est",
+      "value": 3.18
+    },
+    {
+      "key": "h1.s8dapo.final.neff.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.N_eff.lo",
+      "value": 2.43
+    },
+    {
+      "key": "h1.s8dapo.final.neff.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.N_eff.hi",
+      "value": 3.81
+    },
+    {
+      "key": "h1.s8dapo.final.sharewait",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 0.7
+    },
+    {
+      "key": "h1.s8dapo.final.sharewait.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.sharewait.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 2.2
+    },
+    {
+      "key": "h1.s8dapo.final.obl",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.OBL.est",
+      "value": 6.1
+    },
+    {
+      "key": "h1.s8dapo.final.obl.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.OBL.lo",
+      "value": 3.5
+    },
+    {
+      "key": "h1.s8dapo.final.obl.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.OBL.hi",
+      "value": 9.7
+    },
+    {
+      "key": "h1.s8dapo.final.obl.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.n_R",
+      "value": 689
+    },
+    {
+      "key": "h1.s8dapo.final.rel",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.REL.est",
+      "value": 9.7
+    },
+    {
+      "key": "h1.s8dapo.final.rel.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.REL.lo",
+      "value": 6.6
+    },
+    {
+      "key": "h1.s8dapo.final.rel.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.REL.hi",
+      "value": 13.2
+    },
+    {
+      "key": "h1.s8dapo.final.rel.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.n_M",
+      "value": 525
+    },
+    {
+      "key": "h1.s8dapo.final.eros",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.EROS.est",
+      "value": 25.0
+    },
+    {
+      "key": "h1.s8dapo.final.eros.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.EROS.lo",
+      "value": 25.0
+    },
+    {
+      "key": "h1.s8dapo.final.eros.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.EROS.hi",
+      "value": 25.0
+    },
+    {
+      "key": "h1.s8dapo.final.ctx",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.CTX.est",
+      "value": 2.0
+    },
+    {
+      "key": "h1.s8dapo.final.ctx.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.CTX.lo",
+      "value": 2.0
+    },
+    {
+      "key": "h1.s8dapo.final.ctx.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.CTX.hi",
+      "value": 2.0
+    },
+    {
+      "key": "h1.s8dapo.final.lex",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.LEX_share.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.lex.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.lex.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.revrate",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 1.15
+    },
+    {
+      "key": "h1.s8dapo.final.revrate.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 0.89
+    },
+    {
+      "key": "h1.s8dapo.final.revrate.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 1.43
+    },
+    {
+      "key": "h1.s8dapo.final.toks",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 2057
+    },
+    {
+      "key": "h1.s8dapo.final.toks.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 1724
+    },
+    {
+      "key": "h1.s8dapo.final.toks.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 2391
+    },
+    {
+      "key": "n.s8dapo.final.resp",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.s8dapo.final.acc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.acc",
+      "value": 76.4
+    },
+    {
+      "key": "ctl.s8dapo.final.trunc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints.final.truncated",
+      "value": 10.5
+    },
+    {
+      "key": "n.s8dapo.ckpts",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/math500.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "ctl.s8dapo.final.aime_acc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/idx/aime24.json::acc",
+      "value": 46.7
+    },
+    {
+      "key": "h2.s8dapo.final.hr",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/sdt/conts.jsonl.gz::HR.est",
+      "value": 12.6
+    },
+    {
+      "key": "h2.s8dapo.final.hr.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/sdt/conts.jsonl.gz::HR.lo",
+      "value": 8.1
+    },
+    {
+      "key": "h2.s8dapo.final.hr.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/sdt/conts.jsonl.gz::HR.hi",
+      "value": 17.6
+    },
+    {
+      "key": "h2.s8dapo.final.fa",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/sdt/conts.jsonl.gz::FA.est",
+      "value": 1.7
+    },
+    {
+      "key": "h2.s8dapo.final.fa.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/sdt/conts.jsonl.gz::FA.lo",
+      "value": 0.4
+    },
+    {
+      "key": "h2.s8dapo.final.fa.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/sdt/conts.jsonl.gz::FA.hi",
+      "value": 3.5
+    },
+    {
+      "key": "h2.s8dapo.final.dprime",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/sdt/conts.jsonl.gz::dprime.est",
+      "value": 0.97
+    },
+    {
+      "key": "h2.s8dapo.final.dprime.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/sdt/conts.jsonl.gz::dprime.lo",
+      "value": 0.63
+    },
+    {
+      "key": "h2.s8dapo.final.dprime.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/sdt/conts.jsonl.gz::dprime.hi",
+      "value": 1.47
+    },
+    {
+      "key": "h2.s8dapo.final.crit",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/sdt/conts.jsonl.gz::criterion.est",
+      "value": 1.62
+    },
+    {
+      "key": "h2.s8dapo.final.crit.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/sdt/conts.jsonl.gz::criterion.lo",
+      "value": 1.41
+    },
+    {
+      "key": "h2.s8dapo.final.crit.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_dapo/sdt/conts.jsonl.gz::criterion.hi",
+      "value": 1.96
+    },
+    {
+      "key": "h1.s8qwq.final.freq",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 4.4
+    },
+    {
+      "key": "h1.s8qwq.final.freq.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 4.0
+    },
+    {
+      "key": "h1.s8qwq.final.freq.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 4.8
+    },
+    {
+      "key": "h1.s8qwq.final.freq100",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 8.1
+    },
+    {
+      "key": "h1.s8qwq.final.freq100.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 7.4
+    },
+    {
+      "key": "h1.s8qwq.final.freq100.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 8.7
+    },
+    {
+      "key": "h1.s8qwq.final.fdisc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 11.1
+    },
+    {
+      "key": "h1.s8qwq.final.fdisc.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 10.3
+    },
+    {
+      "key": "h1.s8qwq.final.fdisc.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 11.8
+    },
+    {
+      "key": "h1.s8qwq.final.si",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.SI.est",
+      "value": 94.8
+    },
+    {
+      "key": "h1.s8qwq.final.si.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.SI.lo",
+      "value": 94.1
+    },
+    {
+      "key": "h1.s8qwq.final.si.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.SI.hi",
+      "value": 95.5
+    },
+    {
+      "key": "h1.s8qwq.final.si.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 13585
+    },
+    {
+      "key": "h1.s8qwq.final.siconn",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.SI_conn.est",
+      "value": 98.1
+    },
+    {
+      "key": "h1.s8qwq.final.siconn.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 97.8
+    },
+    {
+      "key": "h1.s8qwq.final.siconn.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 98.5
+    },
+    {
+      "key": "h1.s8qwq.final.siconn.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 13585
+    },
+    {
+      "key": "h1.s8qwq.final.pi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.PI.est",
+      "value": 43.9
+    },
+    {
+      "key": "h1.s8qwq.final.pi.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.PI.lo",
+      "value": 42.0
+    },
+    {
+      "key": "h1.s8qwq.final.pi.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.PI.hi",
+      "value": 46.0
+    },
+    {
+      "key": "h1.s8qwq.final.orth",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.ORTH.est",
+      "value": 89.3
+    },
+    {
+      "key": "h1.s8qwq.final.orth.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.ORTH.lo",
+      "value": 88.0
+    },
+    {
+      "key": "h1.s8qwq.final.orth.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.ORTH.hi",
+      "value": 90.4
+    },
+    {
+      "key": "h1.s8qwq.final.orth.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 13585
+    },
+    {
+      "key": "h1.s8qwq.final.orthmax",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 89.3
+    },
+    {
+      "key": "h1.s8qwq.final.orthmax.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 88.0
+    },
+    {
+      "key": "h1.s8qwq.final.orthmax.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 90.4
+    },
+    {
+      "key": "h1.s8qwq.final.orthmax.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 13585
+    },
+    {
+      "key": "h1.s8qwq.final.commadrop",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 6.6
+    },
+    {
+      "key": "h1.s8qwq.final.commadrop.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 5.7
+    },
+    {
+      "key": "h1.s8qwq.final.commadrop.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 7.6
+    },
+    {
+      "key": "h1.s8qwq.final.commadrop.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 13585
+    },
+    {
+      "key": "h1.s8qwq.final.chain",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 92.5
+    },
+    {
+      "key": "h1.s8qwq.final.chain.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 83.2
+    },
+    {
+      "key": "h1.s8qwq.final.chain.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 101.2
+    },
+    {
+      "key": "h1.s8qwq.final.chainshare",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.CHAIN.est",
+      "value": 11.1
+    },
+    {
+      "key": "h1.s8qwq.final.chainshare.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 9.9
+    },
+    {
+      "key": "h1.s8qwq.final.chainshare.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 12.2
+    },
+    {
+      "key": "h1.s8qwq.final.neff",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.N_eff.est",
+      "value": 6.73
+    },
+    {
+      "key": "h1.s8qwq.final.neff.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.N_eff.lo",
+      "value": 6.55
+    },
+    {
+      "key": "h1.s8qwq.final.neff.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.N_eff.hi",
+      "value": 6.87
+    },
+    {
+      "key": "h1.s8qwq.final.sharewait",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 26.1
+    },
+    {
+      "key": "h1.s8qwq.final.sharewait.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 24.2
+    },
+    {
+      "key": "h1.s8qwq.final.sharewait.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 28.1
+    },
+    {
+      "key": "h1.s8qwq.final.obl",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.OBL.est",
+      "value": 62.6
+    },
+    {
+      "key": "h1.s8qwq.final.obl.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.OBL.lo",
+      "value": 58.8
+    },
+    {
+      "key": "h1.s8qwq.final.obl.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.OBL.hi",
+      "value": 66.4
+    },
+    {
+      "key": "h1.s8qwq.final.obl.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.n_R",
+      "value": 2827
+    },
+    {
+      "key": "h1.s8qwq.final.rel",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.REL.est",
+      "value": 9.3
+    },
+    {
+      "key": "h1.s8qwq.final.rel.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.REL.lo",
+      "value": 8.2
+    },
+    {
+      "key": "h1.s8qwq.final.rel.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.REL.hi",
+      "value": 10.5
+    },
+    {
+      "key": "h1.s8qwq.final.rel.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.n_M",
+      "value": 30937
+    },
+    {
+      "key": "h1.s8qwq.final.eros",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.EROS.est",
+      "value": 28.6
+    },
+    {
+      "key": "h1.s8qwq.final.eros.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.EROS.lo",
+      "value": 23.1
+    },
+    {
+      "key": "h1.s8qwq.final.eros.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.EROS.hi",
+      "value": 34.7
+    },
+    {
+      "key": "h1.s8qwq.final.sentlen",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 12.6
+    },
+    {
+      "key": "h1.s8qwq.final.sentlen.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 12.2
+    },
+    {
+      "key": "h1.s8qwq.final.sentlen.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 13.0
+    },
+    {
+      "key": "h1.s8qwq.final.ctx",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.CTX.est",
+      "value": 1.23
+    },
+    {
+      "key": "h1.s8qwq.final.ctx.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.CTX.lo",
+      "value": 1.19
+    },
+    {
+      "key": "h1.s8qwq.final.ctx.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.CTX.hi",
+      "value": 1.27
+    },
+    {
+      "key": "h1.s8qwq.final.lex",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.LEX_share.est",
+      "value": 0.4
+    },
+    {
+      "key": "h1.s8qwq.final.lex.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.2
+    },
+    {
+      "key": "h1.s8qwq.final.lex.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 0.6
+    },
+    {
+      "key": "h1.s8qwq.final.revrate",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 1.68
+    },
+    {
+      "key": "h1.s8qwq.final.revrate.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 1.5
+    },
+    {
+      "key": "h1.s8qwq.final.revrate.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 1.86
+    },
+    {
+      "key": "h1.s8qwq.final.toks",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 3846
+    },
+    {
+      "key": "h1.s8qwq.final.toks.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 3513
+    },
+    {
+      "key": "h1.s8qwq.final.toks.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 4175
+    },
+    {
+      "key": "n.s8qwq.final.resp",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.s8qwq.final.acc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.acc",
+      "value": 89.6
+    },
+    {
+      "key": "ctl.s8qwq.final.trunc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints.final.truncated",
+      "value": 11.5
+    },
+    {
+      "key": "n.s8qwq.ckpts",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/math500.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "ctl.s8qwq.final.aime_acc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/idx/aime24.json::acc",
+      "value": 34.2
+    },
+    {
+      "key": "h2.s8qwq.final.hr",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/sdt/conts.jsonl.gz::HR.est",
+      "value": 78.2
+    },
+    {
+      "key": "h2.s8qwq.final.hr.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/sdt/conts.jsonl.gz::HR.lo",
+      "value": 72.5
+    },
+    {
+      "key": "h2.s8qwq.final.hr.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/sdt/conts.jsonl.gz::HR.hi",
+      "value": 83.2
+    },
+    {
+      "key": "h2.s8qwq.final.fa",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/sdt/conts.jsonl.gz::FA.est",
+      "value": 43.8
+    },
+    {
+      "key": "h2.s8qwq.final.fa.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/sdt/conts.jsonl.gz::FA.lo",
+      "value": 37.4
+    },
+    {
+      "key": "h2.s8qwq.final.fa.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/sdt/conts.jsonl.gz::FA.hi",
+      "value": 50.3
+    },
+    {
+      "key": "h2.s8qwq.final.dprime",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/sdt/conts.jsonl.gz::dprime.est",
+      "value": 0.93
+    },
+    {
+      "key": "h2.s8qwq.final.dprime.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/sdt/conts.jsonl.gz::dprime.lo",
+      "value": 0.76
+    },
+    {
+      "key": "h2.s8qwq.final.dprime.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/sdt/conts.jsonl.gz::dprime.hi",
+      "value": 1.12
+    },
+    {
+      "key": "h2.s8qwq.final.crit",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/sdt/conts.jsonl.gz::criterion.est",
+      "value": -0.31
+    },
+    {
+      "key": "h2.s8qwq.final.crit.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/sdt/conts.jsonl.gz::criterion.lo",
+      "value": -0.46
+    },
+    {
+      "key": "h2.s8qwq.final.crit.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_qwq/sdt/conts.jsonl.gz::criterion.hi",
+      "value": -0.16
+    },
+    {
+      "key": "h1.s8orz.final.freq",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.freq.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.freq.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.freq100",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.freq100.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.freq100.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.fdisc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 0.7
+    },
+    {
+      "key": "h1.s8orz.final.fdisc.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 0.6
+    },
+    {
+      "key": "h1.s8orz.final.fdisc.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 0.8
+    },
+    {
+      "key": "h1.s8orz.final.si",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.SI.est",
+      "value": 27.8
+    },
+    {
+      "key": "h1.s8orz.final.si.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.SI.lo",
+      "value": 8.3
+    },
+    {
+      "key": "h1.s8orz.final.si.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.SI.hi",
+      "value": 50.0
+    },
+    {
+      "key": "h1.s8orz.final.si.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 18
+    },
+    {
+      "key": "h1.s8orz.final.siconn",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.SI_conn.est",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8orz.final.siconn.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8orz.final.siconn.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8orz.final.siconn.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 18
+    },
+    {
+      "key": "h1.s8orz.final.pi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.PI.est",
+      "value": 27.8
+    },
+    {
+      "key": "h1.s8orz.final.pi.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.PI.lo",
+      "value": 8.3
+    },
+    {
+      "key": "h1.s8orz.final.pi.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.PI.hi",
+      "value": 50.0
+    },
+    {
+      "key": "h1.s8orz.final.orth",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.ORTH.est",
+      "value": 27.8
+    },
+    {
+      "key": "h1.s8orz.final.orth.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.ORTH.lo",
+      "value": 8.3
+    },
+    {
+      "key": "h1.s8orz.final.orth.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.ORTH.hi",
+      "value": 50.0
+    },
+    {
+      "key": "h1.s8orz.final.orth.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 18
+    },
+    {
+      "key": "h1.s8orz.final.orthmax",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 61.1
+    },
+    {
+      "key": "h1.s8orz.final.orthmax.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 41.7
+    },
+    {
+      "key": "h1.s8orz.final.orthmax.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 83.3
+    },
+    {
+      "key": "h1.s8orz.final.orthmax.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 18
+    },
+    {
+      "key": "h1.s8orz.final.commadrop",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 11.1
+    },
+    {
+      "key": "h1.s8orz.final.commadrop.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.commadrop.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 29.4
+    },
+    {
+      "key": "h1.s8orz.final.commadrop.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 18
+    },
+    {
+      "key": "h1.s8orz.final.chain",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.chain.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.chain.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.chainshare",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.CHAIN.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.chainshare.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.chainshare.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.neff",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.N_eff.est",
+      "value": 5.32
+    },
+    {
+      "key": "h1.s8orz.final.neff.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.N_eff.lo",
+      "value": 4.63
+    },
+    {
+      "key": "h1.s8orz.final.neff.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.N_eff.hi",
+      "value": 5.74
+    },
+    {
+      "key": "h1.s8orz.final.sharewait",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 1.0
+    },
+    {
+      "key": "h1.s8orz.final.sharewait.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.sharewait.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 2.5
+    },
+    {
+      "key": "h1.s8orz.final.obl",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.OBL.est",
+      "value": 7.5
+    },
+    {
+      "key": "h1.s8orz.final.obl.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.OBL.lo",
+      "value": 5.6
+    },
+    {
+      "key": "h1.s8orz.final.obl.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.OBL.hi",
+      "value": 9.5
+    },
+    {
+      "key": "h1.s8orz.final.obl.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.n_R",
+      "value": 1099
+    },
+    {
+      "key": "h1.s8orz.final.rel",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.REL.est",
+      "value": 4.2
+    },
+    {
+      "key": "h1.s8orz.final.rel.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.REL.lo",
+      "value": 3.1
+    },
+    {
+      "key": "h1.s8orz.final.rel.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.REL.hi",
+      "value": 5.4
+    },
+    {
+      "key": "h1.s8orz.final.rel.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.n_M",
+      "value": 2276
+    },
+    {
+      "key": "h1.s8orz.final.eros",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.EROS.est",
+      "value": 27.9
+    },
+    {
+      "key": "h1.s8orz.final.eros.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.EROS.lo",
+      "value": 18.2
+    },
+    {
+      "key": "h1.s8orz.final.eros.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.EROS.hi",
+      "value": 37.5
+    },
+    {
+      "key": "h1.s8orz.final.sentlen",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 13.0
+    },
+    {
+      "key": "h1.s8orz.final.sentlen.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 8.6
+    },
+    {
+      "key": "h1.s8orz.final.sentlen.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 17.7
+    },
+    {
+      "key": "h1.s8orz.final.ctx",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.CTX.est",
+      "value": 1.67
+    },
+    {
+      "key": "h1.s8orz.final.ctx.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.CTX.lo",
+      "value": 1.43
+    },
+    {
+      "key": "h1.s8orz.final.ctx.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.CTX.hi",
+      "value": 1.88
+    },
+    {
+      "key": "h1.s8orz.final.lex",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.LEX_share.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.lex.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.lex.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8orz.final.revrate",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 0.76
+    },
+    {
+      "key": "h1.s8orz.final.revrate.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 0.63
+    },
+    {
+      "key": "h1.s8orz.final.revrate.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 0.91
+    },
+    {
+      "key": "h1.s8orz.final.toks",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 4131
+    },
+    {
+      "key": "h1.s8orz.final.toks.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 3765
+    },
+    {
+      "key": "h1.s8orz.final.toks.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 4466
+    },
+    {
+      "key": "n.s8orz.final.resp",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.s8orz.final.acc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.acc",
+      "value": 78.8
+    },
+    {
+      "key": "ctl.s8orz.final.trunc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints.final.truncated",
+      "value": 19.4
+    },
+    {
+      "key": "n.s8orz.ckpts",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/math500.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "ctl.s8orz.final.aime_acc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/idx/aime24.json::acc",
+      "value": 19.2
+    },
+    {
+      "key": "h2.s8orz.final.hr",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/sdt/conts.jsonl.gz::HR.est",
+      "value": 16.2
+    },
+    {
+      "key": "h2.s8orz.final.hr.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/sdt/conts.jsonl.gz::HR.lo",
+      "value": 11.5
+    },
+    {
+      "key": "h2.s8orz.final.hr.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/sdt/conts.jsonl.gz::HR.hi",
+      "value": 21.1
+    },
+    {
+      "key": "h2.s8orz.final.fa",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/sdt/conts.jsonl.gz::FA.est",
+      "value": 8.2
+    },
+    {
+      "key": "h2.s8orz.final.fa.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/sdt/conts.jsonl.gz::FA.lo",
+      "value": 5.3
+    },
+    {
+      "key": "h2.s8orz.final.fa.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/sdt/conts.jsonl.gz::FA.hi",
+      "value": 11.5
+    },
+    {
+      "key": "h2.s8orz.final.dprime",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/sdt/conts.jsonl.gz::dprime.est",
+      "value": 0.41
+    },
+    {
+      "key": "h2.s8orz.final.dprime.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/sdt/conts.jsonl.gz::dprime.lo",
+      "value": 0.21
+    },
+    {
+      "key": "h2.s8orz.final.dprime.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/sdt/conts.jsonl.gz::dprime.hi",
+      "value": 0.59
+    },
+    {
+      "key": "h2.s8orz.final.crit",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/sdt/conts.jsonl.gz::criterion.est",
+      "value": 1.19
+    },
+    {
+      "key": "h2.s8orz.final.crit.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/sdt/conts.jsonl.gz::criterion.lo",
+      "value": 1.02
+    },
+    {
+      "key": "h2.s8orz.final.crit.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_orz/sdt/conts.jsonl.gz::criterion.hi",
+      "value": 1.38
+    },
+    {
+      "key": "h1.s8r1d.final.freq",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 3.3
+    },
+    {
+      "key": "h1.s8r1d.final.freq.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 2.8
+    },
+    {
+      "key": "h1.s8r1d.final.freq.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 3.7
+    },
+    {
+      "key": "h1.s8r1d.final.freq100",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 6.5
+    },
+    {
+      "key": "h1.s8r1d.final.freq100.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 5.6
+    },
+    {
+      "key": "h1.s8r1d.final.freq100.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 7.5
+    },
+    {
+      "key": "h1.s8r1d.final.fdisc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 7.8
+    },
+    {
+      "key": "h1.s8r1d.final.fdisc.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 7.0
+    },
+    {
+      "key": "h1.s8r1d.final.fdisc.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 8.7
+    },
+    {
+      "key": "h1.s8r1d.final.si",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.SI.est",
+      "value": 88.8
+    },
+    {
+      "key": "h1.s8r1d.final.si.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.SI.lo",
+      "value": 87.0
+    },
+    {
+      "key": "h1.s8r1d.final.si.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.SI.hi",
+      "value": 90.3
+    },
+    {
+      "key": "h1.s8r1d.final.si.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 8031
+    },
+    {
+      "key": "h1.s8r1d.final.siconn",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.SI_conn.est",
+      "value": 98.7
+    },
+    {
+      "key": "h1.s8r1d.final.siconn.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 98.4
+    },
+    {
+      "key": "h1.s8r1d.final.siconn.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 99.0
+    },
+    {
+      "key": "h1.s8r1d.final.siconn.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 8031
+    },
+    {
+      "key": "h1.s8r1d.final.pi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.PI.est",
+      "value": 74.1
+    },
+    {
+      "key": "h1.s8r1d.final.pi.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.PI.lo",
+      "value": 72.1
+    },
+    {
+      "key": "h1.s8r1d.final.pi.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.PI.hi",
+      "value": 76.2
+    },
+    {
+      "key": "h1.s8r1d.final.orth",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.ORTH.est",
+      "value": 87.3
+    },
+    {
+      "key": "h1.s8r1d.final.orth.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.ORTH.lo",
+      "value": 85.3
+    },
+    {
+      "key": "h1.s8r1d.final.orth.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.ORTH.hi",
+      "value": 88.9
+    },
+    {
+      "key": "h1.s8r1d.final.orth.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 8031
+    },
+    {
+      "key": "h1.s8r1d.final.orthmax",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 87.3
+    },
+    {
+      "key": "h1.s8r1d.final.orthmax.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 85.3
+    },
+    {
+      "key": "h1.s8r1d.final.orthmax.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 88.9
+    },
+    {
+      "key": "h1.s8r1d.final.orthmax.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 8031
+    },
+    {
+      "key": "h1.s8r1d.final.commadrop",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 2.0
+    },
+    {
+      "key": "h1.s8r1d.final.commadrop.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 1.6
+    },
+    {
+      "key": "h1.s8r1d.final.commadrop.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 2.7
+    },
+    {
+      "key": "h1.s8r1d.final.commadrop.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 8031
+    },
+    {
+      "key": "h1.s8r1d.final.chain",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 50.4
+    },
+    {
+      "key": "h1.s8r1d.final.chain.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 42.2
+    },
+    {
+      "key": "h1.s8r1d.final.chain.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 58.2
+    },
+    {
+      "key": "h1.s8r1d.final.chainshare",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.CHAIN.est",
+      "value": 5.5
+    },
+    {
+      "key": "h1.s8r1d.final.chainshare.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 4.6
+    },
+    {
+      "key": "h1.s8r1d.final.chainshare.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 6.4
+    },
+    {
+      "key": "h1.s8r1d.final.neff",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.N_eff.est",
+      "value": 6.07
+    },
+    {
+      "key": "h1.s8r1d.final.neff.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.N_eff.lo",
+      "value": 5.8
+    },
+    {
+      "key": "h1.s8r1d.final.neff.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.N_eff.hi",
+      "value": 6.28
+    },
+    {
+      "key": "h1.s8r1d.final.sharewait",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 34.7
+    },
+    {
+      "key": "h1.s8r1d.final.sharewait.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 31.7
+    },
+    {
+      "key": "h1.s8r1d.final.sharewait.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 37.2
+    },
+    {
+      "key": "h1.s8r1d.final.obl",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.OBL.est",
+      "value": 56.0
+    },
+    {
+      "key": "h1.s8r1d.final.obl.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.OBL.lo",
+      "value": 50.2
+    },
+    {
+      "key": "h1.s8r1d.final.obl.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.OBL.hi",
+      "value": 61.5
+    },
+    {
+      "key": "h1.s8r1d.final.obl.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.n_R",
+      "value": 1799
+    },
+    {
+      "key": "h1.s8r1d.final.rel",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.REL.est",
+      "value": 8.9
+    },
+    {
+      "key": "h1.s8r1d.final.rel.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.REL.lo",
+      "value": 7.4
+    },
+    {
+      "key": "h1.s8r1d.final.rel.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.REL.hi",
+      "value": 10.5
+    },
+    {
+      "key": "h1.s8r1d.final.rel.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.n_M",
+      "value": 17120
+    },
+    {
+      "key": "h1.s8r1d.final.eros",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.EROS.est",
+      "value": 26.9
+    },
+    {
+      "key": "h1.s8r1d.final.eros.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.EROS.lo",
+      "value": 22.7
+    },
+    {
+      "key": "h1.s8r1d.final.eros.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.EROS.hi",
+      "value": 30.8
+    },
+    {
+      "key": "h1.s8r1d.final.sentlen",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 13.0
+    },
+    {
+      "key": "h1.s8r1d.final.sentlen.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 12.4
+    },
+    {
+      "key": "h1.s8r1d.final.sentlen.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 13.4
+    },
+    {
+      "key": "h1.s8r1d.final.ctx",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.CTX.est",
+      "value": 1.14
+    },
+    {
+      "key": "h1.s8r1d.final.ctx.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.CTX.lo",
+      "value": 1.12
+    },
+    {
+      "key": "h1.s8r1d.final.ctx.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.CTX.hi",
+      "value": 1.17
+    },
+    {
+      "key": "h1.s8r1d.final.lex",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.LEX_share.est",
+      "value": 0.5
+    },
+    {
+      "key": "h1.s8r1d.final.lex.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.3
+    },
+    {
+      "key": "h1.s8r1d.final.lex.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 0.8
+    },
+    {
+      "key": "h1.s8r1d.final.revrate",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 1.46
+    },
+    {
+      "key": "h1.s8r1d.final.revrate.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 1.25
+    },
+    {
+      "key": "h1.s8r1d.final.revrate.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 1.67
+    },
+    {
+      "key": "h1.s8r1d.final.toks",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 3088
+    },
+    {
+      "key": "h1.s8r1d.final.toks.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 2798
+    },
+    {
+      "key": "h1.s8r1d.final.toks.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 3369
+    },
+    {
+      "key": "n.s8r1d.final.resp",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.s8r1d.final.acc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.acc",
+      "value": 89.5
+    },
+    {
+      "key": "ctl.s8r1d.final.trunc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints.final.truncated",
+      "value": 8.1
+    },
+    {
+      "key": "n.s8r1d.ckpts",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/math500.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "ctl.s8r1d.final.aime_acc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/idx/aime24.json::acc",
+      "value": 52.5
+    },
+    {
+      "key": "h2.s8r1d.final.hr",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/sdt/conts.jsonl.gz::HR.est",
+      "value": 67.9
+    },
+    {
+      "key": "h2.s8r1d.final.hr.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/sdt/conts.jsonl.gz::HR.lo",
+      "value": 62.4
+    },
+    {
+      "key": "h2.s8r1d.final.hr.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/sdt/conts.jsonl.gz::HR.hi",
+      "value": 73.2
+    },
+    {
+      "key": "h2.s8r1d.final.fa",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/sdt/conts.jsonl.gz::FA.est",
+      "value": 27.9
+    },
+    {
+      "key": "h2.s8r1d.final.fa.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/sdt/conts.jsonl.gz::FA.lo",
+      "value": 22.5
+    },
+    {
+      "key": "h2.s8r1d.final.fa.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/sdt/conts.jsonl.gz::FA.hi",
+      "value": 33.2
+    },
+    {
+      "key": "h2.s8r1d.final.dprime",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/sdt/conts.jsonl.gz::dprime.est",
+      "value": 1.05
+    },
+    {
+      "key": "h2.s8r1d.final.dprime.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/sdt/conts.jsonl.gz::dprime.lo",
+      "value": 0.89
+    },
+    {
+      "key": "h2.s8r1d.final.dprime.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/sdt/conts.jsonl.gz::dprime.hi",
+      "value": 1.23
+    },
+    {
+      "key": "h2.s8r1d.final.crit",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/sdt/conts.jsonl.gz::criterion.est",
+      "value": 0.06
+    },
+    {
+      "key": "h2.s8r1d.final.crit.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/sdt/conts.jsonl.gz::criterion.lo",
+      "value": -0.06
+    },
+    {
+      "key": "h2.s8r1d.final.crit.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S8_r1distill/sdt/conts.jsonl.gz::criterion.hi",
+      "value": 0.19
+    },
+    {
+      "key": "h1.s10low.final.freq",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 0.4
+    },
+    {
+      "key": "h1.s10low.final.freq.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 0.3
+    },
+    {
+      "key": "h1.s10low.final.freq.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 0.5
+    },
+    {
+      "key": "h1.s10low.final.freq100",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 0.8
+    },
+    {
+      "key": "h1.s10low.final.freq100.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 0.6
+    },
+    {
+      "key": "h1.s10low.final.freq100.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h1.s10low.final.fdisc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 1.8
+    },
+    {
+      "key": "h1.s10low.final.fdisc.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 1.4
+    },
+    {
+      "key": "h1.s10low.final.fdisc.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 2.1
+    },
+    {
+      "key": "h1.s10low.final.si",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.SI.est",
+      "value": 95.7
+    },
+    {
+      "key": "h1.s10low.final.si.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.SI.lo",
+      "value": 93.1
+    },
+    {
+      "key": "h1.s10low.final.si.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.SI.hi",
+      "value": 98.3
+    },
+    {
+      "key": "h1.s10low.final.si.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 233
+    },
+    {
+      "key": "h1.s10low.final.siconn",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.SI_conn.est",
+      "value": 95.7
+    },
+    {
+      "key": "h1.s10low.final.siconn.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 93.1
+    },
+    {
+      "key": "h1.s10low.final.siconn.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 98.3
+    },
+    {
+      "key": "h1.s10low.final.siconn.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 233
+    },
+    {
+      "key": "h1.s10low.final.pi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.PI.est",
+      "value": 0.4
+    },
+    {
+      "key": "h1.s10low.final.pi.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.PI.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10low.final.pi.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.PI.hi",
+      "value": 1.4
+    },
+    {
+      "key": "h1.s10low.final.orth",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.ORTH.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10low.final.orth.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.ORTH.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10low.final.orth.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.ORTH.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10low.final.orth.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 233
+    },
+    {
+      "key": "h1.s10low.final.orthmax",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 93.6
+    },
+    {
+      "key": "h1.s10low.final.orthmax.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 90.5
+    },
+    {
+      "key": "h1.s10low.final.orthmax.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 96.6
+    },
+    {
+      "key": "h1.s10low.final.orthmax.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 233
+    },
+    {
+      "key": "h1.s10low.final.commadrop",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s10low.final.commadrop.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s10low.final.commadrop.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s10low.final.commadrop.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 233
+    },
+    {
+      "key": "h1.s10low.final.chain",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10low.final.chain.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10low.final.chain.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10low.final.chainshare",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.CHAIN.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10low.final.chainshare.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10low.final.chainshare.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10low.final.neff",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.N_eff.est",
+      "value": 4.35
+    },
+    {
+      "key": "h1.s10low.final.neff.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.N_eff.lo",
+      "value": 2.86
+    },
+    {
+      "key": "h1.s10low.final.neff.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.N_eff.hi",
+      "value": 4.75
+    },
+    {
+      "key": "h1.s10low.final.sharewait",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 30.4
+    },
+    {
+      "key": "h1.s10low.final.sharewait.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 10.0
+    },
+    {
+      "key": "h1.s10low.final.sharewait.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 50.0
+    },
+    {
+      "key": "h1.s10low.final.obl",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.OBL.est",
+      "value": 13.0
+    },
+    {
+      "key": "h1.s10low.final.obl.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.OBL.lo",
+      "value": 6.5
+    },
+    {
+      "key": "h1.s10low.final.obl.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.OBL.hi",
+      "value": 20.1
+    },
+    {
+      "key": "h1.s10low.final.obl.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.n_R",
+      "value": 161
+    },
+    {
+      "key": "h1.s10low.final.rel",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.REL.est",
+      "value": 2.7
+    },
+    {
+      "key": "h1.s10low.final.rel.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.REL.lo",
+      "value": 1.2
+    },
+    {
+      "key": "h1.s10low.final.rel.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.REL.hi",
+      "value": 4.1
+    },
+    {
+      "key": "h1.s10low.final.rel.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.n_M",
+      "value": 971
+    },
+    {
+      "key": "h1.s10low.final.eros",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.EROS.est",
+      "value": 11.5
+    },
+    {
+      "key": "h1.s10low.final.eros.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.EROS.lo",
+      "value": 5.5
+    },
+    {
+      "key": "h1.s10low.final.eros.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.EROS.hi",
+      "value": 17.9
+    },
+    {
+      "key": "h1.s10low.final.sentlen",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 12.4
+    },
+    {
+      "key": "h1.s10low.final.sentlen.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 11.3
+    },
+    {
+      "key": "h1.s10low.final.sentlen.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 13.6
+    },
+    {
+      "key": "h1.s10low.final.ctx",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.CTX.est",
+      "value": 6.32
+    },
+    {
+      "key": "h1.s10low.final.ctx.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.CTX.lo",
+      "value": 5.35
+    },
+    {
+      "key": "h1.s10low.final.ctx.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.CTX.hi",
+      "value": 7.3
+    },
+    {
+      "key": "h1.s10low.final.lex",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.LEX_share.est",
+      "value": 1.7
+    },
+    {
+      "key": "h1.s10low.final.lex.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10low.final.lex.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 4.0
+    },
+    {
+      "key": "h1.s10low.final.revrate",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 0.55
+    },
+    {
+      "key": "h1.s10low.final.revrate.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 0.37
+    },
+    {
+      "key": "h1.s10low.final.revrate.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 0.75
+    },
+    {
+      "key": "h1.s10low.final.toks",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 690
+    },
+    {
+      "key": "h1.s10low.final.toks.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 606
+    },
+    {
+      "key": "h1.s10low.final.toks.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 776
+    },
+    {
+      "key": "n.s10low.final.resp",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.s10low.final.acc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.acc",
+      "value": 94.9
+    },
+    {
+      "key": "ctl.s10low.final.trunc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints.final.truncated",
+      "value": 0.0
+    },
+    {
+      "key": "n.s10low.ckpts",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/math500.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "ctl.s10low.final.aime_acc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/idx/aime24.json::acc",
+      "value": 53.3
+    },
+    {
+      "key": "h2.s10low.final.hr",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/sdt/conts.jsonl.gz::HR.est",
+      "value": 30.4
+    },
+    {
+      "key": "h2.s10low.final.hr.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/sdt/conts.jsonl.gz::HR.lo",
+      "value": 24.1
+    },
+    {
+      "key": "h2.s10low.final.hr.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/sdt/conts.jsonl.gz::HR.hi",
+      "value": 37.0
+    },
+    {
+      "key": "h2.s10low.final.fa",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/sdt/conts.jsonl.gz::FA.est",
+      "value": 4.9
+    },
+    {
+      "key": "h2.s10low.final.fa.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/sdt/conts.jsonl.gz::FA.lo",
+      "value": 2.4
+    },
+    {
+      "key": "h2.s10low.final.fa.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/sdt/conts.jsonl.gz::FA.hi",
+      "value": 7.6
+    },
+    {
+      "key": "h2.s10low.final.dprime",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/sdt/conts.jsonl.gz::dprime.est",
+      "value": 1.13
+    },
+    {
+      "key": "h2.s10low.final.dprime.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/sdt/conts.jsonl.gz::dprime.lo",
+      "value": 0.87
+    },
+    {
+      "key": "h2.s10low.final.dprime.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/sdt/conts.jsonl.gz::dprime.hi",
+      "value": 1.46
+    },
+    {
+      "key": "h2.s10low.final.crit",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/sdt/conts.jsonl.gz::criterion.est",
+      "value": 1.08
+    },
+    {
+      "key": "h2.s10low.final.crit.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/sdt/conts.jsonl.gz::criterion.lo",
+      "value": 0.92
+    },
+    {
+      "key": "h2.s10low.final.crit.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_low/sdt/conts.jsonl.gz::criterion.hi",
+      "value": 1.29
+    },
+    {
+      "key": "h1.s10med.final.freq",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 0.8
+    },
+    {
+      "key": "h1.s10med.final.freq.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 0.7
+    },
+    {
+      "key": "h1.s10med.final.freq.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 0.9
+    },
+    {
+      "key": "h1.s10med.final.freq100",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 1.5
+    },
+    {
+      "key": "h1.s10med.final.freq100.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 1.3
+    },
+    {
+      "key": "h1.s10med.final.freq100.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 1.7
+    },
+    {
+      "key": "h1.s10med.final.fdisc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 3.2
+    },
+    {
+      "key": "h1.s10med.final.fdisc.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 2.8
+    },
+    {
+      "key": "h1.s10med.final.fdisc.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 3.6
+    },
+    {
+      "key": "h1.s10med.final.si",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.SI.est",
+      "value": 97.4
+    },
+    {
+      "key": "h1.s10med.final.si.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.SI.lo",
+      "value": 95.9
+    },
+    {
+      "key": "h1.s10med.final.si.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.SI.hi",
+      "value": 98.7
+    },
+    {
+      "key": "h1.s10med.final.si.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 719
+    },
+    {
+      "key": "h1.s10med.final.siconn",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.SI_conn.est",
+      "value": 97.9
+    },
+    {
+      "key": "h1.s10med.final.siconn.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 96.6
+    },
+    {
+      "key": "h1.s10med.final.siconn.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 99.0
+    },
+    {
+      "key": "h1.s10med.final.siconn.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 719
+    },
+    {
+      "key": "h1.s10med.final.pi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.PI.est",
+      "value": 1.5
+    },
+    {
+      "key": "h1.s10med.final.pi.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.PI.lo",
+      "value": 0.7
+    },
+    {
+      "key": "h1.s10med.final.pi.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.PI.hi",
+      "value": 2.7
+    },
+    {
+      "key": "h1.s10med.final.orth",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.ORTH.est",
+      "value": 0.4
+    },
+    {
+      "key": "h1.s10med.final.orth.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.ORTH.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10med.final.orth.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.ORTH.hi",
+      "value": 0.9
+    },
+    {
+      "key": "h1.s10med.final.orth.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 719
+    },
+    {
+      "key": "h1.s10med.final.orthmax",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 92.2
+    },
+    {
+      "key": "h1.s10med.final.orthmax.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 89.7
+    },
+    {
+      "key": "h1.s10med.final.orthmax.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 94.4
+    },
+    {
+      "key": "h1.s10med.final.orthmax.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 719
+    },
+    {
+      "key": "h1.s10med.final.commadrop",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 99.6
+    },
+    {
+      "key": "h1.s10med.final.commadrop.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 99.1
+    },
+    {
+      "key": "h1.s10med.final.commadrop.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s10med.final.commadrop.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 719
+    },
+    {
+      "key": "h1.s10med.final.chain",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10med.final.chain.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10med.final.chain.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10med.final.chainshare",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.CHAIN.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10med.final.chainshare.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10med.final.chainshare.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10med.final.neff",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.N_eff.est",
+      "value": 6.79
+    },
+    {
+      "key": "h1.s10med.final.neff.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.N_eff.lo",
+      "value": 4.95
+    },
+    {
+      "key": "h1.s10med.final.neff.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.N_eff.hi",
+      "value": 7.44
+    },
+    {
+      "key": "h1.s10med.final.sharewait",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 27.0
+    },
+    {
+      "key": "h1.s10med.final.sharewait.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 14.0
+    },
+    {
+      "key": "h1.s10med.final.sharewait.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 42.6
+    },
+    {
+      "key": "h1.s10med.final.obl",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.OBL.est",
+      "value": 16.3
+    },
+    {
+      "key": "h1.s10med.final.obl.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.OBL.lo",
+      "value": 10.1
+    },
+    {
+      "key": "h1.s10med.final.obl.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.OBL.hi",
+      "value": 23.3
+    },
+    {
+      "key": "h1.s10med.final.obl.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.n_R",
+      "value": 263
+    },
+    {
+      "key": "h1.s10med.final.rel",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.REL.est",
+      "value": 2.6
+    },
+    {
+      "key": "h1.s10med.final.rel.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.REL.lo",
+      "value": 1.6
+    },
+    {
+      "key": "h1.s10med.final.rel.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.REL.hi",
+      "value": 3.5
+    },
+    {
+      "key": "h1.s10med.final.rel.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.n_M",
+      "value": 2841
+    },
+    {
+      "key": "h1.s10med.final.eros",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.EROS.est",
+      "value": 18.9
+    },
+    {
+      "key": "h1.s10med.final.eros.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.EROS.lo",
+      "value": 11.9
+    },
+    {
+      "key": "h1.s10med.final.eros.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.EROS.hi",
+      "value": 26.4
+    },
+    {
+      "key": "h1.s10med.final.sentlen",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 12.7
+    },
+    {
+      "key": "h1.s10med.final.sentlen.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 11.9
+    },
+    {
+      "key": "h1.s10med.final.sentlen.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 13.5
+    },
+    {
+      "key": "h1.s10med.final.ctx",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.CTX.est",
+      "value": 6.24
+    },
+    {
+      "key": "h1.s10med.final.ctx.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.CTX.lo",
+      "value": 5.71
+    },
+    {
+      "key": "h1.s10med.final.ctx.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.CTX.hi",
+      "value": 6.71
+    },
+    {
+      "key": "h1.s10med.final.lex",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.LEX_share.est",
+      "value": 1.0
+    },
+    {
+      "key": "h1.s10med.final.lex.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.3
+    },
+    {
+      "key": "h1.s10med.final.lex.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 1.8
+    },
+    {
+      "key": "h1.s10med.final.revrate",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 0.55
+    },
+    {
+      "key": "h1.s10med.final.revrate.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 0.4
+    },
+    {
+      "key": "h1.s10med.final.revrate.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 0.71
+    },
+    {
+      "key": "h1.s10med.final.toks",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 1128
+    },
+    {
+      "key": "h1.s10med.final.toks.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 957
+    },
+    {
+      "key": "h1.s10med.final.toks.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 1302
+    },
+    {
+      "key": "n.s10med.final.resp",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.s10med.final.acc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.acc",
+      "value": 96.9
+    },
+    {
+      "key": "ctl.s10med.final.trunc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints.final.truncated",
+      "value": 0.8
+    },
+    {
+      "key": "n.s10med.ckpts",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/math500.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "ctl.s10med.final.aime_acc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/idx/aime24.json::acc",
+      "value": 72.5
+    },
+    {
+      "key": "h2.s10med.final.hr",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/sdt/conts.jsonl.gz::HR.est",
+      "value": 43.5
+    },
+    {
+      "key": "h2.s10med.final.hr.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/sdt/conts.jsonl.gz::HR.lo",
+      "value": 37.2
+    },
+    {
+      "key": "h2.s10med.final.hr.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/sdt/conts.jsonl.gz::HR.hi",
+      "value": 49.7
+    },
+    {
+      "key": "h2.s10med.final.fa",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/sdt/conts.jsonl.gz::FA.est",
+      "value": 9.2
+    },
+    {
+      "key": "h2.s10med.final.fa.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/sdt/conts.jsonl.gz::FA.lo",
+      "value": 6.1
+    },
+    {
+      "key": "h2.s10med.final.fa.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/sdt/conts.jsonl.gz::FA.hi",
+      "value": 12.6
+    },
+    {
+      "key": "h2.s10med.final.dprime",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/sdt/conts.jsonl.gz::dprime.est",
+      "value": 1.16
+    },
+    {
+      "key": "h2.s10med.final.dprime.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/sdt/conts.jsonl.gz::dprime.lo",
+      "value": 0.96
+    },
+    {
+      "key": "h2.s10med.final.dprime.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/sdt/conts.jsonl.gz::dprime.hi",
+      "value": 1.38
+    },
+    {
+      "key": "h2.s10med.final.crit",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/sdt/conts.jsonl.gz::criterion.est",
+      "value": 0.74
+    },
+    {
+      "key": "h2.s10med.final.crit.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/sdt/conts.jsonl.gz::criterion.lo",
+      "value": 0.61
+    },
+    {
+      "key": "h2.s10med.final.crit.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_med/sdt/conts.jsonl.gz::criterion.hi",
+      "value": 0.9
+    },
+    {
+      "key": "h1.s10high.final.freq",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 0.8
+    },
+    {
+      "key": "h1.s10high.final.freq.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 0.7
+    },
+    {
+      "key": "h1.s10high.final.freq.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 0.8
+    },
+    {
+      "key": "h1.s10high.final.freq100",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 1.5
+    },
+    {
+      "key": "h1.s10high.final.freq100.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 1.3
+    },
+    {
+      "key": "h1.s10high.final.freq100.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 1.6
+    },
+    {
+      "key": "h1.s10high.final.fdisc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 6.0
+    },
+    {
+      "key": "h1.s10high.final.fdisc.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 5.6
+    },
+    {
+      "key": "h1.s10high.final.fdisc.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 6.3
+    },
+    {
+      "key": "h1.s10high.final.si",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.SI.est",
+      "value": 90.0
+    },
+    {
+      "key": "h1.s10high.final.si.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.SI.lo",
+      "value": 87.6
+    },
+    {
+      "key": "h1.s10high.final.si.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.SI.hi",
+      "value": 92.0
+    },
+    {
+      "key": "h1.s10high.final.si.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 1405
+    },
+    {
+      "key": "h1.s10high.final.siconn",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.SI_conn.est",
+      "value": 97.9
+    },
+    {
+      "key": "h1.s10high.final.siconn.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 97.1
+    },
+    {
+      "key": "h1.s10high.final.siconn.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 98.6
+    },
+    {
+      "key": "h1.s10high.final.siconn.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 1405
+    },
+    {
+      "key": "h1.s10high.final.pi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.PI.est",
+      "value": 6.0
+    },
+    {
+      "key": "h1.s10high.final.pi.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.PI.lo",
+      "value": 4.7
+    },
+    {
+      "key": "h1.s10high.final.pi.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.PI.hi",
+      "value": 7.5
+    },
+    {
+      "key": "h1.s10high.final.orth",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.ORTH.est",
+      "value": 9.9
+    },
+    {
+      "key": "h1.s10high.final.orth.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.ORTH.lo",
+      "value": 7.8
+    },
+    {
+      "key": "h1.s10high.final.orth.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.ORTH.hi",
+      "value": 12.4
+    },
+    {
+      "key": "h1.s10high.final.orth.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 1405
+    },
+    {
+      "key": "h1.s10high.final.orthmax",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 74.8
+    },
+    {
+      "key": "h1.s10high.final.orthmax.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 70.9
+    },
+    {
+      "key": "h1.s10high.final.orthmax.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 78.2
+    },
+    {
+      "key": "h1.s10high.final.orthmax.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 1405
+    },
+    {
+      "key": "h1.s10high.final.commadrop",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 86.5
+    },
+    {
+      "key": "h1.s10high.final.commadrop.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 83.4
+    },
+    {
+      "key": "h1.s10high.final.commadrop.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 89.2
+    },
+    {
+      "key": "h1.s10high.final.commadrop.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.n_wait",
+      "value": 1405
+    },
+    {
+      "key": "h1.s10high.final.chain",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 0.7
+    },
+    {
+      "key": "h1.s10high.final.chain.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10high.final.chain.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 2.3
+    },
+    {
+      "key": "h1.s10high.final.chainshare",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.CHAIN.est",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s10high.final.chainshare.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s10high.final.chainshare.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 0.2
+    },
+    {
+      "key": "h1.s10high.final.neff",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.N_eff.est",
+      "value": 6.3
+    },
+    {
+      "key": "h1.s10high.final.neff.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.N_eff.lo",
+      "value": 5.57
+    },
+    {
+      "key": "h1.s10high.final.neff.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.N_eff.hi",
+      "value": 6.8
+    },
+    {
+      "key": "h1.s10high.final.sharewait",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 16.3
+    },
+    {
+      "key": "h1.s10high.final.sharewait.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 12.1
+    },
+    {
+      "key": "h1.s10high.final.sharewait.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 20.8
+    },
+    {
+      "key": "h1.s10high.final.obl",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.OBL.est",
+      "value": 20.5
+    },
+    {
+      "key": "h1.s10high.final.obl.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.OBL.lo",
+      "value": 16.8
+    },
+    {
+      "key": "h1.s10high.final.obl.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.OBL.hi",
+      "value": 24.3
+    },
+    {
+      "key": "h1.s10high.final.obl.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.n_R",
+      "value": 752
+    },
+    {
+      "key": "h1.s10high.final.rel",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.REL.est",
+      "value": 2.3
+    },
+    {
+      "key": "h1.s10high.final.rel.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.REL.lo",
+      "value": 1.9
+    },
+    {
+      "key": "h1.s10high.final.rel.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.REL.hi",
+      "value": 2.9
+    },
+    {
+      "key": "h1.s10high.final.rel.n",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.n_M",
+      "value": 10647
+    },
+    {
+      "key": "h1.s10high.final.eros",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.EROS.est",
+      "value": 17.1
+    },
+    {
+      "key": "h1.s10high.final.eros.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.EROS.lo",
+      "value": 12.1
+    },
+    {
+      "key": "h1.s10high.final.eros.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.EROS.hi",
+      "value": 22.3
+    },
+    {
+      "key": "h1.s10high.final.sentlen",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 13.1
+    },
+    {
+      "key": "h1.s10high.final.sentlen.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 12.5
+    },
+    {
+      "key": "h1.s10high.final.sentlen.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 13.7
+    },
+    {
+      "key": "h1.s10high.final.ctx",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.CTX.est",
+      "value": 5.21
+    },
+    {
+      "key": "h1.s10high.final.ctx.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.CTX.lo",
+      "value": 4.84
+    },
+    {
+      "key": "h1.s10high.final.ctx.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.CTX.hi",
+      "value": 5.56
+    },
+    {
+      "key": "h1.s10high.final.lex",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.LEX_share.est",
+      "value": 0.9
+    },
+    {
+      "key": "h1.s10high.final.lex.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.3
+    },
+    {
+      "key": "h1.s10high.final.lex.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 1.6
+    },
+    {
+      "key": "h1.s10high.final.revrate",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 0.8
+    },
+    {
+      "key": "h1.s10high.final.revrate.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 0.68
+    },
+    {
+      "key": "h1.s10high.final.revrate.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 0.92
+    },
+    {
+      "key": "h1.s10high.final.toks",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 2276
+    },
+    {
+      "key": "h1.s10high.final.toks.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 1937
+    },
+    {
+      "key": "h1.s10high.final.toks.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 2606
+    },
+    {
+      "key": "n.s10high.final.resp",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.s10high.final.acc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.acc",
+      "value": 94.0
+    },
+    {
+      "key": "ctl.s10high.final.trunc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints.final.truncated",
+      "value": 7.2
+    },
+    {
+      "key": "n.s10high.ckpts",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/math500.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "ctl.s10high.final.aime_acc",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/idx/aime24.json::acc",
+      "value": 55.0
+    },
+    {
+      "key": "h2.s10high.final.hr",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/sdt/conts.jsonl.gz::HR.est",
+      "value": 57.0
+    },
+    {
+      "key": "h2.s10high.final.hr.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/sdt/conts.jsonl.gz::HR.lo",
+      "value": 51.4
+    },
+    {
+      "key": "h2.s10high.final.hr.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/sdt/conts.jsonl.gz::HR.hi",
+      "value": 62.7
+    },
+    {
+      "key": "h2.s10high.final.fa",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/sdt/conts.jsonl.gz::FA.est",
+      "value": 21.1
+    },
+    {
+      "key": "h2.s10high.final.fa.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/sdt/conts.jsonl.gz::FA.lo",
+      "value": 16.7
+    },
+    {
+      "key": "h2.s10high.final.fa.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/sdt/conts.jsonl.gz::FA.hi",
+      "value": 25.6
+    },
+    {
+      "key": "h2.s10high.final.dprime",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/sdt/conts.jsonl.gz::dprime.est",
+      "value": 0.98
+    },
+    {
+      "key": "h2.s10high.final.dprime.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/sdt/conts.jsonl.gz::dprime.lo",
+      "value": 0.82
+    },
+    {
+      "key": "h2.s10high.final.dprime.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/sdt/conts.jsonl.gz::dprime.hi",
+      "value": 1.15
+    },
+    {
+      "key": "h2.s10high.final.crit",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/sdt/conts.jsonl.gz::criterion.est",
+      "value": 0.31
+    },
+    {
+      "key": "h2.s10high.final.crit.lo",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/sdt/conts.jsonl.gz::criterion.lo",
+      "value": 0.19
+    },
+    {
+      "key": "h2.s10high.final.crit.hi",
+      "src": "<WORK>/arr_oct/runs/P1/scale/S10_high/sdt/conts.jsonl.gz::criterion.hi",
+      "value": 0.44
+    },
+    {
+      "key": "h4.s8base.final.prev_wait",
+      "src": "scale_report::E3_shared.S8_base.wait.est",
+      "value": 59.0
+    },
+    {
+      "key": "h4.s8base.final.prev_wait.lo",
+      "src": "scale_report::E3_shared.S8_base.wait.lo",
+      "value": 53.2
+    },
+    {
+      "key": "h4.s8base.final.prev_wait.hi",
+      "src": "scale_report::E3_shared.S8_base.wait.hi",
+      "value": 64.5
+    },
+    {
+      "key": "h4.s8base.final.prev_next",
+      "src": "scale_report::E3_shared.S8_base.next.est",
+      "value": 22.8
+    },
+    {
+      "key": "h4.s8base.final.prev_next.lo",
+      "src": "scale_report::E3_shared.S8_base.next.lo",
+      "value": 16.8
+    },
+    {
+      "key": "h4.s8base.final.prev_next.hi",
+      "src": "scale_report::E3_shared.S8_base.next.hi",
+      "value": 29.2
+    },
+    {
+      "key": "h4.s8base.final.prev_holdon",
+      "src": "scale_report::E3_shared.S8_base.hold_on.est",
+      "value": 50.5
+    },
+    {
+      "key": "h4.s8base.final.prev_holdon.lo",
+      "src": "scale_report::E3_shared.S8_base.hold_on.lo",
+      "value": 44.8
+    },
+    {
+      "key": "h4.s8base.final.prev_holdon.hi",
+      "src": "scale_report::E3_shared.S8_base.hold_on.hi",
+      "value": 56.3
+    },
+    {
+      "key": "h4.s8base.final.prev_none",
+      "src": "scale_report::E3_shared.S8_base.none.est",
+      "value": 18.5
+    },
+    {
+      "key": "h4.s8base.final.prev_none.lo",
+      "src": "scale_report::E3_shared.S8_base.none.lo",
+      "value": 13.0
+    },
+    {
+      "key": "h4.s8base.final.prev_none.hi",
+      "src": "scale_report::E3_shared.S8_base.none.hi",
+      "value": 24.5
+    },
+    {
+      "key": "h4.s8base.final.prev_syn",
+      "src": "scale_report::E3_shared.S8_base.syn.est",
+      "value": 50.5
+    },
+    {
+      "key": "h4.s8base.final.prev_syn.lo",
+      "src": "scale_report::E3_shared.S8_base.syn.lo",
+      "value": 44.8
+    },
+    {
+      "key": "h4.s8base.final.prev_syn.hi",
+      "src": "scale_report::E3_shared.S8_base.syn.hi",
+      "value": 56.3
+    },
+    {
+      "key": "h4.s8base.final.rd_op",
+      "src": "scale_report::E3_shared.S8_base.RD_next.est",
+      "value": 36.2
+    },
+    {
+      "key": "h4.s8base.final.rd_op.lo",
+      "src": "scale_report::E3_shared.S8_base.RD_next.lo",
+      "value": 29.5
+    },
+    {
+      "key": "h4.s8base.final.rd_op.hi",
+      "src": "scale_report::E3_shared.S8_base.RD_next.hi",
+      "value": 43.0
+    },
+    {
+      "key": "h4.s8base.final.or_op",
+      "src": "scale_report::E3_shared.S8_base.OR_next.est",
+      "value": 4.86
+    },
+    {
+      "key": "h4.s8base.final.or_op.lo",
+      "src": "scale_report::E3_shared.S8_base.OR_next.lo",
+      "value": 3.5
+    },
+    {
+      "key": "h4.s8base.final.or_op.hi",
+      "src": "scale_report::E3_shared.S8_base.OR_next.hi",
+      "value": 7.02
+    },
+    {
+      "key": "h4.s8base.final.rr_op",
+      "src": "scale_report::E3_shared.S8_base.RR_next.est",
+      "value": 2.58
+    },
+    {
+      "key": "h4.s8base.final.rr_op.lo",
+      "src": "scale_report::E3_shared.S8_base.RR_next.lo",
+      "value": 2.06
+    },
+    {
+      "key": "h4.s8base.final.rr_op.hi",
+      "src": "scale_report::E3_shared.S8_base.RR_next.hi",
+      "value": 3.44
+    },
+    {
+      "key": "h4.s8base.final.rd_syn",
+      "src": "scale_report::E3_shared.S8_base.RD_syn.est",
+      "value": 8.5
+    },
+    {
+      "key": "h4.s8base.final.rd_syn.lo",
+      "src": "scale_report::E3_shared.S8_base.RD_syn.lo",
+      "value": 1.5
+    },
+    {
+      "key": "h4.s8base.final.rd_syn.hi",
+      "src": "scale_report::E3_shared.S8_base.RD_syn.hi",
+      "value": 15.3
+    },
+    {
+      "key": "h4.s8base.final.rd_none",
+      "src": "scale_report::E3_shared.S8_base.RD_none.est",
+      "value": 40.5
+    },
+    {
+      "key": "h4.s8base.final.rd_none.lo",
+      "src": "scale_report::E3_shared.S8_base.RD_none.lo",
+      "value": 33.2
+    },
+    {
+      "key": "h4.s8base.final.rd_none.hi",
+      "src": "scale_report::E3_shared.S8_base.RD_none.hi",
+      "value": 47.5
+    },
+    {
+      "key": "h4.s8base.trend.r_amp",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).est",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8base.trend.r_amp.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).lo",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8base.trend.r_amp.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).hi",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8base.trend.d_amp",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).est",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.trend.d_amp.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.trend.d_amp.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).hi",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8dapo.final.prev_wait",
+      "src": "scale_report::E3_shared.S8_dapo.wait.est",
+      "value": 21.8
+    },
+    {
+      "key": "h4.s8dapo.final.prev_wait.lo",
+      "src": "scale_report::E3_shared.S8_dapo.wait.lo",
+      "value": 15.0
+    },
+    {
+      "key": "h4.s8dapo.final.prev_wait.hi",
+      "src": "scale_report::E3_shared.S8_dapo.wait.hi",
+      "value": 28.7
+    },
+    {
+      "key": "h4.s8dapo.final.prev_next",
+      "src": "scale_report::E3_shared.S8_dapo.next.est",
+      "value": 15.2
+    },
+    {
+      "key": "h4.s8dapo.final.prev_next.lo",
+      "src": "scale_report::E3_shared.S8_dapo.next.lo",
+      "value": 9.5
+    },
+    {
+      "key": "h4.s8dapo.final.prev_next.hi",
+      "src": "scale_report::E3_shared.S8_dapo.next.hi",
+      "value": 21.0
+    },
+    {
+      "key": "h4.s8dapo.final.prev_holdon",
+      "src": "scale_report::E3_shared.S8_dapo.hold_on.est",
+      "value": 20.2
+    },
+    {
+      "key": "h4.s8dapo.final.prev_holdon.lo",
+      "src": "scale_report::E3_shared.S8_dapo.hold_on.lo",
+      "value": 14.2
+    },
+    {
+      "key": "h4.s8dapo.final.prev_holdon.hi",
+      "src": "scale_report::E3_shared.S8_dapo.hold_on.hi",
+      "value": 26.3
+    },
+    {
+      "key": "h4.s8dapo.final.prev_none",
+      "src": "scale_report::E3_shared.S8_dapo.none.est",
+      "value": 14.0
+    },
+    {
+      "key": "h4.s8dapo.final.prev_none.lo",
+      "src": "scale_report::E3_shared.S8_dapo.none.lo",
+      "value": 8.8
+    },
+    {
+      "key": "h4.s8dapo.final.prev_none.hi",
+      "src": "scale_report::E3_shared.S8_dapo.none.hi",
+      "value": 19.5
+    },
+    {
+      "key": "h4.s8dapo.final.prev_syn",
+      "src": "scale_report::E3_shared.S8_dapo.syn.est",
+      "value": 20.2
+    },
+    {
+      "key": "h4.s8dapo.final.prev_syn.lo",
+      "src": "scale_report::E3_shared.S8_dapo.syn.lo",
+      "value": 14.2
+    },
+    {
+      "key": "h4.s8dapo.final.prev_syn.hi",
+      "src": "scale_report::E3_shared.S8_dapo.syn.hi",
+      "value": 26.3
+    },
+    {
+      "key": "h4.s8dapo.final.rd_op",
+      "src": "scale_report::E3_shared.S8_dapo.RD_next.est",
+      "value": 6.5
+    },
+    {
+      "key": "h4.s8dapo.final.rd_op.lo",
+      "src": "scale_report::E3_shared.S8_dapo.RD_next.lo",
+      "value": 2.2
+    },
+    {
+      "key": "h4.s8dapo.final.rd_op.hi",
+      "src": "scale_report::E3_shared.S8_dapo.RD_next.hi",
+      "value": 11.5
+    },
+    {
+      "key": "h4.s8dapo.final.or_op",
+      "src": "scale_report::E3_shared.S8_dapo.OR_next.est",
+      "value": 1.54
+    },
+    {
+      "key": "h4.s8dapo.final.or_op.lo",
+      "src": "scale_report::E3_shared.S8_dapo.OR_next.lo",
+      "value": 1.16
+    },
+    {
+      "key": "h4.s8dapo.final.or_op.hi",
+      "src": "scale_report::E3_shared.S8_dapo.OR_next.hi",
+      "value": 2.16
+    },
+    {
+      "key": "h4.s8dapo.final.rr_op",
+      "src": "scale_report::E3_shared.S8_dapo.RR_next.est",
+      "value": 1.42
+    },
+    {
+      "key": "h4.s8dapo.final.rr_op.lo",
+      "src": "scale_report::E3_shared.S8_dapo.RR_next.lo",
+      "value": 1.13
+    },
+    {
+      "key": "h4.s8dapo.final.rr_op.hi",
+      "src": "scale_report::E3_shared.S8_dapo.RR_next.hi",
+      "value": 1.9
+    },
+    {
+      "key": "h4.s8dapo.final.rd_syn",
+      "src": "scale_report::E3_shared.S8_dapo.RD_syn.est",
+      "value": 1.5
+    },
+    {
+      "key": "h4.s8dapo.final.rd_syn.lo",
+      "src": "scale_report::E3_shared.S8_dapo.RD_syn.lo",
+      "value": -2.0
+    },
+    {
+      "key": "h4.s8dapo.final.rd_syn.hi",
+      "src": "scale_report::E3_shared.S8_dapo.RD_syn.hi",
+      "value": 5.0
+    },
+    {
+      "key": "h4.s8dapo.final.rd_none",
+      "src": "scale_report::E3_shared.S8_dapo.RD_none.est",
+      "value": 7.8
+    },
+    {
+      "key": "h4.s8dapo.final.rd_none.lo",
+      "src": "scale_report::E3_shared.S8_dapo.RD_none.lo",
+      "value": 3.2
+    },
+    {
+      "key": "h4.s8dapo.final.rd_none.hi",
+      "src": "scale_report::E3_shared.S8_dapo.RD_none.hi",
+      "value": 12.8
+    },
+    {
+      "key": "h4.s8dapo.trend.r_amp",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).est",
+      "value": 0.18
+    },
+    {
+      "key": "h4.s8dapo.trend.r_amp.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).lo",
+      "value": 0.06
+    },
+    {
+      "key": "h4.s8dapo.trend.r_amp.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).hi",
+      "value": 0.32
+    },
+    {
+      "key": "h4.s8dapo.trend.d_amp",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).est",
+      "value": -29.8
+    },
+    {
+      "key": "h4.s8dapo.trend.d_amp.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).lo",
+      "value": -38.0
+    },
+    {
+      "key": "h4.s8dapo.trend.d_amp.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).hi",
+      "value": -21.2
+    },
+    {
+      "key": "h4.s8qwq.final.prev_wait",
+      "src": "scale_report::E3_shared.S8_qwq.wait.est",
+      "value": 41.0
+    },
+    {
+      "key": "h4.s8qwq.final.prev_wait.lo",
+      "src": "scale_report::E3_shared.S8_qwq.wait.lo",
+      "value": 34.5
+    },
+    {
+      "key": "h4.s8qwq.final.prev_wait.hi",
+      "src": "scale_report::E3_shared.S8_qwq.wait.hi",
+      "value": 47.5
+    },
+    {
+      "key": "h4.s8qwq.final.prev_next",
+      "src": "scale_report::E3_shared.S8_qwq.next.est",
+      "value": 19.2
+    },
+    {
+      "key": "h4.s8qwq.final.prev_next.lo",
+      "src": "scale_report::E3_shared.S8_qwq.next.lo",
+      "value": 14.8
+    },
+    {
+      "key": "h4.s8qwq.final.prev_next.hi",
+      "src": "scale_report::E3_shared.S8_qwq.next.hi",
+      "value": 23.8
+    },
+    {
+      "key": "h4.s8qwq.final.prev_holdon",
+      "src": "scale_report::E3_shared.S8_qwq.hold_on.est",
+      "value": 34.8
+    },
+    {
+      "key": "h4.s8qwq.final.prev_holdon.lo",
+      "src": "scale_report::E3_shared.S8_qwq.hold_on.lo",
+      "value": 29.0
+    },
+    {
+      "key": "h4.s8qwq.final.prev_holdon.hi",
+      "src": "scale_report::E3_shared.S8_qwq.hold_on.hi",
+      "value": 40.8
+    },
+    {
+      "key": "h4.s8qwq.final.prev_none",
+      "src": "scale_report::E3_shared.S8_qwq.none.est",
+      "value": 22.0
+    },
+    {
+      "key": "h4.s8qwq.final.prev_none.lo",
+      "src": "scale_report::E3_shared.S8_qwq.none.lo",
+      "value": 16.5
+    },
+    {
+      "key": "h4.s8qwq.final.prev_none.hi",
+      "src": "scale_report::E3_shared.S8_qwq.none.hi",
+      "value": 27.8
+    },
+    {
+      "key": "h4.s8qwq.final.prev_syn",
+      "src": "scale_report::E3_shared.S8_qwq.syn.est",
+      "value": 34.8
+    },
+    {
+      "key": "h4.s8qwq.final.prev_syn.lo",
+      "src": "scale_report::E3_shared.S8_qwq.syn.lo",
+      "value": 29.0
+    },
+    {
+      "key": "h4.s8qwq.final.prev_syn.hi",
+      "src": "scale_report::E3_shared.S8_qwq.syn.hi",
+      "value": 40.8
+    },
+    {
+      "key": "h4.s8qwq.final.rd_op",
+      "src": "scale_report::E3_shared.S8_qwq.RD_next.est",
+      "value": 21.8
+    },
+    {
+      "key": "h4.s8qwq.final.rd_op.lo",
+      "src": "scale_report::E3_shared.S8_qwq.RD_next.lo",
+      "value": 15.5
+    },
+    {
+      "key": "h4.s8qwq.final.rd_op.hi",
+      "src": "scale_report::E3_shared.S8_qwq.RD_next.hi",
+      "value": 28.0
+    },
+    {
+      "key": "h4.s8qwq.final.or_op",
+      "src": "scale_report::E3_shared.S8_qwq.OR_next.est",
+      "value": 2.9
+    },
+    {
+      "key": "h4.s8qwq.final.or_op.lo",
+      "src": "scale_report::E3_shared.S8_qwq.OR_next.lo",
+      "value": 2.14
+    },
+    {
+      "key": "h4.s8qwq.final.or_op.hi",
+      "src": "scale_report::E3_shared.S8_qwq.OR_next.hi",
+      "value": 3.99
+    },
+    {
+      "key": "h4.s8qwq.final.rr_op",
+      "src": "scale_report::E3_shared.S8_qwq.RR_next.est",
+      "value": 2.12
+    },
+    {
+      "key": "h4.s8qwq.final.rr_op.lo",
+      "src": "scale_report::E3_shared.S8_qwq.RR_next.lo",
+      "value": 1.71
+    },
+    {
+      "key": "h4.s8qwq.final.rr_op.hi",
+      "src": "scale_report::E3_shared.S8_qwq.RR_next.hi",
+      "value": 2.7
+    },
+    {
+      "key": "h4.s8qwq.final.rd_syn",
+      "src": "scale_report::E3_shared.S8_qwq.RD_syn.est",
+      "value": 6.2
+    },
+    {
+      "key": "h4.s8qwq.final.rd_syn.lo",
+      "src": "scale_report::E3_shared.S8_qwq.RD_syn.lo",
+      "value": 0.3
+    },
+    {
+      "key": "h4.s8qwq.final.rd_syn.hi",
+      "src": "scale_report::E3_shared.S8_qwq.RD_syn.hi",
+      "value": 12.0
+    },
+    {
+      "key": "h4.s8qwq.final.rd_none",
+      "src": "scale_report::E3_shared.S8_qwq.RD_none.est",
+      "value": 19.0
+    },
+    {
+      "key": "h4.s8qwq.final.rd_none.lo",
+      "src": "scale_report::E3_shared.S8_qwq.RD_none.lo",
+      "value": 12.8
+    },
+    {
+      "key": "h4.s8qwq.final.rd_none.hi",
+      "src": "scale_report::E3_shared.S8_qwq.RD_none.hi",
+      "value": 25.5
+    },
+    {
+      "key": "h4.s8qwq.trend.r_amp",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).est",
+      "value": 0.6
+    },
+    {
+      "key": "h4.s8qwq.trend.r_amp.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).lo",
+      "value": 0.42
+    },
+    {
+      "key": "h4.s8qwq.trend.r_amp.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).hi",
+      "value": 0.83
+    },
+    {
+      "key": "h4.s8qwq.trend.d_amp",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).est",
+      "value": -14.5
+    },
+    {
+      "key": "h4.s8qwq.trend.d_amp.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).lo",
+      "value": -23.5
+    },
+    {
+      "key": "h4.s8qwq.trend.d_amp.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).hi",
+      "value": -5.8
+    },
+    {
+      "key": "h4.s8orz.final.prev_wait",
+      "src": "scale_report::E3_shared.S8_orz.wait.est",
+      "value": 31.8
+    },
+    {
+      "key": "h4.s8orz.final.prev_wait.lo",
+      "src": "scale_report::E3_shared.S8_orz.wait.lo",
+      "value": 25.5
+    },
+    {
+      "key": "h4.s8orz.final.prev_wait.hi",
+      "src": "scale_report::E3_shared.S8_orz.wait.hi",
+      "value": 38.2
+    },
+    {
+      "key": "h4.s8orz.final.prev_next",
+      "src": "scale_report::E3_shared.S8_orz.next.est",
+      "value": 16.2
+    },
+    {
+      "key": "h4.s8orz.final.prev_next.lo",
+      "src": "scale_report::E3_shared.S8_orz.next.lo",
+      "value": 11.2
+    },
+    {
+      "key": "h4.s8orz.final.prev_next.hi",
+      "src": "scale_report::E3_shared.S8_orz.next.hi",
+      "value": 21.8
+    },
+    {
+      "key": "h4.s8orz.final.prev_holdon",
+      "src": "scale_report::E3_shared.S8_orz.hold_on.est",
+      "value": 26.0
+    },
+    {
+      "key": "h4.s8orz.final.prev_holdon.lo",
+      "src": "scale_report::E3_shared.S8_orz.hold_on.lo",
+      "value": 20.0
+    },
+    {
+      "key": "h4.s8orz.final.prev_holdon.hi",
+      "src": "scale_report::E3_shared.S8_orz.hold_on.hi",
+      "value": 32.0
+    },
+    {
+      "key": "h4.s8orz.final.prev_none",
+      "src": "scale_report::E3_shared.S8_orz.none.est",
+      "value": 16.0
+    },
+    {
+      "key": "h4.s8orz.final.prev_none.lo",
+      "src": "scale_report::E3_shared.S8_orz.none.lo",
+      "value": 11.0
+    },
+    {
+      "key": "h4.s8orz.final.prev_none.hi",
+      "src": "scale_report::E3_shared.S8_orz.none.hi",
+      "value": 21.5
+    },
+    {
+      "key": "h4.s8orz.final.prev_syn",
+      "src": "scale_report::E3_shared.S8_orz.syn.est",
+      "value": 26.0
+    },
+    {
+      "key": "h4.s8orz.final.prev_syn.lo",
+      "src": "scale_report::E3_shared.S8_orz.syn.lo",
+      "value": 20.0
+    },
+    {
+      "key": "h4.s8orz.final.prev_syn.hi",
+      "src": "scale_report::E3_shared.S8_orz.syn.hi",
+      "value": 32.0
+    },
+    {
+      "key": "h4.s8orz.final.rd_op",
+      "src": "scale_report::E3_shared.S8_orz.RD_next.est",
+      "value": 15.5
+    },
+    {
+      "key": "h4.s8orz.final.rd_op.lo",
+      "src": "scale_report::E3_shared.S8_orz.RD_next.lo",
+      "value": 9.5
+    },
+    {
+      "key": "h4.s8orz.final.rd_op.hi",
+      "src": "scale_report::E3_shared.S8_orz.RD_next.hi",
+      "value": 21.2
+    },
+    {
+      "key": "h4.s8orz.final.or_op",
+      "src": "scale_report::E3_shared.S8_orz.OR_next.est",
+      "value": 2.39
+    },
+    {
+      "key": "h4.s8orz.final.or_op.lo",
+      "src": "scale_report::E3_shared.S8_orz.OR_next.lo",
+      "value": 1.7
+    },
+    {
+      "key": "h4.s8orz.final.or_op.hi",
+      "src": "scale_report::E3_shared.S8_orz.OR_next.hi",
+      "value": 3.44
+    },
+    {
+      "key": "h4.s8orz.final.rr_op",
+      "src": "scale_report::E3_shared.S8_orz.RR_next.est",
+      "value": 1.95
+    },
+    {
+      "key": "h4.s8orz.final.rr_op.lo",
+      "src": "scale_report::E3_shared.S8_orz.RR_next.lo",
+      "value": 1.49
+    },
+    {
+      "key": "h4.s8orz.final.rr_op.hi",
+      "src": "scale_report::E3_shared.S8_orz.RR_next.hi",
+      "value": 2.64
+    },
+    {
+      "key": "h4.s8orz.final.rd_syn",
+      "src": "scale_report::E3_shared.S8_orz.RD_syn.est",
+      "value": 5.8
+    },
+    {
+      "key": "h4.s8orz.final.rd_syn.lo",
+      "src": "scale_report::E3_shared.S8_orz.RD_syn.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8orz.final.rd_syn.hi",
+      "src": "scale_report::E3_shared.S8_orz.RD_syn.hi",
+      "value": 11.0
+    },
+    {
+      "key": "h4.s8orz.final.rd_none",
+      "src": "scale_report::E3_shared.S8_orz.RD_none.est",
+      "value": 15.8
+    },
+    {
+      "key": "h4.s8orz.final.rd_none.lo",
+      "src": "scale_report::E3_shared.S8_orz.RD_none.lo",
+      "value": 9.5
+    },
+    {
+      "key": "h4.s8orz.final.rd_none.hi",
+      "src": "scale_report::E3_shared.S8_orz.RD_none.hi",
+      "value": 21.8
+    },
+    {
+      "key": "h4.s8orz.trend.r_amp",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).est",
+      "value": 0.43
+    },
+    {
+      "key": "h4.s8orz.trend.r_amp.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).lo",
+      "value": 0.27
+    },
+    {
+      "key": "h4.s8orz.trend.r_amp.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).hi",
+      "value": 0.6
+    },
+    {
+      "key": "h4.s8orz.trend.d_amp",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).est",
+      "value": -20.8
+    },
+    {
+      "key": "h4.s8orz.trend.d_amp.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).lo",
+      "value": -28.5
+    },
+    {
+      "key": "h4.s8orz.trend.d_amp.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).hi",
+      "value": -12.8
+    },
+    {
+      "key": "h4.s8r1d.final.prev_wait",
+      "src": "scale_report::E3_shared.S8_r1distill.wait.est",
+      "value": 48.2
+    },
+    {
+      "key": "h4.s8r1d.final.prev_wait.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.wait.lo",
+      "value": 42.2
+    },
+    {
+      "key": "h4.s8r1d.final.prev_wait.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.wait.hi",
+      "value": 54.8
+    },
+    {
+      "key": "h4.s8r1d.final.prev_next",
+      "src": "scale_report::E3_shared.S8_r1distill.next.est",
+      "value": 11.8
+    },
+    {
+      "key": "h4.s8r1d.final.prev_next.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.next.lo",
+      "value": 7.8
+    },
+    {
+      "key": "h4.s8r1d.final.prev_next.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.next.hi",
+      "value": 15.8
+    },
+    {
+      "key": "h4.s8r1d.final.prev_holdon",
+      "src": "scale_report::E3_shared.S8_r1distill.hold_on.est",
+      "value": 41.5
+    },
+    {
+      "key": "h4.s8r1d.final.prev_holdon.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.hold_on.lo",
+      "value": 34.5
+    },
+    {
+      "key": "h4.s8r1d.final.prev_holdon.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.hold_on.hi",
+      "value": 48.8
+    },
+    {
+      "key": "h4.s8r1d.final.prev_none",
+      "src": "scale_report::E3_shared.S8_r1distill.none.est",
+      "value": 16.5
+    },
+    {
+      "key": "h4.s8r1d.final.prev_none.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.none.lo",
+      "value": 11.2
+    },
+    {
+      "key": "h4.s8r1d.final.prev_none.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.none.hi",
+      "value": 22.2
+    },
+    {
+      "key": "h4.s8r1d.final.prev_syn",
+      "src": "scale_report::E3_shared.S8_r1distill.syn.est",
+      "value": 41.5
+    },
+    {
+      "key": "h4.s8r1d.final.prev_syn.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.syn.lo",
+      "value": 34.5
+    },
+    {
+      "key": "h4.s8r1d.final.prev_syn.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.syn.hi",
+      "value": 48.8
+    },
+    {
+      "key": "h4.s8r1d.final.rd_op",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_next.est",
+      "value": 36.5
+    },
+    {
+      "key": "h4.s8r1d.final.rd_op.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_next.lo",
+      "value": 30.0
+    },
+    {
+      "key": "h4.s8r1d.final.rd_op.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_next.hi",
+      "value": 42.8
+    },
+    {
+      "key": "h4.s8r1d.final.or_op",
+      "src": "scale_report::E3_shared.S8_r1distill.OR_next.est",
+      "value": 6.94
+    },
+    {
+      "key": "h4.s8r1d.final.or_op.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.OR_next.lo",
+      "value": 4.72
+    },
+    {
+      "key": "h4.s8r1d.final.or_op.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.OR_next.hi",
+      "value": 10.52
+    },
+    {
+      "key": "h4.s8r1d.final.rr_op",
+      "src": "scale_report::E3_shared.S8_r1distill.RR_next.est",
+      "value": 4.07
+    },
+    {
+      "key": "h4.s8r1d.final.rr_op.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.RR_next.lo",
+      "value": 2.98
+    },
+    {
+      "key": "h4.s8r1d.final.rr_op.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.RR_next.hi",
+      "value": 5.87
+    },
+    {
+      "key": "h4.s8r1d.final.rd_syn",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_syn.est",
+      "value": 6.8
+    },
+    {
+      "key": "h4.s8r1d.final.rd_syn.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_syn.lo",
+      "value": 0.3
+    },
+    {
+      "key": "h4.s8r1d.final.rd_syn.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_syn.hi",
+      "value": 13.7
+    },
+    {
+      "key": "h4.s8r1d.final.rd_none",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_none.est",
+      "value": 31.8
+    },
+    {
+      "key": "h4.s8r1d.final.rd_none.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_none.lo",
+      "value": 24.7
+    },
+    {
+      "key": "h4.s8r1d.final.rd_none.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_none.hi",
+      "value": 38.5
+    },
+    {
+      "key": "h4.s8r1d.trend.r_amp",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).est",
+      "value": 1.01
+    },
+    {
+      "key": "h4.s8r1d.trend.r_amp.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).lo",
+      "value": 0.79
+    },
+    {
+      "key": "h4.s8r1d.trend.r_amp.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).hi",
+      "value": 1.27
+    },
+    {
+      "key": "h4.s8r1d.trend.d_amp",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).est",
+      "value": 0.2
+    },
+    {
+      "key": "h4.s8r1d.trend.d_amp.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).lo",
+      "value": -8.5
+    },
+    {
+      "key": "h4.s8r1d.trend.d_amp.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).hi",
+      "value": 8.5
+    },
+    {
+      "key": "h4.s10low.final.prev_wait",
+      "src": "scale_report::E3_shared.S10_low.wait.est",
+      "value": 32.5
+    },
+    {
+      "key": "h4.s10low.final.prev_wait.lo",
+      "src": "scale_report::E3_shared.S10_low.wait.lo",
+      "value": 26.5
+    },
+    {
+      "key": "h4.s10low.final.prev_wait.hi",
+      "src": "scale_report::E3_shared.S10_low.wait.hi",
+      "value": 39.2
+    },
+    {
+      "key": "h4.s10low.final.prev_next",
+      "src": "scale_report::E3_shared.S10_low.next.est",
+      "value": 36.0
+    },
+    {
+      "key": "h4.s10low.final.prev_next.lo",
+      "src": "scale_report::E3_shared.S10_low.next.lo",
+      "value": 29.5
+    },
+    {
+      "key": "h4.s10low.final.prev_next.hi",
+      "src": "scale_report::E3_shared.S10_low.next.hi",
+      "value": 42.5
+    },
+    {
+      "key": "h4.s10low.final.prev_holdon",
+      "src": "scale_report::E3_shared.S10_low.hold_on.est",
+      "value": 28.2
+    },
+    {
+      "key": "h4.s10low.final.prev_holdon.lo",
+      "src": "scale_report::E3_shared.S10_low.hold_on.lo",
+      "value": 22.5
+    },
+    {
+      "key": "h4.s10low.final.prev_holdon.hi",
+      "src": "scale_report::E3_shared.S10_low.hold_on.hi",
+      "value": 34.8
+    },
+    {
+      "key": "h4.s10low.final.prev_none",
+      "src": "scale_report::E3_shared.S10_low.none.est",
+      "value": 33.5
+    },
+    {
+      "key": "h4.s10low.final.prev_none.lo",
+      "src": "scale_report::E3_shared.S10_low.none.lo",
+      "value": 27.2
+    },
+    {
+      "key": "h4.s10low.final.prev_none.hi",
+      "src": "scale_report::E3_shared.S10_low.none.hi",
+      "value": 40.2
+    },
+    {
+      "key": "h4.s10low.final.prev_syn",
+      "src": "scale_report::E3_shared.S10_low.syn.est",
+      "value": 28.2
+    },
+    {
+      "key": "h4.s10low.final.prev_syn.lo",
+      "src": "scale_report::E3_shared.S10_low.syn.lo",
+      "value": 22.5
+    },
+    {
+      "key": "h4.s10low.final.prev_syn.hi",
+      "src": "scale_report::E3_shared.S10_low.syn.hi",
+      "value": 34.8
+    },
+    {
+      "key": "h4.s10low.final.rd_op",
+      "src": "scale_report::E3_shared.S10_low.RD_next.est",
+      "value": -3.5
+    },
+    {
+      "key": "h4.s10low.final.rd_op.lo",
+      "src": "scale_report::E3_shared.S10_low.RD_next.lo",
+      "value": -9.8
+    },
+    {
+      "key": "h4.s10low.final.rd_op.hi",
+      "src": "scale_report::E3_shared.S10_low.RD_next.hi",
+      "value": 2.8
+    },
+    {
+      "key": "h4.s10low.final.or_op",
+      "src": "scale_report::E3_shared.S10_low.OR_next.est",
+      "value": 0.86
+    },
+    {
+      "key": "h4.s10low.final.or_op.lo",
+      "src": "scale_report::E3_shared.S10_low.OR_next.lo",
+      "value": 0.64
+    },
+    {
+      "key": "h4.s10low.final.or_op.hi",
+      "src": "scale_report::E3_shared.S10_low.OR_next.hi",
+      "value": 1.13
+    },
+    {
+      "key": "h4.s10low.final.rr_op",
+      "src": "scale_report::E3_shared.S10_low.RR_next.est",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s10low.final.rr_op.lo",
+      "src": "scale_report::E3_shared.S10_low.RR_next.lo",
+      "value": 0.75
+    },
+    {
+      "key": "h4.s10low.final.rr_op.hi",
+      "src": "scale_report::E3_shared.S10_low.RR_next.hi",
+      "value": 1.08
+    },
+    {
+      "key": "h4.s10low.final.rd_syn",
+      "src": "scale_report::E3_shared.S10_low.RD_syn.est",
+      "value": 4.3
+    },
+    {
+      "key": "h4.s10low.final.rd_syn.lo",
+      "src": "scale_report::E3_shared.S10_low.RD_syn.lo",
+      "value": -0.8
+    },
+    {
+      "key": "h4.s10low.final.rd_syn.hi",
+      "src": "scale_report::E3_shared.S10_low.RD_syn.hi",
+      "value": 9.0
+    },
+    {
+      "key": "h4.s10low.final.rd_none",
+      "src": "scale_report::E3_shared.S10_low.RD_none.est",
+      "value": -1.0
+    },
+    {
+      "key": "h4.s10low.final.rd_none.lo",
+      "src": "scale_report::E3_shared.S10_low.RD_none.lo",
+      "value": -7.0
+    },
+    {
+      "key": "h4.s10low.final.rd_none.hi",
+      "src": "scale_report::E3_shared.S10_low.RD_none.hi",
+      "value": 5.0
+    },
+    {
+      "key": "h4.s10low.trend.r_amp",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).est",
+      "value": -0.1
+    },
+    {
+      "key": "h4.s10low.trend.r_amp.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).lo",
+      "value": -0.28
+    },
+    {
+      "key": "h4.s10low.trend.r_amp.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).hi",
+      "value": 0.07
+    },
+    {
+      "key": "h4.s10low.trend.d_amp",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).est",
+      "value": -39.8
+    },
+    {
+      "key": "h4.s10low.trend.d_amp.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).lo",
+      "value": -49.0
+    },
+    {
+      "key": "h4.s10low.trend.d_amp.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).hi",
+      "value": -30.2
+    },
+    {
+      "key": "h4.s10med.final.prev_wait",
+      "src": "scale_report::E3_shared.S10_med.wait.est",
+      "value": 36.8
+    },
+    {
+      "key": "h4.s10med.final.prev_wait.lo",
+      "src": "scale_report::E3_shared.S10_med.wait.lo",
+      "value": 30.2
+    },
+    {
+      "key": "h4.s10med.final.prev_wait.hi",
+      "src": "scale_report::E3_shared.S10_med.wait.hi",
+      "value": 43.5
+    },
+    {
+      "key": "h4.s10med.final.prev_next",
+      "src": "scale_report::E3_shared.S10_med.next.est",
+      "value": 30.5
+    },
+    {
+      "key": "h4.s10med.final.prev_next.lo",
+      "src": "scale_report::E3_shared.S10_med.next.lo",
+      "value": 24.5
+    },
+    {
+      "key": "h4.s10med.final.prev_next.hi",
+      "src": "scale_report::E3_shared.S10_med.next.hi",
+      "value": 36.5
+    },
+    {
+      "key": "h4.s10med.final.prev_holdon",
+      "src": "scale_report::E3_shared.S10_med.hold_on.est",
+      "value": 33.2
+    },
+    {
+      "key": "h4.s10med.final.prev_holdon.lo",
+      "src": "scale_report::E3_shared.S10_med.hold_on.lo",
+      "value": 27.0
+    },
+    {
+      "key": "h4.s10med.final.prev_holdon.hi",
+      "src": "scale_report::E3_shared.S10_med.hold_on.hi",
+      "value": 39.8
+    },
+    {
+      "key": "h4.s10med.final.prev_none",
+      "src": "scale_report::E3_shared.S10_med.none.est",
+      "value": 30.5
+    },
+    {
+      "key": "h4.s10med.final.prev_none.lo",
+      "src": "scale_report::E3_shared.S10_med.none.lo",
+      "value": 24.0
+    },
+    {
+      "key": "h4.s10med.final.prev_none.hi",
+      "src": "scale_report::E3_shared.S10_med.none.hi",
+      "value": 37.0
+    },
+    {
+      "key": "h4.s10med.final.prev_syn",
+      "src": "scale_report::E3_shared.S10_med.syn.est",
+      "value": 33.2
+    },
+    {
+      "key": "h4.s10med.final.prev_syn.lo",
+      "src": "scale_report::E3_shared.S10_med.syn.lo",
+      "value": 27.0
+    },
+    {
+      "key": "h4.s10med.final.prev_syn.hi",
+      "src": "scale_report::E3_shared.S10_med.syn.hi",
+      "value": 39.8
+    },
+    {
+      "key": "h4.s10med.final.rd_op",
+      "src": "scale_report::E3_shared.S10_med.RD_next.est",
+      "value": 6.2
+    },
+    {
+      "key": "h4.s10med.final.rd_op.lo",
+      "src": "scale_report::E3_shared.S10_med.RD_next.lo",
+      "value": 0.8
+    },
+    {
+      "key": "h4.s10med.final.rd_op.hi",
+      "src": "scale_report::E3_shared.S10_med.RD_next.hi",
+      "value": 11.8
+    },
+    {
+      "key": "h4.s10med.final.or_op",
+      "src": "scale_report::E3_shared.S10_med.OR_next.est",
+      "value": 1.32
+    },
+    {
+      "key": "h4.s10med.final.or_op.lo",
+      "src": "scale_report::E3_shared.S10_med.OR_next.lo",
+      "value": 1.03
+    },
+    {
+      "key": "h4.s10med.final.or_op.hi",
+      "src": "scale_report::E3_shared.S10_med.OR_next.hi",
+      "value": 1.71
+    },
+    {
+      "key": "h4.s10med.final.rr_op",
+      "src": "scale_report::E3_shared.S10_med.RR_next.est",
+      "value": 1.2
+    },
+    {
+      "key": "h4.s10med.final.rr_op.lo",
+      "src": "scale_report::E3_shared.S10_med.RR_next.lo",
+      "value": 1.02
+    },
+    {
+      "key": "h4.s10med.final.rr_op.hi",
+      "src": "scale_report::E3_shared.S10_med.RR_next.hi",
+      "value": 1.43
+    },
+    {
+      "key": "h4.s10med.final.rd_syn",
+      "src": "scale_report::E3_shared.S10_med.RD_syn.est",
+      "value": 3.5
+    },
+    {
+      "key": "h4.s10med.final.rd_syn.lo",
+      "src": "scale_report::E3_shared.S10_med.RD_syn.lo",
+      "value": -2.2
+    },
+    {
+      "key": "h4.s10med.final.rd_syn.hi",
+      "src": "scale_report::E3_shared.S10_med.RD_syn.hi",
+      "value": 9.2
+    },
+    {
+      "key": "h4.s10med.final.rd_none",
+      "src": "scale_report::E3_shared.S10_med.RD_none.est",
+      "value": 6.2
+    },
+    {
+      "key": "h4.s10med.final.rd_none.lo",
+      "src": "scale_report::E3_shared.S10_med.RD_none.lo",
+      "value": -0.2
+    },
+    {
+      "key": "h4.s10med.final.rd_none.hi",
+      "src": "scale_report::E3_shared.S10_med.RD_none.hi",
+      "value": 12.5
+    },
+    {
+      "key": "h4.s10med.trend.r_amp",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).est",
+      "value": 0.17
+    },
+    {
+      "key": "h4.s10med.trend.r_amp.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).lo",
+      "value": 0.02
+    },
+    {
+      "key": "h4.s10med.trend.r_amp.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).hi",
+      "value": 0.34
+    },
+    {
+      "key": "h4.s10med.trend.d_amp",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).est",
+      "value": -30.0
+    },
+    {
+      "key": "h4.s10med.trend.d_amp.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).lo",
+      "value": -39.3
+    },
+    {
+      "key": "h4.s10med.trend.d_amp.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).hi",
+      "value": -20.8
+    },
+    {
+      "key": "h4.s10high.final.prev_wait",
+      "src": "scale_report::E3_shared.S10_high.wait.est",
+      "value": 40.0
+    },
+    {
+      "key": "h4.s10high.final.prev_wait.lo",
+      "src": "scale_report::E3_shared.S10_high.wait.lo",
+      "value": 33.5
+    },
+    {
+      "key": "h4.s10high.final.prev_wait.hi",
+      "src": "scale_report::E3_shared.S10_high.wait.hi",
+      "value": 46.8
+    },
+    {
+      "key": "h4.s10high.final.prev_next",
+      "src": "scale_report::E3_shared.S10_high.next.est",
+      "value": 34.5
+    },
+    {
+      "key": "h4.s10high.final.prev_next.lo",
+      "src": "scale_report::E3_shared.S10_high.next.lo",
+      "value": 28.2
+    },
+    {
+      "key": "h4.s10high.final.prev_next.hi",
+      "src": "scale_report::E3_shared.S10_high.next.hi",
+      "value": 41.0
+    },
+    {
+      "key": "h4.s10high.final.prev_holdon",
+      "src": "scale_report::E3_shared.S10_high.hold_on.est",
+      "value": 36.2
+    },
+    {
+      "key": "h4.s10high.final.prev_holdon.lo",
+      "src": "scale_report::E3_shared.S10_high.hold_on.lo",
+      "value": 30.2
+    },
+    {
+      "key": "h4.s10high.final.prev_holdon.hi",
+      "src": "scale_report::E3_shared.S10_high.hold_on.hi",
+      "value": 42.8
+    },
+    {
+      "key": "h4.s10high.final.prev_none",
+      "src": "scale_report::E3_shared.S10_high.none.est",
+      "value": 32.2
+    },
+    {
+      "key": "h4.s10high.final.prev_none.lo",
+      "src": "scale_report::E3_shared.S10_high.none.lo",
+      "value": 26.0
+    },
+    {
+      "key": "h4.s10high.final.prev_none.hi",
+      "src": "scale_report::E3_shared.S10_high.none.hi",
+      "value": 38.8
+    },
+    {
+      "key": "h4.s10high.final.prev_syn",
+      "src": "scale_report::E3_shared.S10_high.syn.est",
+      "value": 36.2
+    },
+    {
+      "key": "h4.s10high.final.prev_syn.lo",
+      "src": "scale_report::E3_shared.S10_high.syn.lo",
+      "value": 30.2
+    },
+    {
+      "key": "h4.s10high.final.prev_syn.hi",
+      "src": "scale_report::E3_shared.S10_high.syn.hi",
+      "value": 42.8
+    },
+    {
+      "key": "h4.s10high.final.rd_op",
+      "src": "scale_report::E3_shared.S10_high.RD_next.est",
+      "value": 5.5
+    },
+    {
+      "key": "h4.s10high.final.rd_op.lo",
+      "src": "scale_report::E3_shared.S10_high.RD_next.lo",
+      "value": -1.0
+    },
+    {
+      "key": "h4.s10high.final.rd_op.hi",
+      "src": "scale_report::E3_shared.S10_high.RD_next.hi",
+      "value": 11.8
+    },
+    {
+      "key": "h4.s10high.final.or_op",
+      "src": "scale_report::E3_shared.S10_high.OR_next.est",
+      "value": 1.26
+    },
+    {
+      "key": "h4.s10high.final.or_op.lo",
+      "src": "scale_report::E3_shared.S10_high.OR_next.lo",
+      "value": 0.96
+    },
+    {
+      "key": "h4.s10high.final.or_op.hi",
+      "src": "scale_report::E3_shared.S10_high.OR_next.hi",
+      "value": 1.66
+    },
+    {
+      "key": "h4.s10high.final.rr_op",
+      "src": "scale_report::E3_shared.S10_high.RR_next.est",
+      "value": 1.16
+    },
+    {
+      "key": "h4.s10high.final.rr_op.lo",
+      "src": "scale_report::E3_shared.S10_high.RR_next.lo",
+      "value": 0.98
+    },
+    {
+      "key": "h4.s10high.final.rr_op.hi",
+      "src": "scale_report::E3_shared.S10_high.RR_next.hi",
+      "value": 1.38
+    },
+    {
+      "key": "h4.s10high.final.rd_syn",
+      "src": "scale_report::E3_shared.S10_high.RD_syn.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s10high.final.rd_syn.lo",
+      "src": "scale_report::E3_shared.S10_high.RD_syn.lo",
+      "value": -2.0
+    },
+    {
+      "key": "h4.s10high.final.rd_syn.hi",
+      "src": "scale_report::E3_shared.S10_high.RD_syn.hi",
+      "value": 9.5
+    },
+    {
+      "key": "h4.s10high.final.rd_none",
+      "src": "scale_report::E3_shared.S10_high.RD_none.est",
+      "value": 7.8
+    },
+    {
+      "key": "h4.s10high.final.rd_none.lo",
+      "src": "scale_report::E3_shared.S10_high.RD_none.lo",
+      "value": 2.0
+    },
+    {
+      "key": "h4.s10high.final.rd_none.hi",
+      "src": "scale_report::E3_shared.S10_high.RD_none.hi",
+      "value": 13.2
+    },
+    {
+      "key": "h4.s10high.trend.r_amp",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).est",
+      "value": 0.15
+    },
+    {
+      "key": "h4.s10high.trend.r_amp.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).lo",
+      "value": -0.03
+    },
+    {
+      "key": "h4.s10high.trend.r_amp.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).hi",
+      "value": 0.33
+    },
+    {
+      "key": "h4.s10high.trend.d_amp",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).est",
+      "value": -30.8
+    },
+    {
+      "key": "h4.s10high.trend.d_amp.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).lo",
+      "value": -40.2
+    },
+    {
+      "key": "h4.s10high.trend.d_amp.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).hi",
+      "value": -21.5
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_policy_effect_late_src",
+      "src": "scale_report::crossed.policy_effect_late_src.est",
+      "value": -42.5
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_policy_effect_late_src.lo",
+      "src": "scale_report::crossed.policy_effect_late_src.lo",
+      "value": -48.5
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_policy_effect_late_src.hi",
+      "src": "scale_report::crossed.policy_effect_late_src.hi",
+      "value": -36.5
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_policy_effect_base_src",
+      "src": "scale_report::crossed.policy_effect_base_src.est",
+      "value": -29.8
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_policy_effect_base_src.lo",
+      "src": "scale_report::crossed.policy_effect_base_src.lo",
+      "value": -37.8
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_policy_effect_base_src.hi",
+      "src": "scale_report::crossed.policy_effect_base_src.hi",
+      "value": -21.2
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_did",
+      "src": "scale_report::crossed.DiD.est",
+      "value": -12.8
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_did.lo",
+      "src": "scale_report::crossed.DiD.lo",
+      "value": -22.5
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_did.hi",
+      "src": "scale_report::crossed.DiD.hi",
+      "value": -3.2
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_reference_arm_is_next",
+      "src": "scale_report::crossed.reference_arm_is_next.est",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_reference_arm_is_next.lo",
+      "src": "scale_report::crossed.reference_arm_is_next.lo",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_reference_arm_is_next.hi",
+      "src": "scale_report::crossed.reference_arm_is_next.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_base_on_base_src",
+      "src": "scale_report::crossed.RD_base_on_base_src.est",
+      "value": 36.2
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_base_on_base_src.lo",
+      "src": "scale_report::crossed.RD_base_on_base_src.lo",
+      "value": 28.8
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_base_on_base_src.hi",
+      "src": "scale_report::crossed.RD_base_on_base_src.hi",
+      "value": 43.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_base_on_late_src",
+      "src": "scale_report::crossed.RD_base_on_late_src.est",
+      "value": 45.2
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_base_on_late_src.lo",
+      "src": "scale_report::crossed.RD_base_on_late_src.lo",
+      "value": 39.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_base_on_late_src.hi",
+      "src": "scale_report::crossed.RD_base_on_late_src.hi",
+      "value": 51.5
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_last_on_base_src",
+      "src": "scale_report::crossed.RD_last_on_base_src.est",
+      "value": 6.5
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_last_on_base_src.lo",
+      "src": "scale_report::crossed.RD_last_on_base_src.lo",
+      "value": 2.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_last_on_base_src.hi",
+      "src": "scale_report::crossed.RD_last_on_base_src.hi",
+      "value": 11.2
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_last_on_late_src",
+      "src": "scale_report::crossed.RD_last_on_late_src.est",
+      "value": 2.8
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_last_on_late_src.lo",
+      "src": "scale_report::crossed.RD_last_on_late_src.lo",
+      "value": 0.8
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_last_on_late_src.hi",
+      "src": "scale_report::crossed.RD_last_on_late_src.hi",
+      "value": 5.2
+    },
+    {
+      "key": "h4.s8dapo.final.rd_op_own",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": 2.8
+    },
+    {
+      "key": "h4.s8dapo.final.rd_op_own.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": 0.8
+    },
+    {
+      "key": "h4.s8dapo.final.rd_op_own.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": 5.0
+    },
+    {
+      "key": "h4.s8dapo.trend.r_amp_own",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": 0.06
+    },
+    {
+      "key": "h4.s8dapo.trend.r_amp_own.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": 0.02
+    },
+    {
+      "key": "h4.s8dapo.trend.r_amp_own.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": 0.11
+    },
+    {
+      "key": "h4.s8dapo.trend.d_amp_own",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": -42.5
+    },
+    {
+      "key": "h4.s8dapo.trend.d_amp_own.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": -48.2
+    },
+    {
+      "key": "h4.s8dapo.trend.d_amp_own.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": -36.5
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_policy_effect_late_src",
+      "src": "scale_report::crossed.policy_effect_late_src.est",
+      "value": -15.2
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_policy_effect_late_src.lo",
+      "src": "scale_report::crossed.policy_effect_late_src.lo",
+      "value": -21.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_policy_effect_late_src.hi",
+      "src": "scale_report::crossed.policy_effect_late_src.hi",
+      "value": -9.2
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_policy_effect_base_src",
+      "src": "scale_report::crossed.policy_effect_base_src.est",
+      "value": -14.5
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_policy_effect_base_src.lo",
+      "src": "scale_report::crossed.policy_effect_base_src.lo",
+      "value": -23.2
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_policy_effect_base_src.hi",
+      "src": "scale_report::crossed.policy_effect_base_src.hi",
+      "value": -4.8
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_did",
+      "src": "scale_report::crossed.DiD.est",
+      "value": -0.8
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_did.lo",
+      "src": "scale_report::crossed.DiD.lo",
+      "value": -11.5
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_did.hi",
+      "src": "scale_report::crossed.DiD.hi",
+      "value": 10.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_reference_arm_is_next",
+      "src": "scale_report::crossed.reference_arm_is_next.est",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_reference_arm_is_next.lo",
+      "src": "scale_report::crossed.reference_arm_is_next.lo",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_reference_arm_is_next.hi",
+      "src": "scale_report::crossed.reference_arm_is_next.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_base_on_base_src",
+      "src": "scale_report::crossed.RD_base_on_base_src.est",
+      "value": 36.2
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_base_on_base_src.lo",
+      "src": "scale_report::crossed.RD_base_on_base_src.lo",
+      "value": 28.8
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_base_on_base_src.hi",
+      "src": "scale_report::crossed.RD_base_on_base_src.hi",
+      "value": 43.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_base_on_late_src",
+      "src": "scale_report::crossed.RD_base_on_late_src.est",
+      "value": 19.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_base_on_late_src.lo",
+      "src": "scale_report::crossed.RD_base_on_late_src.lo",
+      "value": 14.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_base_on_late_src.hi",
+      "src": "scale_report::crossed.RD_base_on_late_src.hi",
+      "value": 24.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_last_on_base_src",
+      "src": "scale_report::crossed.RD_last_on_base_src.est",
+      "value": 21.8
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_last_on_base_src.lo",
+      "src": "scale_report::crossed.RD_last_on_base_src.lo",
+      "value": 15.5
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_last_on_base_src.hi",
+      "src": "scale_report::crossed.RD_last_on_base_src.hi",
+      "value": 28.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_last_on_late_src",
+      "src": "scale_report::crossed.RD_last_on_late_src.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_last_on_late_src.lo",
+      "src": "scale_report::crossed.RD_last_on_late_src.lo",
+      "value": 0.2
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_last_on_late_src.hi",
+      "src": "scale_report::crossed.RD_last_on_late_src.hi",
+      "value": 7.8
+    },
+    {
+      "key": "h4.s8qwq.final.rd_op_own",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8qwq.final.rd_op_own.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": 0.2
+    },
+    {
+      "key": "h4.s8qwq.final.rd_op_own.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": 7.8
+    },
+    {
+      "key": "h4.s8qwq.trend.r_amp_own",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": 0.2
+    },
+    {
+      "key": "h4.s8qwq.trend.r_amp_own.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": 0.01
+    },
+    {
+      "key": "h4.s8qwq.trend.r_amp_own.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": 0.41
+    },
+    {
+      "key": "h4.s8qwq.trend.d_amp_own",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": -15.2
+    },
+    {
+      "key": "h4.s8qwq.trend.d_amp_own.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": -21.2
+    },
+    {
+      "key": "h4.s8qwq.trend.d_amp_own.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": -9.5
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_policy_effect_late_src",
+      "src": "scale_report::crossed.policy_effect_late_src.est",
+      "value": -37.2
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_policy_effect_late_src.lo",
+      "src": "scale_report::crossed.policy_effect_late_src.lo",
+      "value": -45.2
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_policy_effect_late_src.hi",
+      "src": "scale_report::crossed.policy_effect_late_src.hi",
+      "value": -29.8
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_policy_effect_base_src",
+      "src": "scale_report::crossed.policy_effect_base_src.est",
+      "value": -20.8
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_policy_effect_base_src.lo",
+      "src": "scale_report::crossed.policy_effect_base_src.lo",
+      "value": -28.5
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_policy_effect_base_src.hi",
+      "src": "scale_report::crossed.policy_effect_base_src.hi",
+      "value": -12.5
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_did",
+      "src": "scale_report::crossed.DiD.est",
+      "value": -16.5
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_did.lo",
+      "src": "scale_report::crossed.DiD.lo",
+      "value": -27.3
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_did.hi",
+      "src": "scale_report::crossed.DiD.hi",
+      "value": -6.0
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_reference_arm_is_next",
+      "src": "scale_report::crossed.reference_arm_is_next.est",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_reference_arm_is_next.lo",
+      "src": "scale_report::crossed.reference_arm_is_next.lo",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_reference_arm_is_next.hi",
+      "src": "scale_report::crossed.reference_arm_is_next.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_base_on_base_src",
+      "src": "scale_report::crossed.RD_base_on_base_src.est",
+      "value": 36.2
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_base_on_base_src.lo",
+      "src": "scale_report::crossed.RD_base_on_base_src.lo",
+      "value": 28.8
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_base_on_base_src.hi",
+      "src": "scale_report::crossed.RD_base_on_base_src.hi",
+      "value": 43.0
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_base_on_late_src",
+      "src": "scale_report::crossed.RD_base_on_late_src.est",
+      "value": 46.2
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_base_on_late_src.lo",
+      "src": "scale_report::crossed.RD_base_on_late_src.lo",
+      "value": 39.8
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_base_on_late_src.hi",
+      "src": "scale_report::crossed.RD_base_on_late_src.hi",
+      "value": 52.5
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_last_on_base_src",
+      "src": "scale_report::crossed.RD_last_on_base_src.est",
+      "value": 15.5
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_last_on_base_src.lo",
+      "src": "scale_report::crossed.RD_last_on_base_src.lo",
+      "value": 10.0
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_last_on_base_src.hi",
+      "src": "scale_report::crossed.RD_last_on_base_src.hi",
+      "value": 21.2
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_last_on_late_src",
+      "src": "scale_report::crossed.RD_last_on_late_src.est",
+      "value": 9.0
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_last_on_late_src.lo",
+      "src": "scale_report::crossed.RD_last_on_late_src.lo",
+      "value": 4.5
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_last_on_late_src.hi",
+      "src": "scale_report::crossed.RD_last_on_late_src.hi",
+      "value": 14.2
+    },
+    {
+      "key": "h4.s8orz.final.rd_op_own",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": 9.0
+    },
+    {
+      "key": "h4.s8orz.final.rd_op_own.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": 4.5
+    },
+    {
+      "key": "h4.s8orz.final.rd_op_own.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": 14.0
+    },
+    {
+      "key": "h4.s8orz.trend.r_amp_own",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": 0.19
+    },
+    {
+      "key": "h4.s8orz.trend.r_amp_own.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": 0.1
+    },
+    {
+      "key": "h4.s8orz.trend.r_amp_own.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": 0.31
+    },
+    {
+      "key": "h4.s8orz.trend.d_amp_own",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": -37.2
+    },
+    {
+      "key": "h4.s8orz.trend.d_amp_own.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": -44.8
+    },
+    {
+      "key": "h4.s8orz.trend.d_amp_own.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": -29.2
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_policy_effect_late_src",
+      "src": "scale_report::crossed.policy_effect_late_src.est",
+      "value": -11.2
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_policy_effect_late_src.lo",
+      "src": "scale_report::crossed.policy_effect_late_src.lo",
+      "value": -17.5
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_policy_effect_late_src.hi",
+      "src": "scale_report::crossed.policy_effect_late_src.hi",
+      "value": -4.5
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_policy_effect_base_src",
+      "src": "scale_report::crossed.policy_effect_base_src.est",
+      "value": 0.2
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_policy_effect_base_src.lo",
+      "src": "scale_report::crossed.policy_effect_base_src.lo",
+      "value": -8.0
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_policy_effect_base_src.hi",
+      "src": "scale_report::crossed.policy_effect_base_src.hi",
+      "value": 9.5
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_did",
+      "src": "scale_report::crossed.DiD.est",
+      "value": -11.5
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_did.lo",
+      "src": "scale_report::crossed.DiD.lo",
+      "value": -22.8
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_did.hi",
+      "src": "scale_report::crossed.DiD.hi",
+      "value": -0.5
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_reference_arm_is_next",
+      "src": "scale_report::crossed.reference_arm_is_next.est",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_reference_arm_is_next.lo",
+      "src": "scale_report::crossed.reference_arm_is_next.lo",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_reference_arm_is_next.hi",
+      "src": "scale_report::crossed.reference_arm_is_next.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_base_on_base_src",
+      "src": "scale_report::crossed.RD_base_on_base_src.est",
+      "value": 36.2
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_base_on_base_src.lo",
+      "src": "scale_report::crossed.RD_base_on_base_src.lo",
+      "value": 28.8
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_base_on_base_src.hi",
+      "src": "scale_report::crossed.RD_base_on_base_src.hi",
+      "value": 43.0
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_base_on_late_src",
+      "src": "scale_report::crossed.RD_base_on_late_src.est",
+      "value": 24.5
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_base_on_late_src.lo",
+      "src": "scale_report::crossed.RD_base_on_late_src.lo",
+      "value": 19.0
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_base_on_late_src.hi",
+      "src": "scale_report::crossed.RD_base_on_late_src.hi",
+      "value": 30.0
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_last_on_base_src",
+      "src": "scale_report::crossed.RD_last_on_base_src.est",
+      "value": 36.5
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_last_on_base_src.lo",
+      "src": "scale_report::crossed.RD_last_on_base_src.lo",
+      "value": 30.2
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_last_on_base_src.hi",
+      "src": "scale_report::crossed.RD_last_on_base_src.hi",
+      "value": 42.8
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_last_on_late_src",
+      "src": "scale_report::crossed.RD_last_on_late_src.est",
+      "value": 13.2
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_last_on_late_src.lo",
+      "src": "scale_report::crossed.RD_last_on_late_src.lo",
+      "value": 8.8
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_last_on_late_src.hi",
+      "src": "scale_report::crossed.RD_last_on_late_src.hi",
+      "value": 17.8
+    },
+    {
+      "key": "h4.s8r1d.final.rd_op_own",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": 13.2
+    },
+    {
+      "key": "h4.s8r1d.final.rd_op_own.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": 9.0
+    },
+    {
+      "key": "h4.s8r1d.final.rd_op_own.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": 17.5
+    },
+    {
+      "key": "h4.s8r1d.trend.r_amp_own",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": 0.54
+    },
+    {
+      "key": "h4.s8r1d.trend.r_amp_own.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": 0.37
+    },
+    {
+      "key": "h4.s8r1d.trend.r_amp_own.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": 0.75
+    },
+    {
+      "key": "h4.s8r1d.trend.d_amp_own",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": -11.2
+    },
+    {
+      "key": "h4.s8r1d.trend.d_amp_own.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": -17.5
+    },
+    {
+      "key": "h4.s8r1d.trend.d_amp_own.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": -5.0
+    }
+  ],
+  "judge_tag": null,
+  "pilot": false
+}

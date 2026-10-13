@@ -1,0 +1,49 @@
+{
+  "entries": [
+    {
+      "key": "bm.s1.late_half.rho_r1kw",
+      "src": "exp/results/main/baseline_measures.json: Spearman(step, measure) over steps [700, 1000, 1400, 1900] (K=4, no p)",
+      "value": 1.0
+    },
+    {
+      "key": "bm.s1.late_half.rho_r1wait",
+      "src": "exp/results/main/baseline_measures.json: Spearman(step, measure) over steps [700, 1000, 1400, 1900] (K=4, no p)",
+      "value": 1.0
+    },
+    {
+      "key": "bm.s1.late_half.rho_orz",
+      "src": "exp/results/main/baseline_measures.json: Spearman(step, measure) over steps [700, 1000, 1400, 1900] (K=4, no p)",
+      "value": 0.8
+    },
+    {
+      "key": "bm.s1.late_half.rho_orzrefl",
+      "src": "exp/results/main/baseline_measures.json: Spearman(step, measure) over steps [700, 1000, 1400, 1900] (K=4, no p)",
+      "value": 0.8
+    },
+    {
+      "key": "bm.s1.late_half.rho_simplerl",
+      "src": "exp/results/main/baseline_measures.json: Spearman(step, measure) over steps [700, 1000, 1400, 1900] (K=4, no p)",
+      "value": 1.0
+    },
+    {
+      "key": "h1.s1.late_half.rho_freq",
+      "src": "exp/results/main/S1/h1_indices.json: Spearman over steps [700, 1000, 1400, 1900] (K=4, no p)",
+      "value": 1.0
+    },
+    {
+      "key": "h1.s1.late_half.rho_orth",
+      "src": "exp/results/main/S1/h1_indices.json: Spearman over steps [700, 1000, 1400, 1900] (K=4, no p)",
+      "value": -0.8
+    },
+    {
+      "key": "h1.s1.late_half.rho_si",
+      "src": "exp/results/main/S1/h1_indices.json: Spearman over steps [700, 1000, 1400, 1900] (K=4, no p)",
+      "value": -0.4
+    },
+    {
+      "key": "h1.s1.late_half.rho_hpara",
+      "src": "exp/results/main/S1/h1_indices.json: Spearman over steps [700, 1000, 1400, 1900] (K=4, no p)",
+      "value": -0.8
+    }
+  ]
+}

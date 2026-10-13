@@ -1,0 +1,974 @@
+{
+  "entries": [
+    {
+      "key": "h1.seed.W512LY.sft.nwait",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 124554
+    },
+    {
+      "key": "h1.seed.W512LY.sft.ntok",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 18895468
+    },
+    {
+      "key": "h1.seed.W512LY.sft.freq4",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 6.5917
+    },
+    {
+      "key": "h1.seed.W512LY.sft.freq4.lo",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 6.5552
+    },
+    {
+      "key": "h1.seed.W512LY.sft.freq4.hi",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 6.6284
+    },
+    {
+      "key": "h1.seed.W512LY.sft.toks",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 4724
+    },
+    {
+      "key": "h1.seed.W512LY.sft.acc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 43.9
+    },
+    {
+      "key": "h1.seed.W512LY.sft.fin.nwait",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 83881
+    },
+    {
+      "key": "h1.seed.W512LY.sft.fin.ntok",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 11260524
+    },
+    {
+      "key": "h1.seed.W512LY.sft.fin.freq4",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 7.4491
+    },
+    {
+      "key": "h1.seed.W512LY.sft.fin.freq4.lo",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 7.3988
+    },
+    {
+      "key": "h1.seed.W512LY.sft.fin.freq4.hi",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 7.4997
+    },
+    {
+      "key": "h1.seed.W512LY.sft.fin.toks",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 3670
+    },
+    {
+      "key": "h1.seed.W512LY.sft.fin.acc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 56.7
+    },
+    {
+      "key": "h1.seed.W512LY.sft.trunc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 23.3
+    },
+    {
+      "key": "h1.seed.W512LY.step0020.nwait",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 84467
+    },
+    {
+      "key": "h1.seed.W512LY.step0020.ntok",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 15859371
+    },
+    {
+      "key": "h1.seed.W512LY.step0020.freq4",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 5.326
+    },
+    {
+      "key": "h1.seed.W512LY.step0020.freq4.lo",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 5.2901
+    },
+    {
+      "key": "h1.seed.W512LY.step0020.freq4.hi",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 5.362
+    },
+    {
+      "key": "h1.seed.W512LY.step0020.toks",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 3965
+    },
+    {
+      "key": "h1.seed.W512LY.step0020.acc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 50.1
+    },
+    {
+      "key": "h1.seed.W512LY.step0020.fin.nwait",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 66888
+    },
+    {
+      "key": "h1.seed.W512LY.step0020.fin.ntok",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 11558571
+    },
+    {
+      "key": "h1.seed.W512LY.step0020.fin.freq4",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 5.7869
+    },
+    {
+      "key": "h1.seed.W512LY.step0020.fin.freq4.lo",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 5.7431
+    },
+    {
+      "key": "h1.seed.W512LY.step0020.fin.freq4.hi",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 5.8309
+    },
+    {
+      "key": "h1.seed.W512LY.step0020.fin.toks",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 3326
+    },
+    {
+      "key": "h1.seed.W512LY.step0020.fin.acc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 57.4
+    },
+    {
+      "key": "h1.seed.W512LY.step0020.trunc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 13.1
+    },
+    {
+      "key": "h1.seed.W512LY.step0100.nwait",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 63
+    },
+    {
+      "key": "h1.seed.W512LY.step0100.ntok",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 4227354
+    },
+    {
+      "key": "h1.seed.W512LY.step0100.freq4",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 0.0149
+    },
+    {
+      "key": "h1.seed.W512LY.step0100.freq4.lo",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 0.0115
+    },
+    {
+      "key": "h1.seed.W512LY.step0100.freq4.hi",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 0.0191
+    },
+    {
+      "key": "h1.seed.W512LY.step0100.toks",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 1057
+    },
+    {
+      "key": "h1.seed.W512LY.step0100.acc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 72.8
+    },
+    {
+      "key": "h1.seed.W512LY.step0100.fin.nwait",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 63
+    },
+    {
+      "key": "h1.seed.W512LY.step0100.fin.ntok",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 4202778
+    },
+    {
+      "key": "h1.seed.W512LY.step0100.fin.freq4",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 0.015
+    },
+    {
+      "key": "h1.seed.W512LY.step0100.fin.freq4.lo",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 0.0115
+    },
+    {
+      "key": "h1.seed.W512LY.step0100.fin.freq4.hi",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 0.0192
+    },
+    {
+      "key": "h1.seed.W512LY.step0100.fin.toks",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 1051
+    },
+    {
+      "key": "h1.seed.W512LY.step0100.fin.acc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 72.9
+    },
+    {
+      "key": "h1.seed.W512LY.step0100.trunc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 0.1
+    },
+    {
+      "key": "h1.seed.W512LY.step0200.nwait",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 17
+    },
+    {
+      "key": "h1.seed.W512LY.step0200.ntok",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 4326230
+    },
+    {
+      "key": "h1.seed.W512LY.step0200.freq4",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 0.0039
+    },
+    {
+      "key": "h1.seed.W512LY.step0200.freq4.lo",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 0.0023
+    },
+    {
+      "key": "h1.seed.W512LY.step0200.freq4.hi",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 0.0063
+    },
+    {
+      "key": "h1.seed.W512LY.step0200.toks",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 1082
+    },
+    {
+      "key": "h1.seed.W512LY.step0200.acc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 75.4
+    },
+    {
+      "key": "h1.seed.W512LY.step0200.fin.nwait",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 16
+    },
+    {
+      "key": "h1.seed.W512LY.step0200.fin.ntok",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 4178774
+    },
+    {
+      "key": "h1.seed.W512LY.step0200.fin.freq4",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 0.0038
+    },
+    {
+      "key": "h1.seed.W512LY.step0200.fin.freq4.lo",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 0.0022
+    },
+    {
+      "key": "h1.seed.W512LY.step0200.fin.freq4.hi",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 0.0062
+    },
+    {
+      "key": "h1.seed.W512LY.step0200.fin.toks",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 1049
+    },
+    {
+      "key": "h1.seed.W512LY.step0200.fin.acc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 75.7
+    },
+    {
+      "key": "h1.seed.W512LY.step0200.trunc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 0.4
+    },
+    {
+      "key": "h1.seed.W512LY.step0300.nwait",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 6
+    },
+    {
+      "key": "h1.seed.W512LY.step0300.ntok",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 5601206
+    },
+    {
+      "key": "h1.seed.W512LY.step0300.freq4",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 0.0011
+    },
+    {
+      "key": "h1.seed.W512LY.step0300.freq4.lo",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 0.0004
+    },
+    {
+      "key": "h1.seed.W512LY.step0300.freq4.hi",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 0.0023
+    },
+    {
+      "key": "h1.seed.W512LY.step0300.toks",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 1400
+    },
+    {
+      "key": "h1.seed.W512LY.step0300.acc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 74.8
+    },
+    {
+      "key": "h1.seed.W512LY.step0300.fin.nwait",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 4
+    },
+    {
+      "key": "h1.seed.W512LY.step0300.fin.ntok",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 3864502
+    },
+    {
+      "key": "h1.seed.W512LY.step0300.fin.freq4",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 0.001
+    },
+    {
+      "key": "h1.seed.W512LY.step0300.fin.freq4.lo",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 0.0003
+    },
+    {
+      "key": "h1.seed.W512LY.step0300.fin.freq4.hi",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 0.0027
+    },
+    {
+      "key": "h1.seed.W512LY.step0300.fin.toks",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 1020
+    },
+    {
+      "key": "h1.seed.W512LY.step0300.fin.acc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 78.5
+    },
+    {
+      "key": "h1.seed.W512LY.step0300.trunc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 5.3
+    },
+    {
+      "key": "h1.seed.W512LY.step0400.nwait",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 19
+    },
+    {
+      "key": "h1.seed.W512LY.step0400.ntok",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 8598159
+    },
+    {
+      "key": "h1.seed.W512LY.step0400.freq4",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 0.0022
+    },
+    {
+      "key": "h1.seed.W512LY.step0400.freq4.lo",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 0.0013
+    },
+    {
+      "key": "h1.seed.W512LY.step0400.freq4.hi",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 0.0035
+    },
+    {
+      "key": "h1.seed.W512LY.step0400.toks",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 2150
+    },
+    {
+      "key": "h1.seed.W512LY.step0400.acc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 68.2
+    },
+    {
+      "key": "h1.seed.W512LY.step0400.fin.nwait",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 5
+    },
+    {
+      "key": "h1.seed.W512LY.step0400.fin.ntok",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 2519695
+    },
+    {
+      "key": "h1.seed.W512LY.step0400.fin.freq4",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 0.002
+    },
+    {
+      "key": "h1.seed.W512LY.step0400.fin.freq4.lo",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 0.0006
+    },
+    {
+      "key": "h1.seed.W512LY.step0400.fin.freq4.hi",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json; exact Poisson",
+      "value": 0.0046
+    },
+    {
+      "key": "h1.seed.W512LY.step0400.fin.toks",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 773
+    },
+    {
+      "key": "h1.seed.W512LY.step0400.fin.acc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 81.9
+    },
+    {
+      "key": "h1.seed.W512LY.step0400.trunc",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 18.6
+    },
+    {
+      "key": "h1.seed.W512LY.trend.a_wait",
+      "src": "FREQ(step 400)/FREQ(step 0), all responses, conditional-binomial CI on counts",
+      "value": 0.0003
+    },
+    {
+      "key": "h1.seed.W512LY.trend.a_wait.lo",
+      "src": "FREQ(step 400)/FREQ(step 0), all responses, conditional-binomial CI on counts",
+      "value": 0.0002
+    },
+    {
+      "key": "h1.seed.W512LY.trend.a_wait.hi",
+      "src": "FREQ(step 400)/FREQ(step 0), all responses, conditional-binomial CI on counts",
+      "value": 0.0005
+    },
+    {
+      "key": "h1.seed.W512LY.trend.a_wait_fin",
+      "src": "FREQ(step 400)/FREQ(step 0), finished responses, conditional-binomial CI on counts",
+      "value": 0.0003
+    },
+    {
+      "key": "h1.seed.W512LY.trend.a_wait_fin.lo",
+      "src": "FREQ(step 400)/FREQ(step 0), finished responses, conditional-binomial CI on counts",
+      "value": 0.0001
+    },
+    {
+      "key": "h1.seed.W512LY.trend.a_wait_fin.hi",
+      "src": "FREQ(step 400)/FREQ(step 0), finished responses, conditional-binomial CI on counts",
+      "value": 0.0006
+    },
+    {
+      "key": "h1.seed.W512LY.trend.last_step",
+      "src": "exp/rl/results/seed_W512LY/lenwait.json",
+      "value": 400
+    },
+    {
+      "key": "h1.seed.X512LY.sft.nwait",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 389
+    },
+    {
+      "key": "h1.seed.X512LY.sft.ntok",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 20760691
+    },
+    {
+      "key": "h1.seed.X512LY.sft.freq4",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0.0187
+    },
+    {
+      "key": "h1.seed.X512LY.sft.freq4.lo",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0169
+    },
+    {
+      "key": "h1.seed.X512LY.sft.freq4.hi",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0207
+    },
+    {
+      "key": "h1.seed.X512LY.sft.toks",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 5190
+    },
+    {
+      "key": "h1.seed.X512LY.sft.acc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 40.2
+    },
+    {
+      "key": "h1.seed.X512LY.sft.fin.nwait",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 223
+    },
+    {
+      "key": "h1.seed.X512LY.sft.fin.ntok",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 9349235
+    },
+    {
+      "key": "h1.seed.X512LY.sft.fin.freq4",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0.0239
+    },
+    {
+      "key": "h1.seed.X512LY.sft.fin.freq4.lo",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0208
+    },
+    {
+      "key": "h1.seed.X512LY.sft.fin.freq4.hi",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0272
+    },
+    {
+      "key": "h1.seed.X512LY.sft.fin.toks",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 3586
+    },
+    {
+      "key": "h1.seed.X512LY.sft.fin.acc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 60.8
+    },
+    {
+      "key": "h1.seed.X512LY.sft.trunc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 34.8
+    },
+    {
+      "key": "h1.seed.X512LY.step0020.nwait",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 304
+    },
+    {
+      "key": "h1.seed.X512LY.step0020.ntok",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 15501693
+    },
+    {
+      "key": "h1.seed.X512LY.step0020.freq4",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0.0196
+    },
+    {
+      "key": "h1.seed.X512LY.step0020.freq4.lo",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0175
+    },
+    {
+      "key": "h1.seed.X512LY.step0020.freq4.hi",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0219
+    },
+    {
+      "key": "h1.seed.X512LY.step0020.toks",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 3875
+    },
+    {
+      "key": "h1.seed.X512LY.step0020.acc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 50.9
+    },
+    {
+      "key": "h1.seed.X512LY.step0020.fin.nwait",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 235
+    },
+    {
+      "key": "h1.seed.X512LY.step0020.fin.ntok",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 10348925
+    },
+    {
+      "key": "h1.seed.X512LY.step0020.fin.freq4",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0.0227
+    },
+    {
+      "key": "h1.seed.X512LY.step0020.fin.freq4.lo",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0199
+    },
+    {
+      "key": "h1.seed.X512LY.step0020.fin.freq4.hi",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0258
+    },
+    {
+      "key": "h1.seed.X512LY.step0020.fin.toks",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 3070
+    },
+    {
+      "key": "h1.seed.X512LY.step0020.fin.acc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 60.1
+    },
+    {
+      "key": "h1.seed.X512LY.step0020.trunc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 15.7
+    },
+    {
+      "key": "h1.seed.X512LY.step0100.nwait",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0
+    },
+    {
+      "key": "h1.seed.X512LY.step0100.ntok",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 4168839
+    },
+    {
+      "key": "h1.seed.X512LY.step0100.freq4",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0100.freq4.lo",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0100.freq4.hi",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0009
+    },
+    {
+      "key": "h1.seed.X512LY.step0100.toks",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 1042
+    },
+    {
+      "key": "h1.seed.X512LY.step0100.acc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 71.2
+    },
+    {
+      "key": "h1.seed.X512LY.step0100.fin.nwait",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0
+    },
+    {
+      "key": "h1.seed.X512LY.step0100.fin.ntok",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 4152455
+    },
+    {
+      "key": "h1.seed.X512LY.step0100.fin.freq4",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0100.fin.freq4.lo",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0100.fin.freq4.hi",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0009
+    },
+    {
+      "key": "h1.seed.X512LY.step0100.fin.toks",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 1039
+    },
+    {
+      "key": "h1.seed.X512LY.step0100.fin.acc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 71.3
+    },
+    {
+      "key": "h1.seed.X512LY.step0100.trunc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0200.nwait",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0
+    },
+    {
+      "key": "h1.seed.X512LY.step0200.ntok",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 4273920
+    },
+    {
+      "key": "h1.seed.X512LY.step0200.freq4",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0200.freq4.lo",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0200.freq4.hi",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0009
+    },
+    {
+      "key": "h1.seed.X512LY.step0200.toks",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 1068
+    },
+    {
+      "key": "h1.seed.X512LY.step0200.acc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 76.4
+    },
+    {
+      "key": "h1.seed.X512LY.step0200.fin.nwait",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0
+    },
+    {
+      "key": "h1.seed.X512LY.step0200.fin.ntok",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 4011776
+    },
+    {
+      "key": "h1.seed.X512LY.step0200.fin.freq4",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0200.fin.freq4.lo",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0200.fin.freq4.hi",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0009
+    },
+    {
+      "key": "h1.seed.X512LY.step0200.fin.toks",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 1011
+    },
+    {
+      "key": "h1.seed.X512LY.step0200.fin.acc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 77.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0200.trunc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0.8
+    },
+    {
+      "key": "h1.seed.X512LY.step0300.nwait",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 2
+    },
+    {
+      "key": "h1.seed.X512LY.step0300.ntok",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 5041292
+    },
+    {
+      "key": "h1.seed.X512LY.step0300.freq4",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0.0004
+    },
+    {
+      "key": "h1.seed.X512LY.step0300.freq4.lo",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0300.freq4.hi",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0014
+    },
+    {
+      "key": "h1.seed.X512LY.step0300.toks",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 1260
+    },
+    {
+      "key": "h1.seed.X512LY.step0300.acc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 74.6
+    },
+    {
+      "key": "h1.seed.X512LY.step0300.fin.nwait",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0
+    },
+    {
+      "key": "h1.seed.X512LY.step0300.fin.ntok",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 3517580
+    },
+    {
+      "key": "h1.seed.X512LY.step0300.fin.freq4",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0300.fin.freq4.lo",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0300.fin.freq4.hi",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.001
+    },
+    {
+      "key": "h1.seed.X512LY.step0300.fin.toks",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 922
+    },
+    {
+      "key": "h1.seed.X512LY.step0300.fin.acc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 77.6
+    },
+    {
+      "key": "h1.seed.X512LY.step0300.trunc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 4.6
+    },
+    {
+      "key": "h1.seed.X512LY.step0400.nwait",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0
+    },
+    {
+      "key": "h1.seed.X512LY.step0400.ntok",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 8239334
+    },
+    {
+      "key": "h1.seed.X512LY.step0400.freq4",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0400.freq4.lo",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0400.freq4.hi",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0004
+    },
+    {
+      "key": "h1.seed.X512LY.step0400.toks",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 2060
+    },
+    {
+      "key": "h1.seed.X512LY.step0400.acc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 66.6
+    },
+    {
+      "key": "h1.seed.X512LY.step0400.fin.nwait",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0
+    },
+    {
+      "key": "h1.seed.X512LY.step0400.fin.ntok",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 2455782
+    },
+    {
+      "key": "h1.seed.X512LY.step0400.fin.freq4",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0400.fin.freq4.lo",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.step0400.fin.freq4.hi",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json; exact Poisson",
+      "value": 0.0015
+    },
+    {
+      "key": "h1.seed.X512LY.step0400.fin.toks",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 746
+    },
+    {
+      "key": "h1.seed.X512LY.step0400.fin.acc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 78.1
+    },
+    {
+      "key": "h1.seed.X512LY.step0400.trunc",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 17.6
+    },
+    {
+      "key": "h1.seed.X512LY.trend.a_wait",
+      "src": "FREQ(step 400)/FREQ(step 0), all responses, conditional-binomial CI on counts",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.trend.a_wait.lo",
+      "src": "FREQ(step 400)/FREQ(step 0), all responses, conditional-binomial CI on counts",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.trend.a_wait.hi",
+      "src": "FREQ(step 400)/FREQ(step 0), all responses, conditional-binomial CI on counts",
+      "value": 0.024
+    },
+    {
+      "key": "h1.seed.X512LY.trend.a_wait_fin",
+      "src": "FREQ(step 400)/FREQ(step 0), finished responses, conditional-binomial CI on counts",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.trend.a_wait_fin.lo",
+      "src": "FREQ(step 400)/FREQ(step 0), finished responses, conditional-binomial CI on counts",
+      "value": 0.0
+    },
+    {
+      "key": "h1.seed.X512LY.trend.a_wait_fin.hi",
+      "src": "FREQ(step 400)/FREQ(step 0), finished responses, conditional-binomial CI on counts",
+      "value": 0.0635
+    },
+    {
+      "key": "h1.seed.X512LY.trend.last_step",
+      "src": "exp/rl/results/seed_X512LY/lenwait.json",
+      "value": 400
+    }
+  ]
+}

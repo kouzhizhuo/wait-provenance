@@ -1,0 +1,4354 @@
+{
+  "entries": [
+    {
+      "key": "h1.bb_pangu_e7v11.final.freq",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 0.4
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.freq.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 0.2
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.freq.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 0.7
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.freq100",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 0.9
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.freq100.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 0.4
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.freq100.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 1.6
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.fdisc",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 5.9
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.fdisc.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 5.4
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.fdisc.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 6.3
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.si",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.SI.est",
+      "value": 78.2
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.si.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.SI.lo",
+      "value": 65.5
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.si.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.SI.hi",
+      "value": 84.0
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.si.n",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 1554
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.siconn",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.SI_conn.est",
+      "value": 81.6
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.siconn.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 69.9
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.siconn.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 87.8
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.siconn.n",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 1554
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.pi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.PI.est",
+      "value": 22.5
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.pi.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.PI.lo",
+      "value": 14.4
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.pi.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.PI.hi",
+      "value": 30.4
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.orth",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.ORTH.est",
+      "value": 73.5
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.ORTH.lo",
+      "value": 61.2
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.ORTH.hi",
+      "value": 80.7
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.orth.n",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 1554
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.orthmax",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 73.5
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.orthmax.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 61.2
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.orthmax.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 80.7
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.orthmax.n",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 1554
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.commadrop",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 16.4
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.commadrop.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 10.8
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.commadrop.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 25.6
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.commadrop.n",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 1554
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.chain",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 97.2
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.chain.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 69.0
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.chain.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 116.1
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.chainshare",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.CHAIN.est",
+      "value": 13.2
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.chainshare.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 8.6
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.chainshare.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 16.7
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.neff",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.N_eff.est",
+      "value": 4.14
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.neff.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.N_eff.lo",
+      "value": 3.51
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.neff.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.N_eff.hi",
+      "value": 4.72
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.sharewait",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 6.7
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.sharewait.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 2.7
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.sharewait.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 12.1
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.obl",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.OBL.est",
+      "value": 34.2
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.obl.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.OBL.lo",
+      "value": 31.1
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.obl.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.OBL.hi",
+      "value": 37.5
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.obl.n",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.n_R",
+      "value": 3833
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.rel",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.REL.est",
+      "value": 9.6
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.rel.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.REL.lo",
+      "value": 8.6
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.rel.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.REL.hi",
+      "value": 10.7
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.rel.n",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.n_M",
+      "value": 20118
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.eros",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.EROS.est",
+      "value": 19.3
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.eros.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.EROS.lo",
+      "value": 14.2
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.eros.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.EROS.hi",
+      "value": 25.6
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.sentlen",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 18.0
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.sentlen.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 12.2
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.sentlen.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 23.4
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.ctx",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.CTX.est",
+      "value": 2.6
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.ctx.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.CTX.lo",
+      "value": 1.95
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.ctx.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.CTX.hi",
+      "value": 4.23
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.lex",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.LEX_share.est",
+      "value": 1.0
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.lex.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.3
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.lex.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 1.5
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.revrate",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 2.3
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.revrate.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 2.03
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.revrate.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 2.6
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.toks",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 4389
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.toks.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 3758
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.toks.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 4997
+    },
+    {
+      "key": "n.bb_pangu_e7v11.final.resp",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.bb_pangu_e7v11.final.acc",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.acc",
+      "value": 95.8
+    },
+    {
+      "key": "ctl.bb_pangu_e7v11.final.trunc",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints.final.truncated",
+      "value": 0.6
+    },
+    {
+      "key": "n.bb_pangu_e7v11.ckpts",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.freq",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 1.4
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.freq.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 1.0
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.freq.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 1.8
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.freq100",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 2.8
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.freq100.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 2.0
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.freq100.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 3.6
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.fdisc",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 6.9
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.fdisc.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 6.3
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.fdisc.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 7.5
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.si",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.SI.est",
+      "value": 83.8
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.si.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.SI.lo",
+      "value": 79.7
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.si.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.SI.hi",
+      "value": 87.5
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.si.n",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 4600
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.siconn",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.SI_conn.est",
+      "value": 91.5
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.siconn.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 88.0
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.siconn.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 94.6
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.siconn.n",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 4600
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.pi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.PI.est",
+      "value": 26.6
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.pi.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.PI.lo",
+      "value": 22.6
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.pi.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.PI.hi",
+      "value": 31.3
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.orth",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.ORTH.est",
+      "value": 80.8
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.ORTH.lo",
+      "value": 76.3
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.ORTH.hi",
+      "value": 84.9
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.orth.n",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 4600
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.orthmax",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 80.8
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.orthmax.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 76.3
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.orthmax.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 84.9
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.orthmax.n",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 4600
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.commadrop",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 7.0
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.commadrop.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 5.0
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.commadrop.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 9.4
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.commadrop.n",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 4600
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.chain",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 126.7
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.chain.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 111.6
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.chain.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 140.3
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.chainshare",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.CHAIN.est",
+      "value": 15.5
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.chainshare.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 13.3
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.chainshare.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 17.7
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.neff",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.N_eff.est",
+      "value": 6.05
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.neff.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.N_eff.lo",
+      "value": 5.5
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.neff.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.N_eff.hi",
+      "value": 6.48
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.sharewait",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 16.8
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.sharewait.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 12.5
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.sharewait.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 20.8
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.obl",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.OBL.est",
+      "value": 39.0
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.obl.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.OBL.lo",
+      "value": 35.4
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.obl.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.OBL.hi",
+      "value": 42.2
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.obl.n",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.n_R",
+      "value": 4125
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.rel",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.REL.est",
+      "value": 11.1
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.rel.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.REL.lo",
+      "value": 9.7
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.rel.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.REL.hi",
+      "value": 12.5
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.rel.n",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.n_M",
+      "value": 21523
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.eros",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.EROS.est",
+      "value": 24.0
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.eros.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.EROS.lo",
+      "value": 17.7
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.eros.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.EROS.hi",
+      "value": 32.9
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.sentlen",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 13.4
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.sentlen.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 11.5
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.sentlen.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 15.9
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.ctx",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.CTX.est",
+      "value": 1.45
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.ctx.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.CTX.lo",
+      "value": 1.3
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.ctx.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.CTX.hi",
+      "value": 1.65
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.lex",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.LEX_share.est",
+      "value": 0.8
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.lex.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.4
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.lex.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 1.3
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.revrate",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 2.51
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.revrate.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 2.2
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.revrate.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 2.83
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.toks",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 4084
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.toks.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 3441
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.toks.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 4747
+    },
+    {
+      "key": "n.bb_pangu_e7m.final.resp",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.bb_pangu_e7m.final.acc",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.acc",
+      "value": 91.8
+    },
+    {
+      "key": "ctl.bb_pangu_e7m.final.trunc",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints.final.truncated",
+      "value": 0.8
+    },
+    {
+      "key": "n.bb_pangu_e7m.ckpts",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.freq",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 1.8
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.freq.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 1.4
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.freq.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 2.3
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.freq100",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 3.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.freq100.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 2.3
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.freq100.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 3.8
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.fdisc",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 5.1
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.fdisc.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 4.1
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.fdisc.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 6.1
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.si",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.SI.est",
+      "value": 93.9
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.si.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.SI.lo",
+      "value": 83.7
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.si.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.SI.hi",
+      "value": 99.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.si.n",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 14701
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.siconn",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.SI_conn.est",
+      "value": 95.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.siconn.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 84.9
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.siconn.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 99.8
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.siconn.n",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 14701
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.pi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.PI.est",
+      "value": 80.2
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.pi.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.PI.lo",
+      "value": 68.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.pi.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.PI.hi",
+      "value": 89.5
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.orth",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.ORTH.est",
+      "value": 97.9
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.ORTH.lo",
+      "value": 96.6
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.ORTH.hi",
+      "value": 98.7
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.orth.n",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 14701
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.orthmax",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 97.9
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.orthmax.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 96.6
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.orthmax.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 98.7
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.orthmax.n",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 14701
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.commadrop",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 1.3
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.commadrop.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 0.6
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.commadrop.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 2.3
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.commadrop.n",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 14701
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.chain",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 0.1
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.chain.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.chain.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 0.4
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.chainshare",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.CHAIN.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.chainshare.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.chainshare.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.neff",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.N_eff.est",
+      "value": 4.85
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.neff.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.N_eff.lo",
+      "value": 4.25
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.neff.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.N_eff.hi",
+      "value": 5.42
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.sharewait",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 31.6
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.sharewait.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 21.1
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.sharewait.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 41.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.obl",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.OBL.est",
+      "value": 15.7
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.obl.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.OBL.lo",
+      "value": 9.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.obl.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.OBL.hi",
+      "value": 26.2
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.obl.n",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.n_R",
+      "value": 13528
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.rel",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.REL.est",
+      "value": 6.9
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.rel.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.REL.lo",
+      "value": 4.5
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.rel.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.REL.hi",
+      "value": 10.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.rel.n",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.n_M",
+      "value": 40634
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.eros",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.EROS.est",
+      "value": 13.7
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.eros.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.EROS.lo",
+      "value": 10.9
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.eros.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.EROS.hi",
+      "value": 17.1
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.sentlen",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 9.9
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.sentlen.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 8.1
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.sentlen.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 11.9
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.ctx",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.CTX.est",
+      "value": 1.62
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.ctx.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.CTX.lo",
+      "value": 1.01
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.ctx.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.CTX.hi",
+      "value": 2.94
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.lex",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.LEX_share.est",
+      "value": 0.2
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.lex.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.lex.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 0.5
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.revrate",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 2.77
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.revrate.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 1.85
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.revrate.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 3.88
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.toks",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 10068
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.toks.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 8616
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.toks.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 11453
+    },
+    {
+      "key": "n.bb_qwen35_0p8b.final.resp",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.bb_qwen35_0p8b.final.acc",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.acc",
+      "value": 48.1
+    },
+    {
+      "key": "ctl.bb_qwen35_0p8b.final.trunc",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints.final.truncated",
+      "value": 25.2
+    },
+    {
+      "key": "n.bb_qwen35_0p8b.ckpts",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.freq",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 2.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.freq.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 1.8
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.freq.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 2.1
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.freq100",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 4.4
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.freq100.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 4.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.freq100.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 4.8
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.fdisc",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 7.5
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.fdisc.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 7.1
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.fdisc.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 7.9
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.si",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.SI.est",
+      "value": 91.7
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.si.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.SI.lo",
+      "value": 90.6
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.si.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.SI.hi",
+      "value": 92.8
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.si.n",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 12268
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.siconn",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.SI_conn.est",
+      "value": 95.9
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.siconn.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 95.3
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.siconn.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 96.6
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.siconn.n",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 12268
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.pi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.PI.est",
+      "value": 22.6
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.pi.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.PI.lo",
+      "value": 18.6
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.pi.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.PI.hi",
+      "value": 26.2
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.orth",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.ORTH.est",
+      "value": 35.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.ORTH.lo",
+      "value": 29.3
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.ORTH.hi",
+      "value": 40.1
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.orth.n",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 12268
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.orthmax",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 54.5
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.orthmax.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 48.6
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.orthmax.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 60.8
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.orthmax.n",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 12268
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.commadrop",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 60.7
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.commadrop.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 55.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.commadrop.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 67.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.commadrop.n",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 12268
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.chain",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 31.2
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.chain.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 23.6
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.chain.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 39.8
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.chainshare",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.CHAIN.est",
+      "value": 3.5
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.chainshare.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 2.7
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.chainshare.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 4.5
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.neff",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.N_eff.est",
+      "value": 6.83
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.neff.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.N_eff.lo",
+      "value": 6.62
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.neff.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.N_eff.hi",
+      "value": 7.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.sharewait",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 23.3
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.sharewait.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 21.6
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.sharewait.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 25.0
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.obl",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.OBL.est",
+      "value": 32.9
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.obl.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.OBL.lo",
+      "value": 30.1
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.obl.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.OBL.hi",
+      "value": 35.6
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.obl.n",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.n_R",
+      "value": 8531
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.rel",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.REL.est",
+      "value": 9.2
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.rel.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.REL.lo",
+      "value": 8.3
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.rel.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.REL.hi",
+      "value": 10.2
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.rel.n",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.n_M",
+      "value": 45888
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.eros",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.EROS.est",
+      "value": 17.1
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.eros.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.EROS.lo",
+      "value": 13.4
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.eros.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.EROS.hi",
+      "value": 21.7
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.sentlen",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 13.1
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.sentlen.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 12.6
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.sentlen.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 13.6
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.ctx",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.CTX.est",
+      "value": 4.25
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.ctx.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.CTX.lo",
+      "value": 3.88
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.ctx.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.CTX.hi",
+      "value": 4.65
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.lex",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.LEX_share.est",
+      "value": 1.2
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.lex.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.8
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.lex.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 1.5
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.revrate",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 3.05
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.revrate.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 2.74
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.revrate.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 3.42
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.toks",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 7826
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.toks.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 6660
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.toks.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 8982
+    },
+    {
+      "key": "n.bb_qwen35_0p8b_base.final.resp",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.bb_qwen35_0p8b_base.final.acc",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.acc",
+      "value": 43.8
+    },
+    {
+      "key": "ctl.bb_qwen35_0p8b_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints.final.truncated",
+      "value": 9.9
+    },
+    {
+      "key": "n.bb_qwen35_0p8b_base.ckpts",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.freq",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 0.9
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.freq.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.freq.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 1.3
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.freq100",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 1.1
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.freq100.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 0.7
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.freq100.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 1.6
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.fdisc",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 2.9
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.fdisc.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 2.1
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.fdisc.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 3.9
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.si",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.SI.est",
+      "value": 96.7
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.si.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.SI.lo",
+      "value": 94.5
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.si.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.SI.hi",
+      "value": 98.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.si.n",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 4142
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.siconn",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.SI_conn.est",
+      "value": 98.6
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.siconn.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 97.4
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.siconn.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 99.2
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.siconn.n",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 4142
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.pi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.PI.est",
+      "value": 83.5
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.pi.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.PI.lo",
+      "value": 73.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.pi.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.PI.hi",
+      "value": 89.9
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.orth",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.ORTH.est",
+      "value": 95.1
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.ORTH.lo",
+      "value": 91.9
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.ORTH.hi",
+      "value": 96.8
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.orth.n",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 4142
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.orthmax",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 95.1
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.orthmax.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 91.9
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.orthmax.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 96.8
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.orthmax.n",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 4142
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.commadrop",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 3.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.commadrop.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 1.9
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.commadrop.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 5.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.commadrop.n",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 4142
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.chain",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.chain.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.chain.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.chainshare",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.CHAIN.est",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.chainshare.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.chainshare.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.neff",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.N_eff.est",
+      "value": 5.64
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.neff.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.N_eff.lo",
+      "value": 4.81
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.neff.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.N_eff.hi",
+      "value": 6.2
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.sharewait",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 15.9
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.sharewait.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 11.7
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.sharewait.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 20.5
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.obl",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.OBL.est",
+      "value": 14.2
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.obl.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.OBL.lo",
+      "value": 8.2
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.obl.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.OBL.hi",
+      "value": 23.1
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.obl.n",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.n_R",
+      "value": 3426
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.rel",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.REL.est",
+      "value": 4.6
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.rel.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.REL.lo",
+      "value": 3.3
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.rel.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.REL.hi",
+      "value": 6.6
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.rel.n",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.n_M",
+      "value": 13969
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.eros",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.EROS.est",
+      "value": 13.7
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.eros.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.EROS.lo",
+      "value": 10.4
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.eros.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.EROS.hi",
+      "value": 17.9
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.sentlen",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 7.6
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.sentlen.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 7.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.sentlen.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 8.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.ctx",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.CTX.est",
+      "value": 1.06
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.ctx.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.CTX.lo",
+      "value": 1.03
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.ctx.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.CTX.hi",
+      "value": 1.11
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.lex",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.LEX_share.est",
+      "value": 0.4
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.lex.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.1
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.lex.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 0.8
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.revrate",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 0.87
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.revrate.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 0.54
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.revrate.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 1.43
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.toks",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 5992
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.toks.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 4836
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.toks.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 7222
+    },
+    {
+      "key": "n.bb_qwen35_2b.final.resp",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.bb_qwen35_2b.final.acc",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.acc",
+      "value": 76.8
+    },
+    {
+      "key": "ctl.bb_qwen35_2b.final.trunc",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints.final.truncated",
+      "value": 12.1
+    },
+    {
+      "key": "n.bb_qwen35_2b.ckpts",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.freq",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 1.3
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.freq.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 1.2
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.freq.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 1.4
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.freq100",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 2.9
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.freq100.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 2.7
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.freq100.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 3.1
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.fdisc",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 6.7
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.fdisc.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 6.1
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.fdisc.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 7.2
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.si",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.SI.est",
+      "value": 94.6
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.si.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.SI.lo",
+      "value": 93.5
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.si.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.SI.hi",
+      "value": 95.6
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.si.n",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 5172
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.siconn",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.SI_conn.est",
+      "value": 97.4
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.siconn.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 96.8
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.siconn.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 98.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.siconn.n",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 5172
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.pi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.PI.est",
+      "value": 5.5
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.pi.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.PI.lo",
+      "value": 4.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.pi.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.PI.hi",
+      "value": 7.2
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.orth",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.ORTH.est",
+      "value": 8.2
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.ORTH.lo",
+      "value": 5.4
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.ORTH.hi",
+      "value": 11.6
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.orth.n",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 5172
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.orthmax",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 84.3
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.orthmax.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 80.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.orthmax.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 88.1
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.orthmax.n",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 5172
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.commadrop",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 90.1
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.commadrop.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 86.4
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.commadrop.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 93.3
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.commadrop.n",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 5172
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.chain",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 5.2
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.chain.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 2.3
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.chain.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 9.2
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.chainshare",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.CHAIN.est",
+      "value": 0.6
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.chainshare.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 0.2
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.chainshare.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 1.3
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.neff",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.N_eff.est",
+      "value": 6.63
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.neff.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.N_eff.lo",
+      "value": 6.33
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.neff.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.N_eff.hi",
+      "value": 6.87
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.sharewait",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 20.6
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.sharewait.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 18.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.sharewait.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 23.3
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.obl",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.OBL.est",
+      "value": 26.8
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.obl.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.OBL.lo",
+      "value": 24.5
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.obl.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.OBL.hi",
+      "value": 29.5
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.obl.n",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.n_R",
+      "value": 4528
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.rel",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.REL.est",
+      "value": 7.1
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.rel.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.REL.lo",
+      "value": 6.3
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.rel.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.REL.hi",
+      "value": 7.9
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.rel.n",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.n_M",
+      "value": 26267
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.eros",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.EROS.est",
+      "value": 19.5
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.eros.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.EROS.lo",
+      "value": 13.5
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.eros.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.EROS.hi",
+      "value": 26.7
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.sentlen",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 13.0
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.sentlen.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 12.5
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.sentlen.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 13.4
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.ctx",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.CTX.est",
+      "value": 6.09
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.ctx.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.CTX.lo",
+      "value": 5.76
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.ctx.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.CTX.hi",
+      "value": 6.4
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.lex",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.LEX_share.est",
+      "value": 1.1
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.lex.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.8
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.lex.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 1.5
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.revrate",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 2.54
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.revrate.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 2.21
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.revrate.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 2.91
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.toks",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 4951
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.toks.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 3910
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.toks.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 6052
+    },
+    {
+      "key": "n.bb_qwen35_2b_base.final.resp",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.bb_qwen35_2b_base.final.acc",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.acc",
+      "value": 74.5
+    },
+    {
+      "key": "ctl.bb_qwen35_2b_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints.final.truncated",
+      "value": 6.5
+    },
+    {
+      "key": "n.bb_qwen35_2b_base.ckpts",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.freq",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 3.8
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.freq.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 3.0
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.freq.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 4.7
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.freq100",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 5.2
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.freq100.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 4.2
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.freq100.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 6.4
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.fdisc",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 5.7
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.fdisc.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 4.8
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.fdisc.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 6.7
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.si",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.SI.est",
+      "value": 99.1
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.si.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.SI.lo",
+      "value": 98.8
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.si.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.SI.hi",
+      "value": 99.3
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.si.n",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 45154
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.siconn",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.SI_conn.est",
+      "value": 99.5
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.siconn.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 99.3
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.siconn.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 99.6
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.siconn.n",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 45154
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.pi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.PI.est",
+      "value": 19.9
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.pi.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.PI.lo",
+      "value": 11.2
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.pi.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.PI.hi",
+      "value": 31.1
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.orth",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.ORTH.est",
+      "value": 94.9
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.ORTH.lo",
+      "value": 90.4
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.ORTH.hi",
+      "value": 97.7
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.orth.n",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 45154
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.orthmax",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 94.9
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.orthmax.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 90.4
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.orthmax.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 97.7
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.orthmax.n",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 45154
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.commadrop",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 4.7
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.commadrop.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 2.0
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.commadrop.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 9.2
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.commadrop.n",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 45154
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.chain",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 23.7
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.chain.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 1.2
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.chain.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 56.1
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.chainshare",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.CHAIN.est",
+      "value": 6.3
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.chainshare.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 0.1
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.chainshare.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 14.9
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.neff",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.N_eff.est",
+      "value": 4.75
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.neff.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.N_eff.lo",
+      "value": 3.49
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.neff.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.N_eff.hi",
+      "value": 6.17
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.sharewait",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 38.9
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.sharewait.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 29.2
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.sharewait.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 44.5
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.obl",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.OBL.est",
+      "value": 21.1
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.obl.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.OBL.lo",
+      "value": 13.1
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.obl.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.OBL.hi",
+      "value": 33.1
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.obl.n",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.n_R",
+      "value": 4964
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.rel",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.REL.est",
+      "value": 2.0
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.rel.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.REL.lo",
+      "value": 1.2
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.rel.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.REL.hi",
+      "value": 3.5
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.rel.n",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.n_M",
+      "value": 67261
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.eros",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.EROS.est",
+      "value": 19.9
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.eros.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.EROS.lo",
+      "value": 13.9
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.eros.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.EROS.hi",
+      "value": 28.5
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.sentlen",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 8.7
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.sentlen.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 7.7
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.sentlen.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 9.5
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.ctx",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.CTX.est",
+      "value": 1.02
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.ctx.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.CTX.lo",
+      "value": 1.01
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.ctx.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.CTX.hi",
+      "value": 1.03
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.lex",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.LEX_share.est",
+      "value": 0.3
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.lex.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.1
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.lex.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 0.4
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.revrate",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 0.57
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.revrate.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 0.45
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.revrate.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 0.71
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.toks",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 14786
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.toks.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 13617
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.toks.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 15923
+    },
+    {
+      "key": "n.bb_qwen35_4b.final.resp",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.bb_qwen35_4b.final.acc",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.acc",
+      "value": 88.2
+    },
+    {
+      "key": "ctl.bb_qwen35_4b.final.trunc",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints.final.truncated",
+      "value": 23.9
+    },
+    {
+      "key": "n.bb_qwen35_4b.ckpts",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.freq",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 2.9
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.freq.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 2.2
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.freq.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 3.7
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.freq100",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 4.2
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.freq100.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 3.2
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.freq100.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 5.2
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.fdisc",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 4.6
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.fdisc.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 3.8
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.fdisc.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 5.4
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.si",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.SI.est",
+      "value": 99.0
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.si.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.SI.lo",
+      "value": 98.7
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.si.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.SI.hi",
+      "value": 99.3
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.si.n",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 29890
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.siconn",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.SI_conn.est",
+      "value": 99.4
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.siconn.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 99.2
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.siconn.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 99.6
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.siconn.n",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 29890
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.pi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.PI.est",
+      "value": 23.9
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.pi.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.PI.lo",
+      "value": 13.7
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.pi.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.PI.hi",
+      "value": 37.3
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.orth",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.ORTH.est",
+      "value": 95.9
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.ORTH.lo",
+      "value": 93.8
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.ORTH.hi",
+      "value": 97.3
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.orth.n",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 29890
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.orthmax",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 95.9
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.orthmax.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 93.8
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.orthmax.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 97.3
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.orthmax.n",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 29890
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.commadrop",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 3.7
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.commadrop.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 2.4
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.commadrop.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 5.8
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.commadrop.n",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 29890
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.chain",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 2.7
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.chain.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 1.5
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.chain.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 4.2
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.chainshare",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.CHAIN.est",
+      "value": 5.1
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.chainshare.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 0.2
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.chainshare.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 15.1
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.neff",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.N_eff.est",
+      "value": 6.3
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.neff.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.N_eff.lo",
+      "value": 5.93
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.neff.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.N_eff.hi",
+      "value": 6.59
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.sharewait",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 27.9
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.sharewait.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 24.6
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.sharewait.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 31.0
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.obl",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.OBL.est",
+      "value": 13.3
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.obl.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.OBL.lo",
+      "value": 11.6
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.obl.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.OBL.hi",
+      "value": 15.0
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.obl.n",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.n_R",
+      "value": 3859
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.rel",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.REL.est",
+      "value": 1.6
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.rel.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.REL.lo",
+      "value": 1.2
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.rel.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.REL.hi",
+      "value": 2.0
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.rel.n",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.n_M",
+      "value": 46245
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.eros",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.EROS.est",
+      "value": 17.7
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.eros.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.EROS.lo",
+      "value": 12.0
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.eros.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.EROS.hi",
+      "value": 26.8
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.sentlen",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 8.2
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.sentlen.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 7.2
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.sentlen.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 9.1
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.ctx",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.CTX.est",
+      "value": 1.02
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.ctx.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.CTX.lo",
+      "value": 1.01
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.ctx.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.CTX.hi",
+      "value": 1.03
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.lex",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.LEX_share.est",
+      "value": 0.4
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.lex.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.2
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.lex.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 0.6
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.revrate",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 0.54
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.revrate.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 0.45
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.revrate.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 0.64
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.toks",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 12711
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.toks.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 11568
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.toks.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 13876
+    },
+    {
+      "key": "n.bb_qwen35_9b.final.resp",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.bb_qwen35_9b.final.acc",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.acc",
+      "value": 92.1
+    },
+    {
+      "key": "ctl.bb_qwen35_9b.final.trunc",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints.final.truncated",
+      "value": 16.6
+    },
+    {
+      "key": "n.bb_qwen35_9b.ckpts",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.freq",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 1.2
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.freq.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 0.9
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.freq.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 1.4
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.freq100",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 2.5
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.freq100.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 2.1
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.freq100.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 3.0
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.fdisc",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 5.2
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.fdisc.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 4.5
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.fdisc.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 5.7
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.si",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.SI.est",
+      "value": 94.4
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.si.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.SI.lo",
+      "value": 92.6
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.si.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.SI.hi",
+      "value": 96.2
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.si.n",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 2211
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.siconn",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.SI_conn.est",
+      "value": 97.6
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.siconn.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 96.7
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.siconn.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 98.5
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.siconn.n",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 2211
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.pi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.PI.est",
+      "value": 12.5
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.pi.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.PI.lo",
+      "value": 4.2
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.pi.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.PI.hi",
+      "value": 20.7
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.orth",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.ORTH.est",
+      "value": 14.6
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.ORTH.lo",
+      "value": 6.1
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.ORTH.hi",
+      "value": 22.3
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.orth.n",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 2211
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.orthmax",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 77.3
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.orthmax.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 67.4
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.orthmax.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 87.1
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.orthmax.n",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 2211
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.commadrop",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 83.6
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.commadrop.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 74.8
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.commadrop.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 93.0
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.commadrop.n",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 2211
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.chain",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 14.9
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.chain.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 1.7
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.chain.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 31.1
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.chainshare",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.CHAIN.est",
+      "value": 1.8
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.chainshare.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 0.2
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.chainshare.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 3.8
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.neff",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.N_eff.est",
+      "value": 7.03
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.neff.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.N_eff.lo",
+      "value": 6.38
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.neff.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.N_eff.hi",
+      "value": 7.41
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.sharewait",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 21.9
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.sharewait.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 17.7
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.sharewait.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 26.2
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.obl",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.OBL.est",
+      "value": 24.1
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.obl.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.OBL.lo",
+      "value": 20.9
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.obl.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.OBL.hi",
+      "value": 27.4
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.obl.n",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.n_R",
+      "value": 1288
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.rel",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.REL.est",
+      "value": 4.8
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.rel.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.REL.lo",
+      "value": 4.0
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.rel.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.REL.hi",
+      "value": 5.8
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.rel.n",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.n_M",
+      "value": 9785
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.eros",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.EROS.est",
+      "value": 15.0
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.eros.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.EROS.lo",
+      "value": 11.6
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.eros.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.EROS.hi",
+      "value": 18.4
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.sentlen",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 13.5
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.sentlen.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 12.4
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.sentlen.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 14.6
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.ctx",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.CTX.est",
+      "value": 5.77
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.ctx.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.CTX.lo",
+      "value": 5.1
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.ctx.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.CTX.hi",
+      "value": 6.5
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.lex",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.LEX_share.est",
+      "value": 1.1
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.lex.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.7
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.lex.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 1.5
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.revrate",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 1.47
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.revrate.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 1.19
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.revrate.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 1.78
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.toks",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 2397
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.toks.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 1817
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.toks.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 2971
+    },
+    {
+      "key": "n.bb_qwen35_4b_base.final.resp",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.bb_qwen35_4b_base.final.acc",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.acc",
+      "value": 89.6
+    },
+    {
+      "key": "ctl.bb_qwen35_4b_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints.final.truncated",
+      "value": 0.9
+    },
+    {
+      "key": "n.bb_qwen35_4b_base.ckpts",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.freq",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 0.9
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.freq.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 0.8
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.freq.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.freq100",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 1.9
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.freq100.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 1.5
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.freq100.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 2.2
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.fdisc",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 5.9
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.fdisc.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 5.1
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.fdisc.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 6.6
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.si",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.SI.est",
+      "value": 86.6
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.si.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.SI.lo",
+      "value": 83.0
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.si.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.SI.hi",
+      "value": 89.8
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.si.n",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 1830
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.siconn",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.SI_conn.est",
+      "value": 97.7
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.siconn.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 96.7
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.siconn.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 98.5
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.siconn.n",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 1830
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.pi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.PI.est",
+      "value": 6.5
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.pi.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.PI.lo",
+      "value": 4.1
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.pi.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.PI.hi",
+      "value": 9.5
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.orth",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.ORTH.est",
+      "value": 14.3
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.ORTH.lo",
+      "value": 8.7
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.ORTH.hi",
+      "value": 20.3
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.orth.n",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 1830
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.orthmax",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 68.5
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.orthmax.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 60.1
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.orthmax.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 76.3
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.orthmax.n",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 1830
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.commadrop",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 78.6
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.commadrop.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 71.6
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.commadrop.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 85.2
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.commadrop.n",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.n_wait",
+      "value": 1830
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.chain",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 3.8
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.chain.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 0.7
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.chain.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 8.1
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.chainshare",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.CHAIN.est",
+      "value": 0.4
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.chainshare.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 0.1
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.chainshare.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.neff",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.N_eff.est",
+      "value": 6.25
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.neff.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.N_eff.lo",
+      "value": 5.57
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.neff.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.N_eff.hi",
+      "value": 6.54
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.sharewait",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 18.1
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.sharewait.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 13.2
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.sharewait.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 23.4
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.obl",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.OBL.est",
+      "value": 24.2
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.obl.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.OBL.lo",
+      "value": 19.3
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.obl.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.OBL.hi",
+      "value": 29.1
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.obl.n",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.n_R",
+      "value": 1035
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.rel",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.REL.est",
+      "value": 3.3
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.rel.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.REL.lo",
+      "value": 2.8
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.rel.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.REL.hi",
+      "value": 3.9
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.rel.n",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.n_M",
+      "value": 11306
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.eros",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.EROS.est",
+      "value": 22.9
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.eros.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.EROS.lo",
+      "value": 14.5
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.eros.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.EROS.hi",
+      "value": 31.1
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.sentlen",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 13.7
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.sentlen.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 13.1
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.sentlen.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 14.3
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.ctx",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.CTX.est",
+      "value": 5.28
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.ctx.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.CTX.lo",
+      "value": 4.59
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.ctx.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.CTX.hi",
+      "value": 5.93
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.lex",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.LEX_share.est",
+      "value": 0.6
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.lex.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.3
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.lex.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.revrate",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 1.07
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.revrate.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 0.77
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.revrate.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 1.43
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.toks",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 2447
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.toks.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 1852
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.toks.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 3057
+    },
+    {
+      "key": "n.bb_qwen35_9b_base.final.resp",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.n_samples",
+      "value": 800
+    },
+    {
+      "key": "ctl.bb_qwen35_9b_base.final.acc",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.acc",
+      "value": 88.1
+    },
+    {
+      "key": "ctl.bb_qwen35_9b_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints.final.truncated",
+      "value": 1.1
+    },
+    {
+      "key": "n.bb_qwen35_9b_base.ckpts",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json::checkpoints",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.nwait",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json",
+      "value": 1554
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.ntok",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json",
+      "value": 3511514
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.freq2",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json",
+      "value": 0.44
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.freq4",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json",
+      "value": 0.4425
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json; exact Poisson 95%",
+      "value": 0.4208
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7v11/gen_cap32k/BB_pangu_e7v11_c32k.idx.json; exact Poisson 95%",
+      "value": 0.4651
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.fin.nwait",
+      "src": "BB_pangu_e7v11_c32k.full.graded.jsonl.gz",
+      "value": 1540
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.fin.ntok",
+      "src": "BB_pangu_e7v11_c32k.full.graded.jsonl.gz",
+      "value": 3789726
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.fin.n",
+      "src": "BB_pangu_e7v11_c32k.full.graded.jsonl.gz (finished responses)",
+      "value": 795
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.fin.freq2",
+      "src": "BB_pangu_e7v11_c32k.full.graded.jsonl.gz",
+      "value": 0.41
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.fin.freq4",
+      "src": "BB_pangu_e7v11_c32k.full.graded.jsonl.gz",
+      "value": 0.4064
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.fin.freq4.lo",
+      "src": "BB_pangu_e7v11_c32k.full.graded.jsonl.gz",
+      "value": 0.3863
+    },
+    {
+      "key": "h1.bb_pangu_e7v11.final.fin.freq4.hi",
+      "src": "BB_pangu_e7v11_c32k.full.graded.jsonl.gz",
+      "value": 0.4272
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.nwait",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json",
+      "value": 4600
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.ntok",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json",
+      "value": 3267015
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.freq2",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json",
+      "value": 1.41
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.freq4",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json",
+      "value": 1.408
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json; exact Poisson 95%",
+      "value": 1.3676
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_pangu_e7m/gen_cap32k/BB_pangu_e7m_c32k.idx.json; exact Poisson 95%",
+      "value": 1.4493
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.fin.nwait",
+      "src": "BB_pangu_e7m_c32k.full.graded.jsonl.gz",
+      "value": 4582
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.fin.ntok",
+      "src": "BB_pangu_e7m_c32k.full.graded.jsonl.gz",
+      "value": 3474022
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.fin.n",
+      "src": "BB_pangu_e7m_c32k.full.graded.jsonl.gz (finished responses)",
+      "value": 794
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.fin.freq2",
+      "src": "BB_pangu_e7m_c32k.full.graded.jsonl.gz",
+      "value": 1.32
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.fin.freq4",
+      "src": "BB_pangu_e7m_c32k.full.graded.jsonl.gz",
+      "value": 1.3189
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.fin.freq4.lo",
+      "src": "BB_pangu_e7m_c32k.full.graded.jsonl.gz",
+      "value": 1.281
+    },
+    {
+      "key": "h1.bb_pangu_e7m.final.fin.freq4.hi",
+      "src": "BB_pangu_e7m_c32k.full.graded.jsonl.gz",
+      "value": 1.3577
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.nwait",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json",
+      "value": 14701
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.ntok",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json",
+      "value": 8054125
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json",
+      "value": 1.83
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json",
+      "value": 1.8253
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json; exact Poisson 95%",
+      "value": 1.7959
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b/gen_cap32k/BB_qwen35_0p8b_c32k.idx.json; exact Poisson 95%",
+      "value": 1.855
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.fin.nwait",
+      "src": "BB_qwen35_0p8b_c32k.graded.jsonl.gz",
+      "value": 1294
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.fin.ntok",
+      "src": "BB_qwen35_0p8b_c32k.graded.jsonl.gz",
+      "value": 1434989
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.fin.n",
+      "src": "BB_qwen35_0p8b_c32k.graded.jsonl.gz (finished responses)",
+      "value": 598
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.fin.freq2",
+      "src": "BB_qwen35_0p8b_c32k.graded.jsonl.gz",
+      "value": 0.9
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.fin.freq4",
+      "src": "BB_qwen35_0p8b_c32k.graded.jsonl.gz",
+      "value": 0.9017
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.fin.freq4.lo",
+      "src": "BB_qwen35_0p8b_c32k.graded.jsonl.gz",
+      "value": 0.8533
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b.final.fin.freq4.hi",
+      "src": "BB_qwen35_0p8b_c32k.graded.jsonl.gz",
+      "value": 0.9523
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json",
+      "value": 12268
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json",
+      "value": 6261125
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json",
+      "value": 1.96
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json",
+      "value": 1.9594
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json; exact Poisson 95%",
+      "value": 1.9249
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_0p8b_base/gen_cap32k/BB_qwen35_0p8b_base_c32k.idx.json; exact Poisson 95%",
+      "value": 1.9944
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.fin.nwait",
+      "src": "BB_qwen35_0p8b_base_c32k.graded.jsonl.gz",
+      "value": 8129
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.fin.ntok",
+      "src": "BB_qwen35_0p8b_base_c32k.graded.jsonl.gz",
+      "value": 3672453
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.fin.n",
+      "src": "BB_qwen35_0p8b_base_c32k.graded.jsonl.gz (finished responses)",
+      "value": 721
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.fin.freq2",
+      "src": "BB_qwen35_0p8b_base_c32k.graded.jsonl.gz",
+      "value": 2.21
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.fin.freq4",
+      "src": "BB_qwen35_0p8b_base_c32k.graded.jsonl.gz",
+      "value": 2.2135
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.fin.freq4.lo",
+      "src": "BB_qwen35_0p8b_base_c32k.graded.jsonl.gz",
+      "value": 2.1656
+    },
+    {
+      "key": "h1.bb_qwen35_0p8b_base.final.fin.freq4.hi",
+      "src": "BB_qwen35_0p8b_base_c32k.graded.jsonl.gz",
+      "value": 2.2622
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.nwait",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json",
+      "value": 4142
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.ntok",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json",
+      "value": 4793934
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json",
+      "value": 0.86
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json",
+      "value": 0.864
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json; exact Poisson 95%",
+      "value": 0.8379
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b/gen_cap32k/BB_qwen35_2b_c32k.idx.json; exact Poisson 95%",
+      "value": 0.8907
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.fin.nwait",
+      "src": "BB_qwen35_2b_c32k.graded.jsonl.gz",
+      "value": 1157
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.fin.ntok",
+      "src": "BB_qwen35_2b_c32k.graded.jsonl.gz",
+      "value": 1615438
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.fin.n",
+      "src": "BB_qwen35_2b_c32k.graded.jsonl.gz (finished responses)",
+      "value": 703
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.fin.freq2",
+      "src": "BB_qwen35_2b_c32k.graded.jsonl.gz",
+      "value": 0.72
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.fin.freq4",
+      "src": "BB_qwen35_2b_c32k.graded.jsonl.gz",
+      "value": 0.7162
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.fin.freq4.lo",
+      "src": "BB_qwen35_2b_c32k.graded.jsonl.gz",
+      "value": 0.6755
+    },
+    {
+      "key": "h1.bb_qwen35_2b.final.fin.freq4.hi",
+      "src": "BB_qwen35_2b_c32k.graded.jsonl.gz",
+      "value": 0.7587
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json",
+      "value": 5172
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json",
+      "value": 3961151
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json",
+      "value": 1.31
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json",
+      "value": 1.3057
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json; exact Poisson 95%",
+      "value": 1.2703
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_2b_base/gen_cap32k/BB_qwen35_2b_base_c32k.idx.json; exact Poisson 95%",
+      "value": 1.3418
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.fin.nwait",
+      "src": "BB_qwen35_2b_base_c32k.graded.jsonl.gz",
+      "value": 3139
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.fin.ntok",
+      "src": "BB_qwen35_2b_base_c32k.graded.jsonl.gz",
+      "value": 2257215
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.fin.n",
+      "src": "BB_qwen35_2b_base_c32k.graded.jsonl.gz (finished responses)",
+      "value": 748
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.fin.freq2",
+      "src": "BB_qwen35_2b_base_c32k.graded.jsonl.gz",
+      "value": 1.39
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.fin.freq4",
+      "src": "BB_qwen35_2b_base_c32k.graded.jsonl.gz",
+      "value": 1.3907
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.fin.freq4.lo",
+      "src": "BB_qwen35_2b_base_c32k.graded.jsonl.gz",
+      "value": 1.3424
+    },
+    {
+      "key": "h1.bb_qwen35_2b_base.final.fin.freq4.hi",
+      "src": "BB_qwen35_2b_base_c32k.graded.jsonl.gz",
+      "value": 1.4402
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.nwait",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json",
+      "value": 45154
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.ntok",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json",
+      "value": 11829051
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json",
+      "value": 3.82
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json",
+      "value": 3.8172
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json; exact Poisson 95%",
+      "value": 3.7821
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b/gen_cap32k/BB_qwen35_4b_c32k.idx.json; exact Poisson 95%",
+      "value": 3.8526
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.fin.nwait",
+      "src": "BB_qwen35_4b_c32k.graded.jsonl.gz",
+      "value": 9384
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.fin.ntok",
+      "src": "BB_qwen35_4b_c32k.graded.jsonl.gz",
+      "value": 5570363
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.fin.n",
+      "src": "BB_qwen35_4b_c32k.graded.jsonl.gz (finished responses)",
+      "value": 609
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.fin.freq2",
+      "src": "BB_qwen35_4b_c32k.graded.jsonl.gz",
+      "value": 1.68
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.fin.freq4",
+      "src": "BB_qwen35_4b_c32k.graded.jsonl.gz",
+      "value": 1.6846
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.fin.freq4.lo",
+      "src": "BB_qwen35_4b_c32k.graded.jsonl.gz",
+      "value": 1.6507
+    },
+    {
+      "key": "h1.bb_qwen35_4b.final.fin.freq4.hi",
+      "src": "BB_qwen35_4b_c32k.graded.jsonl.gz",
+      "value": 1.7191
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.nwait",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json",
+      "value": 29890
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.ntok",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json",
+      "value": 10169087
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json",
+      "value": 2.94
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json",
+      "value": 2.9393
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json; exact Poisson 95%",
+      "value": 2.9061
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b/gen_cap32k/BB_qwen35_9b_c32k.idx.json; exact Poisson 95%",
+      "value": 2.9728
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.fin.nwait",
+      "src": "BB_qwen35_9b_c32k.graded.jsonl.gz",
+      "value": 8336
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.fin.ntok",
+      "src": "BB_qwen35_9b_c32k.graded.jsonl.gz",
+      "value": 5810943
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.fin.n",
+      "src": "BB_qwen35_9b_c32k.graded.jsonl.gz (finished responses)",
+      "value": 667
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.fin.freq2",
+      "src": "BB_qwen35_9b_c32k.graded.jsonl.gz",
+      "value": 1.43
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.fin.freq4",
+      "src": "BB_qwen35_9b_c32k.graded.jsonl.gz",
+      "value": 1.4345
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.fin.freq4.lo",
+      "src": "BB_qwen35_9b_c32k.graded.jsonl.gz",
+      "value": 1.4039
+    },
+    {
+      "key": "h1.bb_qwen35_9b.final.fin.freq4.hi",
+      "src": "BB_qwen35_9b_c32k.graded.jsonl.gz",
+      "value": 1.4657
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json",
+      "value": 2211
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json",
+      "value": 1917239
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json",
+      "value": 1.15
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json",
+      "value": 1.1532
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json; exact Poisson 95%",
+      "value": 1.1056
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_4b_base/gen_cap32k/BB_qwen35_4b_base_c32k.idx.json; exact Poisson 95%",
+      "value": 1.2023
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.fin.nwait",
+      "src": "BB_qwen35_4b_base_c32k.graded.jsonl.gz",
+      "value": 1988
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.fin.ntok",
+      "src": "BB_qwen35_4b_base_c32k.graded.jsonl.gz",
+      "value": 1687863
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.fin.n",
+      "src": "BB_qwen35_4b_base_c32k.graded.jsonl.gz (finished responses)",
+      "value": 793
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.fin.freq2",
+      "src": "BB_qwen35_4b_base_c32k.graded.jsonl.gz",
+      "value": 1.18
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.fin.freq4",
+      "src": "BB_qwen35_4b_base_c32k.graded.jsonl.gz",
+      "value": 1.1778
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.fin.freq4.lo",
+      "src": "BB_qwen35_4b_base_c32k.graded.jsonl.gz",
+      "value": 1.1266
+    },
+    {
+      "key": "h1.bb_qwen35_4b_base.final.fin.freq4.hi",
+      "src": "BB_qwen35_4b_base_c32k.graded.jsonl.gz",
+      "value": 1.2308
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json",
+      "value": 1830
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json",
+      "value": 1957542
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json",
+      "value": 0.93
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json",
+      "value": 0.9348
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json; exact Poisson 95%",
+      "value": 0.8925
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen35_9b_base/gen_cap32k/BB_qwen35_9b_base_c32k.idx.json; exact Poisson 95%",
+      "value": 0.9787
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.fin.nwait",
+      "src": "BB_qwen35_9b_base_c32k.graded.jsonl.gz",
+      "value": 1613
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.fin.ntok",
+      "src": "BB_qwen35_9b_base_c32k.graded.jsonl.gz",
+      "value": 1662630
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.fin.n",
+      "src": "BB_qwen35_9b_base_c32k.graded.jsonl.gz (finished responses)",
+      "value": 791
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.fin.freq2",
+      "src": "BB_qwen35_9b_base_c32k.graded.jsonl.gz",
+      "value": 0.97
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.fin.freq4",
+      "src": "BB_qwen35_9b_base_c32k.graded.jsonl.gz",
+      "value": 0.9701
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.fin.freq4.lo",
+      "src": "BB_qwen35_9b_base_c32k.graded.jsonl.gz",
+      "value": 0.9234
+    },
+    {
+      "key": "h1.bb_qwen35_9b_base.final.fin.freq4.hi",
+      "src": "BB_qwen35_9b_base_c32k.graded.jsonl.gz",
+      "value": 1.0187
+    }
+  ]
+}

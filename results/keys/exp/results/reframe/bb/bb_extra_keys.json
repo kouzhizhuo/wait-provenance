@@ -1,0 +1,1104 @@
+{
+  "entries": [
+    {
+      "key": "h1.bb_qwen7b.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen7b/idx/math500.json::totals (wait:n=2, tokens=510728)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen7b.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen7b/idx/math500.json::totals (wait:n=2, tokens=510728)",
+      "value": 0.0039
+    },
+    {
+      "key": "h1.bb_qwen7b.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen7b/idx/math500.json::totals (wait:n=2, tokens=510728); exact Poisson 95%",
+      "value": 0.0005
+    },
+    {
+      "key": "h1.bb_qwen7b.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen7b/idx/math500.json::totals (wait:n=2, tokens=510728); exact Poisson 95%",
+      "value": 0.0141
+    },
+    {
+      "key": "h1.bb_orn7.final.freq2",
+      "src": "exp/results/scale/bb/BB_orn7/idx/math500.json::totals (wait:n=65, tokens=3810195)",
+      "value": 0.02
+    },
+    {
+      "key": "h1.bb_orn7.final.freq4",
+      "src": "exp/results/scale/bb/BB_orn7/idx/math500.json::totals (wait:n=65, tokens=3810195)",
+      "value": 0.0171
+    },
+    {
+      "key": "h1.bb_orn7.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_orn7/idx/math500.json::totals (wait:n=65, tokens=3810195); exact Poisson 95%",
+      "value": 0.0132
+    },
+    {
+      "key": "h1.bb_orn7.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_orn7/idx/math500.json::totals (wait:n=65, tokens=3810195); exact Poisson 95%",
+      "value": 0.0217
+    },
+    {
+      "key": "h1.bb_r1d7.final.freq2",
+      "src": "exp/results/scale/bb/BB_r1d7/idx/math500.json::totals (wait:n=10079, tokens=2640736)",
+      "value": 3.82
+    },
+    {
+      "key": "h1.bb_r1d7.final.freq4",
+      "src": "exp/results/scale/bb/BB_r1d7/idx/math500.json::totals (wait:n=10079, tokens=2640736)",
+      "value": 3.8167
+    },
+    {
+      "key": "h1.bb_r1d7.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_r1d7/idx/math500.json::totals (wait:n=10079, tokens=2640736); exact Poisson 95%",
+      "value": 3.7426
+    },
+    {
+      "key": "h1.bb_r1d7.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_r1d7/idx/math500.json::totals (wait:n=10079, tokens=2640736); exact Poisson 95%",
+      "value": 3.892
+    },
+    {
+      "key": "h1.bb_acer.final.freq2",
+      "src": "exp/results/scale/bb/BB_acer/idx/math500.json::totals (wait:n=10308, tokens=3092812)",
+      "value": 3.33
+    },
+    {
+      "key": "h1.bb_acer.final.freq4",
+      "src": "exp/results/scale/bb/BB_acer/idx/math500.json::totals (wait:n=10308, tokens=3092812)",
+      "value": 3.3329
+    },
+    {
+      "key": "h1.bb_acer.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_acer/idx/math500.json::totals (wait:n=10308, tokens=3092812); exact Poisson 95%",
+      "value": 3.2689
+    },
+    {
+      "key": "h1.bb_acer.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_acer/idx/math500.json::totals (wait:n=10308, tokens=3092812); exact Poisson 95%",
+      "value": 3.3979
+    },
+    {
+      "key": "h1.bb_qwen7i.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen7i/idx/math500.json::totals (wait:n=0, tokens=475341)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen7i.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen7i/idx/math500.json::totals (wait:n=0, tokens=475341)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen7i.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen7i/idx/math500.json::totals (wait:n=0, tokens=475341); exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen7i.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen7i/idx/math500.json::totals (wait:n=0, tokens=475341); exact Poisson 95%",
+      "value": 0.0078
+    },
+    {
+      "key": "h1.bb_openthinker7.final.freq2",
+      "src": "exp/results/scale/bb/BB_openthinker7/idx/math500.json::totals (wait:n=11406, tokens=2812922)",
+      "value": 4.05
+    },
+    {
+      "key": "h1.bb_openthinker7.final.freq4",
+      "src": "exp/results/scale/bb/BB_openthinker7/idx/math500.json::totals (wait:n=11406, tokens=2812922)",
+      "value": 4.0549
+    },
+    {
+      "key": "h1.bb_openthinker7.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_openthinker7/idx/math500.json::totals (wait:n=11406, tokens=2812922); exact Poisson 95%",
+      "value": 3.9808
+    },
+    {
+      "key": "h1.bb_openthinker7.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_openthinker7/idx/math500.json::totals (wait:n=11406, tokens=2812922); exact Poisson 95%",
+      "value": 4.13
+    },
+    {
+      "key": "h1.bb_bespoke7.final.freq2",
+      "src": "exp/results/scale/bb/BB_bespoke7/idx/math500.json::totals (wait:n=6515, tokens=2044875)",
+      "value": 3.19
+    },
+    {
+      "key": "h1.bb_bespoke7.final.freq4",
+      "src": "exp/results/scale/bb/BB_bespoke7/idx/math500.json::totals (wait:n=6515, tokens=2044875)",
+      "value": 3.186
+    },
+    {
+      "key": "h1.bb_bespoke7.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_bespoke7/idx/math500.json::totals (wait:n=6515, tokens=2044875); exact Poisson 95%",
+      "value": 3.1091
+    },
+    {
+      "key": "h1.bb_bespoke7.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_bespoke7/idx/math500.json::totals (wait:n=6515, tokens=2044875); exact Poisson 95%",
+      "value": 3.2643
+    },
+    {
+      "key": "h1.bb_mimo_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_mimo_base/idx/math500.json::totals (wait:n=10867, tokens=2195741)",
+      "value": 4.95
+    },
+    {
+      "key": "h1.bb_mimo_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_mimo_base/idx/math500.json::totals (wait:n=10867, tokens=2195741)",
+      "value": 4.9491
+    },
+    {
+      "key": "h1.bb_mimo_base.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_mimo_base/idx/math500.json::totals (wait:n=10867, tokens=2195741); exact Poisson 95%",
+      "value": 4.8565
+    },
+    {
+      "key": "h1.bb_mimo_base.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_mimo_base/idx/math500.json::totals (wait:n=10867, tokens=2195741); exact Poisson 95%",
+      "value": 5.0431
+    },
+    {
+      "key": "h1.bb_mimo_rlzero.final.freq2",
+      "src": "exp/results/scale/bb/BB_mimo_rlzero/idx/math500.json::totals (wait:n=22609, tokens=3415132)",
+      "value": 6.62
+    },
+    {
+      "key": "h1.bb_mimo_rlzero.final.freq4",
+      "src": "exp/results/scale/bb/BB_mimo_rlzero/idx/math500.json::totals (wait:n=22609, tokens=3415132)",
+      "value": 6.6202
+    },
+    {
+      "key": "h1.bb_mimo_rlzero.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_mimo_rlzero/idx/math500.json::totals (wait:n=22609, tokens=3415132); exact Poisson 95%",
+      "value": 6.5342
+    },
+    {
+      "key": "h1.bb_mimo_rlzero.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_mimo_rlzero/idx/math500.json::totals (wait:n=22609, tokens=3415132); exact Poisson 95%",
+      "value": 6.7071
+    },
+    {
+      "key": "h1.bb_mimo_sft.final.freq2",
+      "src": "exp/results/scale/bb/BB_mimo_sft/idx/math500.json::totals (wait:n=10040, tokens=2664568)",
+      "value": 3.77
+    },
+    {
+      "key": "h1.bb_mimo_sft.final.freq4",
+      "src": "exp/results/scale/bb/BB_mimo_sft/idx/math500.json::totals (wait:n=10040, tokens=2664568)",
+      "value": 3.768
+    },
+    {
+      "key": "h1.bb_mimo_sft.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_mimo_sft/idx/math500.json::totals (wait:n=10040, tokens=2664568); exact Poisson 95%",
+      "value": 3.6946
+    },
+    {
+      "key": "h1.bb_mimo_sft.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_mimo_sft/idx/math500.json::totals (wait:n=10040, tokens=2664568); exact Poisson 95%",
+      "value": 3.8424
+    },
+    {
+      "key": "h1.bb_mimo_rl.final.freq2",
+      "src": "exp/results/scale/bb/BB_mimo_rl/idx/math500.json::totals (wait:n=20487, tokens=3079797)",
+      "value": 6.65
+    },
+    {
+      "key": "h1.bb_mimo_rl.final.freq4",
+      "src": "exp/results/scale/bb/BB_mimo_rl/idx/math500.json::totals (wait:n=20487, tokens=3079797)",
+      "value": 6.6521
+    },
+    {
+      "key": "h1.bb_mimo_rl.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_mimo_rl/idx/math500.json::totals (wait:n=20487, tokens=3079797); exact Poisson 95%",
+      "value": 6.5613
+    },
+    {
+      "key": "h1.bb_mimo_rl.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_mimo_rl/idx/math500.json::totals (wait:n=20487, tokens=3079797); exact Poisson 95%",
+      "value": 6.7438
+    },
+    {
+      "key": "h1.bb_glm4.final.freq2",
+      "src": "exp/results/scale/bb/BB_glm4/idx/math500.json::totals (wait:n=10, tokens=1147525)",
+      "value": 0.01
+    },
+    {
+      "key": "h1.bb_glm4.final.freq4",
+      "src": "exp/results/scale/bb/BB_glm4/idx/math500.json::totals (wait:n=10, tokens=1147525)",
+      "value": 0.0087
+    },
+    {
+      "key": "h1.bb_glm4.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_glm4/idx/math500.json::totals (wait:n=10, tokens=1147525); exact Poisson 95%",
+      "value": 0.0042
+    },
+    {
+      "key": "h1.bb_glm4.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_glm4/idx/math500.json::totals (wait:n=10, tokens=1147525); exact Poisson 95%",
+      "value": 0.016
+    },
+    {
+      "key": "h1.bb_glmz1.final.freq2",
+      "src": "exp/results/scale/bb/BB_glmz1/idx/math500.json::totals (wait:n=7968, tokens=2340674)",
+      "value": 3.4
+    },
+    {
+      "key": "h1.bb_glmz1.final.freq4",
+      "src": "exp/results/scale/bb/BB_glmz1/idx/math500.json::totals (wait:n=7968, tokens=2340674)",
+      "value": 3.4041
+    },
+    {
+      "key": "h1.bb_glmz1.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_glmz1/idx/math500.json::totals (wait:n=7968, tokens=2340674); exact Poisson 95%",
+      "value": 3.3298
+    },
+    {
+      "key": "h1.bb_glmz1.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_glmz1/idx/math500.json::totals (wait:n=7968, tokens=2340674); exact Poisson 95%",
+      "value": 3.4797
+    },
+    {
+      "key": "h1.bb_qwen14b.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen14b/idx/math500.json::totals (wait:n=3, tokens=490144)",
+      "value": 0.01
+    },
+    {
+      "key": "h1.bb_qwen14b.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen14b/idx/math500.json::totals (wait:n=3, tokens=490144)",
+      "value": 0.0061
+    },
+    {
+      "key": "h1.bb_qwen14b.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen14b/idx/math500.json::totals (wait:n=3, tokens=490144); exact Poisson 95%",
+      "value": 0.0013
+    },
+    {
+      "key": "h1.bb_qwen14b.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen14b/idx/math500.json::totals (wait:n=3, tokens=490144); exact Poisson 95%",
+      "value": 0.0179
+    },
+    {
+      "key": "h1.bb_r1d14.final.freq2",
+      "src": "exp/results/scale/bb/BB_r1d14/idx/math500.json::totals (wait:n=9749, tokens=2583982)",
+      "value": 3.77
+    },
+    {
+      "key": "h1.bb_r1d14.final.freq4",
+      "src": "exp/results/scale/bb/BB_r1d14/idx/math500.json::totals (wait:n=9749, tokens=2583982)",
+      "value": 3.7729
+    },
+    {
+      "key": "h1.bb_r1d14.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_r1d14/idx/math500.json::totals (wait:n=9749, tokens=2583982); exact Poisson 95%",
+      "value": 3.6983
+    },
+    {
+      "key": "h1.bb_r1d14.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_r1d14/idx/math500.json::totals (wait:n=9749, tokens=2583982); exact Poisson 95%",
+      "value": 3.8485
+    },
+    {
+      "key": "h1.bb_light14.final.freq2",
+      "src": "exp/results/scale/bb/BB_light14/idx/math500.json::totals (wait:n=11714, tokens=2923892)",
+      "value": 4.01
+    },
+    {
+      "key": "h1.bb_light14.final.freq4",
+      "src": "exp/results/scale/bb/BB_light14/idx/math500.json::totals (wait:n=11714, tokens=2923892)",
+      "value": 4.0063
+    },
+    {
+      "key": "h1.bb_light14.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_light14/idx/math500.json::totals (wait:n=11714, tokens=2923892); exact Poisson 95%",
+      "value": 3.9341
+    },
+    {
+      "key": "h1.bb_light14.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_light14/idx/math500.json::totals (wait:n=11714, tokens=2923892); exact Poisson 95%",
+      "value": 4.0795
+    },
+    {
+      "key": "h1.bb_r1d1p5b.final.freq2",
+      "src": "exp/results/scale/bb/BB_r1d1p5b/idx/math500.json::totals (wait:n=14843, tokens=2947619)",
+      "value": 5.04
+    },
+    {
+      "key": "h1.bb_r1d1p5b.final.freq4",
+      "src": "exp/results/scale/bb/BB_r1d1p5b/idx/math500.json::totals (wait:n=14843, tokens=2947619)",
+      "value": 5.0356
+    },
+    {
+      "key": "h1.bb_r1d1p5b.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_r1d1p5b/idx/math500.json::totals (wait:n=14843, tokens=2947619); exact Poisson 95%",
+      "value": 4.9549
+    },
+    {
+      "key": "h1.bb_r1d1p5b.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_r1d1p5b/idx/math500.json::totals (wait:n=14843, tokens=2947619); exact Poisson 95%",
+      "value": 5.1173
+    },
+    {
+      "key": "h1.bb_deepscaler.final.freq2",
+      "src": "exp/results/scale/bb/BB_deepscaler/idx/math500.json::totals (wait:n=9618, tokens=2317029)",
+      "value": 4.15
+    },
+    {
+      "key": "h1.bb_deepscaler.final.freq4",
+      "src": "exp/results/scale/bb/BB_deepscaler/idx/math500.json::totals (wait:n=9618, tokens=2317029)",
+      "value": 4.151
+    },
+    {
+      "key": "h1.bb_deepscaler.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_deepscaler/idx/math500.json::totals (wait:n=9618, tokens=2317029); exact Poisson 95%",
+      "value": 4.0685
+    },
+    {
+      "key": "h1.bb_deepscaler.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_deepscaler/idx/math500.json::totals (wait:n=9618, tokens=2317029); exact Poisson 95%",
+      "value": 4.2348
+    },
+    {
+      "key": "h1.bb_gr3_14m.final.freq2",
+      "src": "exp/results/scale/bb/BB_gr3_14m/idx/math500.json::totals (wait:n=59, tokens=740765)",
+      "value": 0.08
+    },
+    {
+      "key": "h1.bb_gr3_14m.final.freq4",
+      "src": "exp/results/scale/bb/BB_gr3_14m/idx/math500.json::totals (wait:n=59, tokens=740765)",
+      "value": 0.0796
+    },
+    {
+      "key": "h1.bb_gr3_14m.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_gr3_14m/idx/math500.json::totals (wait:n=59, tokens=740765); exact Poisson 95%",
+      "value": 0.0606
+    },
+    {
+      "key": "h1.bb_gr3_14m.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_gr3_14m/idx/math500.json::totals (wait:n=59, tokens=740765); exact Poisson 95%",
+      "value": 0.1027
+    },
+    {
+      "key": "h1.bb_qwen3_1p7_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen3_1p7_base/idx/math500.json::totals (wait:n=3, tokens=604950)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen3_1p7_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen3_1p7_base/idx/math500.json::totals (wait:n=3, tokens=604950)",
+      "value": 0.005
+    },
+    {
+      "key": "h1.bb_qwen3_1p7_base.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen3_1p7_base/idx/math500.json::totals (wait:n=3, tokens=604950); exact Poisson 95%",
+      "value": 0.001
+    },
+    {
+      "key": "h1.bb_qwen3_1p7_base.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen3_1p7_base/idx/math500.json::totals (wait:n=3, tokens=604950); exact Poisson 95%",
+      "value": 0.0145
+    },
+    {
+      "key": "h1.bb_qwen3_1p7.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen3_1p7/idx/math500.json::totals (wait:n=13787, tokens=3428653)",
+      "value": 4.02
+    },
+    {
+      "key": "h1.bb_qwen3_1p7.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen3_1p7/idx/math500.json::totals (wait:n=13787, tokens=3428653)",
+      "value": 4.0211
+    },
+    {
+      "key": "h1.bb_qwen3_1p7.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen3_1p7/idx/math500.json::totals (wait:n=13787, tokens=3428653); exact Poisson 95%",
+      "value": 3.9543
+    },
+    {
+      "key": "h1.bb_qwen3_1p7.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen3_1p7/idx/math500.json::totals (wait:n=13787, tokens=3428653); exact Poisson 95%",
+      "value": 4.0888
+    },
+    {
+      "key": "h1.bb_qwen3_4b_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen3_4b_base/idx/math500.json::totals (wait:n=3, tokens=562925)",
+      "value": 0.01
+    },
+    {
+      "key": "h1.bb_qwen3_4b_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen3_4b_base/idx/math500.json::totals (wait:n=3, tokens=562925)",
+      "value": 0.0053
+    },
+    {
+      "key": "h1.bb_qwen3_4b_base.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen3_4b_base/idx/math500.json::totals (wait:n=3, tokens=562925); exact Poisson 95%",
+      "value": 0.0011
+    },
+    {
+      "key": "h1.bb_qwen3_4b_base.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen3_4b_base/idx/math500.json::totals (wait:n=3, tokens=562925); exact Poisson 95%",
+      "value": 0.0156
+    },
+    {
+      "key": "h1.bb_qwen3_4b.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen3_4b/idx/math500.json::totals (wait:n=12622, tokens=3431274)",
+      "value": 3.68
+    },
+    {
+      "key": "h1.bb_qwen3_4b.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen3_4b/idx/math500.json::totals (wait:n=12622, tokens=3431274)",
+      "value": 3.6785
+    },
+    {
+      "key": "h1.bb_qwen3_4b.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen3_4b/idx/math500.json::totals (wait:n=12622, tokens=3431274); exact Poisson 95%",
+      "value": 3.6146
+    },
+    {
+      "key": "h1.bb_qwen3_4b.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen3_4b/idx/math500.json::totals (wait:n=12622, tokens=3431274); exact Poisson 95%",
+      "value": 3.7433
+    },
+    {
+      "key": "h1.bb_gr3_4m.final.freq2",
+      "src": "exp/results/scale/bb/BB_gr3_4m/idx/math500.json::totals (wait:n=298, tokens=801344)",
+      "value": 0.37
+    },
+    {
+      "key": "h1.bb_gr3_4m.final.freq4",
+      "src": "exp/results/scale/bb/BB_gr3_4m/idx/math500.json::totals (wait:n=298, tokens=801344)",
+      "value": 0.3719
+    },
+    {
+      "key": "h1.bb_gr3_4m.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_gr3_4m/idx/math500.json::totals (wait:n=298, tokens=801344); exact Poisson 95%",
+      "value": 0.3308
+    },
+    {
+      "key": "h1.bb_gr3_4m.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_gr3_4m/idx/math500.json::totals (wait:n=298, tokens=801344); exact Poisson 95%",
+      "value": 0.4166
+    },
+    {
+      "key": "h1.bb_olmo2_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_olmo2_base/idx/math500.json::totals (wait:n=100, tokens=637990)",
+      "value": 0.16
+    },
+    {
+      "key": "h1.bb_olmo2_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_olmo2_base/idx/math500.json::totals (wait:n=100, tokens=637990)",
+      "value": 0.1567
+    },
+    {
+      "key": "h1.bb_olmo2_base.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_olmo2_base/idx/math500.json::totals (wait:n=100, tokens=637990); exact Poisson 95%",
+      "value": 0.1275
+    },
+    {
+      "key": "h1.bb_olmo2_base.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_olmo2_base/idx/math500.json::totals (wait:n=100, tokens=637990); exact Poisson 95%",
+      "value": 0.1906
+    },
+    {
+      "key": "h1.bb_olmo2_sft.final.freq2",
+      "src": "exp/results/scale/bb/BB_olmo2_sft/idx/math500.json::totals (wait:n=0, tokens=524072)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_olmo2_sft.final.freq4",
+      "src": "exp/results/scale/bb/BB_olmo2_sft/idx/math500.json::totals (wait:n=0, tokens=524072)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_olmo2_sft.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_olmo2_sft/idx/math500.json::totals (wait:n=0, tokens=524072); exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_olmo2_sft.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_olmo2_sft/idx/math500.json::totals (wait:n=0, tokens=524072); exact Poisson 95%",
+      "value": 0.007
+    },
+    {
+      "key": "h1.bb_olmo2_dpo.final.freq2",
+      "src": "exp/results/scale/bb/BB_olmo2_dpo/idx/math500.json::totals (wait:n=0, tokens=561082)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_olmo2_dpo.final.freq4",
+      "src": "exp/results/scale/bb/BB_olmo2_dpo/idx/math500.json::totals (wait:n=0, tokens=561082)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_olmo2_dpo.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_olmo2_dpo/idx/math500.json::totals (wait:n=0, tokens=561082); exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_olmo2_dpo.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_olmo2_dpo/idx/math500.json::totals (wait:n=0, tokens=561082); exact Poisson 95%",
+      "value": 0.0066
+    },
+    {
+      "key": "h1.bb_olmo2_instruct.final.freq2",
+      "src": "exp/results/scale/bb/BB_olmo2_instruct/idx/math500.json::totals (wait:n=0, tokens=518751)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_olmo2_instruct.final.freq4",
+      "src": "exp/results/scale/bb/BB_olmo2_instruct/idx/math500.json::totals (wait:n=0, tokens=518751)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_olmo2_instruct.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_olmo2_instruct/idx/math500.json::totals (wait:n=0, tokens=518751); exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_olmo2_instruct.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_olmo2_instruct/idx/math500.json::totals (wait:n=0, tokens=518751); exact Poisson 95%",
+      "value": 0.0071
+    },
+    {
+      "key": "h1.bb_smollm3_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_smollm3_base/idx/math500.json::totals (wait:n=173, tokens=41363)",
+      "value": 4.18
+    },
+    {
+      "key": "h1.bb_smollm3_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_smollm3_base/idx/math500.json::totals (wait:n=173, tokens=41363)",
+      "value": 4.1825
+    },
+    {
+      "key": "h1.bb_smollm3_base.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_smollm3_base/idx/math500.json::totals (wait:n=173, tokens=41363); exact Poisson 95%",
+      "value": 3.5824
+    },
+    {
+      "key": "h1.bb_smollm3_base.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_smollm3_base/idx/math500.json::totals (wait:n=173, tokens=41363); exact Poisson 95%",
+      "value": 4.8543
+    },
+    {
+      "key": "h1.bb_smollm3.final.freq2",
+      "src": "exp/results/scale/bb/BB_smollm3/idx/math500.json::totals (wait:n=9767, tokens=2493785)",
+      "value": 3.92
+    },
+    {
+      "key": "h1.bb_smollm3.final.freq4",
+      "src": "exp/results/scale/bb/BB_smollm3/idx/math500.json::totals (wait:n=9767, tokens=2493785)",
+      "value": 3.9165
+    },
+    {
+      "key": "h1.bb_smollm3.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_smollm3/idx/math500.json::totals (wait:n=9767, tokens=2493785); exact Poisson 95%",
+      "value": 3.8392
+    },
+    {
+      "key": "h1.bb_smollm3.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_smollm3/idx/math500.json::totals (wait:n=9767, tokens=2493785); exact Poisson 95%",
+      "value": 3.995
+    },
+    {
+      "key": "h1.bb_granite_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_granite_base/idx/math500.json::totals (wait:n=1, tokens=190319)",
+      "value": 0.01
+    },
+    {
+      "key": "h1.bb_granite_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_granite_base/idx/math500.json::totals (wait:n=1, tokens=190319)",
+      "value": 0.0053
+    },
+    {
+      "key": "h1.bb_granite_base.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_granite_base/idx/math500.json::totals (wait:n=1, tokens=190319); exact Poisson 95%",
+      "value": 0.0001
+    },
+    {
+      "key": "h1.bb_granite_base.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_granite_base/idx/math500.json::totals (wait:n=1, tokens=190319); exact Poisson 95%",
+      "value": 0.0293
+    },
+    {
+      "key": "h1.bb_granite_instruct.final.freq2",
+      "src": "exp/results/scale/bb/BB_granite_instruct/idx/math500.json::totals (wait:n=0, tokens=594534)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_granite_instruct.final.freq4",
+      "src": "exp/results/scale/bb/BB_granite_instruct/idx/math500.json::totals (wait:n=0, tokens=594534)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_granite_instruct.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_granite_instruct/idx/math500.json::totals (wait:n=0, tokens=594534); exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_granite_instruct.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_granite_instruct/idx/math500.json::totals (wait:n=0, tokens=594534); exact Poisson 95%",
+      "value": 0.0062
+    },
+    {
+      "key": "h1.bb_qwen38_27b.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen38_27b/idx/math500.json::totals (wait:n=1233, tokens=1354445)",
+      "value": 0.91
+    },
+    {
+      "key": "h1.bb_qwen38_27b.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen38_27b/idx/math500.json::totals (wait:n=1233, tokens=1354445)",
+      "value": 0.9103
+    },
+    {
+      "key": "h1.bb_qwen38_27b.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen38_27b/idx/math500.json::totals (wait:n=1233, tokens=1354445); exact Poisson 95%",
+      "value": 0.8602
+    },
+    {
+      "key": "h1.bb_qwen38_27b.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen38_27b/idx/math500.json::totals (wait:n=1233, tokens=1354445); exact Poisson 95%",
+      "value": 0.9626
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.freq2_t10",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/idx/math500.json::totals (wait:n=7, tokens=730376)",
+      "value": 0.01
+    },
+    {
+      "key": "h1.bb_sz_q05.final.freq2_t10",
+      "src": "exp/results/scale/bb/BB_sz_q05/idx/math500.json::totals (wait:n=1, tokens=561836)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q15_base.final.freq2_t10",
+      "src": "exp/results/scale/bb/BB_sz_q15_base/idx/math500.json::totals (wait:n=11, tokens=1857007)",
+      "value": 0.01
+    },
+    {
+      "key": "h1.bb_sz_q15.final.freq2_t10",
+      "src": "exp/results/scale/bb/BB_sz_q15/idx/math500.json::totals (wait:n=6, tokens=2042171)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.freq2_t10",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/idx/math500.json::totals (wait:n=5, tokens=465875)",
+      "value": 0.01
+    },
+    {
+      "key": "h1.bb_sz_q7.final.freq2_t10",
+      "src": "exp/results/scale/bb/BB_sz_q7/idx/math500.json::totals (wait:n=0, tokens=478376)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq2_t10",
+      "src": "exp/results/scale/bb/BB_orz7b/idx/math500.json::totals (wait:n=0, tokens=1058723)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.freq2_t10",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/idx/math500.json::totals (wait:n=3, tokens=940673)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.freq2_t10",
+      "src": "exp/results/scale/bb/BB_sz_qm7/idx/math500.json::totals (wait:n=0, tokens=573878)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7.final.freq2_t10",
+      "src": "exp/results/scale/bb/BB_oat7/idx/math500.json::totals (wait:n=0, tokens=524225)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.freq2_t10",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/idx/math500.json::totals (wait:n=0, tokens=360603)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.freq2_t10",
+      "src": "exp/results/scale/bb/BB_sz_q14/idx/math500.json::totals (wait:n=0, tokens=474976)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_yi_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_yi_base/idx/math500.json::totals (wait:n=0, tokens=273456)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_yi_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_yi_base/idx/math500.json::totals (wait:n=0, tokens=273456)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_yi_base.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_yi_base/idx/math500.json::totals (wait:n=0, tokens=273456); exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_yi_base.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_yi_base/idx/math500.json::totals (wait:n=0, tokens=273456); exact Poisson 95%",
+      "value": 0.0135
+    },
+    {
+      "key": "h1.bb_yi_chat.final.freq2",
+      "src": "exp/results/scale/bb/BB_yi_chat/idx/math500.json::totals (wait:n=0, tokens=363157)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_yi_chat.final.freq4",
+      "src": "exp/results/scale/bb/BB_yi_chat/idx/math500.json::totals (wait:n=0, tokens=363157)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_yi_chat.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_yi_chat/idx/math500.json::totals (wait:n=0, tokens=363157); exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_yi_chat.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_yi_chat/idx/math500.json::totals (wait:n=0, tokens=363157); exact Poisson 95%",
+      "value": 0.0102
+    },
+    {
+      "key": "h1.s6.dpo.freq2",
+      "src": "exp/results/scale/bb/BB_s6_dpo/idx/math500.json::totals (wait:n=0, tokens=520610)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.dpo.freq4",
+      "src": "exp/results/scale/bb/BB_s6_dpo/idx/math500.json::totals (wait:n=0, tokens=520610)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.dpo.freq4.lo",
+      "src": "exp/results/scale/bb/BB_s6_dpo/idx/math500.json::totals (wait:n=0, tokens=520610); exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.dpo.freq4.hi",
+      "src": "exp/results/scale/bb/BB_s6_dpo/idx/math500.json::totals (wait:n=0, tokens=520610); exact Poisson 95%",
+      "value": 0.0071
+    },
+    {
+      "key": "h1.s6.step0040.freq2",
+      "src": "exp/results/scale/bb/BB_s6_step40/idx/math500.json::totals (wait:n=0, tokens=507051)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.step0040.freq4",
+      "src": "exp/results/scale/bb/BB_s6_step40/idx/math500.json::totals (wait:n=0, tokens=507051)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.step0040.freq4.lo",
+      "src": "exp/results/scale/bb/BB_s6_step40/idx/math500.json::totals (wait:n=0, tokens=507051); exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.step0040.freq4.hi",
+      "src": "exp/results/scale/bb/BB_s6_step40/idx/math500.json::totals (wait:n=0, tokens=507051); exact Poisson 95%",
+      "value": 0.0073
+    },
+    {
+      "key": "h1.s6.step0200.freq2",
+      "src": "exp/results/scale/bb/BB_s6_step200/idx/math500.json::totals (wait:n=0, tokens=520886)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.step0200.freq4",
+      "src": "exp/results/scale/bb/BB_s6_step200/idx/math500.json::totals (wait:n=0, tokens=520886)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.step0200.freq4.lo",
+      "src": "exp/results/scale/bb/BB_s6_step200/idx/math500.json::totals (wait:n=0, tokens=520886); exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.step0200.freq4.hi",
+      "src": "exp/results/scale/bb/BB_s6_step200/idx/math500.json::totals (wait:n=0, tokens=520886); exact Poisson 95%",
+      "value": 0.0071
+    },
+    {
+      "key": "h1.s6.step0600.freq2",
+      "src": "exp/results/scale/bb/BB_s6_step600/idx/math500.json::totals (wait:n=0, tokens=537293)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.step0600.freq4",
+      "src": "exp/results/scale/bb/BB_s6_step600/idx/math500.json::totals (wait:n=0, tokens=537293)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.step0600.freq4.lo",
+      "src": "exp/results/scale/bb/BB_s6_step600/idx/math500.json::totals (wait:n=0, tokens=537293); exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.step0600.freq4.hi",
+      "src": "exp/results/scale/bb/BB_s6_step600/idx/math500.json::totals (wait:n=0, tokens=537293); exact Poisson 95%",
+      "value": 0.0069
+    },
+    {
+      "key": "h1.s6.step1200.freq2",
+      "src": "exp/results/scale/bb/BB_s6_step1200/idx/math500.json::totals (wait:n=1, tokens=519372)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.step1200.freq4",
+      "src": "exp/results/scale/bb/BB_s6_step1200/idx/math500.json::totals (wait:n=1, tokens=519372)",
+      "value": 0.0019
+    },
+    {
+      "key": "h1.s6.step1200.freq4.lo",
+      "src": "exp/results/scale/bb/BB_s6_step1200/idx/math500.json::totals (wait:n=1, tokens=519372); exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.step1200.freq4.hi",
+      "src": "exp/results/scale/bb/BB_s6_step1200/idx/math500.json::totals (wait:n=1, tokens=519372); exact Poisson 95%",
+      "value": 0.0107
+    },
+    {
+      "key": "h1.s6.step1800.freq2",
+      "src": "exp/results/scale/bb/BB_s6_step1800/idx/math500.json::totals (wait:n=0, tokens=568510)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.step1800.freq4",
+      "src": "exp/results/scale/bb/BB_s6_step1800/idx/math500.json::totals (wait:n=0, tokens=568510)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.step1800.freq4.lo",
+      "src": "exp/results/scale/bb/BB_s6_step1800/idx/math500.json::totals (wait:n=0, tokens=568510); exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.step1800.freq4.hi",
+      "src": "exp/results/scale/bb/BB_s6_step1800/idx/math500.json::totals (wait:n=0, tokens=568510); exact Poisson 95%",
+      "value": 0.0065
+    },
+    {
+      "key": "h1.s6.step2440.freq2",
+      "src": "exp/results/scale/bb/BB_s6_step2440/idx/math500.json::totals (wait:n=2, tokens=501313)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s6.step2440.freq4",
+      "src": "exp/results/scale/bb/BB_s6_step2440/idx/math500.json::totals (wait:n=2, tokens=501313)",
+      "value": 0.004
+    },
+    {
+      "key": "h1.s6.step2440.freq4.lo",
+      "src": "exp/results/scale/bb/BB_s6_step2440/idx/math500.json::totals (wait:n=2, tokens=501313); exact Poisson 95%",
+      "value": 0.0005
+    },
+    {
+      "key": "h1.s6.step2440.freq4.hi",
+      "src": "exp/results/scale/bb/BB_s6_step2440/idx/math500.json::totals (wait:n=2, tokens=501313); exact Poisson 95%",
+      "value": 0.0144
+    },
+    {
+      "key": "h1.bb_orn7.final.open_wait",
+      "src": "exp/results/scale/bb/BB_orn7/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 0.2
+    },
+    {
+      "key": "h1.bb_orn7.final.open_hmm",
+      "src": "exp/results/scale/bb/BB_orn7/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orn7.final.open_but",
+      "src": "exp/results/scale/bb/BB_orn7/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 98.3
+    },
+    {
+      "key": "h1.bb_orn7.final.open_so",
+      "src": "exp/results/scale/bb/BB_orn7/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 107.7
+    },
+    {
+      "key": "h1.bb_orn7.final.open_perhaps",
+      "src": "exp/results/scale/bb/BB_orn7/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 28.1
+    },
+    {
+      "key": "h1.bb_orn7.final.open_alternatively",
+      "src": "exp/results/scale/bb/BB_orn7/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 0.7
+    },
+    {
+      "key": "h1.bb_orn7.final.open_let_me_check",
+      "src": "exp/results/scale/bb/BB_orn7/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 2.5
+    },
+    {
+      "key": "h1.bb_orn7.final.open_nsent",
+      "src": "sentences counted (first sentence of each response excluded)",
+      "value": 161127
+    },
+    {
+      "key": "h1.bb_r1d7.final.open_wait",
+      "src": "exp/results/scale/bb/BB_r1d7/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 69.8
+    },
+    {
+      "key": "h1.bb_r1d7.final.open_hmm",
+      "src": "exp/results/scale/bb/BB_r1d7/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 21.8
+    },
+    {
+      "key": "h1.bb_r1d7.final.open_but",
+      "src": "exp/results/scale/bb/BB_r1d7/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 43.8
+    },
+    {
+      "key": "h1.bb_r1d7.final.open_so",
+      "src": "exp/results/scale/bb/BB_r1d7/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 174.6
+    },
+    {
+      "key": "h1.bb_r1d7.final.open_perhaps",
+      "src": "exp/results/scale/bb/BB_r1d7/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 0.2
+    },
+    {
+      "key": "h1.bb_r1d7.final.open_alternatively",
+      "src": "exp/results/scale/bb/BB_r1d7/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 20.3
+    },
+    {
+      "key": "h1.bb_r1d7.final.open_let_me_check",
+      "src": "exp/results/scale/bb/BB_r1d7/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 5.2
+    },
+    {
+      "key": "h1.bb_r1d7.final.open_nsent",
+      "src": "sentences counted (first sentence of each response excluded)",
+      "value": 130204
+    },
+    {
+      "key": "h1.bb_mimo_base.final.open_wait",
+      "src": "exp/results/scale/bb/BB_mimo_base/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 88.6
+    },
+    {
+      "key": "h1.bb_mimo_base.final.open_hmm",
+      "src": "exp/results/scale/bb/BB_mimo_base/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 12.6
+    },
+    {
+      "key": "h1.bb_mimo_base.final.open_but",
+      "src": "exp/results/scale/bb/BB_mimo_base/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 61.0
+    },
+    {
+      "key": "h1.bb_mimo_base.final.open_so",
+      "src": "exp/results/scale/bb/BB_mimo_base/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 130.0
+    },
+    {
+      "key": "h1.bb_mimo_base.final.open_perhaps",
+      "src": "exp/results/scale/bb/BB_mimo_base/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 0.3
+    },
+    {
+      "key": "h1.bb_mimo_base.final.open_alternatively",
+      "src": "exp/results/scale/bb/BB_mimo_base/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 24.8
+    },
+    {
+      "key": "h1.bb_mimo_base.final.open_let_me_check",
+      "src": "exp/results/scale/bb/BB_mimo_base/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 9.4
+    },
+    {
+      "key": "h1.bb_mimo_base.final.open_nsent",
+      "src": "sentences counted (first sentence of each response excluded)",
+      "value": 112044
+    },
+    {
+      "key": "h1.bb_smollm3_base.final.open_wait",
+      "src": "exp/results/scale/bb/BB_smollm3_base/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 66.3
+    },
+    {
+      "key": "h1.bb_smollm3_base.final.open_hmm",
+      "src": "exp/results/scale/bb/BB_smollm3_base/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 9.0
+    },
+    {
+      "key": "h1.bb_smollm3_base.final.open_but",
+      "src": "exp/results/scale/bb/BB_smollm3_base/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 56.4
+    },
+    {
+      "key": "h1.bb_smollm3_base.final.open_so",
+      "src": "exp/results/scale/bb/BB_smollm3_base/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 124.0
+    },
+    {
+      "key": "h1.bb_smollm3_base.final.open_perhaps",
+      "src": "exp/results/scale/bb/BB_smollm3_base/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 0.5
+    },
+    {
+      "key": "h1.bb_smollm3_base.final.open_alternatively",
+      "src": "exp/results/scale/bb/BB_smollm3_base/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 3.6
+    },
+    {
+      "key": "h1.bb_smollm3_base.final.open_let_me_check",
+      "src": "exp/results/scale/bb/BB_smollm3_base/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 8.6
+    },
+    {
+      "key": "h1.bb_smollm3_base.final.open_nsent",
+      "src": "sentences counted (first sentence of each response excluded)",
+      "value": 2218
+    },
+    {
+      "key": "h1.bb_qwen7b.final.open_wait",
+      "src": "exp/results/scale/bb/BB_qwen7b/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 0.1
+    },
+    {
+      "key": "h1.bb_qwen7b.final.open_hmm",
+      "src": "exp/results/scale/bb/BB_qwen7b/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen7b.final.open_but",
+      "src": "exp/results/scale/bb/BB_qwen7b/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 0.9
+    },
+    {
+      "key": "h1.bb_qwen7b.final.open_so",
+      "src": "exp/results/scale/bb/BB_qwen7b/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 17.9
+    },
+    {
+      "key": "h1.bb_qwen7b.final.open_perhaps",
+      "src": "exp/results/scale/bb/BB_qwen7b/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen7b.final.open_alternatively",
+      "src": "exp/results/scale/bb/BB_qwen7b/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 0.1
+    },
+    {
+      "key": "h1.bb_qwen7b.final.open_let_me_check",
+      "src": "exp/results/scale/bb/BB_qwen7b/gen (sentence-initial form per 1k sentences, first sentence excluded)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_qwen7b.final.open_nsent",
+      "src": "sentences counted (first sentence of each response excluded)",
+      "value": 24563
+    }
+  ]
+}

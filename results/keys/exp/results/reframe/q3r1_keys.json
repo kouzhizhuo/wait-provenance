@@ -1,0 +1,224 @@
+{
+  "entries": [
+    {
+      "key": "h1.bb_q3r1_base.base.nwait",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 26
+    },
+    {
+      "key": "h1.bb_q3r1_base.base.ntok",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 1248938
+    },
+    {
+      "key": "h1.bb_q3r1_base.base.freq4",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 0.0208
+    },
+    {
+      "key": "h1.bb_q3r1_base.base.freq4.lo",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json; exact Poisson",
+      "value": 0.0136
+    },
+    {
+      "key": "h1.bb_q3r1_base.base.freq4.hi",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json; exact Poisson",
+      "value": 0.0305
+    },
+    {
+      "key": "h1.bb_q3r1_base.base.freq",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0208
+    },
+    {
+      "key": "ctl.bb_q3r1_base.base.acc",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 41.2
+    },
+    {
+      "key": "ctl.bb_q3r1_base.base.trunc",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json (finish=length share; cap 3,072)",
+      "value": 5.4
+    },
+    {
+      "key": "h1.bb_q3r1.step0100.nwait",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 96
+    },
+    {
+      "key": "h1.bb_q3r1.step0100.ntok",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 1203964
+    },
+    {
+      "key": "h1.bb_q3r1.step0100.freq4",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 0.0797
+    },
+    {
+      "key": "h1.bb_q3r1.step0100.freq4.lo",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json; exact Poisson",
+      "value": 0.0646
+    },
+    {
+      "key": "h1.bb_q3r1.step0100.freq4.hi",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json; exact Poisson",
+      "value": 0.0974
+    },
+    {
+      "key": "h1.bb_q3r1.step0100.freq",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0797
+    },
+    {
+      "key": "ctl.bb_q3r1.step0100.acc",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 82.3
+    },
+    {
+      "key": "ctl.bb_q3r1.step0100.trunc",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json (finish=length share; cap 3,072)",
+      "value": 3.5
+    },
+    {
+      "key": "h1.bb_q3r1.step0200.nwait",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 101
+    },
+    {
+      "key": "h1.bb_q3r1.step0200.ntok",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 1283488
+    },
+    {
+      "key": "h1.bb_q3r1.step0200.freq4",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 0.0787
+    },
+    {
+      "key": "h1.bb_q3r1.step0200.freq4.lo",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json; exact Poisson",
+      "value": 0.0641
+    },
+    {
+      "key": "h1.bb_q3r1.step0200.freq4.hi",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json; exact Poisson",
+      "value": 0.0956
+    },
+    {
+      "key": "h1.bb_q3r1.step0200.freq",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0787
+    },
+    {
+      "key": "ctl.bb_q3r1.step0200.acc",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 84.4
+    },
+    {
+      "key": "ctl.bb_q3r1.step0200.trunc",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json (finish=length share; cap 3,072)",
+      "value": 4.5
+    },
+    {
+      "key": "h1.bb_q3r1.step0300.nwait",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 66
+    },
+    {
+      "key": "h1.bb_q3r1.step0300.ntok",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 1315232
+    },
+    {
+      "key": "h1.bb_q3r1.step0300.freq4",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 0.0502
+    },
+    {
+      "key": "h1.bb_q3r1.step0300.freq4.lo",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json; exact Poisson",
+      "value": 0.0388
+    },
+    {
+      "key": "h1.bb_q3r1.step0300.freq4.hi",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json; exact Poisson",
+      "value": 0.0638
+    },
+    {
+      "key": "h1.bb_q3r1.step0300.freq",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0502
+    },
+    {
+      "key": "ctl.bb_q3r1.step0300.acc",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 83.8
+    },
+    {
+      "key": "ctl.bb_q3r1.step0300.trunc",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json (finish=length share; cap 3,072)",
+      "value": 6.1
+    },
+    {
+      "key": "h1.bb_q3r1.step0400.nwait",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 35
+    },
+    {
+      "key": "h1.bb_q3r1.step0400.ntok",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 1278265
+    },
+    {
+      "key": "h1.bb_q3r1.step0400.freq4",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 0.0274
+    },
+    {
+      "key": "h1.bb_q3r1.step0400.freq4.lo",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json; exact Poisson",
+      "value": 0.0191
+    },
+    {
+      "key": "h1.bb_q3r1.step0400.freq4.hi",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json; exact Poisson",
+      "value": 0.0381
+    },
+    {
+      "key": "h1.bb_q3r1.step0400.freq",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0274
+    },
+    {
+      "key": "ctl.bb_q3r1.step0400.acc",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json",
+      "value": 84.1
+    },
+    {
+      "key": "ctl.bb_q3r1.step0400.trunc",
+      "src": "exp/rl/results/q3r1/results.tgz::idx/s<step>.json (finish=length share; cap 3,072)",
+      "value": 4.4
+    },
+    {
+      "key": "h1.bb_q3r1.d49.dacc_pts",
+      "src": "step 400 minus base",
+      "value": 42.8
+    },
+    {
+      "key": "h1.bb_q3r1.d49.valid",
+      "src": "acc +>=10 pts and trunc <20% at base and last step",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_q3r1.d49.base_marker_free",
+      "src": "base < 0.05/1k",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_q3r1.d49.coins_wait",
+      "src": "step-400 >= 0.05/1k AND exact lower > base exact upper (D47 rule)",
+      "value": 0
+    }
+  ]
+}

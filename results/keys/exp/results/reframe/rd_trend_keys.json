@@ -1,0 +1,64 @@
+{
+  "entries": [
+    {
+      "key": "h4.s1.trend.rho_rd_op_base",
+      "src": "exp/results/main/S1/insertion_pilot.json::outcomes.judge_revise.base.estimates S1@<ckpt>:RD_next, 8 ckpts",
+      "value": 0.99
+    },
+    {
+      "key": "h4.s1.trend.rho_rd_op_base.p",
+      "src": "exact permutation",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.trend.rho_rd_op_base.n",
+      "src": "number of checkpoints",
+      "value": 8
+    },
+    {
+      "key": "h4.s1.trend.rho_rd_op_late",
+      "src": "exp/results/main/S1/insertion_pilot.json::outcomes.judge_revise.late.estimates S1@<ckpt>:RD_next, 8 ckpts",
+      "value": 0.95
+    },
+    {
+      "key": "h4.s1.trend.rho_rd_op_late.p",
+      "src": "exact permutation",
+      "value": 0.001
+    },
+    {
+      "key": "h4.s1.trend.rho_rd_op_late.n",
+      "src": "number of checkpoints",
+      "value": 8
+    },
+    {
+      "key": "h4.s1.trend.rho_rd_op_base_oss",
+      "src": "exp/results/main/S1/insertion_pilot_oss.json::outcomes.judge_revise.base.estimates S1@<ckpt>:RD_next, 8 ckpts",
+      "value": 0.91
+    },
+    {
+      "key": "h4.s1.trend.rho_rd_op_base_oss.p",
+      "src": "exact permutation",
+      "value": 0.003
+    },
+    {
+      "key": "h4.s1.trend.rho_rd_op_base_oss.n",
+      "src": "number of checkpoints",
+      "value": 8
+    },
+    {
+      "key": "h4.s1.trend.rho_rd_op_late_oss",
+      "src": "exp/results/main/S1/insertion_pilot_oss.json::outcomes.judge_revise.late.estimates S1@<ckpt>:RD_next, 8 ckpts",
+      "value": 0.86
+    },
+    {
+      "key": "h4.s1.trend.rho_rd_op_late_oss.p",
+      "src": "exact permutation",
+      "value": 0.011
+    },
+    {
+      "key": "h4.s1.trend.rho_rd_op_late_oss.n",
+      "src": "number of checkpoints",
+      "value": 8
+    }
+  ]
+}

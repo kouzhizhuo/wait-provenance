@@ -1,0 +1,179 @@
+{
+  "entries": [
+    {
+      "key": "h1.prov.base.n",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=pretrained_base]",
+      "value": 41
+    },
+    {
+      "key": "h1.prov.base.n_ge05",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=pretrained_base] (wait per 1k >= 0.5)",
+      "value": 9
+    },
+    {
+      "key": "h1.prov.base.min",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=pretrained_base]",
+      "value": 0.0
+    },
+    {
+      "key": "h1.prov.base.max",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=pretrained_base]",
+      "value": 5.9467
+    },
+    {
+      "key": "h1.prov.zerorl.n",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=zero_rl]",
+      "value": 20
+    },
+    {
+      "key": "h1.prov.zerorl.n_ge05",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=zero_rl] (wait per 1k >= 0.5)",
+      "value": 0
+    },
+    {
+      "key": "h1.prov.zerorl.min",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=zero_rl]",
+      "value": 0.0
+    },
+    {
+      "key": "h1.prov.zerorl.max",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=zero_rl]",
+      "value": 0.2871
+    },
+    {
+      "key": "h1.prov.sft_distill.n",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=reasoning_sft_distill]",
+      "value": 27
+    },
+    {
+      "key": "h1.prov.sft_distill.n_ge05",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=reasoning_sft_distill] (wait per 1k >= 0.5)",
+      "value": 26
+    },
+    {
+      "key": "h1.prov.sft_distill.min",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=reasoning_sft_distill]",
+      "value": 0.0171
+    },
+    {
+      "key": "h1.prov.sft_distill.max",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=reasoning_sft_distill]",
+      "value": 5.1253
+    },
+    {
+      "key": "h1.prov.rl_marker.n",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=rl_on_marker_model]",
+      "value": 10
+    },
+    {
+      "key": "h1.prov.rl_marker.n_ge05",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=rl_on_marker_model] (wait per 1k >= 0.5)",
+      "value": 9
+    },
+    {
+      "key": "h1.prov.rl_marker.min",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=rl_on_marker_model]",
+      "value": 0.0
+    },
+    {
+      "key": "h1.prov.rl_marker.max",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=rl_on_marker_model]",
+      "value": 12.4397
+    },
+    {
+      "key": "h1.prov.undisclosed.n",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=undisclosed]",
+      "value": 5
+    },
+    {
+      "key": "h1.prov.undisclosed.n_ge05",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=undisclosed] (wait per 1k >= 0.5)",
+      "value": 3
+    },
+    {
+      "key": "h1.prov.undisclosed.min",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=undisclosed]",
+      "value": 0.4223
+    },
+    {
+      "key": "h1.prov.undisclosed.max",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=undisclosed]",
+      "value": 1.408
+    },
+    {
+      "key": "h1.prov.instruct.n",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=instruct]",
+      "value": 9
+    },
+    {
+      "key": "h1.prov.instruct.n_ge05",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=instruct] (wait per 1k >= 0.5)",
+      "value": 0
+    },
+    {
+      "key": "h1.prov.instruct.min",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=instruct]",
+      "value": 0.0
+    },
+    {
+      "key": "h1.prov.instruct.max",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=instruct]",
+      "value": 0.0087
+    },
+    {
+      "key": "h1.prov.rl_instruct.n",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=rl_from_instruct]",
+      "value": 8
+    },
+    {
+      "key": "h1.prov.rl_instruct.n_ge05",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=rl_from_instruct] (wait per 1k >= 0.5)",
+      "value": 0
+    },
+    {
+      "key": "h1.prov.rl_instruct.min",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=rl_from_instruct]",
+      "value": 0.0
+    },
+    {
+      "key": "h1.prov.rl_instruct.max",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=rl_from_instruct]",
+      "value": 0.004
+    },
+    {
+      "key": "h1.prov.sft_free.n",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=reasoning_sft_distill].base_wait_per_1k (base from the official card; < 0.05 = marker-free)",
+      "value": 14
+    },
+    {
+      "key": "h1.prov.sft_free.n_ge05",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=reasoning_sft_distill].base_wait_per_1k (base from the official card; < 0.05 = marker-free); own wait per 1k >= 0.5",
+      "value": 13
+    },
+    {
+      "key": "h1.prov.sft_free.n_basemissing",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=reasoning_sft_distill].base_wait_per_1k (base from the official card; < 0.05 = marker-free); base not measured / not released (not in n)",
+      "value": 4
+    },
+    {
+      "key": "h1.prov.sft_marked.n",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=reasoning_sft_distill].base_wait_per_1k (base from the official card; < 0.05 = marker-free)",
+      "value": 9
+    },
+    {
+      "key": "h1.prov.sft_marked.n_ge05",
+      "src": "exp/results/reframe/provenance_map.json::rows[group=reasoning_sft_distill].base_wait_per_1k (base from the official card; < 0.05 = marker-free); own wait per 1k >= 0.5",
+      "value": 9
+    },
+    {
+      "key": "h1.prov.sft_distill.exception_model",
+      "src": "exp/results/reframe/provenance_map.json::rows (the only reasoning_sft_distill row with wait per 1k < 0.5)",
+      "value": "OpenReasoning-Nemotron-7B"
+    },
+    {
+      "key": "h1.prov.n_rows",
+      "src": "provenance_map.json rows (PRELIM)",
+      "value": 120
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "entries": [
+    {
+      "key": "h1.s1.trend.rho_freq.p_holm",
+      "src": "exp/results/main/S1/h1_indices.json::trends (exact permutation p, K=8) Holm-adjusted over ['freq', 'orth', 'hpara', 'rel']",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1.trend.rho_hpara.p_holm",
+      "src": "exp/results/main/S1/h1_indices.json::trends (exact permutation p, K=8) Holm-adjusted over ['freq', 'orth', 'hpara', 'rel']",
+      "value": 0.014
+    },
+    {
+      "key": "h1.s1.trend.rho_rel.p_holm",
+      "src": "exp/results/main/S1/h1_indices.json::trends (exact permutation p, K=8) Holm-adjusted over ['freq', 'orth', 'hpara', 'rel']",
+      "value": 0.034
+    },
+    {
+      "key": "h1.s1.trend.rho_orth.p_holm",
+      "src": "exp/results/main/S1/h1_indices.json::trends (exact permutation p, K=8) Holm-adjusted over ['freq', 'orth', 'hpara', 'rel']",
+      "value": 0.428
+    },
+    {
+      "key": "h1.s1.trend.holm_m",
+      "src": "number of tests in the Holm family (primary set with an exact p)",
+      "value": 4
+    },
+    {
+      "key": "h1.s2.trend.rho_orth.p_holm",
+      "src": "exp/results/main/S2/h1_indices.json::trends (exact permutation p, K=8) Holm-adjusted over ['freq', 'orth', 'hpara', 'rel']",
+      "value": 0.029
+    },
+    {
+      "key": "h1.s2.trend.rho_rel.p_holm",
+      "src": "exp/results/main/S2/h1_indices.json::trends (exact permutation p, K=8) Holm-adjusted over ['freq', 'orth', 'hpara', 'rel']",
+      "value": 0.698
+    },
+    {
+      "key": "h1.s2.trend.rho_hpara.p_holm",
+      "src": "exp/results/main/S2/h1_indices.json::trends (exact permutation p, K=8) Holm-adjusted over ['freq', 'orth', 'hpara', 'rel']",
+      "value": 0.698
+    },
+    {
+      "key": "h1.s2.trend.rho_freq.p_holm",
+      "src": "exp/results/main/S2/h1_indices.json::trends (exact permutation p, K=8) Holm-adjusted over ['freq', 'orth', 'hpara', 'rel']",
+      "value": 0.698
+    },
+    {
+      "key": "h1.s2.trend.holm_m",
+      "src": "number of tests in the Holm family (primary set with an exact p)",
+      "value": 4
+    },
+    {
+      "key": "h1.s9.trend.rho_orth.p_holm",
+      "src": "exp/results/s9/S9/h1_indices.json::trends (exact permutation p, K=7) Holm-adjusted over ['freq', 'orth', 'hpara', 'rel']",
+      "value": 0.265
+    },
+    {
+      "key": "h1.s9.trend.rho_hpara.p_holm",
+      "src": "exp/results/s9/S9/h1_indices.json::trends (exact permutation p, K=7) Holm-adjusted over ['freq', 'orth', 'hpara', 'rel']",
+      "value": 0.265
+    },
+    {
+      "key": "h1.s9.trend.rho_freq.p_holm",
+      "src": "exp/results/s9/S9/h1_indices.json::trends (exact permutation p, K=7) Holm-adjusted over ['freq', 'orth', 'hpara', 'rel']",
+      "value": 0.333
+    },
+    {
+      "key": "h1.s9.trend.rho_rel.p_holm",
+      "src": "exp/results/s9/S9/h1_indices.json::trends (exact permutation p, K=7) Holm-adjusted over ['freq', 'orth', 'hpara', 'rel']",
+      "value": 0.783
+    },
+    {
+      "key": "h1.s9.trend.holm_m",
+      "src": "number of tests in the Holm family (primary set with an exact p)",
+      "value": 4
+    },
+    {
+      "key": "gold.all.ac1bin_human_judge",
+      "src": "exp/gold/human_audit_results.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.79
+    },
+    {
+      "key": "gold.all.ac1bin_human_judge.lo",
+      "src": "exp/gold/human_audit_results.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.63
+    },
+    {
+      "key": "gold.all.ac1bin_human_judge.hi",
+      "src": "exp/gold/human_audit_results.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.9
+    },
+    {
+      "key": "gold.all.ac15_human_judge",
+      "src": "exp/gold/human_audit_results.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.26
+    },
+    {
+      "key": "gold.all.ac15_human_judge.lo",
+      "src": "exp/gold/human_audit_results.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.11
+    },
+    {
+      "key": "gold.all.ac15_human_judge.hi",
+      "src": "exp/gold/human_audit_results.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.42
+    },
+    {
+      "key": "gold.all.ac1bin_human_judge_oss",
+      "src": "exp/gold/human_audit_results_gptoss.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.92
+    },
+    {
+      "key": "gold.all.ac1bin_human_judge_oss.lo",
+      "src": "exp/gold/human_audit_results_gptoss.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.82
+    },
+    {
+      "key": "gold.all.ac1bin_human_judge_oss.hi",
+      "src": "exp/gold/human_audit_results_gptoss.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.98
+    },
+    {
+      "key": "gold.all.ac15_human_judge_oss",
+      "src": "exp/gold/human_audit_results_gptoss.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.53
+    },
+    {
+      "key": "gold.all.ac15_human_judge_oss.lo",
+      "src": "exp/gold/human_audit_results_gptoss.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.37
+    },
+    {
+      "key": "gold.all.ac15_human_judge_oss.hi",
+      "src": "exp/gold/human_audit_results_gptoss.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.67
+    },
+    {
+      "key": "gold.all.ac1bin_human_judge_oss120",
+      "src": "exp/gold/human_audit_results_gptoss120b.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.88
+    },
+    {
+      "key": "gold.all.ac1bin_human_judge_oss120.lo",
+      "src": "exp/gold/human_audit_results_gptoss120b.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.75
+    },
+    {
+      "key": "gold.all.ac1bin_human_judge_oss120.hi",
+      "src": "exp/gold/human_audit_results_gptoss120b.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.96
+    },
+    {
+      "key": "gold.all.ac15_human_judge_oss120",
+      "src": "exp/gold/human_audit_results_gptoss120b.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.55
+    },
+    {
+      "key": "gold.all.ac15_human_judge_oss120.lo",
+      "src": "exp/gold/human_audit_results_gptoss120b.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.4
+    },
+    {
+      "key": "gold.all.ac15_human_judge_oss120.hi",
+      "src": "exp/gold/human_audit_results_gptoss120b.json::confusion_human_vs_judge (n=59), Gwet AC1",
+      "value": 0.69
+    },
+    {
+      "key": "gold.s1.v2_ac1bin_human_judge",
+      "src": "exp/gold/human_audit_v2_results.json::judges.qwen7b.confusion_unweighted (n=40, unweighted 2x2), Gwet AC1",
+      "value": 0.34
+    },
+    {
+      "key": "gold.s1.v2_ac1bin_human_judge.lo",
+      "src": "exp/gold/human_audit_v2_results.json::judges.qwen7b.confusion_unweighted (n=40, unweighted 2x2), Gwet AC1",
+      "value": 0.04
+    },
+    {
+      "key": "gold.s1.v2_ac1bin_human_judge.hi",
+      "src": "exp/gold/human_audit_v2_results.json::judges.qwen7b.confusion_unweighted (n=40, unweighted 2x2), Gwet AC1",
+      "value": 0.63
+    },
+    {
+      "key": "gold.s1.v2_ac1bin_human_judge_oss",
+      "src": "exp/gold/human_audit_v2_results.json::judges.gptoss20b.confusion_unweighted (n=40, unweighted 2x2), Gwet AC1",
+      "value": 0.69
+    },
+    {
+      "key": "gold.s1.v2_ac1bin_human_judge_oss.lo",
+      "src": "exp/gold/human_audit_v2_results.json::judges.gptoss20b.confusion_unweighted (n=40, unweighted 2x2), Gwet AC1",
+      "value": 0.45
+    },
+    {
+      "key": "gold.s1.v2_ac1bin_human_judge_oss.hi",
+      "src": "exp/gold/human_audit_v2_results.json::judges.gptoss20b.confusion_unweighted (n=40, unweighted 2x2), Gwet AC1",
+      "value": 0.88
+    }
+  ]
+}

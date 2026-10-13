@@ -1,0 +1,89 @@
+{
+  "entries": [
+    {
+      "key": "h1.s8base.final.freq4.lo",
+      "src": "exact Poisson 95% CI (chi-square form) on nwait=4 over ntok=444292 (exp/results/reframe/freq_keys.json)",
+      "value": 0.0025
+    },
+    {
+      "key": "h1.s8base.final.freq4.hi",
+      "src": "exact Poisson 95% CI (chi-square form) on nwait=4 over ntok=444292 (exp/results/reframe/freq_keys.json)",
+      "value": 0.0231
+    },
+    {
+      "key": "h1.s8dapo.final.freq4.lo",
+      "src": "exact Poisson 95% CI (chi-square form) on nwait=2 over ntok=1645616 (exp/results/reframe/freq_keys.json)",
+      "value": 0.0001
+    },
+    {
+      "key": "h1.s8dapo.final.freq4.hi",
+      "src": "exact Poisson 95% CI (chi-square form) on nwait=2 over ntok=1645616 (exp/results/reframe/freq_keys.json)",
+      "value": 0.0044
+    },
+    {
+      "key": "h1.s8orz.final.freq4.lo",
+      "src": "exact Poisson 95% CI (chi-square form) on nwait=18 over ntok=3304557 (exp/results/reframe/freq_keys.json)",
+      "value": 0.0032
+    },
+    {
+      "key": "h1.s8orz.final.freq4.hi",
+      "src": "exact Poisson 95% CI (chi-square form) on nwait=18 over ntok=3304557 (exp/results/reframe/freq_keys.json)",
+      "value": 0.0086
+    },
+    {
+      "key": "h1.s7r1.final.freq4.lo",
+      "src": "exact Poisson 95% CI (chi-square form) on nwait=0 over ntok=953700 (exp/results/reframe/freq_keys.json)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.final.freq4.hi",
+      "src": "exact Poisson 95% CI (chi-square form) on nwait=0 over ntok=953700 (exp/results/reframe/freq_keys.json)",
+      "value": 0.0039
+    },
+    {
+      "key": "h1.s7r2.final.freq4.lo",
+      "src": "exact Poisson 95% CI (chi-square form) on nwait=0 over ntok=952936 (exp/results/reframe/freq_keys.json)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.final.freq4.hi",
+      "src": "exact Poisson 95% CI (chi-square form) on nwait=0 over ntok=952936 (exp/results/reframe/freq_keys.json)",
+      "value": 0.0039
+    },
+    {
+      "key": "h1.s7r7b.final.freq4.lo",
+      "src": "exact Poisson 95% CI (chi-square form) on nwait=0 over ntok=967101 (exp/results/reframe/freq_keys.json)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.final.freq4.hi",
+      "src": "exact Poisson 95% CI (chi-square form) on nwait=0 over ntok=967101 (exp/results/reframe/freq_keys.json)",
+      "value": 0.0038
+    },
+    {
+      "key": "h1.s3a.late.freq4.lo",
+      "src": "exact Poisson 95% CI (chi-square form) on nwait=1 over ntok=1168869 (exp/results/reframe/freq_keys.json)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.late.freq4.hi",
+      "src": "exact Poisson 95% CI (chi-square form) on nwait=1 over ntok=1168869 (exp/results/reframe/freq_keys.json)",
+      "value": 0.0048
+    },
+    {
+      "key": "h1.s3a.max.freq4.lo",
+      "src": "exact Poisson 95% CI (chi-square form) on nwait=2 over ntok=1126292 (exp/results/reframe/freq_keys.json)",
+      "value": 0.0002
+    },
+    {
+      "key": "h1.s3a.max.freq4.hi",
+      "src": "exact Poisson 95% CI (chi-square form) on nwait=2 over ntok=1126292 (exp/results/reframe/freq_keys.json)",
+      "value": 0.0064
+    },
+    {
+      "key": "h1.zerorl.upper95_max",
+      "src": "max over the last checkpoints of the 5 zero-RL runs of the exact Poisson 95% upper bound per 1k tokens; attained by s8orz.final",
+      "value": 0.0086
+    }
+  ]
+}

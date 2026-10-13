@@ -1,0 +1,1160 @@
+{
+  "entries": [
+    {
+      "key": "h4.s8base.final.prevval_wait",
+      "src": "valchange::scale.S8_base.wait.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait.lo",
+      "src": "valchange::scale.S8_base.wait.lo",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait.hi",
+      "src": "valchange::scale.S8_base.wait.hi",
+      "value": 8.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_next",
+      "src": "valchange::scale.S8_base.next.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8base.final.prevval_next.lo",
+      "src": "valchange::scale.S8_base.next.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s8base.final.prevval_next.hi",
+      "src": "valchange::scale.S8_base.next.hi",
+      "value": 8.5
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon",
+      "src": "valchange::scale.S8_base.hold_on.est",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon.lo",
+      "src": "valchange::scale.S8_base.hold_on.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon.hi",
+      "src": "valchange::scale.S8_base.hold_on.hi",
+      "value": 7.1
+    },
+    {
+      "key": "h4.s8base.final.prevval_none",
+      "src": "valchange::scale.S8_base.none.est",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s8base.final.prevval_none.lo",
+      "src": "valchange::scale.S8_base.none.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_none.hi",
+      "src": "valchange::scale.S8_base.none.hi",
+      "value": 10.4
+    },
+    {
+      "key": "h4.s8dapo.final.prevval_wait",
+      "src": "valchange::scale.S8_dapo.wait.est",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s8dapo.final.prevval_wait.lo",
+      "src": "valchange::scale.S8_dapo.wait.lo",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s8dapo.final.prevval_wait.hi",
+      "src": "valchange::scale.S8_dapo.wait.hi",
+      "value": 9.0
+    },
+    {
+      "key": "h4.s8dapo.final.prevval_next",
+      "src": "valchange::scale.S8_dapo.next.est",
+      "value": 5.7
+    },
+    {
+      "key": "h4.s8dapo.final.prevval_next.lo",
+      "src": "valchange::scale.S8_dapo.next.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s8dapo.final.prevval_next.hi",
+      "src": "valchange::scale.S8_dapo.next.hi",
+      "value": 12.3
+    },
+    {
+      "key": "h4.s8dapo.final.prevval_holdon",
+      "src": "valchange::scale.S8_dapo.hold_on.est",
+      "value": 3.3
+    },
+    {
+      "key": "h4.s8dapo.final.prevval_holdon.lo",
+      "src": "valchange::scale.S8_dapo.hold_on.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8dapo.final.prevval_holdon.hi",
+      "src": "valchange::scale.S8_dapo.hold_on.hi",
+      "value": 8.0
+    },
+    {
+      "key": "h4.s8dapo.final.prevval_none",
+      "src": "valchange::scale.S8_dapo.none.est",
+      "value": 4.7
+    },
+    {
+      "key": "h4.s8dapo.final.prevval_none.lo",
+      "src": "valchange::scale.S8_dapo.none.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8dapo.final.prevval_none.hi",
+      "src": "valchange::scale.S8_dapo.none.hi",
+      "value": 11.3
+    },
+    {
+      "key": "h4.s8dapo.final.rdval_op",
+      "src": "valchange::scale.S8_dapo.RD_next.est",
+      "value": -1.4
+    },
+    {
+      "key": "h4.s8dapo.final.rdval_op.lo",
+      "src": "valchange::scale.S8_dapo.RD_next.lo",
+      "value": -4.7
+    },
+    {
+      "key": "h4.s8dapo.final.rdval_op.hi",
+      "src": "valchange::scale.S8_dapo.RD_next.hi",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s8dapo.trend.rampval.lo",
+      "src": "valchange::scale.paired vs S8_base.lo",
+      "value": -7.0
+    },
+    {
+      "key": "h4.s8dapo.trend.rampval.hi",
+      "src": "valchange::scale.paired vs S8_base.hi",
+      "value": 2.0
+    },
+    {
+      "key": "h4.s8dapo.trend.dampval",
+      "src": "valchange::scale.paired vs S8_base.est",
+      "value": -1.4
+    },
+    {
+      "key": "h4.s8dapo.trend.dampval.lo",
+      "src": "valchange::scale.paired vs S8_base.lo",
+      "value": -4.7
+    },
+    {
+      "key": "h4.s8dapo.trend.dampval.hi",
+      "src": "valchange::scale.paired vs S8_base.hi",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s8dapo.final.nexcl_val",
+      "src": "valchange::scale.n_excluded",
+      "value": 47
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait",
+      "src": "valchange::scale.S8_base.wait.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait.lo",
+      "src": "valchange::scale.S8_base.wait.lo",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait.hi",
+      "src": "valchange::scale.S8_base.wait.hi",
+      "value": 8.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_next",
+      "src": "valchange::scale.S8_base.next.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8base.final.prevval_next.lo",
+      "src": "valchange::scale.S8_base.next.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s8base.final.prevval_next.hi",
+      "src": "valchange::scale.S8_base.next.hi",
+      "value": 8.5
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon",
+      "src": "valchange::scale.S8_base.hold_on.est",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon.lo",
+      "src": "valchange::scale.S8_base.hold_on.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon.hi",
+      "src": "valchange::scale.S8_base.hold_on.hi",
+      "value": 7.1
+    },
+    {
+      "key": "h4.s8base.final.prevval_none",
+      "src": "valchange::scale.S8_base.none.est",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s8base.final.prevval_none.lo",
+      "src": "valchange::scale.S8_base.none.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_none.hi",
+      "src": "valchange::scale.S8_base.none.hi",
+      "value": 10.4
+    },
+    {
+      "key": "h4.s8qwq.final.prevval_wait",
+      "src": "valchange::scale.S8_qwq.wait.est",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s8qwq.final.prevval_wait.lo",
+      "src": "valchange::scale.S8_qwq.wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8qwq.final.prevval_wait.hi",
+      "src": "valchange::scale.S8_qwq.wait.hi",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s8qwq.final.prevval_next",
+      "src": "valchange::scale.S8_qwq.next.est",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s8qwq.final.prevval_next.lo",
+      "src": "valchange::scale.S8_qwq.next.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8qwq.final.prevval_next.hi",
+      "src": "valchange::scale.S8_qwq.next.hi",
+      "value": 6.1
+    },
+    {
+      "key": "h4.s8qwq.final.prevval_holdon",
+      "src": "valchange::scale.S8_qwq.hold_on.est",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s8qwq.final.prevval_holdon.lo",
+      "src": "valchange::scale.S8_qwq.hold_on.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8qwq.final.prevval_holdon.hi",
+      "src": "valchange::scale.S8_qwq.hold_on.hi",
+      "value": 3.3
+    },
+    {
+      "key": "h4.s8qwq.final.prevval_none",
+      "src": "valchange::scale.S8_qwq.none.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8qwq.final.prevval_none.lo",
+      "src": "valchange::scale.S8_qwq.none.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s8qwq.final.prevval_none.hi",
+      "src": "valchange::scale.S8_qwq.none.hi",
+      "value": 9.0
+    },
+    {
+      "key": "h4.s8qwq.final.rdval_op",
+      "src": "valchange::scale.S8_qwq.RD_next.est",
+      "value": -1.9
+    },
+    {
+      "key": "h4.s8qwq.final.rdval_op.lo",
+      "src": "valchange::scale.S8_qwq.RD_next.lo",
+      "value": -5.7
+    },
+    {
+      "key": "h4.s8qwq.final.rdval_op.hi",
+      "src": "valchange::scale.S8_qwq.RD_next.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8qwq.trend.rampval.lo",
+      "src": "valchange::scale.paired vs S8_base.lo",
+      "value": -7.0
+    },
+    {
+      "key": "h4.s8qwq.trend.rampval.hi",
+      "src": "valchange::scale.paired vs S8_base.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8qwq.trend.dampval",
+      "src": "valchange::scale.paired vs S8_base.est",
+      "value": -1.9
+    },
+    {
+      "key": "h4.s8qwq.trend.dampval.lo",
+      "src": "valchange::scale.paired vs S8_base.lo",
+      "value": -5.2
+    },
+    {
+      "key": "h4.s8qwq.trend.dampval.hi",
+      "src": "valchange::scale.paired vs S8_base.hi",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s8qwq.final.nexcl_val",
+      "src": "valchange::scale.n_excluded",
+      "value": 47
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait",
+      "src": "valchange::scale.S8_base.wait.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait.lo",
+      "src": "valchange::scale.S8_base.wait.lo",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait.hi",
+      "src": "valchange::scale.S8_base.wait.hi",
+      "value": 8.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_next",
+      "src": "valchange::scale.S8_base.next.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8base.final.prevval_next.lo",
+      "src": "valchange::scale.S8_base.next.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s8base.final.prevval_next.hi",
+      "src": "valchange::scale.S8_base.next.hi",
+      "value": 8.5
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon",
+      "src": "valchange::scale.S8_base.hold_on.est",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon.lo",
+      "src": "valchange::scale.S8_base.hold_on.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon.hi",
+      "src": "valchange::scale.S8_base.hold_on.hi",
+      "value": 7.1
+    },
+    {
+      "key": "h4.s8base.final.prevval_none",
+      "src": "valchange::scale.S8_base.none.est",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s8base.final.prevval_none.lo",
+      "src": "valchange::scale.S8_base.none.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_none.hi",
+      "src": "valchange::scale.S8_base.none.hi",
+      "value": 10.4
+    },
+    {
+      "key": "h4.s8orz.final.prevval_wait",
+      "src": "valchange::scale.S8_orz.wait.est",
+      "value": 1.9
+    },
+    {
+      "key": "h4.s8orz.final.prevval_wait.lo",
+      "src": "valchange::scale.S8_orz.wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8orz.final.prevval_wait.hi",
+      "src": "valchange::scale.S8_orz.wait.hi",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s8orz.final.prevval_next",
+      "src": "valchange::scale.S8_orz.next.est",
+      "value": 1.9
+    },
+    {
+      "key": "h4.s8orz.final.prevval_next.lo",
+      "src": "valchange::scale.S8_orz.next.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8orz.final.prevval_next.hi",
+      "src": "valchange::scale.S8_orz.next.hi",
+      "value": 5.7
+    },
+    {
+      "key": "h4.s8orz.final.prevval_holdon",
+      "src": "valchange::scale.S8_orz.hold_on.est",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s8orz.final.prevval_holdon.lo",
+      "src": "valchange::scale.S8_orz.hold_on.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s8orz.final.prevval_holdon.hi",
+      "src": "valchange::scale.S8_orz.hold_on.hi",
+      "value": 5.2
+    },
+    {
+      "key": "h4.s8orz.final.prevval_none",
+      "src": "valchange::scale.S8_orz.none.est",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s8orz.final.prevval_none.lo",
+      "src": "valchange::scale.S8_orz.none.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8orz.final.prevval_none.hi",
+      "src": "valchange::scale.S8_orz.none.hi",
+      "value": 6.1
+    },
+    {
+      "key": "h4.s8orz.final.rdval_op",
+      "src": "valchange::scale.S8_orz.RD_next.est",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8orz.final.rdval_op.lo",
+      "src": "valchange::scale.S8_orz.RD_next.lo",
+      "value": -4.2
+    },
+    {
+      "key": "h4.s8orz.final.rdval_op.hi",
+      "src": "valchange::scale.S8_orz.RD_next.hi",
+      "value": 3.3
+    },
+    {
+      "key": "h4.s8orz.trend.rampval.lo",
+      "src": "valchange::scale.paired vs S8_base.lo",
+      "value": -6.0
+    },
+    {
+      "key": "h4.s8orz.trend.rampval.hi",
+      "src": "valchange::scale.paired vs S8_base.hi",
+      "value": 5.0
+    },
+    {
+      "key": "h4.s8orz.trend.dampval",
+      "src": "valchange::scale.paired vs S8_base.est",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8orz.trend.dampval.lo",
+      "src": "valchange::scale.paired vs S8_base.lo",
+      "value": -4.7
+    },
+    {
+      "key": "h4.s8orz.trend.dampval.hi",
+      "src": "valchange::scale.paired vs S8_base.hi",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8orz.final.nexcl_val",
+      "src": "valchange::scale.n_excluded",
+      "value": 47
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait",
+      "src": "valchange::scale.S8_base.wait.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait.lo",
+      "src": "valchange::scale.S8_base.wait.lo",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait.hi",
+      "src": "valchange::scale.S8_base.wait.hi",
+      "value": 8.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_next",
+      "src": "valchange::scale.S8_base.next.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8base.final.prevval_next.lo",
+      "src": "valchange::scale.S8_base.next.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s8base.final.prevval_next.hi",
+      "src": "valchange::scale.S8_base.next.hi",
+      "value": 8.5
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon",
+      "src": "valchange::scale.S8_base.hold_on.est",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon.lo",
+      "src": "valchange::scale.S8_base.hold_on.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon.hi",
+      "src": "valchange::scale.S8_base.hold_on.hi",
+      "value": 7.1
+    },
+    {
+      "key": "h4.s8base.final.prevval_none",
+      "src": "valchange::scale.S8_base.none.est",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s8base.final.prevval_none.lo",
+      "src": "valchange::scale.S8_base.none.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_none.hi",
+      "src": "valchange::scale.S8_base.none.hi",
+      "value": 10.4
+    },
+    {
+      "key": "h4.s8r1d.final.prevval_wait",
+      "src": "valchange::scale.S8_r1distill.wait.est",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s8r1d.final.prevval_wait.lo",
+      "src": "valchange::scale.S8_r1distill.wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8r1d.final.prevval_wait.hi",
+      "src": "valchange::scale.S8_r1distill.wait.hi",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s8r1d.final.prevval_next",
+      "src": "valchange::scale.S8_r1distill.next.est",
+      "value": 2.8
+    },
+    {
+      "key": "h4.s8r1d.final.prevval_next.lo",
+      "src": "valchange::scale.S8_r1distill.next.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8r1d.final.prevval_next.hi",
+      "src": "valchange::scale.S8_r1distill.next.hi",
+      "value": 7.1
+    },
+    {
+      "key": "h4.s8r1d.final.prevval_holdon",
+      "src": "valchange::scale.S8_r1distill.hold_on.est",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s8r1d.final.prevval_holdon.lo",
+      "src": "valchange::scale.S8_r1distill.hold_on.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s8r1d.final.prevval_holdon.hi",
+      "src": "valchange::scale.S8_r1distill.hold_on.hi",
+      "value": 9.4
+    },
+    {
+      "key": "h4.s8r1d.final.prevval_none",
+      "src": "valchange::scale.S8_r1distill.none.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8r1d.final.prevval_none.lo",
+      "src": "valchange::scale.S8_r1distill.none.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8r1d.final.prevval_none.hi",
+      "src": "valchange::scale.S8_r1distill.none.hi",
+      "value": 9.4
+    },
+    {
+      "key": "h4.s8r1d.final.rdval_op",
+      "src": "valchange::scale.S8_r1distill.RD_next.est",
+      "value": -1.9
+    },
+    {
+      "key": "h4.s8r1d.final.rdval_op.lo",
+      "src": "valchange::scale.S8_r1distill.RD_next.lo",
+      "value": -5.7
+    },
+    {
+      "key": "h4.s8r1d.final.rdval_op.hi",
+      "src": "valchange::scale.S8_r1distill.RD_next.hi",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s8r1d.trend.rampval.lo",
+      "src": "valchange::scale.paired vs S8_base.lo",
+      "value": -9.0
+    },
+    {
+      "key": "h4.s8r1d.trend.rampval.hi",
+      "src": "valchange::scale.paired vs S8_base.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8r1d.trend.dampval",
+      "src": "valchange::scale.paired vs S8_base.est",
+      "value": -1.9
+    },
+    {
+      "key": "h4.s8r1d.trend.dampval.lo",
+      "src": "valchange::scale.paired vs S8_base.lo",
+      "value": -5.7
+    },
+    {
+      "key": "h4.s8r1d.trend.dampval.hi",
+      "src": "valchange::scale.paired vs S8_base.hi",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s8r1d.final.nexcl_val",
+      "src": "valchange::scale.n_excluded",
+      "value": 47
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait",
+      "src": "valchange::scale.S8_base.wait.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait.lo",
+      "src": "valchange::scale.S8_base.wait.lo",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait.hi",
+      "src": "valchange::scale.S8_base.wait.hi",
+      "value": 8.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_next",
+      "src": "valchange::scale.S8_base.next.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8base.final.prevval_next.lo",
+      "src": "valchange::scale.S8_base.next.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s8base.final.prevval_next.hi",
+      "src": "valchange::scale.S8_base.next.hi",
+      "value": 8.5
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon",
+      "src": "valchange::scale.S8_base.hold_on.est",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon.lo",
+      "src": "valchange::scale.S8_base.hold_on.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon.hi",
+      "src": "valchange::scale.S8_base.hold_on.hi",
+      "value": 7.1
+    },
+    {
+      "key": "h4.s8base.final.prevval_none",
+      "src": "valchange::scale.S8_base.none.est",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s8base.final.prevval_none.lo",
+      "src": "valchange::scale.S8_base.none.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_none.hi",
+      "src": "valchange::scale.S8_base.none.hi",
+      "value": 10.4
+    },
+    {
+      "key": "h4.s10low.final.prevval_wait",
+      "src": "valchange::scale.S10_low.wait.est",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s10low.final.prevval_wait.lo",
+      "src": "valchange::scale.S10_low.wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10low.final.prevval_wait.hi",
+      "src": "valchange::scale.S10_low.wait.hi",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s10low.final.prevval_next",
+      "src": "valchange::scale.S10_low.next.est",
+      "value": 2.8
+    },
+    {
+      "key": "h4.s10low.final.prevval_next.lo",
+      "src": "valchange::scale.S10_low.next.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s10low.final.prevval_next.hi",
+      "src": "valchange::scale.S10_low.next.hi",
+      "value": 6.6
+    },
+    {
+      "key": "h4.s10low.final.prevval_holdon",
+      "src": "valchange::scale.S10_low.hold_on.est",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s10low.final.prevval_holdon.lo",
+      "src": "valchange::scale.S10_low.hold_on.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10low.final.prevval_holdon.hi",
+      "src": "valchange::scale.S10_low.hold_on.hi",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s10low.final.prevval_none",
+      "src": "valchange::scale.S10_low.none.est",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s10low.final.prevval_none.lo",
+      "src": "valchange::scale.S10_low.none.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10low.final.prevval_none.hi",
+      "src": "valchange::scale.S10_low.none.hi",
+      "value": 3.3
+    },
+    {
+      "key": "h4.s10low.final.rdval_op",
+      "src": "valchange::scale.S10_low.RD_next.est",
+      "value": -1.4
+    },
+    {
+      "key": "h4.s10low.final.rdval_op.lo",
+      "src": "valchange::scale.S10_low.RD_next.lo",
+      "value": -3.8
+    },
+    {
+      "key": "h4.s10low.final.rdval_op.hi",
+      "src": "valchange::scale.S10_low.RD_next.hi",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s10low.trend.rampval.lo",
+      "src": "valchange::scale.paired vs S8_base.lo",
+      "value": -6.0
+    },
+    {
+      "key": "h4.s10low.trend.rampval.hi",
+      "src": "valchange::scale.paired vs S8_base.hi",
+      "value": 0.67
+    },
+    {
+      "key": "h4.s10low.trend.dampval",
+      "src": "valchange::scale.paired vs S8_base.est",
+      "value": -1.4
+    },
+    {
+      "key": "h4.s10low.trend.dampval.lo",
+      "src": "valchange::scale.paired vs S8_base.lo",
+      "value": -4.2
+    },
+    {
+      "key": "h4.s10low.trend.dampval.hi",
+      "src": "valchange::scale.paired vs S8_base.hi",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s10low.final.nexcl_val",
+      "src": "valchange::scale.n_excluded",
+      "value": 47
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait",
+      "src": "valchange::scale.S8_base.wait.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait.lo",
+      "src": "valchange::scale.S8_base.wait.lo",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait.hi",
+      "src": "valchange::scale.S8_base.wait.hi",
+      "value": 8.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_next",
+      "src": "valchange::scale.S8_base.next.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8base.final.prevval_next.lo",
+      "src": "valchange::scale.S8_base.next.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s8base.final.prevval_next.hi",
+      "src": "valchange::scale.S8_base.next.hi",
+      "value": 8.5
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon",
+      "src": "valchange::scale.S8_base.hold_on.est",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon.lo",
+      "src": "valchange::scale.S8_base.hold_on.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon.hi",
+      "src": "valchange::scale.S8_base.hold_on.hi",
+      "value": 7.1
+    },
+    {
+      "key": "h4.s8base.final.prevval_none",
+      "src": "valchange::scale.S8_base.none.est",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s8base.final.prevval_none.lo",
+      "src": "valchange::scale.S8_base.none.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_none.hi",
+      "src": "valchange::scale.S8_base.none.hi",
+      "value": 10.4
+    },
+    {
+      "key": "h4.s10med.final.prevval_wait",
+      "src": "valchange::scale.S10_med.wait.est",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s10med.final.prevval_wait.lo",
+      "src": "valchange::scale.S10_med.wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10med.final.prevval_wait.hi",
+      "src": "valchange::scale.S10_med.wait.hi",
+      "value": 3.3
+    },
+    {
+      "key": "h4.s10med.final.prevval_next",
+      "src": "valchange::scale.S10_med.next.est",
+      "value": 1.9
+    },
+    {
+      "key": "h4.s10med.final.prevval_next.lo",
+      "src": "valchange::scale.S10_med.next.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10med.final.prevval_next.hi",
+      "src": "valchange::scale.S10_med.next.hi",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s10med.final.prevval_holdon",
+      "src": "valchange::scale.S10_med.hold_on.est",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s10med.final.prevval_holdon.lo",
+      "src": "valchange::scale.S10_med.hold_on.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10med.final.prevval_holdon.hi",
+      "src": "valchange::scale.S10_med.hold_on.hi",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s10med.final.prevval_none",
+      "src": "valchange::scale.S10_med.none.est",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s10med.final.prevval_none.lo",
+      "src": "valchange::scale.S10_med.none.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10med.final.prevval_none.hi",
+      "src": "valchange::scale.S10_med.none.hi",
+      "value": 3.3
+    },
+    {
+      "key": "h4.s10med.final.rdval_op",
+      "src": "valchange::scale.S10_med.RD_next.est",
+      "value": -0.5
+    },
+    {
+      "key": "h4.s10med.final.rdval_op.lo",
+      "src": "valchange::scale.S10_med.RD_next.lo",
+      "value": -3.3
+    },
+    {
+      "key": "h4.s10med.final.rdval_op.hi",
+      "src": "valchange::scale.S10_med.RD_next.hi",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s10med.trend.rampval.lo",
+      "src": "valchange::scale.paired vs S8_base.lo",
+      "value": -6.0
+    },
+    {
+      "key": "h4.s10med.trend.rampval.hi",
+      "src": "valchange::scale.paired vs S8_base.hi",
+      "value": 3.0
+    },
+    {
+      "key": "h4.s10med.trend.dampval",
+      "src": "valchange::scale.paired vs S8_base.est",
+      "value": -0.5
+    },
+    {
+      "key": "h4.s10med.trend.dampval.lo",
+      "src": "valchange::scale.paired vs S8_base.lo",
+      "value": -4.2
+    },
+    {
+      "key": "h4.s10med.trend.dampval.hi",
+      "src": "valchange::scale.paired vs S8_base.hi",
+      "value": 3.3
+    },
+    {
+      "key": "h4.s10med.final.nexcl_val",
+      "src": "valchange::scale.n_excluded",
+      "value": 47
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait",
+      "src": "valchange::scale.S8_base.wait.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait.lo",
+      "src": "valchange::scale.S8_base.wait.lo",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s8base.final.prevval_wait.hi",
+      "src": "valchange::scale.S8_base.wait.hi",
+      "value": 8.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_next",
+      "src": "valchange::scale.S8_base.next.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8base.final.prevval_next.lo",
+      "src": "valchange::scale.S8_base.next.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s8base.final.prevval_next.hi",
+      "src": "valchange::scale.S8_base.next.hi",
+      "value": 8.5
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon",
+      "src": "valchange::scale.S8_base.hold_on.est",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon.lo",
+      "src": "valchange::scale.S8_base.hold_on.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_holdon.hi",
+      "src": "valchange::scale.S8_base.hold_on.hi",
+      "value": 7.1
+    },
+    {
+      "key": "h4.s8base.final.prevval_none",
+      "src": "valchange::scale.S8_base.none.est",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s8base.final.prevval_none.lo",
+      "src": "valchange::scale.S8_base.none.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.final.prevval_none.hi",
+      "src": "valchange::scale.S8_base.none.hi",
+      "value": 10.4
+    },
+    {
+      "key": "h4.s10high.final.prevval_wait",
+      "src": "valchange::scale.S10_high.wait.est",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10high.final.prevval_wait.lo",
+      "src": "valchange::scale.S10_high.wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10high.final.prevval_wait.hi",
+      "src": "valchange::scale.S10_high.wait.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10high.final.prevval_next",
+      "src": "valchange::scale.S10_high.next.est",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s10high.final.prevval_next.lo",
+      "src": "valchange::scale.S10_high.next.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10high.final.prevval_next.hi",
+      "src": "valchange::scale.S10_high.next.hi",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s10high.final.prevval_holdon",
+      "src": "valchange::scale.S10_high.hold_on.est",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10high.final.prevval_holdon.lo",
+      "src": "valchange::scale.S10_high.hold_on.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10high.final.prevval_holdon.hi",
+      "src": "valchange::scale.S10_high.hold_on.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10high.final.prevval_none",
+      "src": "valchange::scale.S10_high.none.est",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s10high.final.prevval_none.lo",
+      "src": "valchange::scale.S10_high.none.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10high.final.prevval_none.hi",
+      "src": "valchange::scale.S10_high.none.hi",
+      "value": 2.8
+    },
+    {
+      "key": "h4.s10high.final.rdval_op",
+      "src": "valchange::scale.S10_high.RD_next.est",
+      "value": -0.9
+    },
+    {
+      "key": "h4.s10high.final.rdval_op.lo",
+      "src": "valchange::scale.S10_high.RD_next.lo",
+      "value": -2.4
+    },
+    {
+      "key": "h4.s10high.final.rdval_op.hi",
+      "src": "valchange::scale.S10_high.RD_next.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10high.trend.rampval.lo",
+      "src": "valchange::scale.paired vs S8_base.lo",
+      "value": -4.0
+    },
+    {
+      "key": "h4.s10high.trend.rampval.hi",
+      "src": "valchange::scale.paired vs S8_base.hi",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10high.trend.dampval",
+      "src": "valchange::scale.paired vs S8_base.est",
+      "value": -0.9
+    },
+    {
+      "key": "h4.s10high.trend.dampval.lo",
+      "src": "valchange::scale.paired vs S8_base.lo",
+      "value": -3.8
+    },
+    {
+      "key": "h4.s10high.trend.dampval.hi",
+      "src": "valchange::scale.paired vs S8_base.hi",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s10high.final.nexcl_val",
+      "src": "valchange::scale.n_excluded",
+      "value": 47
+    }
+  ],
+  "pilot": false
+}

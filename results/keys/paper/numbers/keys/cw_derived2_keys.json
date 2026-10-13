@@ -1,0 +1,604 @@
+{
+ "entries": [
+  {
+   "key": "h5.r.sham.acc_vs_vanilla.est",
+   "value": "+1.7",
+   "src": "tools/derive_cw.py: h5.macro.sham.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.sham.acc_vs_vanilla.lo",
+   "value": "+0.5",
+   "src": "tools/derive_cw.py: h5.macro.sham.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.sham.acc_vs_vanilla.hi",
+   "value": "+2.9",
+   "src": "tools/derive_cw.py: h5.macro.sham.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.sham.tok_vs_vanilla.est",
+   "value": "+1.9",
+   "src": "tools/derive_cw.py: h5.macro.sham.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.sham.tok_vs_vanilla.lo",
+   "value": "+0.0",
+   "src": "tools/derive_cw.py: h5.macro.sham.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.sham.tok_vs_vanilla.hi",
+   "value": "+4.1",
+   "src": "tools/derive_cw.py: h5.macro.sham.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.nowait.acc_vs_sham.est",
+   "value": "+1.7",
+   "src": "tools/derive_cw.py: h5.macro.nowait.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.nowait.acc_vs_sham.lo",
+   "value": "+0.3",
+   "src": "tools/derive_cw.py: h5.macro.nowait.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.nowait.acc_vs_sham.hi",
+   "value": "+3.1",
+   "src": "tools/derive_cw.py: h5.macro.nowait.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.nowait.tok_vs_sham.est",
+   "value": "\\ensuremath{-}12.6",
+   "src": "tools/derive_cw.py: h5.macro.nowait.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.nowait.tok_vs_sham.lo",
+   "value": "\\ensuremath{-}14.3",
+   "src": "tools/derive_cw.py: h5.macro.nowait.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.nowait.tok_vs_sham.hi",
+   "value": "\\ensuremath{-}10.7",
+   "src": "tools/derive_cw.py: h5.macro.nowait.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.nowait.acc_vs_vanilla.est",
+   "value": "+3.4",
+   "src": "tools/derive_cw.py: h5.macro.nowait.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.nowait.acc_vs_vanilla.lo",
+   "value": "+2.0",
+   "src": "tools/derive_cw.py: h5.macro.nowait.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.nowait.acc_vs_vanilla.hi",
+   "value": "+4.9",
+   "src": "tools/derive_cw.py: h5.macro.nowait.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.nowait.tok_vs_vanilla.est",
+   "value": "\\ensuremath{-}11.0",
+   "src": "tools/derive_cw.py: h5.macro.nowait.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.nowait.tok_vs_vanilla.lo",
+   "value": "\\ensuremath{-}12.6",
+   "src": "tools/derive_cw.py: h5.macro.nowait.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.nowait.tok_vs_vanilla.hi",
+   "value": "\\ensuremath{-}9.0",
+   "src": "tools/derive_cw.py: h5.macro.nowait.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.random.acc_vs_sham.est",
+   "value": "+0.8",
+   "src": "tools/derive_cw.py: h5.macro.random.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.random.acc_vs_sham.lo",
+   "value": "\\ensuremath{-}0.3",
+   "src": "tools/derive_cw.py: h5.macro.random.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.random.acc_vs_sham.hi",
+   "value": "+2.1",
+   "src": "tools/derive_cw.py: h5.macro.random.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.random.tok_vs_sham.est",
+   "value": "\\ensuremath{-}1.2",
+   "src": "tools/derive_cw.py: h5.macro.random.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.random.tok_vs_sham.lo",
+   "value": "\\ensuremath{-}3.0",
+   "src": "tools/derive_cw.py: h5.macro.random.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.random.tok_vs_sham.hi",
+   "value": "+0.9",
+   "src": "tools/derive_cw.py: h5.macro.random.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.random.acc_vs_vanilla.est",
+   "value": "+2.6",
+   "src": "tools/derive_cw.py: h5.macro.random.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.random.acc_vs_vanilla.lo",
+   "value": "+1.4",
+   "src": "tools/derive_cw.py: h5.macro.random.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.random.acc_vs_vanilla.hi",
+   "value": "+3.7",
+   "src": "tools/derive_cw.py: h5.macro.random.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.random.tok_vs_vanilla.est",
+   "value": "+0.3",
+   "src": "tools/derive_cw.py: h5.macro.random.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.random.tok_vs_vanilla.lo",
+   "value": "\\ensuremath{-}1.6",
+   "src": "tools/derive_cw.py: h5.macro.random.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.random.tok_vs_vanilla.hi",
+   "value": "+2.5",
+   "src": "tools/derive_cw.py: h5.macro.random.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.bf_match.acc_vs_sham.est",
+   "value": "+4.3",
+   "src": "tools/derive_cw.py: h5.macro.bf_match.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.bf_match.acc_vs_sham.lo",
+   "value": "+2.8",
+   "src": "tools/derive_cw.py: h5.macro.bf_match.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.bf_match.acc_vs_sham.hi",
+   "value": "+5.7",
+   "src": "tools/derive_cw.py: h5.macro.bf_match.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.bf_match.tok_vs_sham.est",
+   "value": "\\ensuremath{-}12.1",
+   "src": "tools/derive_cw.py: h5.macro.bf_match.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.bf_match.tok_vs_sham.lo",
+   "value": "\\ensuremath{-}13.7",
+   "src": "tools/derive_cw.py: h5.macro.bf_match.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.bf_match.tok_vs_sham.hi",
+   "value": "\\ensuremath{-}10.0",
+   "src": "tools/derive_cw.py: h5.macro.bf_match.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.bf_match.acc_vs_vanilla.est",
+   "value": "+6.0",
+   "src": "tools/derive_cw.py: h5.macro.bf_match.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.bf_match.acc_vs_vanilla.lo",
+   "value": "+4.6",
+   "src": "tools/derive_cw.py: h5.macro.bf_match.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.bf_match.acc_vs_vanilla.hi",
+   "value": "+7.4",
+   "src": "tools/derive_cw.py: h5.macro.bf_match.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.bf_match.tok_vs_vanilla.est",
+   "value": "\\ensuremath{-}11.0",
+   "src": "tools/derive_cw.py: h5.macro.bf_match.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.bf_match.tok_vs_vanilla.lo",
+   "value": "\\ensuremath{-}12.5",
+   "src": "tools/derive_cw.py: h5.macro.bf_match.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.bf_match.tok_vs_vanilla.hi",
+   "value": "\\ensuremath{-}9.2",
+   "src": "tools/derive_cw.py: h5.macro.bf_match.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.bf_loose.acc_vs_sham.est",
+   "value": "+7.1",
+   "src": "tools/derive_cw.py: h5.macro.bf_loose.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.bf_loose.acc_vs_sham.lo",
+   "value": "+5.5",
+   "src": "tools/derive_cw.py: h5.macro.bf_loose.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.bf_loose.acc_vs_sham.hi",
+   "value": "+8.6",
+   "src": "tools/derive_cw.py: h5.macro.bf_loose.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.bf_loose.tok_vs_sham.est",
+   "value": "+0.8",
+   "src": "tools/derive_cw.py: h5.macro.bf_loose.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.bf_loose.tok_vs_sham.lo",
+   "value": "\\ensuremath{-}1.0",
+   "src": "tools/derive_cw.py: h5.macro.bf_loose.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.bf_loose.tok_vs_sham.hi",
+   "value": "+2.8",
+   "src": "tools/derive_cw.py: h5.macro.bf_loose.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.bf_loose.acc_vs_vanilla.est",
+   "value": "+8.8",
+   "src": "tools/derive_cw.py: h5.macro.bf_loose.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.bf_loose.acc_vs_vanilla.lo",
+   "value": "+7.3",
+   "src": "tools/derive_cw.py: h5.macro.bf_loose.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.bf_loose.acc_vs_vanilla.hi",
+   "value": "+10.2",
+   "src": "tools/derive_cw.py: h5.macro.bf_loose.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.bf_loose.tok_vs_vanilla.est",
+   "value": "+2.4",
+   "src": "tools/derive_cw.py: h5.macro.bf_loose.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.bf_loose.tok_vs_vanilla.lo",
+   "value": "+0.6",
+   "src": "tools/derive_cw.py: h5.macro.bf_loose.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.bf_loose.tok_vs_vanilla.hi",
+   "value": "+4.4",
+   "src": "tools/derive_cw.py: h5.macro.bf_loose.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cgrs.acc_vs_sham.est",
+   "value": "+6.3",
+   "src": "tools/derive_cw.py: h5.macro.cgrs.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.cgrs.acc_vs_sham.lo",
+   "value": "+4.8",
+   "src": "tools/derive_cw.py: h5.macro.cgrs.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.cgrs.acc_vs_sham.hi",
+   "value": "+7.8",
+   "src": "tools/derive_cw.py: h5.macro.cgrs.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.cgrs.tok_vs_sham.est",
+   "value": "\\ensuremath{-}14.4",
+   "src": "tools/derive_cw.py: h5.macro.cgrs.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.cgrs.tok_vs_sham.lo",
+   "value": "\\ensuremath{-}16.4",
+   "src": "tools/derive_cw.py: h5.macro.cgrs.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.cgrs.tok_vs_sham.hi",
+   "value": "\\ensuremath{-}12.3",
+   "src": "tools/derive_cw.py: h5.macro.cgrs.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.cgrs.acc_vs_vanilla.est",
+   "value": "+8.0",
+   "src": "tools/derive_cw.py: h5.macro.cgrs.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cgrs.acc_vs_vanilla.lo",
+   "value": "+6.4",
+   "src": "tools/derive_cw.py: h5.macro.cgrs.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cgrs.acc_vs_vanilla.hi",
+   "value": "+9.6",
+   "src": "tools/derive_cw.py: h5.macro.cgrs.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cgrs.tok_vs_vanilla.est",
+   "value": "\\ensuremath{-}12.7",
+   "src": "tools/derive_cw.py: h5.macro.cgrs.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cgrs.tok_vs_vanilla.lo",
+   "value": "\\ensuremath{-}14.8",
+   "src": "tools/derive_cw.py: h5.macro.cgrs.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cgrs.tok_vs_vanilla.hi",
+   "value": "\\ensuremath{-}10.4",
+   "src": "tools/derive_cw.py: h5.macro.cgrs.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw75.acc_vs_sham.est",
+   "value": "+2.7",
+   "src": "tools/derive_cw.py: h5.macro.cw75.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.cw75.acc_vs_sham.lo",
+   "value": "+1.2",
+   "src": "tools/derive_cw.py: h5.macro.cw75.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.cw75.acc_vs_sham.hi",
+   "value": "+4.1",
+   "src": "tools/derive_cw.py: h5.macro.cw75.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.cw75.tok_vs_sham.est",
+   "value": "+2.1",
+   "src": "tools/derive_cw.py: h5.macro.cw75.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.cw75.tok_vs_sham.lo",
+   "value": "+0.2",
+   "src": "tools/derive_cw.py: h5.macro.cw75.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.cw75.tok_vs_sham.hi",
+   "value": "+4.3",
+   "src": "tools/derive_cw.py: h5.macro.cw75.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.cw75.acc_vs_vanilla.est",
+   "value": "+4.4",
+   "src": "tools/derive_cw.py: h5.macro.cw75.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw75.acc_vs_vanilla.lo",
+   "value": "+2.9",
+   "src": "tools/derive_cw.py: h5.macro.cw75.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw75.acc_vs_vanilla.hi",
+   "value": "+5.8",
+   "src": "tools/derive_cw.py: h5.macro.cw75.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw75.tok_vs_vanilla.est",
+   "value": "+3.8",
+   "src": "tools/derive_cw.py: h5.macro.cw75.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw75.tok_vs_vanilla.lo",
+   "value": "+1.8",
+   "src": "tools/derive_cw.py: h5.macro.cw75.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw75.tok_vs_vanilla.hi",
+   "value": "+6.1",
+   "src": "tools/derive_cw.py: h5.macro.cw75.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw50.acc_vs_sham.est",
+   "value": "+3.5",
+   "src": "tools/derive_cw.py: h5.macro.cw50.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.cw50.acc_vs_sham.lo",
+   "value": "+2.2",
+   "src": "tools/derive_cw.py: h5.macro.cw50.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.cw50.acc_vs_sham.hi",
+   "value": "+4.8",
+   "src": "tools/derive_cw.py: h5.macro.cw50.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.cw50.tok_vs_sham.est",
+   "value": "+2.1",
+   "src": "tools/derive_cw.py: h5.macro.cw50.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.cw50.tok_vs_sham.lo",
+   "value": "\\ensuremath{-}0.0",
+   "src": "tools/derive_cw.py: h5.macro.cw50.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.cw50.tok_vs_sham.hi",
+   "value": "+4.4",
+   "src": "tools/derive_cw.py: h5.macro.cw50.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.cw50.acc_vs_vanilla.est",
+   "value": "+5.2",
+   "src": "tools/derive_cw.py: h5.macro.cw50.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw50.acc_vs_vanilla.lo",
+   "value": "+3.9",
+   "src": "tools/derive_cw.py: h5.macro.cw50.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw50.acc_vs_vanilla.hi",
+   "value": "+6.5",
+   "src": "tools/derive_cw.py: h5.macro.cw50.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw50.tok_vs_vanilla.est",
+   "value": "+3.6",
+   "src": "tools/derive_cw.py: h5.macro.cw50.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw50.tok_vs_vanilla.lo",
+   "value": "+1.6",
+   "src": "tools/derive_cw.py: h5.macro.cw50.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw50.tok_vs_vanilla.hi",
+   "value": "+5.8",
+   "src": "tools/derive_cw.py: h5.macro.cw50.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw.acc_vs_sham.est",
+   "value": "\\ensuremath{-}0.4",
+   "src": "tools/derive_cw.py: h5.macro.cw.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.cw.acc_vs_sham.lo",
+   "value": "\\ensuremath{-}1.7",
+   "src": "tools/derive_cw.py: h5.macro.cw.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.cw.acc_vs_sham.hi",
+   "value": "+0.8",
+   "src": "tools/derive_cw.py: h5.macro.cw.acc_vs_sham"
+  },
+  {
+   "key": "h5.r.cw.tok_vs_sham.est",
+   "value": "\\ensuremath{-}1.1",
+   "src": "tools/derive_cw.py: h5.macro.cw.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.cw.tok_vs_sham.lo",
+   "value": "\\ensuremath{-}2.9",
+   "src": "tools/derive_cw.py: h5.macro.cw.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.cw.tok_vs_sham.hi",
+   "value": "+1.1",
+   "src": "tools/derive_cw.py: h5.macro.cw.tok_vs_sham"
+  },
+  {
+   "key": "h5.r.cw.acc_vs_vanilla.est",
+   "value": "+1.3",
+   "src": "tools/derive_cw.py: h5.macro.cw.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw.acc_vs_vanilla.lo",
+   "value": "+0.2",
+   "src": "tools/derive_cw.py: h5.macro.cw.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw.acc_vs_vanilla.hi",
+   "value": "+2.5",
+   "src": "tools/derive_cw.py: h5.macro.cw.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw.tok_vs_vanilla.est",
+   "value": "+0.6",
+   "src": "tools/derive_cw.py: h5.macro.cw.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw.tok_vs_vanilla.lo",
+   "value": "\\ensuremath{-}1.1",
+   "src": "tools/derive_cw.py: h5.macro.cw.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.cw.tok_vs_vanilla.hi",
+   "value": "+2.6",
+   "src": "tools/derive_cw.py: h5.macro.cw.tok_vs_vanilla"
+  },
+  {
+   "key": "h5.r.S2_cw_minus_nowait.est",
+   "value": "\\ensuremath{-}2.1",
+   "src": "tools/derive_cw.py: h5.macro.S2_cw_minus_nowait x100"
+  },
+  {
+   "key": "h5.r.S2_cw_minus_nowait.lo",
+   "value": "\\ensuremath{-}3.5",
+   "src": "tools/derive_cw.py: h5.macro.S2_cw_minus_nowait x100"
+  },
+  {
+   "key": "h5.r.S2_cw_minus_nowait.hi",
+   "value": "\\ensuremath{-}0.7",
+   "src": "tools/derive_cw.py: h5.macro.S2_cw_minus_nowait x100"
+  },
+  {
+   "key": "h5.r.S3_cw_minus_random.est",
+   "value": "\\ensuremath{-}1.3",
+   "src": "tools/derive_cw.py: h5.macro.S3_cw_minus_random x100"
+  },
+  {
+   "key": "h5.r.S3_cw_minus_random.lo",
+   "value": "\\ensuremath{-}2.5",
+   "src": "tools/derive_cw.py: h5.macro.S3_cw_minus_random x100"
+  },
+  {
+   "key": "h5.r.S3_cw_minus_random.hi",
+   "value": "+0.0",
+   "src": "tools/derive_cw.py: h5.macro.S3_cw_minus_random x100"
+  },
+  {
+   "key": "h5.r.S6_cw_minus_bf_match.est",
+   "value": "\\ensuremath{-}4.7",
+   "src": "tools/derive_cw.py: h5.macro.S6_cw_minus_bf_match x100"
+  },
+  {
+   "key": "h5.r.S6_cw_minus_bf_match.lo",
+   "value": "\\ensuremath{-}6.2",
+   "src": "tools/derive_cw.py: h5.macro.S6_cw_minus_bf_match x100"
+  },
+  {
+   "key": "h5.r.S6_cw_minus_bf_match.hi",
+   "value": "\\ensuremath{-}3.2",
+   "src": "tools/derive_cw.py: h5.macro.S6_cw_minus_bf_match x100"
+  },
+  {
+   "key": "h5.r.noise.acc.est",
+   "value": "+6.5",
+   "src": "tools/derive_cw.py: h5.rlzero.none_s1.macro.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.noise.acc.lo",
+   "value": "+3.4",
+   "src": "tools/derive_cw.py: h5.rlzero.none_s1.macro.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.noise.acc.hi",
+   "value": "+9.6",
+   "src": "tools/derive_cw.py: h5.rlzero.none_s1.macro.acc_vs_vanilla"
+  },
+  {
+   "key": "h5.r.rlzero.s5.diff.est",
+   "value": "+0.08",
+   "src": "tools/derive_cw.py: h5.rlzero.s5.diff"
+  },
+  {
+   "key": "h5.r.rlzero.s5.diff.lo",
+   "value": "\\ensuremath{-}0.03",
+   "src": "tools/derive_cw.py: h5.rlzero.s5.diff"
+  },
+  {
+   "key": "h5.r.rlzero.s5.diff.hi",
+   "value": "+0.27",
+   "src": "tools/derive_cw.py: h5.rlzero.s5.diff"
+  },
+  {
+   "key": "h5.r.r1d7.s5.diff.est",
+   "value": "\\ensuremath{-}0.03",
+   "src": "tools/derive_cw.py: h5.r1d7.s5.diff"
+  },
+  {
+   "key": "h5.r.r1d7.s5.diff.lo",
+   "value": "\\ensuremath{-}0.11",
+   "src": "tools/derive_cw.py: h5.r1d7.s5.diff"
+  },
+  {
+   "key": "h5.r.r1d7.s5.diff.hi",
+   "value": "+0.04",
+   "src": "tools/derive_cw.py: h5.r1d7.s5.diff"
+  }
+ ]
+}

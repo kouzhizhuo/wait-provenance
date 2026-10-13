@@ -1,0 +1,3654 @@
+{
+  "entries": [
+    {
+      "key": "bm.s1.base.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.est",
+      "value": 13.71
+    },
+    {
+      "key": "bm.s1.base.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.lo",
+      "value": 13.01
+    },
+    {
+      "key": "bm.s1.base.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.hi",
+      "value": 14.39
+    },
+    {
+      "key": "bm.s1.base.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.est",
+      "value": 4.95
+    },
+    {
+      "key": "bm.s1.base.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.lo",
+      "value": 4.62
+    },
+    {
+      "key": "bm.s1.base.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.hi",
+      "value": 5.27
+    },
+    {
+      "key": "bm.s1.base.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.est",
+      "value": 0.96
+    },
+    {
+      "key": "bm.s1.base.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.lo",
+      "value": 0.84
+    },
+    {
+      "key": "bm.s1.base.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.hi",
+      "value": 1.07
+    },
+    {
+      "key": "bm.s1.base.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.est",
+      "value": 37.9
+    },
+    {
+      "key": "bm.s1.base.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.lo",
+      "value": 34.6
+    },
+    {
+      "key": "bm.s1.base.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.hi",
+      "value": 41.0
+    },
+    {
+      "key": "bm.s1.base.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.est",
+      "value": 15.12
+    },
+    {
+      "key": "bm.s1.base.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.lo",
+      "value": 13.4
+    },
+    {
+      "key": "bm.s1.base.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.hi",
+      "value": 16.86
+    },
+    {
+      "key": "bm.s1.step0100.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.est",
+      "value": 15.08
+    },
+    {
+      "key": "bm.s1.step0100.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.lo",
+      "value": 14.59
+    },
+    {
+      "key": "bm.s1.step0100.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.hi",
+      "value": 15.56
+    },
+    {
+      "key": "bm.s1.early.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.est",
+      "value": 15.08
+    },
+    {
+      "key": "bm.s1.early.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.lo",
+      "value": 14.59
+    },
+    {
+      "key": "bm.s1.early.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.hi",
+      "value": 15.56
+    },
+    {
+      "key": "bm.s1.step0100.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.est",
+      "value": 5.72
+    },
+    {
+      "key": "bm.s1.step0100.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.lo",
+      "value": 5.49
+    },
+    {
+      "key": "bm.s1.step0100.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.hi",
+      "value": 5.96
+    },
+    {
+      "key": "bm.s1.early.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.est",
+      "value": 5.72
+    },
+    {
+      "key": "bm.s1.early.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.lo",
+      "value": 5.49
+    },
+    {
+      "key": "bm.s1.early.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.hi",
+      "value": 5.96
+    },
+    {
+      "key": "bm.s1.step0100.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.est",
+      "value": 1.55
+    },
+    {
+      "key": "bm.s1.step0100.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.lo",
+      "value": 1.41
+    },
+    {
+      "key": "bm.s1.step0100.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.hi",
+      "value": 1.7
+    },
+    {
+      "key": "bm.s1.early.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.est",
+      "value": 1.55
+    },
+    {
+      "key": "bm.s1.early.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.lo",
+      "value": 1.41
+    },
+    {
+      "key": "bm.s1.early.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.hi",
+      "value": 1.7
+    },
+    {
+      "key": "bm.s1.step0100.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.est",
+      "value": 59.6
+    },
+    {
+      "key": "bm.s1.step0100.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.lo",
+      "value": 56.2
+    },
+    {
+      "key": "bm.s1.step0100.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.hi",
+      "value": 62.9
+    },
+    {
+      "key": "bm.s1.early.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.est",
+      "value": 59.6
+    },
+    {
+      "key": "bm.s1.early.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.lo",
+      "value": 56.2
+    },
+    {
+      "key": "bm.s1.early.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.hi",
+      "value": 62.9
+    },
+    {
+      "key": "bm.s1.step0100.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.est",
+      "value": 24.17
+    },
+    {
+      "key": "bm.s1.step0100.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.lo",
+      "value": 22.07
+    },
+    {
+      "key": "bm.s1.step0100.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.hi",
+      "value": 26.5
+    },
+    {
+      "key": "bm.s1.early.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.est",
+      "value": 24.17
+    },
+    {
+      "key": "bm.s1.early.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.lo",
+      "value": 22.07
+    },
+    {
+      "key": "bm.s1.early.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.hi",
+      "value": 26.5
+    },
+    {
+      "key": "bm.s1.step0200.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.est",
+      "value": 15.64
+    },
+    {
+      "key": "bm.s1.step0200.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.lo",
+      "value": 15.15
+    },
+    {
+      "key": "bm.s1.step0200.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.hi",
+      "value": 16.15
+    },
+    {
+      "key": "bm.s1.step0200.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.est",
+      "value": 6.15
+    },
+    {
+      "key": "bm.s1.step0200.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.lo",
+      "value": 5.89
+    },
+    {
+      "key": "bm.s1.step0200.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.hi",
+      "value": 6.41
+    },
+    {
+      "key": "bm.s1.step0200.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.est",
+      "value": 1.74
+    },
+    {
+      "key": "bm.s1.step0200.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.lo",
+      "value": 1.57
+    },
+    {
+      "key": "bm.s1.step0200.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.hi",
+      "value": 1.92
+    },
+    {
+      "key": "bm.s1.step0200.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.est",
+      "value": 63.2
+    },
+    {
+      "key": "bm.s1.step0200.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.lo",
+      "value": 59.7
+    },
+    {
+      "key": "bm.s1.step0200.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.hi",
+      "value": 66.7
+    },
+    {
+      "key": "bm.s1.step0200.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.est",
+      "value": 27.32
+    },
+    {
+      "key": "bm.s1.step0200.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.lo",
+      "value": 24.98
+    },
+    {
+      "key": "bm.s1.step0200.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.hi",
+      "value": 29.76
+    },
+    {
+      "key": "bm.s1.step0400.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.est",
+      "value": 17.26
+    },
+    {
+      "key": "bm.s1.step0400.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.lo",
+      "value": 16.71
+    },
+    {
+      "key": "bm.s1.step0400.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.hi",
+      "value": 17.79
+    },
+    {
+      "key": "bm.s1.step0400.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.est",
+      "value": 7.83
+    },
+    {
+      "key": "bm.s1.step0400.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.lo",
+      "value": 7.51
+    },
+    {
+      "key": "bm.s1.step0400.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.hi",
+      "value": 8.14
+    },
+    {
+      "key": "bm.s1.step0400.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.est",
+      "value": 2.28
+    },
+    {
+      "key": "bm.s1.step0400.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.lo",
+      "value": 2.07
+    },
+    {
+      "key": "bm.s1.step0400.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.hi",
+      "value": 2.49
+    },
+    {
+      "key": "bm.s1.step0400.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.est",
+      "value": 69.3
+    },
+    {
+      "key": "bm.s1.step0400.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.lo",
+      "value": 66.0
+    },
+    {
+      "key": "bm.s1.step0400.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.hi",
+      "value": 72.4
+    },
+    {
+      "key": "bm.s1.step0400.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.est",
+      "value": 33.61
+    },
+    {
+      "key": "bm.s1.step0400.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.lo",
+      "value": 30.67
+    },
+    {
+      "key": "bm.s1.step0400.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.hi",
+      "value": 36.5
+    },
+    {
+      "key": "bm.s1.step0700.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.est",
+      "value": 17.02
+    },
+    {
+      "key": "bm.s1.step0700.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.lo",
+      "value": 16.5
+    },
+    {
+      "key": "bm.s1.step0700.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.hi",
+      "value": 17.53
+    },
+    {
+      "key": "bm.s1.mid.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.est",
+      "value": 17.02
+    },
+    {
+      "key": "bm.s1.mid.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.lo",
+      "value": 16.5
+    },
+    {
+      "key": "bm.s1.mid.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.hi",
+      "value": 17.53
+    },
+    {
+      "key": "bm.s1.step0700.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.est",
+      "value": 7.99
+    },
+    {
+      "key": "bm.s1.step0700.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.lo",
+      "value": 7.67
+    },
+    {
+      "key": "bm.s1.step0700.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.hi",
+      "value": 8.32
+    },
+    {
+      "key": "bm.s1.mid.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.est",
+      "value": 7.99
+    },
+    {
+      "key": "bm.s1.mid.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.lo",
+      "value": 7.67
+    },
+    {
+      "key": "bm.s1.mid.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.hi",
+      "value": 8.32
+    },
+    {
+      "key": "bm.s1.step0700.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.est",
+      "value": 2.23
+    },
+    {
+      "key": "bm.s1.step0700.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.lo",
+      "value": 2.04
+    },
+    {
+      "key": "bm.s1.step0700.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.hi",
+      "value": 2.42
+    },
+    {
+      "key": "bm.s1.mid.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.est",
+      "value": 2.23
+    },
+    {
+      "key": "bm.s1.mid.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.lo",
+      "value": 2.04
+    },
+    {
+      "key": "bm.s1.mid.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.hi",
+      "value": 2.42
+    },
+    {
+      "key": "bm.s1.step0700.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.est",
+      "value": 74.5
+    },
+    {
+      "key": "bm.s1.step0700.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.lo",
+      "value": 71.4
+    },
+    {
+      "key": "bm.s1.step0700.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.hi",
+      "value": 77.6
+    },
+    {
+      "key": "bm.s1.mid.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.est",
+      "value": 74.5
+    },
+    {
+      "key": "bm.s1.mid.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.lo",
+      "value": 71.4
+    },
+    {
+      "key": "bm.s1.mid.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.hi",
+      "value": 77.6
+    },
+    {
+      "key": "bm.s1.step0700.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.est",
+      "value": 35.43
+    },
+    {
+      "key": "bm.s1.step0700.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.lo",
+      "value": 32.53
+    },
+    {
+      "key": "bm.s1.step0700.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.hi",
+      "value": 38.36
+    },
+    {
+      "key": "bm.s1.mid.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.est",
+      "value": 35.43
+    },
+    {
+      "key": "bm.s1.mid.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.lo",
+      "value": 32.53
+    },
+    {
+      "key": "bm.s1.mid.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.hi",
+      "value": 38.36
+    },
+    {
+      "key": "bm.s1.step1000.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.est",
+      "value": 19.25
+    },
+    {
+      "key": "bm.s1.step1000.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.lo",
+      "value": 17.54
+    },
+    {
+      "key": "bm.s1.step1000.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.hi",
+      "value": 21.42
+    },
+    {
+      "key": "bm.s1.step1000.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.est",
+      "value": 11.95
+    },
+    {
+      "key": "bm.s1.step1000.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.lo",
+      "value": 10.24
+    },
+    {
+      "key": "bm.s1.step1000.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.hi",
+      "value": 14.17
+    },
+    {
+      "key": "bm.s1.step1000.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.est",
+      "value": 1.81
+    },
+    {
+      "key": "bm.s1.step1000.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.lo",
+      "value": 1.66
+    },
+    {
+      "key": "bm.s1.step1000.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.hi",
+      "value": 1.96
+    },
+    {
+      "key": "bm.s1.step1000.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.est",
+      "value": 69.7
+    },
+    {
+      "key": "bm.s1.step1000.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.lo",
+      "value": 66.6
+    },
+    {
+      "key": "bm.s1.step1000.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.hi",
+      "value": 72.6
+    },
+    {
+      "key": "bm.s1.step1000.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.est",
+      "value": 49.78
+    },
+    {
+      "key": "bm.s1.step1000.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.lo",
+      "value": 42.59
+    },
+    {
+      "key": "bm.s1.step1000.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.hi",
+      "value": 58.81
+    },
+    {
+      "key": "bm.s1.step1400.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.est",
+      "value": 24.66
+    },
+    {
+      "key": "bm.s1.step1400.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.lo",
+      "value": 22.12
+    },
+    {
+      "key": "bm.s1.step1400.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.hi",
+      "value": 27.88
+    },
+    {
+      "key": "bm.s1.step1400.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.est",
+      "value": 16.58
+    },
+    {
+      "key": "bm.s1.step1400.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.lo",
+      "value": 13.98
+    },
+    {
+      "key": "bm.s1.step1400.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.hi",
+      "value": 19.87
+    },
+    {
+      "key": "bm.s1.step1400.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.est",
+      "value": 3.48
+    },
+    {
+      "key": "bm.s1.step1400.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.lo",
+      "value": 3.19
+    },
+    {
+      "key": "bm.s1.step1400.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.hi",
+      "value": 3.78
+    },
+    {
+      "key": "bm.s1.step1400.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.est",
+      "value": 84.1
+    },
+    {
+      "key": "bm.s1.step1400.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.lo",
+      "value": 81.5
+    },
+    {
+      "key": "bm.s1.step1400.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.hi",
+      "value": 86.7
+    },
+    {
+      "key": "bm.s1.step1400.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.est",
+      "value": 75.64
+    },
+    {
+      "key": "bm.s1.step1400.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.lo",
+      "value": 63.99
+    },
+    {
+      "key": "bm.s1.step1400.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.hi",
+      "value": 89.79
+    },
+    {
+      "key": "bm.s1.step1900.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.est",
+      "value": 25.77
+    },
+    {
+      "key": "bm.s1.step1900.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.lo",
+      "value": 23.77
+    },
+    {
+      "key": "bm.s1.step1900.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.hi",
+      "value": 28.47
+    },
+    {
+      "key": "bm.s1.late.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.est",
+      "value": 25.77
+    },
+    {
+      "key": "bm.s1.late.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.lo",
+      "value": 23.77
+    },
+    {
+      "key": "bm.s1.late.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.hi",
+      "value": 28.47
+    },
+    {
+      "key": "bm.s1.step1900.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.est",
+      "value": 17.14
+    },
+    {
+      "key": "bm.s1.step1900.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.lo",
+      "value": 15.1
+    },
+    {
+      "key": "bm.s1.step1900.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.hi",
+      "value": 19.87
+    },
+    {
+      "key": "bm.s1.late.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.est",
+      "value": 17.14
+    },
+    {
+      "key": "bm.s1.late.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.lo",
+      "value": 15.1
+    },
+    {
+      "key": "bm.s1.late.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.hi",
+      "value": 19.87
+    },
+    {
+      "key": "bm.s1.step1900.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.est",
+      "value": 3.54
+    },
+    {
+      "key": "bm.s1.step1900.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.lo",
+      "value": 3.3
+    },
+    {
+      "key": "bm.s1.step1900.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.hi",
+      "value": 3.79
+    },
+    {
+      "key": "bm.s1.late.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.est",
+      "value": 3.54
+    },
+    {
+      "key": "bm.s1.late.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.lo",
+      "value": 3.3
+    },
+    {
+      "key": "bm.s1.late.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.hi",
+      "value": 3.79
+    },
+    {
+      "key": "bm.s1.step1900.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.est",
+      "value": 88.2
+    },
+    {
+      "key": "bm.s1.step1900.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.lo",
+      "value": 86.0
+    },
+    {
+      "key": "bm.s1.step1900.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.hi",
+      "value": 90.2
+    },
+    {
+      "key": "bm.s1.late.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.est",
+      "value": 88.2
+    },
+    {
+      "key": "bm.s1.late.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.lo",
+      "value": 86.0
+    },
+    {
+      "key": "bm.s1.late.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.hi",
+      "value": 90.2
+    },
+    {
+      "key": "bm.s1.step1900.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.est",
+      "value": 84.01
+    },
+    {
+      "key": "bm.s1.step1900.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.lo",
+      "value": 74.37
+    },
+    {
+      "key": "bm.s1.step1900.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.hi",
+      "value": 96.14
+    },
+    {
+      "key": "bm.s1.late.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.est",
+      "value": 84.01
+    },
+    {
+      "key": "bm.s1.late.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.lo",
+      "value": 74.37
+    },
+    {
+      "key": "bm.s1.late.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.hi",
+      "value": 96.14
+    },
+    {
+      "key": "bm.s1.final.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.est",
+      "value": 20.48
+    },
+    {
+      "key": "bm.s1.final.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.lo",
+      "value": 18.81
+    },
+    {
+      "key": "bm.s1.final.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1kw.hi",
+      "value": 22.78
+    },
+    {
+      "key": "bm.s1.final.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.est",
+      "value": 12.45
+    },
+    {
+      "key": "bm.s1.final.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.lo",
+      "value": 10.79
+    },
+    {
+      "key": "bm.s1.final.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::r1wait.hi",
+      "value": 14.8
+    },
+    {
+      "key": "bm.s1.final.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.est",
+      "value": 2.4
+    },
+    {
+      "key": "bm.s1.final.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.lo",
+      "value": 2.24
+    },
+    {
+      "key": "bm.s1.final.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz.hi",
+      "value": 2.56
+    },
+    {
+      "key": "bm.s1.final.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.est",
+      "value": 78.7
+    },
+    {
+      "key": "bm.s1.final.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.lo",
+      "value": 76.0
+    },
+    {
+      "key": "bm.s1.final.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::orz_reflective.hi",
+      "value": 81.4
+    },
+    {
+      "key": "bm.s1.final.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.est",
+      "value": 56.52
+    },
+    {
+      "key": "bm.s1.final.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.lo",
+      "value": 49.24
+    },
+    {
+      "key": "bm.s1.final.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1/gen/<EMAIL>::simplerl.hi",
+      "value": 66.27
+    },
+    {
+      "key": "bm.s1.trend.rho_r1kw",
+      "src": "spearman over 8 checkpoints",
+      "value": 0.98
+    },
+    {
+      "key": "bm.s1.trend.rho_r1wait",
+      "src": "spearman over 8 checkpoints",
+      "value": 1.0
+    },
+    {
+      "key": "bm.s1.trend.rho_orz",
+      "src": "spearman over 8 checkpoints",
+      "value": 0.9
+    },
+    {
+      "key": "bm.s1.trend.rho_orzrefl",
+      "src": "spearman over 8 checkpoints",
+      "value": 0.98
+    },
+    {
+      "key": "bm.s1.trend.rho_simplerl",
+      "src": "spearman over 8 checkpoints",
+      "value": 1.0
+    },
+    {
+      "key": "bm.s2.base.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.est",
+      "value": 11.43
+    },
+    {
+      "key": "bm.s2.base.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.lo",
+      "value": 10.82
+    },
+    {
+      "key": "bm.s2.base.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.hi",
+      "value": 12.07
+    },
+    {
+      "key": "bm.s2.base.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.est",
+      "value": 3.87
+    },
+    {
+      "key": "bm.s2.base.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.lo",
+      "value": 3.58
+    },
+    {
+      "key": "bm.s2.base.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.hi",
+      "value": 4.15
+    },
+    {
+      "key": "bm.s2.base.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.est",
+      "value": 1.87
+    },
+    {
+      "key": "bm.s2.base.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.lo",
+      "value": 1.64
+    },
+    {
+      "key": "bm.s2.base.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.hi",
+      "value": 2.12
+    },
+    {
+      "key": "bm.s2.base.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.est",
+      "value": 68.7
+    },
+    {
+      "key": "bm.s2.base.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.lo",
+      "value": 64.3
+    },
+    {
+      "key": "bm.s2.base.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.hi",
+      "value": 73.3
+    },
+    {
+      "key": "bm.s2.base.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.est",
+      "value": 24.66
+    },
+    {
+      "key": "bm.s2.base.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.lo",
+      "value": 21.35
+    },
+    {
+      "key": "bm.s2.base.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.hi",
+      "value": 28.04
+    },
+    {
+      "key": "bm.s2.step0025.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.est",
+      "value": 12.45
+    },
+    {
+      "key": "bm.s2.step0025.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.lo",
+      "value": 11.76
+    },
+    {
+      "key": "bm.s2.step0025.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.hi",
+      "value": 13.18
+    },
+    {
+      "key": "bm.s2.early.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.est",
+      "value": 12.45
+    },
+    {
+      "key": "bm.s2.early.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.lo",
+      "value": 11.76
+    },
+    {
+      "key": "bm.s2.early.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.hi",
+      "value": 13.18
+    },
+    {
+      "key": "bm.s2.step0025.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.est",
+      "value": 4.6
+    },
+    {
+      "key": "bm.s2.step0025.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.lo",
+      "value": 4.25
+    },
+    {
+      "key": "bm.s2.step0025.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.hi",
+      "value": 4.96
+    },
+    {
+      "key": "bm.s2.early.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.est",
+      "value": 4.6
+    },
+    {
+      "key": "bm.s2.early.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.lo",
+      "value": 4.25
+    },
+    {
+      "key": "bm.s2.early.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.hi",
+      "value": 4.96
+    },
+    {
+      "key": "bm.s2.step0025.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.est",
+      "value": 1.83
+    },
+    {
+      "key": "bm.s2.step0025.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.lo",
+      "value": 1.57
+    },
+    {
+      "key": "bm.s2.step0025.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.hi",
+      "value": 2.12
+    },
+    {
+      "key": "bm.s2.early.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.est",
+      "value": 1.83
+    },
+    {
+      "key": "bm.s2.early.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.lo",
+      "value": 1.57
+    },
+    {
+      "key": "bm.s2.early.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.hi",
+      "value": 2.12
+    },
+    {
+      "key": "bm.s2.step0025.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.est",
+      "value": 65.8
+    },
+    {
+      "key": "bm.s2.step0025.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.lo",
+      "value": 61.0
+    },
+    {
+      "key": "bm.s2.step0025.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.hi",
+      "value": 70.7
+    },
+    {
+      "key": "bm.s2.early.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.est",
+      "value": 65.8
+    },
+    {
+      "key": "bm.s2.early.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.lo",
+      "value": 61.0
+    },
+    {
+      "key": "bm.s2.early.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.hi",
+      "value": 70.7
+    },
+    {
+      "key": "bm.s2.step0025.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.est",
+      "value": 29.2
+    },
+    {
+      "key": "bm.s2.step0025.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.lo",
+      "value": 25.24
+    },
+    {
+      "key": "bm.s2.step0025.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.hi",
+      "value": 33.22
+    },
+    {
+      "key": "bm.s2.early.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.est",
+      "value": 29.2
+    },
+    {
+      "key": "bm.s2.early.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.lo",
+      "value": 25.24
+    },
+    {
+      "key": "bm.s2.early.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.hi",
+      "value": 33.22
+    },
+    {
+      "key": "bm.s2.step0100.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.est",
+      "value": 11.88
+    },
+    {
+      "key": "bm.s2.step0100.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.lo",
+      "value": 11.21
+    },
+    {
+      "key": "bm.s2.step0100.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.hi",
+      "value": 12.57
+    },
+    {
+      "key": "bm.s2.step0100.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.est",
+      "value": 4.36
+    },
+    {
+      "key": "bm.s2.step0100.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.lo",
+      "value": 4.02
+    },
+    {
+      "key": "bm.s2.step0100.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.hi",
+      "value": 4.7
+    },
+    {
+      "key": "bm.s2.step0100.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.est",
+      "value": 1.59
+    },
+    {
+      "key": "bm.s2.step0100.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.lo",
+      "value": 1.37
+    },
+    {
+      "key": "bm.s2.step0100.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.hi",
+      "value": 1.84
+    },
+    {
+      "key": "bm.s2.step0100.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.est",
+      "value": 62.2
+    },
+    {
+      "key": "bm.s2.step0100.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.lo",
+      "value": 57.3
+    },
+    {
+      "key": "bm.s2.step0100.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.hi",
+      "value": 66.8
+    },
+    {
+      "key": "bm.s2.step0100.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.est",
+      "value": 26.02
+    },
+    {
+      "key": "bm.s2.step0100.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.lo",
+      "value": 22.22
+    },
+    {
+      "key": "bm.s2.step0100.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.hi",
+      "value": 29.85
+    },
+    {
+      "key": "bm.s2.step0250.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.est",
+      "value": 10.66
+    },
+    {
+      "key": "bm.s2.step0250.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.lo",
+      "value": 10.1
+    },
+    {
+      "key": "bm.s2.step0250.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.hi",
+      "value": 11.23
+    },
+    {
+      "key": "bm.s2.step0250.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.est",
+      "value": 3.49
+    },
+    {
+      "key": "bm.s2.step0250.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.lo",
+      "value": 3.21
+    },
+    {
+      "key": "bm.s2.step0250.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.hi",
+      "value": 3.75
+    },
+    {
+      "key": "bm.s2.step0250.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.est",
+      "value": 1.54
+    },
+    {
+      "key": "bm.s2.step0250.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.lo",
+      "value": 1.34
+    },
+    {
+      "key": "bm.s2.step0250.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.hi",
+      "value": 1.78
+    },
+    {
+      "key": "bm.s2.step0250.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.est",
+      "value": 65.3
+    },
+    {
+      "key": "bm.s2.step0250.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.lo",
+      "value": 61.0
+    },
+    {
+      "key": "bm.s2.step0250.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.hi",
+      "value": 69.5
+    },
+    {
+      "key": "bm.s2.step0250.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.est",
+      "value": 21.24
+    },
+    {
+      "key": "bm.s2.step0250.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.lo",
+      "value": 18.31
+    },
+    {
+      "key": "bm.s2.step0250.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.hi",
+      "value": 24.16
+    },
+    {
+      "key": "bm.s2.step0500.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.est",
+      "value": 12.02
+    },
+    {
+      "key": "bm.s2.step0500.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.lo",
+      "value": 11.46
+    },
+    {
+      "key": "bm.s2.step0500.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.hi",
+      "value": 12.61
+    },
+    {
+      "key": "bm.s2.mid.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.est",
+      "value": 12.02
+    },
+    {
+      "key": "bm.s2.mid.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.lo",
+      "value": 11.46
+    },
+    {
+      "key": "bm.s2.mid.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.hi",
+      "value": 12.61
+    },
+    {
+      "key": "bm.s2.step0500.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.est",
+      "value": 4.43
+    },
+    {
+      "key": "bm.s2.step0500.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.lo",
+      "value": 4.13
+    },
+    {
+      "key": "bm.s2.step0500.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.hi",
+      "value": 4.73
+    },
+    {
+      "key": "bm.s2.mid.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.est",
+      "value": 4.43
+    },
+    {
+      "key": "bm.s2.mid.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.lo",
+      "value": 4.13
+    },
+    {
+      "key": "bm.s2.mid.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.hi",
+      "value": 4.73
+    },
+    {
+      "key": "bm.s2.step0500.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.est",
+      "value": 1.8
+    },
+    {
+      "key": "bm.s2.step0500.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.lo",
+      "value": 1.56
+    },
+    {
+      "key": "bm.s2.step0500.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.hi",
+      "value": 2.06
+    },
+    {
+      "key": "bm.s2.mid.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.est",
+      "value": 1.8
+    },
+    {
+      "key": "bm.s2.mid.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.lo",
+      "value": 1.56
+    },
+    {
+      "key": "bm.s2.mid.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.hi",
+      "value": 2.06
+    },
+    {
+      "key": "bm.s2.step0500.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.est",
+      "value": 66.8
+    },
+    {
+      "key": "bm.s2.step0500.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.lo",
+      "value": 62.3
+    },
+    {
+      "key": "bm.s2.step0500.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.hi",
+      "value": 71.2
+    },
+    {
+      "key": "bm.s2.mid.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.est",
+      "value": 66.8
+    },
+    {
+      "key": "bm.s2.mid.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.lo",
+      "value": 62.3
+    },
+    {
+      "key": "bm.s2.mid.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.hi",
+      "value": 71.2
+    },
+    {
+      "key": "bm.s2.step0500.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.est",
+      "value": 27.08
+    },
+    {
+      "key": "bm.s2.step0500.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.lo",
+      "value": 23.84
+    },
+    {
+      "key": "bm.s2.step0500.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.hi",
+      "value": 30.36
+    },
+    {
+      "key": "bm.s2.mid.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.est",
+      "value": 27.08
+    },
+    {
+      "key": "bm.s2.mid.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.lo",
+      "value": 23.84
+    },
+    {
+      "key": "bm.s2.mid.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.hi",
+      "value": 30.36
+    },
+    {
+      "key": "bm.s2.step0750.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.est",
+      "value": 11.64
+    },
+    {
+      "key": "bm.s2.step0750.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.lo",
+      "value": 11.15
+    },
+    {
+      "key": "bm.s2.step0750.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.hi",
+      "value": 12.14
+    },
+    {
+      "key": "bm.s2.step0750.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.est",
+      "value": 3.89
+    },
+    {
+      "key": "bm.s2.step0750.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.lo",
+      "value": 3.67
+    },
+    {
+      "key": "bm.s2.step0750.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.hi",
+      "value": 4.11
+    },
+    {
+      "key": "bm.s2.step0750.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.est",
+      "value": 2.12
+    },
+    {
+      "key": "bm.s2.step0750.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.lo",
+      "value": 1.86
+    },
+    {
+      "key": "bm.s2.step0750.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.hi",
+      "value": 2.4
+    },
+    {
+      "key": "bm.s2.step0750.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.est",
+      "value": 71.7
+    },
+    {
+      "key": "bm.s2.step0750.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.lo",
+      "value": 67.3
+    },
+    {
+      "key": "bm.s2.step0750.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.hi",
+      "value": 76.0
+    },
+    {
+      "key": "bm.s2.step0750.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.est",
+      "value": 27.37
+    },
+    {
+      "key": "bm.s2.step0750.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.lo",
+      "value": 24.26
+    },
+    {
+      "key": "bm.s2.step0750.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.hi",
+      "value": 30.32
+    },
+    {
+      "key": "bm.s2.step1000.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.est",
+      "value": 11.8
+    },
+    {
+      "key": "bm.s2.step1000.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.lo",
+      "value": 11.26
+    },
+    {
+      "key": "bm.s2.step1000.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.hi",
+      "value": 12.34
+    },
+    {
+      "key": "bm.s2.step1000.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.est",
+      "value": 4.61
+    },
+    {
+      "key": "bm.s2.step1000.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.lo",
+      "value": 4.32
+    },
+    {
+      "key": "bm.s2.step1000.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.hi",
+      "value": 4.9
+    },
+    {
+      "key": "bm.s2.step1000.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.est",
+      "value": 1.16
+    },
+    {
+      "key": "bm.s2.step1000.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.lo",
+      "value": 0.99
+    },
+    {
+      "key": "bm.s2.step1000.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.hi",
+      "value": 1.34
+    },
+    {
+      "key": "bm.s2.step1000.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.est",
+      "value": 52.0
+    },
+    {
+      "key": "bm.s2.step1000.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.lo",
+      "value": 47.5
+    },
+    {
+      "key": "bm.s2.step1000.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.hi",
+      "value": 56.7
+    },
+    {
+      "key": "bm.s2.step1000.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.est",
+      "value": 34.34
+    },
+    {
+      "key": "bm.s2.step1000.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.lo",
+      "value": 30.38
+    },
+    {
+      "key": "bm.s2.step1000.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.hi",
+      "value": 38.2
+    },
+    {
+      "key": "bm.s2.step1375.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.est",
+      "value": 11.63
+    },
+    {
+      "key": "bm.s2.step1375.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.lo",
+      "value": 11.11
+    },
+    {
+      "key": "bm.s2.step1375.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.hi",
+      "value": 12.15
+    },
+    {
+      "key": "bm.s2.late.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.est",
+      "value": 11.63
+    },
+    {
+      "key": "bm.s2.late.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.lo",
+      "value": 11.11
+    },
+    {
+      "key": "bm.s2.late.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1kw.hi",
+      "value": 12.15
+    },
+    {
+      "key": "bm.s2.step1375.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.est",
+      "value": 4.52
+    },
+    {
+      "key": "bm.s2.step1375.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.lo",
+      "value": 4.21
+    },
+    {
+      "key": "bm.s2.step1375.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.hi",
+      "value": 4.83
+    },
+    {
+      "key": "bm.s2.late.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.est",
+      "value": 4.52
+    },
+    {
+      "key": "bm.s2.late.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.lo",
+      "value": 4.21
+    },
+    {
+      "key": "bm.s2.late.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::r1wait.hi",
+      "value": 4.83
+    },
+    {
+      "key": "bm.s2.step1375.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.est",
+      "value": 1.22
+    },
+    {
+      "key": "bm.s2.step1375.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.lo",
+      "value": 1.06
+    },
+    {
+      "key": "bm.s2.step1375.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.hi",
+      "value": 1.38
+    },
+    {
+      "key": "bm.s2.late.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.est",
+      "value": 1.22
+    },
+    {
+      "key": "bm.s2.late.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.lo",
+      "value": 1.06
+    },
+    {
+      "key": "bm.s2.late.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz.hi",
+      "value": 1.38
+    },
+    {
+      "key": "bm.s2.step1375.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.est",
+      "value": 56.5
+    },
+    {
+      "key": "bm.s2.step1375.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.lo",
+      "value": 51.8
+    },
+    {
+      "key": "bm.s2.step1375.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.hi",
+      "value": 61.3
+    },
+    {
+      "key": "bm.s2.late.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.est",
+      "value": 56.5
+    },
+    {
+      "key": "bm.s2.late.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.lo",
+      "value": 51.8
+    },
+    {
+      "key": "bm.s2.late.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::orz_reflective.hi",
+      "value": 61.3
+    },
+    {
+      "key": "bm.s2.step1375.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.est",
+      "value": 32.35
+    },
+    {
+      "key": "bm.s2.step1375.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.lo",
+      "value": 28.89
+    },
+    {
+      "key": "bm.s2.step1375.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.hi",
+      "value": 35.82
+    },
+    {
+      "key": "bm.s2.late.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.est",
+      "value": 32.35
+    },
+    {
+      "key": "bm.s2.late.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.lo",
+      "value": 28.89
+    },
+    {
+      "key": "bm.s2.late.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2/gen/<EMAIL>::simplerl.hi",
+      "value": 35.82
+    },
+    {
+      "key": "bm.s2.trend.rho_r1kw",
+      "src": "spearman over 8 checkpoints",
+      "value": -0.1
+    },
+    {
+      "key": "bm.s2.trend.rho_r1wait",
+      "src": "spearman over 8 checkpoints",
+      "value": 0.4
+    },
+    {
+      "key": "bm.s2.trend.rho_orz",
+      "src": "spearman over 8 checkpoints",
+      "value": -0.55
+    },
+    {
+      "key": "bm.s2.trend.rho_orzrefl",
+      "src": "spearman over 8 checkpoints",
+      "value": -0.45
+    },
+    {
+      "key": "bm.s2.trend.rho_simplerl",
+      "src": "spearman over 8 checkpoints",
+      "value": 0.64
+    },
+    {
+      "key": "bm.s3a.base.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.est",
+      "value": 1.24
+    },
+    {
+      "key": "bm.s3a.base.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.lo",
+      "value": 1.03
+    },
+    {
+      "key": "bm.s3a.base.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.hi",
+      "value": 1.51
+    },
+    {
+      "key": "bm.s3a.base.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.est",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.base.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.base.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.hi",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.base.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.est",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.base.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.base.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.hi",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.base.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.est",
+      "value": 0.8
+    },
+    {
+      "key": "bm.s3a.base.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.lo",
+      "value": 0.4
+    },
+    {
+      "key": "bm.s3a.base.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.hi",
+      "value": 1.2
+    },
+    {
+      "key": "bm.s3a.base.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.est",
+      "value": 0.17
+    },
+    {
+      "key": "bm.s3a.base.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.lo",
+      "value": 0.14
+    },
+    {
+      "key": "bm.s3a.base.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.hi",
+      "value": 0.22
+    },
+    {
+      "key": "bm.s3a.step0100.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.est",
+      "value": 1.02
+    },
+    {
+      "key": "bm.s3a.step0100.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.lo",
+      "value": 0.91
+    },
+    {
+      "key": "bm.s3a.step0100.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.hi",
+      "value": 1.14
+    },
+    {
+      "key": "bm.s3a.step0100.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.est",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step0100.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step0100.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.hi",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step0100.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.est",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.step0100.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step0100.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.hi",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.step0100.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.est",
+      "value": 0.5
+    },
+    {
+      "key": "bm.s3a.step0100.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.lo",
+      "value": 0.2
+    },
+    {
+      "key": "bm.s3a.step0100.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.hi",
+      "value": 0.9
+    },
+    {
+      "key": "bm.s3a.step0100.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.est",
+      "value": 0.16
+    },
+    {
+      "key": "bm.s3a.step0100.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.lo",
+      "value": 0.14
+    },
+    {
+      "key": "bm.s3a.step0100.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.hi",
+      "value": 0.18
+    },
+    {
+      "key": "bm.s3a.step0300.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.est",
+      "value": 1.12
+    },
+    {
+      "key": "bm.s3a.step0300.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.lo",
+      "value": 1.0
+    },
+    {
+      "key": "bm.s3a.step0300.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.hi",
+      "value": 1.25
+    },
+    {
+      "key": "bm.s3a.early.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.est",
+      "value": 1.12
+    },
+    {
+      "key": "bm.s3a.early.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.lo",
+      "value": 1.0
+    },
+    {
+      "key": "bm.s3a.early.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.hi",
+      "value": 1.25
+    },
+    {
+      "key": "bm.s3a.step0300.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.est",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step0300.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step0300.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.hi",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.early.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.est",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.early.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.early.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.hi",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step0300.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.est",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.step0300.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.lo",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.step0300.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.hi",
+      "value": 0.02
+    },
+    {
+      "key": "bm.s3a.early.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.est",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.early.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.lo",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.early.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.hi",
+      "value": 0.02
+    },
+    {
+      "key": "bm.s3a.step0300.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.est",
+      "value": 0.9
+    },
+    {
+      "key": "bm.s3a.step0300.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.lo",
+      "value": 0.4
+    },
+    {
+      "key": "bm.s3a.step0300.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.hi",
+      "value": 1.2
+    },
+    {
+      "key": "bm.s3a.early.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.est",
+      "value": 0.9
+    },
+    {
+      "key": "bm.s3a.early.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.lo",
+      "value": 0.4
+    },
+    {
+      "key": "bm.s3a.early.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.hi",
+      "value": 1.2
+    },
+    {
+      "key": "bm.s3a.step0300.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.est",
+      "value": 0.16
+    },
+    {
+      "key": "bm.s3a.step0300.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.lo",
+      "value": 0.14
+    },
+    {
+      "key": "bm.s3a.step0300.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.hi",
+      "value": 0.18
+    },
+    {
+      "key": "bm.s3a.early.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.est",
+      "value": 0.16
+    },
+    {
+      "key": "bm.s3a.early.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.lo",
+      "value": 0.14
+    },
+    {
+      "key": "bm.s3a.early.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.hi",
+      "value": 0.18
+    },
+    {
+      "key": "bm.s3a.step0600.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.est",
+      "value": 1.11
+    },
+    {
+      "key": "bm.s3a.step0600.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.lo",
+      "value": 0.99
+    },
+    {
+      "key": "bm.s3a.step0600.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.hi",
+      "value": 1.23
+    },
+    {
+      "key": "bm.s3a.step0600.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.est",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step0600.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step0600.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.hi",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.step0600.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.est",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.step0600.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step0600.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.hi",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.step0600.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.est",
+      "value": 0.4
+    },
+    {
+      "key": "bm.s3a.step0600.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.lo",
+      "value": 0.2
+    },
+    {
+      "key": "bm.s3a.step0600.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.hi",
+      "value": 0.8
+    },
+    {
+      "key": "bm.s3a.step0600.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.est",
+      "value": 0.16
+    },
+    {
+      "key": "bm.s3a.step0600.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.lo",
+      "value": 0.14
+    },
+    {
+      "key": "bm.s3a.step0600.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.hi",
+      "value": 0.18
+    },
+    {
+      "key": "bm.s3a.step0900.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.est",
+      "value": 1.14
+    },
+    {
+      "key": "bm.s3a.step0900.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.lo",
+      "value": 1.01
+    },
+    {
+      "key": "bm.s3a.step0900.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.hi",
+      "value": 1.29
+    },
+    {
+      "key": "bm.s3a.mid.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.est",
+      "value": 1.14
+    },
+    {
+      "key": "bm.s3a.mid.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.lo",
+      "value": 1.01
+    },
+    {
+      "key": "bm.s3a.mid.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.hi",
+      "value": 1.29
+    },
+    {
+      "key": "bm.s3a.step0900.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.est",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step0900.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step0900.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.hi",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.mid.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.est",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.mid.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.mid.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.hi",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step0900.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.est",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.step0900.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step0900.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.hi",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.mid.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.est",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.mid.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.mid.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.hi",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.step0900.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.est",
+      "value": 0.7
+    },
+    {
+      "key": "bm.s3a.step0900.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.lo",
+      "value": 0.4
+    },
+    {
+      "key": "bm.s3a.step0900.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.hi",
+      "value": 1.1
+    },
+    {
+      "key": "bm.s3a.mid.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.est",
+      "value": 0.7
+    },
+    {
+      "key": "bm.s3a.mid.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.lo",
+      "value": 0.4
+    },
+    {
+      "key": "bm.s3a.mid.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.hi",
+      "value": 1.1
+    },
+    {
+      "key": "bm.s3a.step0900.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.est",
+      "value": 0.16
+    },
+    {
+      "key": "bm.s3a.step0900.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.lo",
+      "value": 0.14
+    },
+    {
+      "key": "bm.s3a.step0900.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.hi",
+      "value": 0.18
+    },
+    {
+      "key": "bm.s3a.mid.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.est",
+      "value": 0.16
+    },
+    {
+      "key": "bm.s3a.mid.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.lo",
+      "value": 0.14
+    },
+    {
+      "key": "bm.s3a.mid.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.hi",
+      "value": 0.18
+    },
+    {
+      "key": "bm.s3a.step1200.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.est",
+      "value": 1.16
+    },
+    {
+      "key": "bm.s3a.step1200.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.lo",
+      "value": 1.05
+    },
+    {
+      "key": "bm.s3a.step1200.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.hi",
+      "value": 1.29
+    },
+    {
+      "key": "bm.s3a.step1200.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.est",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step1200.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step1200.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.hi",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step1200.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.est",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.step1200.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step1200.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.hi",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.step1200.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.est",
+      "value": 0.7
+    },
+    {
+      "key": "bm.s3a.step1200.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.lo",
+      "value": 0.4
+    },
+    {
+      "key": "bm.s3a.step1200.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.hi",
+      "value": 1.1
+    },
+    {
+      "key": "bm.s3a.step1200.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.est",
+      "value": 0.17
+    },
+    {
+      "key": "bm.s3a.step1200.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.lo",
+      "value": 0.14
+    },
+    {
+      "key": "bm.s3a.step1200.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.hi",
+      "value": 0.19
+    },
+    {
+      "key": "bm.s3a.step1566.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.est",
+      "value": 1.13
+    },
+    {
+      "key": "bm.s3a.step1566.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.lo",
+      "value": 1.0
+    },
+    {
+      "key": "bm.s3a.step1566.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.hi",
+      "value": 1.26
+    },
+    {
+      "key": "bm.s3a.late.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.est",
+      "value": 1.13
+    },
+    {
+      "key": "bm.s3a.late.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.lo",
+      "value": 1.0
+    },
+    {
+      "key": "bm.s3a.late.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1kw.hi",
+      "value": 1.26
+    },
+    {
+      "key": "bm.s3a.step1566.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.est",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step1566.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step1566.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.hi",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.late.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.est",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.late.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.late.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::r1wait.hi",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step1566.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.est",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.step1566.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.step1566.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.hi",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.late.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.est",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.late.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.lo",
+      "value": 0.0
+    },
+    {
+      "key": "bm.s3a.late.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz.hi",
+      "value": 0.01
+    },
+    {
+      "key": "bm.s3a.step1566.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.est",
+      "value": 0.8
+    },
+    {
+      "key": "bm.s3a.step1566.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.lo",
+      "value": 0.4
+    },
+    {
+      "key": "bm.s3a.step1566.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.hi",
+      "value": 1.1
+    },
+    {
+      "key": "bm.s3a.late.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.est",
+      "value": 0.8
+    },
+    {
+      "key": "bm.s3a.late.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.lo",
+      "value": 0.4
+    },
+    {
+      "key": "bm.s3a.late.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::orz_reflective.hi",
+      "value": 1.1
+    },
+    {
+      "key": "bm.s3a.step1566.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.est",
+      "value": 0.15
+    },
+    {
+      "key": "bm.s3a.step1566.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.lo",
+      "value": 0.13
+    },
+    {
+      "key": "bm.s3a.step1566.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.hi",
+      "value": 0.17
+    },
+    {
+      "key": "bm.s3a.late.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.est",
+      "value": 0.15
+    },
+    {
+      "key": "bm.s3a.late.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.lo",
+      "value": 0.13
+    },
+    {
+      "key": "bm.s3a.late.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S3/gen/<EMAIL>::simplerl.hi",
+      "value": 0.17
+    },
+    {
+      "key": "bm.s3a.trend.rho_r1kw",
+      "src": "spearman over 7 checkpoints",
+      "value": 0.11
+    },
+    {
+      "key": "bm.s3a.trend.rho_r1wait",
+      "src": "spearman over 7 checkpoints",
+      "value": -0.2
+    },
+    {
+      "key": "bm.s3a.trend.rho_orz",
+      "src": "spearman over 7 checkpoints",
+      "value": -0.09
+    },
+    {
+      "key": "bm.s3a.trend.rho_orzrefl",
+      "src": "spearman over 7 checkpoints",
+      "value": -0.13
+    },
+    {
+      "key": "bm.s3a.trend.rho_simplerl",
+      "src": "spearman over 7 checkpoints",
+      "value": -0.39
+    },
+    {
+      "key": "bm.s1pre.stage1-step141000.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.est",
+      "value": 1.86
+    },
+    {
+      "key": "bm.s1pre.stage1-step141000.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.lo",
+      "value": 1.63
+    },
+    {
+      "key": "bm.s1pre.stage1-step141000.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.hi",
+      "value": 2.14
+    },
+    {
+      "key": "bm.s1pre.stage1-step141000.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.est",
+      "value": 0.04
+    },
+    {
+      "key": "bm.s1pre.stage1-step141000.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.lo",
+      "value": 0.03
+    },
+    {
+      "key": "bm.s1pre.stage1-step141000.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.hi",
+      "value": 0.05
+    },
+    {
+      "key": "bm.s1pre.stage1-step141000.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.est",
+      "value": 0.03
+    },
+    {
+      "key": "bm.s1pre.stage1-step141000.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.lo",
+      "value": 0.02
+    },
+    {
+      "key": "bm.s1pre.stage1-step141000.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.hi",
+      "value": 0.04
+    },
+    {
+      "key": "bm.s1pre.stage1-step141000.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.est",
+      "value": 2.9
+    },
+    {
+      "key": "bm.s1pre.stage1-step141000.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.lo",
+      "value": 1.9
+    },
+    {
+      "key": "bm.s1pre.stage1-step141000.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.hi",
+      "value": 3.9
+    },
+    {
+      "key": "bm.s1pre.stage1-step141000.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.est",
+      "value": 0.26
+    },
+    {
+      "key": "bm.s1pre.stage1-step141000.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.lo",
+      "value": 0.22
+    },
+    {
+      "key": "bm.s1pre.stage1-step141000.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.hi",
+      "value": 0.31
+    },
+    {
+      "key": "bm.s1pre.stage1-step707000.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.est",
+      "value": 2.13
+    },
+    {
+      "key": "bm.s1pre.stage1-step707000.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.lo",
+      "value": 1.96
+    },
+    {
+      "key": "bm.s1pre.stage1-step707000.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.hi",
+      "value": 2.3
+    },
+    {
+      "key": "bm.s1pre.stage1-step707000.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.est",
+      "value": 0.03
+    },
+    {
+      "key": "bm.s1pre.stage1-step707000.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.lo",
+      "value": 0.02
+    },
+    {
+      "key": "bm.s1pre.stage1-step707000.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.hi",
+      "value": 0.04
+    },
+    {
+      "key": "bm.s1pre.stage1-step707000.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.est",
+      "value": 0.03
+    },
+    {
+      "key": "bm.s1pre.stage1-step707000.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.lo",
+      "value": 0.02
+    },
+    {
+      "key": "bm.s1pre.stage1-step707000.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.hi",
+      "value": 0.04
+    },
+    {
+      "key": "bm.s1pre.stage1-step707000.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.est",
+      "value": 2.9
+    },
+    {
+      "key": "bm.s1pre.stage1-step707000.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.lo",
+      "value": 1.9
+    },
+    {
+      "key": "bm.s1pre.stage1-step707000.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.hi",
+      "value": 3.9
+    },
+    {
+      "key": "bm.s1pre.stage1-step707000.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.est",
+      "value": 0.28
+    },
+    {
+      "key": "bm.s1pre.stage1-step707000.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.lo",
+      "value": 0.23
+    },
+    {
+      "key": "bm.s1pre.stage1-step707000.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.hi",
+      "value": 0.33
+    },
+    {
+      "key": "bm.s1pre.stage1-step1413814.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.est",
+      "value": 2.55
+    },
+    {
+      "key": "bm.s1pre.stage1-step1413814.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.lo",
+      "value": 2.31
+    },
+    {
+      "key": "bm.s1pre.stage1-step1413814.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.hi",
+      "value": 2.8
+    },
+    {
+      "key": "bm.s1pre.stage1-step1413814.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.est",
+      "value": 0.04
+    },
+    {
+      "key": "bm.s1pre.stage1-step1413814.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.lo",
+      "value": 0.03
+    },
+    {
+      "key": "bm.s1pre.stage1-step1413814.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.hi",
+      "value": 0.06
+    },
+    {
+      "key": "bm.s1pre.stage1-step1413814.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.est",
+      "value": 0.04
+    },
+    {
+      "key": "bm.s1pre.stage1-step1413814.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.lo",
+      "value": 0.02
+    },
+    {
+      "key": "bm.s1pre.stage1-step1413814.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.hi",
+      "value": 0.05
+    },
+    {
+      "key": "bm.s1pre.stage1-step1413814.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.est",
+      "value": 3.1
+    },
+    {
+      "key": "bm.s1pre.stage1-step1413814.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.lo",
+      "value": 2.0
+    },
+    {
+      "key": "bm.s1pre.stage1-step1413814.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.hi",
+      "value": 4.2
+    },
+    {
+      "key": "bm.s1pre.stage1-step1413814.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.est",
+      "value": 0.2
+    },
+    {
+      "key": "bm.s1pre.stage1-step1413814.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.lo",
+      "value": 0.16
+    },
+    {
+      "key": "bm.s1pre.stage1-step1413814.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.hi",
+      "value": 0.24
+    },
+    {
+      "key": "bm.s1pre.stage2-step47684.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.est",
+      "value": 11.83
+    },
+    {
+      "key": "bm.s1pre.stage2-step47684.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.lo",
+      "value": 10.98
+    },
+    {
+      "key": "bm.s1pre.stage2-step47684.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.hi",
+      "value": 12.65
+    },
+    {
+      "key": "bm.s1pre.stage2-step47684.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.est",
+      "value": 4.04
+    },
+    {
+      "key": "bm.s1pre.stage2-step47684.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.lo",
+      "value": 3.68
+    },
+    {
+      "key": "bm.s1pre.stage2-step47684.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.hi",
+      "value": 4.41
+    },
+    {
+      "key": "bm.s1pre.stage2-step47684.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.est",
+      "value": 0.49
+    },
+    {
+      "key": "bm.s1pre.stage2-step47684.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.lo",
+      "value": 0.4
+    },
+    {
+      "key": "bm.s1pre.stage2-step47684.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.hi",
+      "value": 0.59
+    },
+    {
+      "key": "bm.s1pre.stage2-step47684.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.est",
+      "value": 18.7
+    },
+    {
+      "key": "bm.s1pre.stage2-step47684.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.lo",
+      "value": 16.2
+    },
+    {
+      "key": "bm.s1pre.stage2-step47684.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.hi",
+      "value": 21.2
+    },
+    {
+      "key": "bm.s1pre.stage2-step47684.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.est",
+      "value": 6.95
+    },
+    {
+      "key": "bm.s1pre.stage2-step47684.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.lo",
+      "value": 5.91
+    },
+    {
+      "key": "bm.s1pre.stage2-step47684.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.hi",
+      "value": 8.11
+    },
+    {
+      "key": "bm.s1pre.stage3-step6000.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.est",
+      "value": 15.18
+    },
+    {
+      "key": "bm.s1pre.stage3-step6000.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.lo",
+      "value": 14.48
+    },
+    {
+      "key": "bm.s1pre.stage3-step6000.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.hi",
+      "value": 15.85
+    },
+    {
+      "key": "bm.s1pre.stage3-step6000.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.est",
+      "value": 5.95
+    },
+    {
+      "key": "bm.s1pre.stage3-step6000.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.lo",
+      "value": 5.62
+    },
+    {
+      "key": "bm.s1pre.stage3-step6000.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.hi",
+      "value": 6.28
+    },
+    {
+      "key": "bm.s1pre.stage3-step6000.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.est",
+      "value": 1.09
+    },
+    {
+      "key": "bm.s1pre.stage3-step6000.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.lo",
+      "value": 0.96
+    },
+    {
+      "key": "bm.s1pre.stage3-step6000.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.hi",
+      "value": 1.24
+    },
+    {
+      "key": "bm.s1pre.stage3-step6000.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.est",
+      "value": 37.2
+    },
+    {
+      "key": "bm.s1pre.stage3-step6000.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.lo",
+      "value": 34.0
+    },
+    {
+      "key": "bm.s1pre.stage3-step6000.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.hi",
+      "value": 40.5
+    },
+    {
+      "key": "bm.s1pre.stage3-step6000.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.est",
+      "value": 18.0
+    },
+    {
+      "key": "bm.s1pre.stage3-step6000.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.lo",
+      "value": 15.91
+    },
+    {
+      "key": "bm.s1pre.stage3-step6000.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.hi",
+      "value": 20.12
+    },
+    {
+      "key": "bm.s1pre.stage3-step11921.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.est",
+      "value": 13.71
+    },
+    {
+      "key": "bm.s1pre.stage3-step11921.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.lo",
+      "value": 13.01
+    },
+    {
+      "key": "bm.s1pre.stage3-step11921.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1kw.hi",
+      "value": 14.39
+    },
+    {
+      "key": "bm.s1pre.stage3-step11921.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.est",
+      "value": 4.95
+    },
+    {
+      "key": "bm.s1pre.stage3-step11921.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.lo",
+      "value": 4.62
+    },
+    {
+      "key": "bm.s1pre.stage3-step11921.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::r1wait.hi",
+      "value": 5.27
+    },
+    {
+      "key": "bm.s1pre.stage3-step11921.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.est",
+      "value": 0.96
+    },
+    {
+      "key": "bm.s1pre.stage3-step11921.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.lo",
+      "value": 0.84
+    },
+    {
+      "key": "bm.s1pre.stage3-step11921.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz.hi",
+      "value": 1.07
+    },
+    {
+      "key": "bm.s1pre.stage3-step11921.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.est",
+      "value": 37.9
+    },
+    {
+      "key": "bm.s1pre.stage3-step11921.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.lo",
+      "value": 34.6
+    },
+    {
+      "key": "bm.s1pre.stage3-step11921.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::orz_reflective.hi",
+      "value": 41.0
+    },
+    {
+      "key": "bm.s1pre.stage3-step11921.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.est",
+      "value": 15.12
+    },
+    {
+      "key": "bm.s1pre.stage3-step11921.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.lo",
+      "value": 13.4
+    },
+    {
+      "key": "bm.s1pre.stage3-step11921.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1pre/gen/<EMAIL>::simplerl.hi",
+      "value": 16.86
+    },
+    {
+      "key": "bm.s1pre.trend.rho_r1kw",
+      "src": "spearman over 6 checkpoints",
+      "value": 0.94
+    },
+    {
+      "key": "bm.s1pre.trend.rho_r1wait",
+      "src": "spearman over 6 checkpoints",
+      "value": 0.89
+    },
+    {
+      "key": "bm.s1pre.trend.rho_orz",
+      "src": "spearman over 6 checkpoints",
+      "value": 0.94
+    },
+    {
+      "key": "bm.s1pre.trend.rho_orzrefl",
+      "src": "spearman over 6 checkpoints",
+      "value": 0.99
+    },
+    {
+      "key": "bm.s1pre.trend.rho_simplerl",
+      "src": "spearman over 6 checkpoints",
+      "value": 0.77
+    },
+    {
+      "key": "bm.s2ctl.step5000.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.est",
+      "value": 13.75
+    },
+    {
+      "key": "bm.s2ctl.step5000.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.lo",
+      "value": 13.09
+    },
+    {
+      "key": "bm.s2ctl.step5000.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.hi",
+      "value": 14.44
+    },
+    {
+      "key": "bm.s2ctl.early.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.est",
+      "value": 13.75
+    },
+    {
+      "key": "bm.s2ctl.early.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.lo",
+      "value": 13.09
+    },
+    {
+      "key": "bm.s2ctl.early.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.hi",
+      "value": 14.44
+    },
+    {
+      "key": "bm.s2ctl.step5000.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.est",
+      "value": 5.13
+    },
+    {
+      "key": "bm.s2ctl.step5000.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.lo",
+      "value": 4.8
+    },
+    {
+      "key": "bm.s2ctl.step5000.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.hi",
+      "value": 5.46
+    },
+    {
+      "key": "bm.s2ctl.early.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.est",
+      "value": 5.13
+    },
+    {
+      "key": "bm.s2ctl.early.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.lo",
+      "value": 4.8
+    },
+    {
+      "key": "bm.s2ctl.early.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.hi",
+      "value": 5.46
+    },
+    {
+      "key": "bm.s2ctl.step5000.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.est",
+      "value": 1.11
+    },
+    {
+      "key": "bm.s2ctl.step5000.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.lo",
+      "value": 0.96
+    },
+    {
+      "key": "bm.s2ctl.step5000.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.hi",
+      "value": 1.27
+    },
+    {
+      "key": "bm.s2ctl.early.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.est",
+      "value": 1.11
+    },
+    {
+      "key": "bm.s2ctl.early.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.lo",
+      "value": 0.96
+    },
+    {
+      "key": "bm.s2ctl.early.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.hi",
+      "value": 1.27
+    },
+    {
+      "key": "bm.s2ctl.step5000.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.est",
+      "value": 51.2
+    },
+    {
+      "key": "bm.s2ctl.step5000.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.lo",
+      "value": 46.3
+    },
+    {
+      "key": "bm.s2ctl.step5000.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.hi",
+      "value": 56.2
+    },
+    {
+      "key": "bm.s2ctl.early.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.est",
+      "value": 51.2
+    },
+    {
+      "key": "bm.s2ctl.early.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.lo",
+      "value": 46.3
+    },
+    {
+      "key": "bm.s2ctl.early.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.hi",
+      "value": 56.2
+    },
+    {
+      "key": "bm.s2ctl.step5000.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.est",
+      "value": 44.58
+    },
+    {
+      "key": "bm.s2ctl.step5000.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.lo",
+      "value": 39.43
+    },
+    {
+      "key": "bm.s2ctl.step5000.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.hi",
+      "value": 49.49
+    },
+    {
+      "key": "bm.s2ctl.early.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.est",
+      "value": 44.58
+    },
+    {
+      "key": "bm.s2ctl.early.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.lo",
+      "value": 39.43
+    },
+    {
+      "key": "bm.s2ctl.early.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.hi",
+      "value": 49.49
+    },
+    {
+      "key": "bm.s2ctl.step15000.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.est",
+      "value": 13.86
+    },
+    {
+      "key": "bm.s2ctl.step15000.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.lo",
+      "value": 13.0
+    },
+    {
+      "key": "bm.s2ctl.step15000.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.hi",
+      "value": 14.74
+    },
+    {
+      "key": "bm.s2ctl.step15000.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.est",
+      "value": 5.39
+    },
+    {
+      "key": "bm.s2ctl.step15000.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.lo",
+      "value": 4.85
+    },
+    {
+      "key": "bm.s2ctl.step15000.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.hi",
+      "value": 6.08
+    },
+    {
+      "key": "bm.s2ctl.step15000.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.est",
+      "value": 0.89
+    },
+    {
+      "key": "bm.s2ctl.step15000.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.lo",
+      "value": 0.75
+    },
+    {
+      "key": "bm.s2ctl.step15000.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.hi",
+      "value": 1.04
+    },
+    {
+      "key": "bm.s2ctl.step15000.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.est",
+      "value": 43.8
+    },
+    {
+      "key": "bm.s2ctl.step15000.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.lo",
+      "value": 39.2
+    },
+    {
+      "key": "bm.s2ctl.step15000.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.hi",
+      "value": 48.5
+    },
+    {
+      "key": "bm.s2ctl.step15000.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.est",
+      "value": 35.37
+    },
+    {
+      "key": "bm.s2ctl.step15000.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.lo",
+      "value": 30.47
+    },
+    {
+      "key": "bm.s2ctl.step15000.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.hi",
+      "value": 40.66
+    },
+    {
+      "key": "bm.s2ctl.step25000.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.est",
+      "value": 12.96
+    },
+    {
+      "key": "bm.s2ctl.step25000.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.lo",
+      "value": 12.32
+    },
+    {
+      "key": "bm.s2ctl.step25000.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.hi",
+      "value": 13.6
+    },
+    {
+      "key": "bm.s2ctl.mid.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.est",
+      "value": 12.96
+    },
+    {
+      "key": "bm.s2ctl.mid.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.lo",
+      "value": 12.32
+    },
+    {
+      "key": "bm.s2ctl.mid.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.hi",
+      "value": 13.6
+    },
+    {
+      "key": "bm.s2ctl.step25000.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.est",
+      "value": 4.8
+    },
+    {
+      "key": "bm.s2ctl.step25000.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.lo",
+      "value": 4.47
+    },
+    {
+      "key": "bm.s2ctl.step25000.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.hi",
+      "value": 5.13
+    },
+    {
+      "key": "bm.s2ctl.mid.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.est",
+      "value": 4.8
+    },
+    {
+      "key": "bm.s2ctl.mid.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.lo",
+      "value": 4.47
+    },
+    {
+      "key": "bm.s2ctl.mid.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.hi",
+      "value": 5.13
+    },
+    {
+      "key": "bm.s2ctl.step25000.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.est",
+      "value": 0.8
+    },
+    {
+      "key": "bm.s2ctl.step25000.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.lo",
+      "value": 0.68
+    },
+    {
+      "key": "bm.s2ctl.step25000.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.hi",
+      "value": 0.95
+    },
+    {
+      "key": "bm.s2ctl.mid.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.est",
+      "value": 0.8
+    },
+    {
+      "key": "bm.s2ctl.mid.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.lo",
+      "value": 0.68
+    },
+    {
+      "key": "bm.s2ctl.mid.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.hi",
+      "value": 0.95
+    },
+    {
+      "key": "bm.s2ctl.step25000.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.est",
+      "value": 43.7
+    },
+    {
+      "key": "bm.s2ctl.step25000.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.lo",
+      "value": 39.2
+    },
+    {
+      "key": "bm.s2ctl.step25000.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.hi",
+      "value": 48.5
+    },
+    {
+      "key": "bm.s2ctl.mid.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.est",
+      "value": 43.7
+    },
+    {
+      "key": "bm.s2ctl.mid.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.lo",
+      "value": 39.2
+    },
+    {
+      "key": "bm.s2ctl.mid.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.hi",
+      "value": 48.5
+    },
+    {
+      "key": "bm.s2ctl.step25000.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.est",
+      "value": 34.2
+    },
+    {
+      "key": "bm.s2ctl.step25000.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.lo",
+      "value": 29.82
+    },
+    {
+      "key": "bm.s2ctl.step25000.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.hi",
+      "value": 38.54
+    },
+    {
+      "key": "bm.s2ctl.mid.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.est",
+      "value": 34.2
+    },
+    {
+      "key": "bm.s2ctl.mid.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.lo",
+      "value": 29.82
+    },
+    {
+      "key": "bm.s2ctl.mid.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.hi",
+      "value": 38.54
+    },
+    {
+      "key": "bm.s2ctl.step35000.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.est",
+      "value": 12.31
+    },
+    {
+      "key": "bm.s2ctl.step35000.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.lo",
+      "value": 11.67
+    },
+    {
+      "key": "bm.s2ctl.step35000.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.hi",
+      "value": 13.02
+    },
+    {
+      "key": "bm.s2ctl.step35000.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.est",
+      "value": 4.44
+    },
+    {
+      "key": "bm.s2ctl.step35000.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.lo",
+      "value": 4.14
+    },
+    {
+      "key": "bm.s2ctl.step35000.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.hi",
+      "value": 4.76
+    },
+    {
+      "key": "bm.s2ctl.step35000.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.est",
+      "value": 0.76
+    },
+    {
+      "key": "bm.s2ctl.step35000.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.lo",
+      "value": 0.65
+    },
+    {
+      "key": "bm.s2ctl.step35000.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.hi",
+      "value": 0.87
+    },
+    {
+      "key": "bm.s2ctl.step35000.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.est",
+      "value": 43.0
+    },
+    {
+      "key": "bm.s2ctl.step35000.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.lo",
+      "value": 38.5
+    },
+    {
+      "key": "bm.s2ctl.step35000.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.hi",
+      "value": 47.5
+    },
+    {
+      "key": "bm.s2ctl.step35000.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.est",
+      "value": 31.64
+    },
+    {
+      "key": "bm.s2ctl.step35000.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.lo",
+      "value": 27.71
+    },
+    {
+      "key": "bm.s2ctl.step35000.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.hi",
+      "value": 35.68
+    },
+    {
+      "key": "bm.s2ctl.step43000.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.est",
+      "value": 12.77
+    },
+    {
+      "key": "bm.s2ctl.step43000.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.lo",
+      "value": 12.12
+    },
+    {
+      "key": "bm.s2ctl.step43000.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.hi",
+      "value": 13.43
+    },
+    {
+      "key": "bm.s2ctl.late.r1kw",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.est",
+      "value": 12.77
+    },
+    {
+      "key": "bm.s2ctl.late.r1kw.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.lo",
+      "value": 12.12
+    },
+    {
+      "key": "bm.s2ctl.late.r1kw.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1kw.hi",
+      "value": 13.43
+    },
+    {
+      "key": "bm.s2ctl.step43000.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.est",
+      "value": 4.79
+    },
+    {
+      "key": "bm.s2ctl.step43000.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.lo",
+      "value": 4.45
+    },
+    {
+      "key": "bm.s2ctl.step43000.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.hi",
+      "value": 5.1
+    },
+    {
+      "key": "bm.s2ctl.late.r1wait",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.est",
+      "value": 4.79
+    },
+    {
+      "key": "bm.s2ctl.late.r1wait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.lo",
+      "value": 4.45
+    },
+    {
+      "key": "bm.s2ctl.late.r1wait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::r1wait.hi",
+      "value": 5.1
+    },
+    {
+      "key": "bm.s2ctl.step43000.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.est",
+      "value": 0.87
+    },
+    {
+      "key": "bm.s2ctl.step43000.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.lo",
+      "value": 0.74
+    },
+    {
+      "key": "bm.s2ctl.step43000.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.hi",
+      "value": 1.01
+    },
+    {
+      "key": "bm.s2ctl.late.orz",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.est",
+      "value": 0.87
+    },
+    {
+      "key": "bm.s2ctl.late.orz.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.lo",
+      "value": 0.74
+    },
+    {
+      "key": "bm.s2ctl.late.orz.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz.hi",
+      "value": 1.01
+    },
+    {
+      "key": "bm.s2ctl.step43000.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.est",
+      "value": 45.0
+    },
+    {
+      "key": "bm.s2ctl.step43000.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.lo",
+      "value": 40.2
+    },
+    {
+      "key": "bm.s2ctl.step43000.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.hi",
+      "value": 49.7
+    },
+    {
+      "key": "bm.s2ctl.late.orzrefl",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.est",
+      "value": 45.0
+    },
+    {
+      "key": "bm.s2ctl.late.orzrefl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.lo",
+      "value": 40.2
+    },
+    {
+      "key": "bm.s2ctl.late.orzrefl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::orz_reflective.hi",
+      "value": 49.7
+    },
+    {
+      "key": "bm.s2ctl.step43000.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.est",
+      "value": 32.38
+    },
+    {
+      "key": "bm.s2ctl.step43000.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.lo",
+      "value": 28.2
+    },
+    {
+      "key": "bm.s2ctl.step43000.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.hi",
+      "value": 36.59
+    },
+    {
+      "key": "bm.s2ctl.late.simplerl",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.est",
+      "value": 32.38
+    },
+    {
+      "key": "bm.s2ctl.late.simplerl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.lo",
+      "value": 28.2
+    },
+    {
+      "key": "bm.s2ctl.late.simplerl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/gen/<EMAIL>::simplerl.hi",
+      "value": 36.59
+    },
+    {
+      "key": "bm.s2ctl.trend.rho_r1kw",
+      "src": "spearman over 5 checkpoints",
+      "value": -0.8
+    },
+    {
+      "key": "bm.s2ctl.trend.rho_r1wait",
+      "src": "spearman over 5 checkpoints",
+      "value": -0.8
+    },
+    {
+      "key": "bm.s2ctl.trend.rho_orz",
+      "src": "spearman over 5 checkpoints",
+      "value": -0.7
+    },
+    {
+      "key": "bm.s2ctl.trend.rho_orzrefl",
+      "src": "spearman over 5 checkpoints",
+      "value": -0.4
+    },
+    {
+      "key": "bm.s2ctl.trend.rho_simplerl",
+      "src": "spearman over 5 checkpoints",
+      "value": -0.9
+    }
+  ]
+}

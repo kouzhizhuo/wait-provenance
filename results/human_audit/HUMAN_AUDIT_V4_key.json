@@ -1,0 +1,1616 @@
+{
+  "items": {
+    "V4-001": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "408",
+        "sid": "1"
+      },
+      "sentence_index": 107,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-002": {
+      "N_cell": 89259,
+      "checkpoint": "1900",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "205",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 165,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 11157.375
+    },
+    "V4-003": {
+      "N_cell": 22401,
+      "checkpoint": "base",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "217",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 14,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 2800.125
+    },
+    "V4-004": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "264",
+        "sid": "1"
+      },
+      "sentence_index": 213,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-005": {
+      "N_cell": 1033,
+      "checkpoint": "1900",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "109",
+        "sid": "1"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 463,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 129.125
+    },
+    "V4-006": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "198",
+        "sid": "1"
+      },
+      "sentence_index": 20,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-007": {
+      "N_cell": 1033,
+      "checkpoint": "1900",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "222",
+        "sid": "0"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 49,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 129.125
+    },
+    "V4-008": {
+      "N_cell": 2593,
+      "checkpoint": "1900",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "373",
+        "sid": "1"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 281,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 370.42857142857144
+    },
+    "V4-009": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "365",
+        "sid": "0"
+      },
+      "sentence_index": 88,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-010": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "243",
+        "sid": "1"
+      },
+      "sentence_index": 36,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-011": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "186",
+        "sid": "1"
+      },
+      "sentence_index": 8,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-012": {
+      "N_cell": 2593,
+      "checkpoint": "1900",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "150",
+        "sid": "0"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 379,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 370.42857142857144
+    },
+    "V4-013": {
+      "N_cell": 2101,
+      "checkpoint": "base",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "407",
+        "sid": "1"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 54,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 300.14285714285717
+    },
+    "V4-014": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "282",
+        "sid": "0"
+      },
+      "sentence_index": 101,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-015": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "168",
+        "sid": "1"
+      },
+      "sentence_index": 106,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-016": {
+      "N_cell": 22401,
+      "checkpoint": "base",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "296",
+        "sid": "1"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 137,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 2800.125
+    },
+    "V4-017": {
+      "N_cell": 2593,
+      "checkpoint": "1900",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "118",
+        "sid": "1"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 453,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 370.42857142857144
+    },
+    "V4-018": {
+      "N_cell": 95181,
+      "checkpoint": "base",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "24",
+        "sid": "1"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 112,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 13597.285714285714
+    },
+    "V4-019": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "51",
+        "sid": "1"
+      },
+      "sentence_index": 107,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-020": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "429",
+        "sid": "0"
+      },
+      "sentence_index": 182,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-021": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "219",
+        "sid": "0"
+      },
+      "sentence_index": 82,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-022": {
+      "N_cell": 1033,
+      "checkpoint": "1900",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "73",
+        "sid": "1"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 153,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 129.125
+    },
+    "V4-023": {
+      "N_cell": 22401,
+      "checkpoint": "base",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "494",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 365,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 2800.125
+    },
+    "V4-024": {
+      "N_cell": 95181,
+      "checkpoint": "base",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "390",
+        "sid": "1"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 40,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 13597.285714285714
+    },
+    "V4-025": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "306",
+        "sid": "0"
+      },
+      "sentence_index": 156,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-026": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "344",
+        "sid": "1"
+      },
+      "sentence_index": 1,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-027": {
+      "N_cell": 95181,
+      "checkpoint": "base",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "238",
+        "sid": "1"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 4,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 13597.285714285714
+    },
+    "V4-028": {
+      "N_cell": 1033,
+      "checkpoint": "1900",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "218",
+        "sid": "1"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 47,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 129.125
+    },
+    "V4-029": {
+      "N_cell": 269438,
+      "checkpoint": "1900",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "153",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 167,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 38491.142857142855
+    },
+    "V4-030": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "320",
+        "sid": "1"
+      },
+      "sentence_index": 91,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-031": {
+      "N_cell": 89259,
+      "checkpoint": "1900",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "2",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 882,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 11157.375
+    },
+    "V4-032": {
+      "N_cell": 89259,
+      "checkpoint": "1900",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "271",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 331,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 11157.375
+    },
+    "V4-033": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "263",
+        "sid": "1"
+      },
+      "sentence_index": 285,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-034": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "110",
+        "sid": "0"
+      },
+      "sentence_index": 182,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-035": {
+      "N_cell": 95181,
+      "checkpoint": "base",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "311",
+        "sid": "1"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 44,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 13597.285714285714
+    },
+    "V4-036": {
+      "N_cell": 269438,
+      "checkpoint": "1900",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "168",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 612,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 38491.142857142855
+    },
+    "V4-037": {
+      "N_cell": 22401,
+      "checkpoint": "base",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "128",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 46,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 2800.125
+    },
+    "V4-038": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "311",
+        "sid": "0"
+      },
+      "sentence_index": 383,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-039": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "332",
+        "sid": "1"
+      },
+      "sentence_index": 772,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-040": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "455",
+        "sid": "1"
+      },
+      "sentence_index": 415,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-041": {
+      "N_cell": 89259,
+      "checkpoint": "1900",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "314",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 127,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 11157.375
+    },
+    "V4-042": {
+      "N_cell": 95181,
+      "checkpoint": "base",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "350",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 54,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 13597.285714285714
+    },
+    "V4-043": {
+      "N_cell": 826,
+      "checkpoint": "base",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "188",
+        "sid": "1"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 118,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 103.25
+    },
+    "V4-044": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "70",
+        "sid": "0"
+      },
+      "sentence_index": 18,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-045": {
+      "N_cell": 1033,
+      "checkpoint": "1900",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "190",
+        "sid": "0"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 23,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 129.125
+    },
+    "V4-046": {
+      "N_cell": 2593,
+      "checkpoint": "1900",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "405",
+        "sid": "0"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 90,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 370.42857142857144
+    },
+    "V4-047": {
+      "N_cell": 89259,
+      "checkpoint": "1900",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "46",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 202,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 11157.375
+    },
+    "V4-048": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "69",
+        "sid": "1"
+      },
+      "sentence_index": 101,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-049": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "460",
+        "sid": "0"
+      },
+      "sentence_index": 92,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-050": {
+      "N_cell": 826,
+      "checkpoint": "base",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "124",
+        "sid": "0"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 47,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 103.25
+    },
+    "V4-051": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "114",
+        "sid": "0"
+      },
+      "sentence_index": 51,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-052": {
+      "N_cell": 89259,
+      "checkpoint": "1900",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "368",
+        "sid": "1"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 357,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 11157.375
+    },
+    "V4-053": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "125",
+        "sid": "0"
+      },
+      "sentence_index": 6,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-054": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "398",
+        "sid": "0"
+      },
+      "sentence_index": 35,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-055": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "484",
+        "sid": "1"
+      },
+      "sentence_index": 41,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-056": {
+      "N_cell": 269438,
+      "checkpoint": "1900",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "53",
+        "sid": "1"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 103,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 38491.142857142855
+    },
+    "V4-057": {
+      "N_cell": 2101,
+      "checkpoint": "base",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "16",
+        "sid": "0"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 109,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 300.14285714285717
+    },
+    "V4-058": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "6",
+        "sid": "1"
+      },
+      "sentence_index": 86,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-059": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "478",
+        "sid": "1"
+      },
+      "sentence_index": 24,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-060": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "279",
+        "sid": "0"
+      },
+      "sentence_index": 19,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-061": {
+      "N_cell": 1033,
+      "checkpoint": "1900",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "144",
+        "sid": "1"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 180,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 129.125
+    },
+    "V4-062": {
+      "N_cell": 2593,
+      "checkpoint": "1900",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "448",
+        "sid": "1"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 461,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 370.42857142857144
+    },
+    "V4-063": {
+      "N_cell": 826,
+      "checkpoint": "base",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "289",
+        "sid": "1"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 209,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 103.25
+    },
+    "V4-064": {
+      "N_cell": 22401,
+      "checkpoint": "base",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "41",
+        "sid": "1"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 190,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 2800.125
+    },
+    "V4-065": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "113",
+        "sid": "0"
+      },
+      "sentence_index": 21,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-066": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "69",
+        "sid": "1"
+      },
+      "sentence_index": 40,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-067": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "365",
+        "sid": "1"
+      },
+      "sentence_index": 14,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-068": {
+      "N_cell": 826,
+      "checkpoint": "base",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "118",
+        "sid": "1"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 269,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 103.25
+    },
+    "V4-069": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "222",
+        "sid": "1"
+      },
+      "sentence_index": 82,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-070": {
+      "N_cell": 89259,
+      "checkpoint": "1900",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "364",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 293,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 11157.375
+    },
+    "V4-071": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "251",
+        "sid": "1"
+      },
+      "sentence_index": 15,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-072": {
+      "N_cell": 269438,
+      "checkpoint": "1900",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "126",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 300,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 38491.142857142855
+    },
+    "V4-073": {
+      "N_cell": 826,
+      "checkpoint": "base",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "78",
+        "sid": "0"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 148,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 103.25
+    },
+    "V4-074": {
+      "N_cell": 2101,
+      "checkpoint": "base",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "152",
+        "sid": "1"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 237,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 300.14285714285717
+    },
+    "V4-075": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "171",
+        "sid": "0"
+      },
+      "sentence_index": 11,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-076": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "412",
+        "sid": "0"
+      },
+      "sentence_index": 135,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-077": {
+      "N_cell": 2101,
+      "checkpoint": "base",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "475",
+        "sid": "0"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 182,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 300.14285714285717
+    },
+    "V4-078": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "491",
+        "sid": "0"
+      },
+      "sentence_index": 410,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-079": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "145",
+        "sid": "0"
+      },
+      "sentence_index": 52,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-080": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "404",
+        "sid": "1"
+      },
+      "sentence_index": 31,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-081": {
+      "N_cell": 22401,
+      "checkpoint": "base",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "192",
+        "sid": "1"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 34,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 2800.125
+    },
+    "V4-082": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "325",
+        "sid": "1"
+      },
+      "sentence_index": 3,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-083": {
+      "N_cell": 95181,
+      "checkpoint": "base",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "391",
+        "sid": "1"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 210,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 13597.285714285714
+    },
+    "V4-084": {
+      "N_cell": 826,
+      "checkpoint": "base",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "71",
+        "sid": "0"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 107,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 103.25
+    },
+    "V4-085": {
+      "N_cell": 89259,
+      "checkpoint": "1900",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "382",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 521,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 11157.375
+    },
+    "V4-086": {
+      "N_cell": 2593,
+      "checkpoint": "1900",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "385",
+        "sid": "1"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 39,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 370.42857142857144
+    },
+    "V4-087": {
+      "N_cell": 826,
+      "checkpoint": "base",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "127",
+        "sid": "0"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 126,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 103.25
+    },
+    "V4-088": {
+      "N_cell": 1033,
+      "checkpoint": "1900",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "274",
+        "sid": "0"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 51,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 129.125
+    },
+    "V4-089": {
+      "N_cell": 269438,
+      "checkpoint": "1900",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "221",
+        "sid": "1"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 207,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 38491.142857142855
+    },
+    "V4-090": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "332",
+        "sid": "1"
+      },
+      "sentence_index": 72,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-091": {
+      "N_cell": 826,
+      "checkpoint": "base",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "394",
+        "sid": "1"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 175,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 103.25
+    },
+    "V4-092": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "429",
+        "sid": "1"
+      },
+      "sentence_index": 135,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-093": {
+      "N_cell": 2101,
+      "checkpoint": "base",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "21",
+        "sid": "1"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 93,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 300.14285714285717
+    },
+    "V4-094": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "153",
+        "sid": "0"
+      },
+      "sentence_index": 66,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-095": {
+      "N_cell": 2101,
+      "checkpoint": "base",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "82",
+        "sid": "0"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 115,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 300.14285714285717
+    },
+    "V4-096": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "352",
+        "sid": "0"
+      },
+      "sentence_index": 199,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-097": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "35",
+        "sid": "0"
+      },
+      "sentence_index": 199,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-098": {
+      "N_cell": 2593,
+      "checkpoint": "1900",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "22",
+        "sid": "1"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 178,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 370.42857142857144
+    },
+    "V4-099": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "171",
+        "sid": "0"
+      },
+      "sentence_index": 10,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-100": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "267",
+        "sid": "0"
+      },
+      "sentence_index": 102,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-101": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "113",
+        "sid": "1"
+      },
+      "sentence_index": 275,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-102": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "190",
+        "sid": "0"
+      },
+      "sentence_index": 1,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-103": {
+      "N_cell": 2101,
+      "checkpoint": "base",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "306",
+        "sid": "0"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 278,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 300.14285714285717
+    },
+    "V4-104": {
+      "N_cell": 22401,
+      "checkpoint": "base",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "371",
+        "sid": "1"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 144,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 2800.125
+    },
+    "V4-105": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "272",
+        "sid": "1"
+      },
+      "sentence_index": 16,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-106": {
+      "N_cell": 269438,
+      "checkpoint": "1900",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "130",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 175,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 38491.142857142855
+    },
+    "V4-107": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "405",
+        "sid": "1"
+      },
+      "sentence_index": 213,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-108": {
+      "N_cell": 269438,
+      "checkpoint": "1900",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "146",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 116,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 38491.142857142855
+    },
+    "V4-109": {
+      "N_group_hits": 93,
+      "group": "stage1",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "306",
+        "sid": "0"
+      },
+      "sentence_index": 115,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-110": {
+      "N_cell": 95181,
+      "checkpoint": "base",
+      "marker_initial": false,
+      "n_cell": 7,
+      "part": "A",
+      "response": {
+        "pid": "331",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 29,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 13597.285714285714
+    },
+    "V4-111": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "86",
+        "sid": "0"
+      },
+      "sentence_index": 96,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-112": {
+      "N_cell": 22401,
+      "checkpoint": "base",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "142",
+        "sid": "0"
+      },
+      "rule_detector_revision": false,
+      "sentence_index": 263,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 2800.125
+    },
+    "V4-113": {
+      "N_group_hits": 4808,
+      "group": "stage2",
+      "n_taken": 27,
+      "note": "",
+      "part": "B",
+      "response": {
+        "pid": "302",
+        "sid": "1"
+      },
+      "sentence_index": 146,
+      "source": "exp/results/main/S1pre/gen/<EMAIL>"
+    },
+    "V4-114": {
+      "N_cell": 1033,
+      "checkpoint": "1900",
+      "marker_initial": true,
+      "n_cell": 8,
+      "part": "A",
+      "response": {
+        "pid": "419",
+        "sid": "0"
+      },
+      "rule_detector_revision": true,
+      "sentence_index": 57,
+      "source": "exp/results/main/S1/gen/<EMAIL>",
+      "weight": 129.125
+    }
+  },
+  "meta": "exp/gold/HUMAN_AUDIT_V4_meta.json",
+  "part_B_counts": {
+    "stage1": 27,
+    "stage2": 27
+  },
+  "seed": 20261004,
+  "v3_items_excluded": {
+    "A_responses": 48,
+    "B_hits": 24
+  }
+}

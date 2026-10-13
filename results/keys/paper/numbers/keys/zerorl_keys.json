@@ -1,0 +1,3609 @@
+{
+ "entries": [
+  {
+   "key": "h1.zr.s8dapo.final.nwait",
+   "value": 2,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s8dapo.final.ntok",
+   "value": 1645616,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s8dapo.base.nwait",
+   "value": 4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s8dapo.base.ntok",
+   "value": 444292,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.s8dapo.final.acc",
+   "value": 76.4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.s8dapo.base.acc",
+   "value": 35.8,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.s8dapo.final.trunc",
+   "value": 10.5,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s8dapo.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s8orz.final.nwait",
+   "value": 18,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s8orz.final.ntok",
+   "value": 3304557,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s8orz.base.nwait",
+   "value": 4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s8orz.base.ntok",
+   "value": 444292,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.s8orz.final.acc",
+   "value": 78.8,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.s8orz.base.acc",
+   "value": 35.8,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.s8orz.final.trunc",
+   "value": 19.4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s8orz.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s7r1.final.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s7r1.final.ntok",
+   "value": 953700,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s7r1.base.nwait",
+   "value": 2,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s7r1.base.ntok",
+   "value": 1707821,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.s7r1.final.acc",
+   "value": 74.4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.s7r1.base.acc",
+   "value": 19.1,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.s7r1.final.trunc",
+   "value": 2.0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s7r1.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s7r2.final.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s7r2.final.ntok",
+   "value": 952936,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s7r2.base.nwait",
+   "value": 5,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s7r2.base.ntok",
+   "value": 1769314,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.s7r2.final.acc",
+   "value": 74.2,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.s7r2.base.acc",
+   "value": 17.8,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.s7r2.final.trunc",
+   "value": 1.6,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s7r2.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s7r7b.final.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s7r7b.final.ntok",
+   "value": 967101,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s7r7b.base.nwait",
+   "value": 3,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s7r7b.base.ntok",
+   "value": 1872395,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.s7r7b.final.acc",
+   "value": 76.0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.s7r7b.base.acc",
+   "value": 16.9,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.s7r7b.final.trunc",
+   "value": 1.1,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.s7r7b.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q05.final.nwait",
+   "value": 1,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q05.final.ntok",
+   "value": 575136,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q05.base.nwait",
+   "value": 1,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q05.base.ntok",
+   "value": 1208661,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_q05.final.acc",
+   "value": 30.8,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_q05.base.acc",
+   "value": 8.6,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_q05.final.trunc",
+   "value": 3.6,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q05.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q15.final.nwait",
+   "value": 4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q15.final.ntok",
+   "value": 4075454,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q15.base.nwait",
+   "value": 2,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q15.base.ntok",
+   "value": 4050577,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_q15.final.acc",
+   "value": 12.6,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_q15.base.acc",
+   "value": 2.6,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_q15.final.trunc",
+   "value": 47.4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q15.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q7.final.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q7.final.ntok",
+   "value": 322054,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q7.base.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q7.base.ntok",
+   "value": 365450,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_q7.final.acc",
+   "value": 77.2,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_q7.base.acc",
+   "value": 48.2,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_q7.final.trunc",
+   "value": 0.2,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q7.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.orz7b.final.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.orz7b.final.ntok",
+   "value": 655074,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.orz7b.base.nwait",
+   "value": 1,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.orz7b.base.ntok",
+   "value": 326045,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.orz7b.final.acc",
+   "value": 81.8,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.orz7b.base.acc",
+   "value": 13.2,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.orz7b.final.trunc",
+   "value": 0.0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.orz7b.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_qm7.final.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_qm7.final.ntok",
+   "value": 347747,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_qm7.base.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_qm7.base.ntok",
+   "value": 605012,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_qm7.final.acc",
+   "value": 75.6,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_qm7.base.acc",
+   "value": 43.0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_qm7.final.trunc",
+   "value": 0.0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_qm7.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.oat7.final.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.oat7.final.ntok",
+   "value": 350491,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.oat7.base.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.oat7.base.ntok",
+   "value": 651765,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.oat7.final.acc",
+   "value": 79.8,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.oat7.base.acc",
+   "value": 35.8,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.oat7.final.trunc",
+   "value": 0.0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.oat7.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q14.final.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q14.final.ntok",
+   "value": 301937,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q14.base.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q14.base.ntok",
+   "value": 286415,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_q14.final.acc",
+   "value": 82.6,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_q14.base.acc",
+   "value": 53.2,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_q14.final.trunc",
+   "value": 0.0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q14.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_m7.final.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_m7.final.ntok",
+   "value": 2991021,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_m7.base.nwait",
+   "value": 5,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_m7.base.ntok",
+   "value": 71136,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_m7.final.acc",
+   "value": 5.0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_m7.base.acc",
+   "value": 0.4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_m7.final.trunc",
+   "value": 36.0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_m7.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_dsm7.final.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_dsm7.final.ntok",
+   "value": 320041,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_dsm7.base.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_dsm7.base.ntok",
+   "value": 162131,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_dsm7.final.acc",
+   "value": 19.2,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_dsm7.base.acc",
+   "value": 1.4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_dsm7.final.trunc",
+   "value": 0.2,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_dsm7.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_m24.final.nwait",
+   "value": 7,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_m24.final.ntok",
+   "value": 1500001,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_m24.base.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_m24.base.ntok",
+   "value": 296128,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_m24.final.acc",
+   "value": 75.8,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_m24.base.acc",
+   "value": 21.4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_m24.final.trunc",
+   "value": 4.4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_m24.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q32.final.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q32.final.ntok",
+   "value": 295706,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q32.base.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q32.base.ntok",
+   "value": 253613,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_q32.final.acc",
+   "value": 83.8,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_q32.base.acc",
+   "value": 50.4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_q32.final.trunc",
+   "value": 0.0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_q32.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_l8.final.nwait",
+   "value": 1,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_l8.final.ntok",
+   "value": 919335,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_l8.final.acc",
+   "value": 8.4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.sz_l8.final.trunc",
+   "value": 9.8,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.sz_l8.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr7.final.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr7.final.ntok",
+   "value": 370856,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr7.base.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr7.base.ntok",
+   "value": 341649,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.gr7.final.acc",
+   "value": 75.6,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.gr7.base.acc",
+   "value": 61.6,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.gr7.final.trunc",
+   "value": 0.4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr7.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr14.final.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr14.final.ntok",
+   "value": 429343,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr14.base.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr14.base.ntok",
+   "value": 402903,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.gr14.final.acc",
+   "value": 77.0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.gr14.base.acc",
+   "value": 67.0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.gr14.final.trunc",
+   "value": 1.4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr14.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr3_4.final.nwait",
+   "value": 153,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr3_4.final.ntok",
+   "value": 532823,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr3_4.base.nwait",
+   "value": 1,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr3_4.base.ntok",
+   "value": 434190,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.gr3_4.final.acc",
+   "value": 79.0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.gr3_4.base.acc",
+   "value": 71.2,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.gr3_4.final.trunc",
+   "value": 2.4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr3_4.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr3_14.final.nwait",
+   "value": 17,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr3_14.final.ntok",
+   "value": 470629,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr3_14.base.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr3_14.base.ntok",
+   "value": 358905,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.gr3_14.final.acc",
+   "value": 85.2,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.gr3_14.base.acc",
+   "value": 79.2,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.gr3_14.final.trunc",
+   "value": 2.4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.gr3_14.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.os15.final.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.os15.final.ntok",
+   "value": 359575,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.os15.base.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.os15.base.ntok",
+   "value": 837386,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.os15.final.acc",
+   "value": 72.6,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.os15.base.acc",
+   "value": 32.8,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.os15.final.trunc",
+   "value": 4.8,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.os15.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.oat15.final.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.oat15.final.ntok",
+   "value": 349461,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.oat15.base.nwait",
+   "value": 1,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.oat15.base.ntok",
+   "value": 854726,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.oat15.final.acc",
+   "value": 72.6,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.oat15.base.acc",
+   "value": 24.6,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.oat15.final.trunc",
+   "value": 0.0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.oat15.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.orz32.final.nwait",
+   "value": 4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.orz32.final.ntok",
+   "value": 2379766,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.orz32.base.nwait",
+   "value": 0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.orz32.base.ntok",
+   "value": 424454,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.orz32.final.acc",
+   "value": 91.4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.orz32.base.acc",
+   "value": 10.8,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.orz32.final.trunc",
+   "value": 0.6,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.orz32.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.q3r1.final.nwait",
+   "value": 35,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.q3r1.final.ntok",
+   "value": 1278265,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.q3r1.base.nwait",
+   "value": 26,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.q3r1.base.ntok",
+   "value": 1248938,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.q3r1.final.acc",
+   "value": 84.1,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.q3r1.base.acc",
+   "value": 41.2,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "ctl.zr.q3r1.final.trunc",
+   "value": 4.4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.q3r1.decode",
+   "value": "primary",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47); decode: primary"
+  },
+  {
+   "key": "h1.zr.n_runs",
+   "value": 18,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.n_bases",
+   "value": 9,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.n_counter",
+   "value": 1,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.n_notrepro",
+   "value": 4,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.n_noref",
+   "value": 1,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.gate_active",
+   "value": "yes",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.n_confirm",
+   "value": 17,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.final_median",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): median final rate over counted runs"
+  },
+  {
+   "key": "h1.zr.final_max",
+   "value": 0.0361,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.upper95_max",
+   "value": 0.058,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.ce.gr3_4.rate",
+   "value": "0.29",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.ce.gr3_4.lo",
+   "value": "0.24",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.ce.gr3_4.hi",
+   "value": "0.34",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.base_min_size",
+   "value": "0.5B",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "ctl.zr.dacc_min",
+   "value": 6.0,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "ctl.zr.dacc_max",
+   "value": 80.6,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "ctl.zr.dacc_median",
+   "value": "42.9",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): median accuracy gain over the confirming runs"
+  },
+  {
+   "key": "h1.zr.s8dapo.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.s8dapo.gate",
+   "value": "no published reference",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.s8orz.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.s8orz.gate",
+   "value": "superseded by orz32 (robustness)",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.s7r1.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.s7r1.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.s7r2.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.s7r2.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.s7r7b.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.s7r7b.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_q05.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_q05.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_q15.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_q15.gate",
+   "value": "not reproduced",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_q7.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_q7.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.orz7b.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.orz7b.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_qm7.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_qm7.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.oat7.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.oat7.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_q14.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_q14.gate",
+   "value": "no licence (secondary only)",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_m7.verdict",
+   "value": "rl on marker",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_m7.gate",
+   "value": "not reproduced",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_dsm7.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_dsm7.gate",
+   "value": "not reproduced",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_m24.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_m24.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_q32.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_q32.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_l8.verdict",
+   "value": "confirm base not measured",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.sz_l8.gate",
+   "value": "not reproduced",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.gr7.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.gr7.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.gr14.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.gr14.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.gr3_4.verdict",
+   "value": "counterexample",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.gr3_4.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.gr3_14.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.gr3_14.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.os15.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.os15.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.oat15.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.oat15.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.orz32.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.orz32.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.q3r1.verdict",
+   "value": "confirm",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.q3r1.gate",
+   "value": "pass",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.families",
+   "value": "Qwen2.5, Mistral and Qwen3",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.n_families",
+   "value": 3,
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.size_min",
+   "value": "0.5B",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "h1.zr.size_max",
+   "value": "32B",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47)"
+  },
+  {
+   "key": "fig1.case.base.r2",
+   "value": "4.63",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "fig1.case.last.r2",
+   "value": "13.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "fig1.case.mid.r2",
+   "value": "7.91",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.gr34.base.fin.r2",
+   "value": "0.04",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.gr34.base.r2",
+   "value": "0.16",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.gr34.final.fin.r2",
+   "value": "0.48",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.gr34.final.r2",
+   "value": "0.63",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.r1d7.final.fin.r2",
+   "value": "4.75",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.r1d7.final.r2",
+   "value": "5.92",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.s1.base.fin.r2",
+   "value": "5.03",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.s1.base.r2",
+   "value": "4.92",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.s1.final.fin.r2",
+   "value": "7.37",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.s1.final.r2",
+   "value": "6.91",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.s2.base.fin.r2",
+   "value": "4.30",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.s2.base.r2",
+   "value": "4.64",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.s2.final.fin.r2",
+   "value": "4.90",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.s2.final.r2",
+   "value": "5.20",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.szm24.base.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.szm24.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.szm24.final.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.szm24.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.szq32.base.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.szq32.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.szq32.final.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.szq32.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.szq7.base.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.szq7.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.szq7.final.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime24.szq7.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.gr34.base.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.gr34.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.gr34.final.fin.r2",
+   "value": "0.36",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.gr34.final.r2",
+   "value": "0.46",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.r1d7.final.fin.r2",
+   "value": "6.04",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.r1d7.final.r2",
+   "value": "6.41",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.s1.base.fin.r2",
+   "value": "5.23",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.s1.base.r2",
+   "value": "5.27",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.s1.final.fin.r2",
+   "value": "7.63",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.s1.final.r2",
+   "value": "7.45",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.s2.base.fin.r2",
+   "value": "4.67",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.s2.base.r2",
+   "value": "5.07",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.s2.final.fin.r2",
+   "value": "5.22",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.s2.final.r2",
+   "value": "5.98",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.szm24.base.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.szm24.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.szm24.final.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.szm24.final.r2",
+   "value": "0.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.szq32.base.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.szq32.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.szq32.final.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.szq32.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.szq7.base.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.szq7.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.szq7.final.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_aime25.szq7.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.gr34.base.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.gr34.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.gr34.final.fin.r2",
+   "value": "0.52",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.gr34.final.r2",
+   "value": "1.69",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.r1d7.final.fin.r2",
+   "value": "3.93",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.r1d7.final.r2",
+   "value": "4.55",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.s1.base.fin.r2",
+   "value": "5.49",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.s1.base.r2",
+   "value": "5.56",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.s1.final.fin.r2",
+   "value": "9.78",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.s1.final.r2",
+   "value": "9.17",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.s2.base.fin.r2",
+   "value": "3.68",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.s2.base.r2",
+   "value": "4.37",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.s2.final.fin.r2",
+   "value": "4.33",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.s2.final.r2",
+   "value": "4.73",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.szm24.base.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.szm24.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.szm24.final.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.szm24.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.szq32.base.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.szq32.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.szq32.final.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.szq32.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.szq7.base.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.szq7.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.szq7.final.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_amc23.szq7.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.gr34.base.fin.r2",
+   "value": "0.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.gr34.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.gr34.final.fin.r2",
+   "value": "0.21",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.gr34.final.r2",
+   "value": "0.21",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.r1d7.final.fin.r2",
+   "value": "3.37",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.r1d7.final.r2",
+   "value": "3.59",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.s1.base.fin.r2",
+   "value": "4.62",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.s1.base.r2",
+   "value": "4.59",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.s1.final.fin.r2",
+   "value": "17.10",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.s1.final.r2",
+   "value": "25.16",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.s2.base.fin.r2",
+   "value": "2.95",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.s2.base.r2",
+   "value": "3.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.s2.final.fin.r2",
+   "value": "3.32",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.s2.final.r2",
+   "value": "3.45",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.szm24.base.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.szm24.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.szm24.final.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.szm24.final.r2",
+   "value": "0.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.szq32.base.fin.r2",
+   "value": "0.03",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.szq32.base.r2",
+   "value": "0.03",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.szq32.final.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.szq32.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.szq7.base.fin.r2",
+   "value": "0.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.szq7.base.r2",
+   "value": "0.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.szq7.final.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_gsm8k.szq7.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.gr34.base.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.gr34.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.gr34.final.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.gr34.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.r1d7.final.fin.r2",
+   "value": "4.10",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.r1d7.final.r2",
+   "value": "4.87",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.s1.base.fin.r2",
+   "value": "0.03",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.s1.base.r2",
+   "value": "0.03",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.s1.final.fin.r2",
+   "value": "0.22",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.s1.final.r2",
+   "value": "0.22",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.s2.base.fin.r2",
+   "value": "1.61",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.s2.base.r2",
+   "value": "1.23",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.s2.final.fin.r2",
+   "value": "2.34",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.s2.final.r2",
+   "value": "1.84",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.szm24.base.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.szm24.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.szm24.final.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.szm24.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.szq32.base.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.szq32.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.szq32.final.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.szq32.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.szq7.base.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.szq7.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.szq7.final.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.ds_mmlupro.szq7.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_b0m.base.fin.r2",
+   "value": "4.29",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_b0m.step0020.fin.r2",
+   "value": "4.85",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_b0m.step0100.fin.r2",
+   "value": "3.48",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_b0m.step0200.fin.r2",
+   "value": "4.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_b0m.step0300.fin.r2",
+   "value": "4.83",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_b0m.step0400.fin.r2",
+   "value": "4.04",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1.base.fin.r2",
+   "value": "3.50",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1.step0010.fin.r2",
+   "value": "4.29",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1.step0020.fin.r2",
+   "value": "3.93",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1.step0030.fin.r2",
+   "value": "3.60",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1.step0040.fin.r2",
+   "value": "3.37",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1.step0050.fin.r2",
+   "value": "3.41",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1.step0060.fin.r2",
+   "value": "3.59",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1.step0070.fin.r2",
+   "value": "3.46",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1.step0080.fin.r2",
+   "value": "3.42",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1.step0090.fin.r2",
+   "value": "3.33",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1.step0100.fin.r2",
+   "value": "3.34",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1.step0150.fin.r2",
+   "value": "4.23",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1.step0200.fin.r2",
+   "value": "4.12",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1.step0250.fin.r2",
+   "value": "4.00",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1.step0300.fin.r2",
+   "value": "4.64",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1m.base.fin.r2",
+   "value": "4.29",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1m.step0100.fin.r2",
+   "value": "3.95",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1m.step0200.fin.r2",
+   "value": "4.31",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1m.step0300.fin.r2",
+   "value": "4.86",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1m.step0350.fin.r2",
+   "value": "4.73",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_ref1m.step0400.fin.r2",
+   "value": "4.82",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s1.base.r2",
+   "value": "4.94",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s1.final.r2",
+   "value": "12.44",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s1.late.r2",
+   "value": "17.04",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s1pre.stage1-step141000.r2",
+   "value": "0.04",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s1pre.stage1-step1413814.r2",
+   "value": "0.04",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s1pre.stage1-step707000.r2",
+   "value": "0.03",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s1pre.stage2-step47684.r2",
+   "value": "4.03",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s1pre.stage3-step11921.r2",
+   "value": "4.94",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s1pre.stage3-step6000.r2",
+   "value": "5.95",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s3a.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s3a.late.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s3a.max.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s7r1.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s7r1.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s7r2.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s7r2.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s7r7b.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s7r7b.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s8base.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s8dapo.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s8orz.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s8qwq.final.r2",
+   "value": "4.42",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s8r1d.final.r2",
+   "value": "3.25",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.pop_mistral_base.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.pop_phi4.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.pop_phi4r.final.r2",
+   "value": "1.56",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.pop_phi4rp.final.r2",
+   "value": "2.58",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.pop_qwen3_14b.final.r2",
+   "value": "3.03",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.pop_qwen3_14b_base.final.r2",
+   "value": "0.03",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.pop_qwen3_8b.final.r2",
+   "value": "3.93",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.pop_qwen3_8b_base.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.pop_qwen3b30.final.r2",
+   "value": "0.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.pop_qwen3t30.final.r2",
+   "value": "2.83",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.pop_r1d_llama8.final.r2",
+   "value": "4.80",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.pop_r1dllama70b.final.r2",
+   "value": "3.97",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_q3r1.step0100.r2",
+   "value": "0.08",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_q3r1.step0200.r2",
+   "value": "0.08",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_q3r1.step0300.r2",
+   "value": "0.05",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_q3r1.step0400.r2",
+   "value": "0.03",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_q3r1_base.base.r2",
+   "value": "0.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.D512.sft.r2",
+   "value": "0.03",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.D512.step0020.r2",
+   "value": "0.03",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.D512.step0100.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.D512.step0200.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.D512.step0300.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.D512.step0400.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.D64.sft.r2",
+   "value": "0.03",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.D64.step0020.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.D64.step0100.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.D64.step0200.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.D64.step0300.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.D64.step0400.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512.sft.r2",
+   "value": "7.52",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512.step0020.r2",
+   "value": "3.54",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512.step0100.r2",
+   "value": "0.07",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512.step0200.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512.step0300.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512.step0400.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W64.sft.r2",
+   "value": "1.60",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W64.step0020.r2",
+   "value": "0.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W64.step0100.r2",
+   "value": "0.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W64.step0200.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W64.step0300.r2",
+   "value": "0.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W64.step0400.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512.sft.r2",
+   "value": "0.03",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512.step0020.r2",
+   "value": "0.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512.step0100.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512.step0200.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512.step0300.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512.step0400.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512LY.sft.fin.r2",
+   "value": "7.45",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512LY.sft.r2",
+   "value": "6.59",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512LY.step0020.fin.r2",
+   "value": "5.79",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512LY.step0020.r2",
+   "value": "5.33",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512LY.step0100.fin.r2",
+   "value": "0.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512LY.step0100.r2",
+   "value": "0.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512LY.step0200.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512LY.step0200.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512LY.step0300.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512LY.step0300.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512LY.step0400.fin.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.W512LY.step0400.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512LY.sft.fin.r2",
+   "value": "0.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512LY.sft.r2",
+   "value": "0.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512LY.step0020.fin.r2",
+   "value": "0.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512LY.step0020.r2",
+   "value": "0.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512LY.step0100.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512LY.step0100.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512LY.step0200.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512LY.step0200.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512LY.step0300.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512LY.step0300.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512LY.step0400.fin.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.seed.X512LY.step0400.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen38_27b.final.fin.r2",
+   "value": "0.82",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_acer.final.r2",
+   "value": "3.33",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_bespoke7.final.r2",
+   "value": "3.19",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_deepscaler.final.r2",
+   "value": "4.15",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_glm4.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_glmz1.final.r2",
+   "value": "3.40",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_gr3_14m.final.r2",
+   "value": "0.08",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_gr3_4m.final.r2",
+   "value": "0.37",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_granite_base.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_granite_instruct.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_light14.final.r2",
+   "value": "4.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_mimo_base.final.r2",
+   "value": "4.95",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_mimo_rl.final.r2",
+   "value": "6.65",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_mimo_rlzero.final.r2",
+   "value": "6.62",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_mimo_sft.final.r2",
+   "value": "3.77",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_olmo2_base.final.r2",
+   "value": "0.16",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_olmo2_dpo.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_olmo2_instruct.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_olmo2_sft.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_openthinker7.final.r2",
+   "value": "4.05",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_orn7.final.r2",
+   "value": "0.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen14b.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen38_27b.final.r2",
+   "value": "0.91",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen3_1p7.final.r2",
+   "value": "4.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen3_1p7_base.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen3_4b.final.r2",
+   "value": "3.68",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen3_4b_base.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen7b.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen7i.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_r1d14.final.r2",
+   "value": "3.77",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_r1d1p5b.final.r2",
+   "value": "5.04",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_r1d7.final.r2",
+   "value": "3.82",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_smollm3.final.r2",
+   "value": "3.92",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_smollm3_base.final.r2",
+   "value": "4.18",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_yi_base.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_yi_chat.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s6.dpo.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s6.step0040.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s6.step0200.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s6.step0600.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s6.step1200.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s6.step1800.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.s6.step2440.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_pangu_v21pro.final.r2",
+   "value": "0.77",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_pangu_e7m.final.fin.r2",
+   "value": "1.32",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_pangu_e7m.final.r2",
+   "value": "1.41",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_pangu_e7v11.final.fin.r2",
+   "value": "0.41",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_pangu_e7v11.final.r2",
+   "value": "0.44",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen35_0p8b.final.fin.r2",
+   "value": "0.90",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen35_0p8b.final.r2",
+   "value": "1.83",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen35_0p8b_base.final.fin.r2",
+   "value": "2.21",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen35_0p8b_base.final.r2",
+   "value": "1.96",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen35_2b.final.fin.r2",
+   "value": "0.72",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen35_2b.final.r2",
+   "value": "0.86",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen35_2b_base.final.fin.r2",
+   "value": "1.39",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen35_2b_base.final.r2",
+   "value": "1.31",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen35_4b.final.fin.r2",
+   "value": "1.68",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen35_4b.final.r2",
+   "value": "3.82",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen35_4b_base.final.fin.r2",
+   "value": "1.18",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen35_4b_base.final.r2",
+   "value": "1.15",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen35_9b.final.fin.r2",
+   "value": "1.43",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen35_9b.final.r2",
+   "value": "2.94",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen35_9b_base.final.fin.r2",
+   "value": "0.97",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_qwen35_9b_base.final.r2",
+   "value": "0.93",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_gr14.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_gr14_base.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_gr3_14.final.r2",
+   "value": "0.04",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_gr3_14_base.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_gr3_4.final.r2",
+   "value": "0.29",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_gr3_4_base.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_gr3_4_s1.final.r2",
+   "value": "0.18",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_gr3_4_s2.final.r2",
+   "value": "0.15",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_gr3_4_s3.final.r2",
+   "value": "0.14",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_gr7.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_gr7_base.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_oat15.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_oat15_base.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_oat7.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_oat7_base.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_orz32.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_orz32_base.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_orz7b.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_orz7b_base.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_os15.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_os15_base.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_dsm7.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_dsm7_base.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_l8.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_m24.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_m24_base.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_m7.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_m7_base.final.r2",
+   "value": "0.07",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_q05.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_q05_base.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_q14.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_q14_base.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_q15.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_q15_base.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_q32.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_q32_base.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_q7.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_q7_base.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_qm7.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_sz_qm7_base.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_bespoke7.final.fin.r2",
+   "value": "2.49",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_deepscaler.final.fin.r2",
+   "value": "4.07",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_light14.final.fin.r2",
+   "value": "3.21",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_openthinker7.final.fin.r2",
+   "value": "3.32",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_r1d14.final.fin.r2",
+   "value": "2.79",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_r1d1p5b.final.fin.r2",
+   "value": "3.65",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.bb_r1d7.final.fin.r2",
+   "value": "2.79",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.gr14.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.gr14.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.gr3_14.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.gr3_14.final.r2",
+   "value": "0.04",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.gr3_4.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.gr3_4.final.r2",
+   "value": "0.29",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.gr7.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.gr7.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.oat15.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.oat15.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.oat7.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.oat7.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.orz32.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.orz32.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.orz7b.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.orz7b.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.os15.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.os15.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.q3r1.base.r2",
+   "value": "0.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.q3r1.final.r2",
+   "value": "0.03",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.s7r1.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.s7r1.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.s7r2.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.s7r2.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.s7r7b.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.s7r7b.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.s8dapo.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.s8dapo.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.s8orz.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.s8orz.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_dsm7.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_dsm7.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_l8.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_m24.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_m24.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_m7.base.r2",
+   "value": "0.07",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_m7.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_q05.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_q05.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_q14.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_q14.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_q15.base.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_q15.final.r2",
+   "value": "$<$.01",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_q32.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_q32.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_q7.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_q7.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_qm7.base.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.zr.sz_qm7.final.r2",
+   "value": "0",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): 1000*nwait/ntok"
+  },
+  {
+   "key": "h1.fork_b0.trend.a_wait.r2",
+   "value": "0.87",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): rounded copy of h1.fork_b0.trend.a_wait"
+  },
+  {
+   "key": "h1.fork_ref1.trend.a_wait.r2",
+   "value": "0.96",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): rounded copy of h1.fork_ref1.trend.a_wait"
+  },
+  {
+   "key": "h1.fork_b0m.trend.a_wait.r2",
+   "value": "0.81",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): rounded copy of h1.fork_b0m.trend.a_wait"
+  },
+  {
+   "key": "h1.fork_ref1m.trend.a_wait.r2",
+   "value": "0.97",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): rounded copy of h1.fork_ref1m.trend.a_wait"
+  },
+  {
+   "key": "h1.seed.D512.trend.a_nextopen.r2",
+   "value": "7.50",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): rounded copy of h1.seed.D512.trend.a_nextopen"
+  },
+  {
+   "key": "h1.seed.D512.trend.a_wait.r2",
+   "value": "0.02",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): rounded copy of h1.seed.D512.trend.a_wait"
+  },
+  {
+   "key": "h1.seed.D64.trend.a_nextopen.r2",
+   "value": "4.78",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): rounded copy of h1.seed.D64.trend.a_nextopen"
+  },
+  {
+   "key": "h1.seed.D64.trend.a_wait.r2",
+   "value": "0.00",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): rounded copy of h1.seed.D64.trend.a_wait"
+  },
+  {
+   "key": "h1.seed.W512.trend.a_nextopen.r2",
+   "value": "4.83",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): rounded copy of h1.seed.W512.trend.a_nextopen"
+  },
+  {
+   "key": "h1.seed.W512.trend.a_wait.r2",
+   "value": "0.00",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): rounded copy of h1.seed.W512.trend.a_wait"
+  },
+  {
+   "key": "h1.seed.W64.trend.a_nextopen.r2",
+   "value": "3.37",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): rounded copy of h1.seed.W64.trend.a_nextopen"
+  },
+  {
+   "key": "h1.seed.W64.trend.a_wait.r2",
+   "value": "0.00",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): rounded copy of h1.seed.W64.trend.a_wait"
+  },
+  {
+   "key": "h1.seed.X512.trend.a_nextopen.r2",
+   "value": "0.12",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): rounded copy of h1.seed.X512.trend.a_nextopen"
+  },
+  {
+   "key": "h1.seed.X512.trend.a_wait.r2",
+   "value": "0.10",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): rounded copy of h1.seed.X512.trend.a_wait"
+  },
+  {
+   "key": "h1.seed.W512LY.trend.a_wait.r2",
+   "value": "0.00",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): rounded copy of h1.seed.W512LY.trend.a_wait"
+  },
+  {
+   "key": "h1.seed.X512LY.trend.a_wait.r2",
+   "value": "0.00",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): rounded copy of h1.seed.X512LY.trend.a_wait"
+  },
+  {
+   "key": "h1.zr.upper95_ceil",
+   "value": "0.06",
+   "src": "tools/derive_zerorl.py over numbers/results.tex (D47): exact upper bound, rounded UP to 2 decimals"
+  },
+  {
+   "key": "sens.zr.reg.n_runs",
+   "value": 18,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.zr.reg.n_confirm",
+   "value": 17,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.zr.thr10.n_runs",
+   "value": 18,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.zr.thr10.n_confirm",
+   "value": 17,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.zr.thr02.n_runs",
+   "value": 17,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.zr.thr02.n_confirm",
+   "value": 15,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.zr.point.n_runs",
+   "value": 18,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.zr.point.n_confirm",
+   "value": 17,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.zr.t10.n_runs",
+   "value": 5,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.zr.t10.n_confirm",
+   "value": 5,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.zr.released.n_runs",
+   "value": 14,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.zr.released.n_confirm",
+   "value": 13,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.zr.nogate.n_runs",
+   "value": 23,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.zr.nogate.n_confirm",
+   "value": 22,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.zr.withsec.n_runs",
+   "value": 24,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.zr.withsec.n_confirm",
+   "value": 23,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.s1.sent.ratio",
+   "value": "1.43",
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered): h1.s1.step0400.freq100 / h1.s1.base.freq100"
+  },
+  {
+   "key": "sens.s1.greedy.ratio",
+   "value": "1.55",
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered): h1.s1greedy.step0400.freq / h1.s1greedy.base.freq"
+  },
+  {
+   "key": "sens.s1.greedy_sent.ratio",
+   "value": "1.53",
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered): h1.s1greedy.step0400.freq100 / h1.s1greedy.base.freq100"
+  },
+  {
+   "key": "sens.s1.seedbase.min",
+   "value": "4.9",
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.s1.seedbase.max",
+   "value": "5.4",
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  },
+  {
+   "key": "sens.s1.seedbase.n",
+   "value": 6,
+   "src": "tools/derive_zerorl.py: sensitivity of the D47 count (descriptive, not registered)"
+  }
+ ]
+}

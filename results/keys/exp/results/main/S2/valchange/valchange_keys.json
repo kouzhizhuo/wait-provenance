@@ -1,0 +1,890 @@
+{
+  "entries": [
+    {
+      "key": "h4.s2.early.prevval_wait_late",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 3.0
+    },
+    {
+      "key": "h4.s2.early.prevval_wait_late.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.6
+    },
+    {
+      "key": "h4.s2.early.prevval_wait_late.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 6.4
+    },
+    {
+      "key": "h4.s2.early.prevval_next_late",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 3.4
+    },
+    {
+      "key": "h4.s2.early.prevval_next_late.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.3
+    },
+    {
+      "key": "h4.s2.early.prevval_next_late.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 7.3
+    },
+    {
+      "key": "h4.s2.early.prevval_holdon_late",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s2.early.prevval_holdon_late.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s2.early.prevval_holdon_late.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 5.5
+    },
+    {
+      "key": "h4.s2.early.prevval_none_late",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 3.0
+    },
+    {
+      "key": "h4.s2.early.prevval_none_late.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s2.early.prevval_none_late.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 7.3
+    },
+    {
+      "key": "h4.s2.early.rdval_op_late",
+      "src": "valchange::S2::late.estimates.S2@25:RD_next.est",
+      "value": -0.3
+    },
+    {
+      "key": "h4.s2.early.rdval_op_late.lo",
+      "src": "valchange::S2::late.estimates.S2@25:RD_next.lo",
+      "value": -3.0
+    },
+    {
+      "key": "h4.s2.early.rdval_op_late.hi",
+      "src": "valchange::S2::late.estimates.S2@25:RD_next.hi",
+      "value": 2.1
+    },
+    {
+      "key": "h4.s2.early.orval_op_late",
+      "src": "valchange::S2::late.estimates.S2@25:OR_next.est",
+      "value": 0.91
+    },
+    {
+      "key": "h4.s2.early.orval_op_late.lo",
+      "src": "valchange::S2::late.estimates.S2@25:OR_next.lo",
+      "value": 0.33
+    },
+    {
+      "key": "h4.s2.early.orval_op_late.hi",
+      "src": "valchange::S2::late.estimates.S2@25:OR_next.hi",
+      "value": 3.32
+    },
+    {
+      "key": "h4.s2.early.rdval_syn_late",
+      "src": "valchange::S2::late.estimates.S2@25:RD_syn.est",
+      "value": 0.6
+    },
+    {
+      "key": "h4.s2.early.rdval_syn_late.lo",
+      "src": "valchange::S2::late.estimates.S2@25:RD_syn.lo",
+      "value": -0.6
+    },
+    {
+      "key": "h4.s2.early.rdval_syn_late.hi",
+      "src": "valchange::S2::late.estimates.S2@25:RD_syn.hi",
+      "value": 2.1
+    },
+    {
+      "key": "h4.s2.early.rdval_none_late",
+      "src": "valchange::S2::late.estimates.S2@25:RD_none.est",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s2.early.rdval_none_late.lo",
+      "src": "valchange::S2::late.estimates.S2@25:RD_none.lo",
+      "value": -2.7
+    },
+    {
+      "key": "h4.s2.early.rdval_none_late.hi",
+      "src": "valchange::S2::late.estimates.S2@25:RD_none.hi",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s2.early.nexcl_val_late",
+      "src": "valchange::S2::late.n_excluded",
+      "value": 148
+    },
+    {
+      "key": "h4.s2.mid.prevval_wait_late",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 4.0
+    },
+    {
+      "key": "h4.s2.mid.prevval_wait_late.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s2.mid.prevval_wait_late.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 8.2
+    },
+    {
+      "key": "h4.s2.mid.prevval_next_late",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 4.9
+    },
+    {
+      "key": "h4.s2.mid.prevval_next_late.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 1.5
+    },
+    {
+      "key": "h4.s2.mid.prevval_next_late.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 9.1
+    },
+    {
+      "key": "h4.s2.mid.prevval_holdon_late",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 4.0
+    },
+    {
+      "key": "h4.s2.mid.prevval_holdon_late.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s2.mid.prevval_holdon_late.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 8.2
+    },
+    {
+      "key": "h4.s2.mid.prevval_none_late",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 3.4
+    },
+    {
+      "key": "h4.s2.mid.prevval_none_late.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.3
+    },
+    {
+      "key": "h4.s2.mid.prevval_none_late.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 7.3
+    },
+    {
+      "key": "h4.s2.mid.prevval_okay_late",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 3.4
+    },
+    {
+      "key": "h4.s2.mid.prevval_okay_late.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.3
+    },
+    {
+      "key": "h4.s2.mid.prevval_okay_late.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 7.3
+    },
+    {
+      "key": "h4.s2.mid.prevval_hmm_late",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 3.7
+    },
+    {
+      "key": "h4.s2.mid.prevval_hmm_late.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.6
+    },
+    {
+      "key": "h4.s2.mid.prevval_hmm_late.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 7.6
+    },
+    {
+      "key": "h4.s2.mid.rdval_op_late",
+      "src": "valchange::S2::late.estimates.S2@500:RD_next.est",
+      "value": -0.9
+    },
+    {
+      "key": "h4.s2.mid.rdval_op_late.lo",
+      "src": "valchange::S2::late.estimates.S2@500:RD_next.lo",
+      "value": -4.6
+    },
+    {
+      "key": "h4.s2.mid.rdval_op_late.hi",
+      "src": "valchange::S2::late.estimates.S2@500:RD_next.hi",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s2.mid.orval_op_late",
+      "src": "valchange::S2::late.estimates.S2@500:OR_next.est",
+      "value": 0.81
+    },
+    {
+      "key": "h4.s2.mid.orval_op_late.lo",
+      "src": "valchange::S2::late.estimates.S2@500:OR_next.lo",
+      "value": 0.27
+    },
+    {
+      "key": "h4.s2.mid.orval_op_late.hi",
+      "src": "valchange::S2::late.estimates.S2@500:OR_next.hi",
+      "value": 1.83
+    },
+    {
+      "key": "h4.s2.mid.rdval_syn_late",
+      "src": "valchange::S2::late.estimates.S2@500:RD_syn.est",
+      "value": 0.2
+    },
+    {
+      "key": "h4.s2.mid.rdval_syn_late.lo",
+      "src": "valchange::S2::late.estimates.S2@500:RD_syn.lo",
+      "value": -1.1
+    },
+    {
+      "key": "h4.s2.mid.rdval_syn_late.hi",
+      "src": "valchange::S2::late.estimates.S2@500:RD_syn.hi",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s2.mid.rdval_none_late",
+      "src": "valchange::S2::late.estimates.S2@500:RD_none.est",
+      "value": 0.6
+    },
+    {
+      "key": "h4.s2.mid.rdval_none_late.lo",
+      "src": "valchange::S2::late.estimates.S2@500:RD_none.lo",
+      "value": -2.1
+    },
+    {
+      "key": "h4.s2.mid.rdval_none_late.hi",
+      "src": "valchange::S2::late.estimates.S2@500:RD_none.hi",
+      "value": 3.4
+    },
+    {
+      "key": "h4.s2.mid.nexcl_val_late",
+      "src": "valchange::S2::late.n_excluded",
+      "value": 148
+    },
+    {
+      "key": "h4.s2.late.prevval_wait_late",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 3.4
+    },
+    {
+      "key": "h4.s2.late.prevval_wait_late.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s2.late.prevval_wait_late.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 6.4
+    },
+    {
+      "key": "h4.s2.late.prevval_next_late",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 4.9
+    },
+    {
+      "key": "h4.s2.late.prevval_next_late.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 1.5
+    },
+    {
+      "key": "h4.s2.late.prevval_next_late.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 9.1
+    },
+    {
+      "key": "h4.s2.late.prevval_holdon_late",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 3.4
+    },
+    {
+      "key": "h4.s2.late.prevval_holdon_late.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.6
+    },
+    {
+      "key": "h4.s2.late.prevval_holdon_late.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 7.0
+    },
+    {
+      "key": "h4.s2.late.prevval_none_late",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 3.0
+    },
+    {
+      "key": "h4.s2.late.prevval_none_late.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.6
+    },
+    {
+      "key": "h4.s2.late.prevval_none_late.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 6.4
+    },
+    {
+      "key": "h4.s2.late.prevval_okay_late",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 3.4
+    },
+    {
+      "key": "h4.s2.late.prevval_okay_late.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.6
+    },
+    {
+      "key": "h4.s2.late.prevval_okay_late.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 7.3
+    },
+    {
+      "key": "h4.s2.late.prevval_hmm_late",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 3.7
+    },
+    {
+      "key": "h4.s2.late.prevval_hmm_late.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s2.late.prevval_hmm_late.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 7.3
+    },
+    {
+      "key": "h4.s2.late.rdval_op_late",
+      "src": "valchange::S2::late.estimates.S2@1375:RD_next.est",
+      "value": -1.5
+    },
+    {
+      "key": "h4.s2.late.rdval_op_late.lo",
+      "src": "valchange::S2::late.estimates.S2@1375:RD_next.lo",
+      "value": -4.9
+    },
+    {
+      "key": "h4.s2.late.rdval_op_late.hi",
+      "src": "valchange::S2::late.estimates.S2@1375:RD_next.hi",
+      "value": 1.2
+    },
+    {
+      "key": "h4.s2.late.orval_op_late",
+      "src": "valchange::S2::late.estimates.S2@1375:OR_next.est",
+      "value": 0.69
+    },
+    {
+      "key": "h4.s2.late.orval_op_late.lo",
+      "src": "valchange::S2::late.estimates.S2@1375:OR_next.lo",
+      "value": 0.27
+    },
+    {
+      "key": "h4.s2.late.orval_op_late.hi",
+      "src": "valchange::S2::late.estimates.S2@1375:OR_next.hi",
+      "value": 1.56
+    },
+    {
+      "key": "h4.s2.late.rdval_syn_late",
+      "src": "valchange::S2::late.estimates.S2@1375:RD_syn.est",
+      "value": -0.2
+    },
+    {
+      "key": "h4.s2.late.rdval_syn_late.lo",
+      "src": "valchange::S2::late.estimates.S2@1375:RD_syn.lo",
+      "value": -1.5
+    },
+    {
+      "key": "h4.s2.late.rdval_syn_late.hi",
+      "src": "valchange::S2::late.estimates.S2@1375:RD_syn.hi",
+      "value": 1.2
+    },
+    {
+      "key": "h4.s2.late.rdval_none_late",
+      "src": "valchange::S2::late.estimates.S2@1375:RD_none.est",
+      "value": 0.3
+    },
+    {
+      "key": "h4.s2.late.rdval_none_late.lo",
+      "src": "valchange::S2::late.estimates.S2@1375:RD_none.lo",
+      "value": -1.8
+    },
+    {
+      "key": "h4.s2.late.rdval_none_late.hi",
+      "src": "valchange::S2::late.estimates.S2@1375:RD_none.hi",
+      "value": 2.1
+    },
+    {
+      "key": "h4.s2.late.nexcl_val_late",
+      "src": "valchange::S2::late.n_excluded",
+      "value": 148
+    },
+    {
+      "key": "h4.s2.trend.rampval_late",
+      "src": "valchange::S2::late.estimates.R_amp_RD_next.est",
+      "value": -2.5
+    },
+    {
+      "key": "h4.s2.trend.rampval_late.lo",
+      "src": "valchange::S2::late.estimates.R_amp_RD_next.lo",
+      "value": -9.0
+    },
+    {
+      "key": "h4.s2.trend.rampval_late.hi",
+      "src": "valchange::S2::late.estimates.R_amp_RD_next.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s2.trend.dampval_late",
+      "src": "valchange::S2::late.estimates.dRD_next_last_minus_base.est",
+      "value": -2.1
+    },
+    {
+      "key": "h4.s2.trend.dampval_late.lo",
+      "src": "valchange::S2::late.estimates.dRD_next_last_minus_base.lo",
+      "value": -5.5
+    },
+    {
+      "key": "h4.s2.trend.dampval_late.hi",
+      "src": "valchange::S2::late.estimates.dRD_next_last_minus_base.hi",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s2.trend.rho_rdval_late",
+      "src": "valchange::S2::late.trend.rho",
+      "value": -0.72
+    },
+    {
+      "key": "h4.s2.trend.rho_rdval_late.p",
+      "src": "valchange::S2::late.trend.p",
+      "value": 0.05
+    },
+    {
+      "key": "h4.s2.early.prevval_wait_base",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 4.5
+    },
+    {
+      "key": "h4.s2.early.prevval_wait_base.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s2.early.prevval_wait_base.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 10.0
+    },
+    {
+      "key": "h4.s2.early.prevval_next_base",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 4.1
+    },
+    {
+      "key": "h4.s2.early.prevval_next_base.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s2.early.prevval_next_base.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 9.5
+    },
+    {
+      "key": "h4.s2.early.prevval_holdon_base",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s2.early.prevval_holdon_base.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s2.early.prevval_holdon_base.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 2.3
+    },
+    {
+      "key": "h4.s2.early.prevval_none_base",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s2.early.prevval_none_base.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s2.early.prevval_none_base.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s2.early.rdval_op_base",
+      "src": "valchange::S2::base.estimates.S2@25:RD_next.est",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s2.early.rdval_op_base.lo",
+      "src": "valchange::S2::base.estimates.S2@25:RD_next.lo",
+      "value": -6.4
+    },
+    {
+      "key": "h4.s2.early.rdval_op_base.hi",
+      "src": "valchange::S2::base.estimates.S2@25:RD_next.hi",
+      "value": 6.8
+    },
+    {
+      "key": "h4.s2.early.orval_op_base",
+      "src": "valchange::S2::base.estimates.S2@25:OR_next.est",
+      "value": 1.11
+    },
+    {
+      "key": "h4.s2.early.orval_op_base.lo",
+      "src": "valchange::S2::base.estimates.S2@25:OR_next.lo",
+      "value": 0.17
+    },
+    {
+      "key": "h4.s2.early.orval_op_base.hi",
+      "src": "valchange::S2::base.estimates.S2@25:OR_next.hi",
+      "value": 17.64
+    },
+    {
+      "key": "h4.s2.early.rdval_syn_base",
+      "src": "valchange::S2::base.estimates.S2@25:RD_syn.est",
+      "value": 3.6
+    },
+    {
+      "key": "h4.s2.early.rdval_syn_base.lo",
+      "src": "valchange::S2::base.estimates.S2@25:RD_syn.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s2.early.rdval_syn_base.hi",
+      "src": "valchange::S2::base.estimates.S2@25:RD_syn.hi",
+      "value": 8.2
+    },
+    {
+      "key": "h4.s2.early.rdval_none_base",
+      "src": "valchange::S2::base.estimates.S2@25:RD_none.est",
+      "value": 4.5
+    },
+    {
+      "key": "h4.s2.early.rdval_none_base.lo",
+      "src": "valchange::S2::base.estimates.S2@25:RD_none.lo",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s2.early.rdval_none_base.hi",
+      "src": "valchange::S2::base.estimates.S2@25:RD_none.hi",
+      "value": 10.0
+    },
+    {
+      "key": "h4.s2.early.nexcl_val_base",
+      "src": "valchange::S2::base.n_excluded",
+      "value": 95
+    },
+    {
+      "key": "h4.s2.mid.prevval_wait_base",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 2.7
+    },
+    {
+      "key": "h4.s2.mid.prevval_wait_base.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s2.mid.prevval_wait_base.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 5.5
+    },
+    {
+      "key": "h4.s2.mid.prevval_next_base",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 3.2
+    },
+    {
+      "key": "h4.s2.mid.prevval_next_base.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s2.mid.prevval_next_base.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 8.2
+    },
+    {
+      "key": "h4.s2.mid.prevval_holdon_base",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 3.2
+    },
+    {
+      "key": "h4.s2.mid.prevval_holdon_base.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s2.mid.prevval_holdon_base.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 6.4
+    },
+    {
+      "key": "h4.s2.mid.prevval_none_base",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s2.mid.prevval_none_base.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s2.mid.prevval_none_base.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 2.7
+    },
+    {
+      "key": "h4.s2.mid.rdval_op_base",
+      "src": "valchange::S2::base.estimates.S2@500:RD_next.est",
+      "value": -0.5
+    },
+    {
+      "key": "h4.s2.mid.rdval_op_base.lo",
+      "src": "valchange::S2::base.estimates.S2@500:RD_next.lo",
+      "value": -5.9
+    },
+    {
+      "key": "h4.s2.mid.rdval_op_base.hi",
+      "src": "valchange::S2::base.estimates.S2@500:RD_next.hi",
+      "value": 4.1
+    },
+    {
+      "key": "h4.s2.mid.orval_op_base",
+      "src": "valchange::S2::base.estimates.S2@500:OR_next.est",
+      "value": 0.86
+    },
+    {
+      "key": "h4.s2.mid.orval_op_base.lo",
+      "src": "valchange::S2::base.estimates.S2@500:OR_next.lo",
+      "value": 0.17
+    },
+    {
+      "key": "h4.s2.mid.orval_op_base.hi",
+      "src": "valchange::S2::base.estimates.S2@500:OR_next.hi",
+      "value": 19.81
+    },
+    {
+      "key": "h4.s2.mid.rdval_syn_base",
+      "src": "valchange::S2::base.estimates.S2@500:RD_syn.est",
+      "value": -0.5
+    },
+    {
+      "key": "h4.s2.mid.rdval_syn_base.lo",
+      "src": "valchange::S2::base.estimates.S2@500:RD_syn.lo",
+      "value": -2.3
+    },
+    {
+      "key": "h4.s2.mid.rdval_syn_base.hi",
+      "src": "valchange::S2::base.estimates.S2@500:RD_syn.hi",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s2.mid.rdval_none_base",
+      "src": "valchange::S2::base.estimates.S2@500:RD_none.est",
+      "value": 1.8
+    },
+    {
+      "key": "h4.s2.mid.rdval_none_base.lo",
+      "src": "valchange::S2::base.estimates.S2@500:RD_none.lo",
+      "value": -1.4
+    },
+    {
+      "key": "h4.s2.mid.rdval_none_base.hi",
+      "src": "valchange::S2::base.estimates.S2@500:RD_none.hi",
+      "value": 5.0
+    },
+    {
+      "key": "h4.s2.mid.nexcl_val_base",
+      "src": "valchange::S2::base.n_excluded",
+      "value": 95
+    },
+    {
+      "key": "h4.s2.late.prevval_wait_base",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 3.2
+    },
+    {
+      "key": "h4.s2.late.prevval_wait_base.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s2.late.prevval_wait_base.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 6.4
+    },
+    {
+      "key": "h4.s2.late.prevval_next_base",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 4.1
+    },
+    {
+      "key": "h4.s2.late.prevval_next_base.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s2.late.prevval_next_base.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 9.1
+    },
+    {
+      "key": "h4.s2.late.prevval_holdon_base",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 3.2
+    },
+    {
+      "key": "h4.s2.late.prevval_holdon_base.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s2.late.prevval_holdon_base.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 6.4
+    },
+    {
+      "key": "h4.s2.late.prevval_none_base",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s2.late.prevval_none_base.lo",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s2.late.prevval_none_base.hi",
+      "src": "valchange::S2::<EMAIL>",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s2.late.rdval_op_base",
+      "src": "valchange::S2::base.estimates.S2@1375:RD_next.est",
+      "value": -0.9
+    },
+    {
+      "key": "h4.s2.late.rdval_op_base.lo",
+      "src": "valchange::S2::base.estimates.S2@1375:RD_next.lo",
+      "value": -6.8
+    },
+    {
+      "key": "h4.s2.late.rdval_op_base.hi",
+      "src": "valchange::S2::base.estimates.S2@1375:RD_next.hi",
+      "value": 4.5
+    },
+    {
+      "key": "h4.s2.late.orval_op_base",
+      "src": "valchange::S2::base.estimates.S2@1375:OR_next.est",
+      "value": 0.78
+    },
+    {
+      "key": "h4.s2.late.orval_op_base.lo",
+      "src": "valchange::S2::base.estimates.S2@1375:OR_next.lo",
+      "value": 0.11
+    },
+    {
+      "key": "h4.s2.late.orval_op_base.hi",
+      "src": "valchange::S2::base.estimates.S2@1375:OR_next.hi",
+      "value": 6.57
+    },
+    {
+      "key": "h4.s2.late.rdval_syn_base",
+      "src": "valchange::S2::base.estimates.S2@1375:RD_syn.est",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s2.late.rdval_syn_base.lo",
+      "src": "valchange::S2::base.estimates.S2@1375:RD_syn.lo",
+      "value": -1.8
+    },
+    {
+      "key": "h4.s2.late.rdval_syn_base.hi",
+      "src": "valchange::S2::base.estimates.S2@1375:RD_syn.hi",
+      "value": 1.8
+    },
+    {
+      "key": "h4.s2.late.rdval_none_base",
+      "src": "valchange::S2::base.estimates.S2@1375:RD_none.est",
+      "value": 2.7
+    },
+    {
+      "key": "h4.s2.late.rdval_none_base.lo",
+      "src": "valchange::S2::base.estimates.S2@1375:RD_none.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s2.late.rdval_none_base.hi",
+      "src": "valchange::S2::base.estimates.S2@1375:RD_none.hi",
+      "value": 6.4
+    },
+    {
+      "key": "h4.s2.late.nexcl_val_base",
+      "src": "valchange::S2::base.n_excluded",
+      "value": 95
+    },
+    {
+      "key": "h4.s2.trend.rampval_base.lo",
+      "src": "valchange::S2::base.estimates.R_amp_RD_next.lo",
+      "value": -2.0
+    },
+    {
+      "key": "h4.s2.trend.rampval_base.hi",
+      "src": "valchange::S2::base.estimates.R_amp_RD_next.hi",
+      "value": 6.0
+    },
+    {
+      "key": "h4.s2.trend.dampval_base",
+      "src": "valchange::S2::base.estimates.dRD_next_last_minus_base.est",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s2.trend.dampval_base.lo",
+      "src": "valchange::S2::base.estimates.dRD_next_last_minus_base.lo",
+      "value": -2.3
+    },
+    {
+      "key": "h4.s2.trend.dampval_base.hi",
+      "src": "valchange::S2::base.estimates.dRD_next_last_minus_base.hi",
+      "value": 4.1
+    },
+    {
+      "key": "h4.s2.trend.rho_rdval_base",
+      "src": "valchange::S2::base.trend.rho",
+      "value": -0.2
+    },
+    {
+      "key": "h4.s2.trend.rho_rdval_base.p",
+      "src": "valchange::S2::base.trend.p",
+      "value": 0.626
+    }
+  ],
+  "pilot": false
+}

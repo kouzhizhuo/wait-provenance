@@ -1,0 +1,144 @@
+{
+  "entries": [
+    {
+      "key": "design.nckpt.s1",
+      "src": "distinct weights with E1 generations: S1 9 (base,100,200,400,700,1000,1400,1900,final); S1-pre 5 (6 branches, stage3-step11921 = S1 base); S2 8; S2-ctl 5; S3a 7; S8 5; S9 7; S10 1 (gpt-oss-120b, 3 effort settings, one weight set); S7 = shared step 0 + non-zero steps of each REF seed (ASSUMES both seeds start from the same initial weights)",
+      "value": 9
+    },
+    {
+      "key": "design.nckpt.s1pre",
+      "src": "distinct weights with E1 generations: S1 9 (base,100,200,400,700,1000,1400,1900,final); S1-pre 5 (6 branches, stage3-step11921 = S1 base); S2 8; S2-ctl 5; S3a 7; S8 5; S9 7; S10 1 (gpt-oss-120b, 3 effort settings, one weight set); S7 = shared step 0 + non-zero steps of each REF seed (ASSUMES both seeds start from the same initial weights)",
+      "value": 5
+    },
+    {
+      "key": "design.nckpt.s2",
+      "src": "distinct weights with E1 generations: S1 9 (base,100,200,400,700,1000,1400,1900,final); S1-pre 5 (6 branches, stage3-step11921 = S1 base); S2 8; S2-ctl 5; S3a 7; S8 5; S9 7; S10 1 (gpt-oss-120b, 3 effort settings, one weight set); S7 = shared step 0 + non-zero steps of each REF seed (ASSUMES both seeds start from the same initial weights)",
+      "value": 8
+    },
+    {
+      "key": "design.nckpt.s2ctl",
+      "src": "distinct weights with E1 generations: S1 9 (base,100,200,400,700,1000,1400,1900,final); S1-pre 5 (6 branches, stage3-step11921 = S1 base); S2 8; S2-ctl 5; S3a 7; S8 5; S9 7; S10 1 (gpt-oss-120b, 3 effort settings, one weight set); S7 = shared step 0 + non-zero steps of each REF seed (ASSUMES both seeds start from the same initial weights)",
+      "value": 5
+    },
+    {
+      "key": "design.nckpt.s3a",
+      "src": "distinct weights with E1 generations: S1 9 (base,100,200,400,700,1000,1400,1900,final); S1-pre 5 (6 branches, stage3-step11921 = S1 base); S2 8; S2-ctl 5; S3a 7; S8 5; S9 7; S10 1 (gpt-oss-120b, 3 effort settings, one weight set); S7 = shared step 0 + non-zero steps of each REF seed (ASSUMES both seeds start from the same initial weights)",
+      "value": 7
+    },
+    {
+      "key": "design.nckpt.s8",
+      "src": "distinct weights with E1 generations: S1 9 (base,100,200,400,700,1000,1400,1900,final); S1-pre 5 (6 branches, stage3-step11921 = S1 base); S2 8; S2-ctl 5; S3a 7; S8 5; S9 7; S10 1 (gpt-oss-120b, 3 effort settings, one weight set); S7 = shared step 0 + non-zero steps of each REF seed (ASSUMES both seeds start from the same initial weights)",
+      "value": 5
+    },
+    {
+      "key": "design.nckpt.s9",
+      "src": "distinct weights with E1 generations: S1 9 (base,100,200,400,700,1000,1400,1900,final); S1-pre 5 (6 branches, stage3-step11921 = S1 base); S2 8; S2-ctl 5; S3a 7; S8 5; S9 7; S10 1 (gpt-oss-120b, 3 effort settings, one weight set); S7 = shared step 0 + non-zero steps of each REF seed (ASSUMES both seeds start from the same initial weights)",
+      "value": 7
+    },
+    {
+      "key": "design.nckpt.s10",
+      "src": "distinct weights with E1 generations: S1 9 (base,100,200,400,700,1000,1400,1900,final); S1-pre 5 (6 branches, stage3-step11921 = S1 base); S2 8; S2-ctl 5; S3a 7; S8 5; S9 7; S10 1 (gpt-oss-120b, 3 effort settings, one weight set); S7 = shared step 0 + non-zero steps of each REF seed (ASSUMES both seeds start from the same initial weights)",
+      "value": 1
+    },
+    {
+      "key": "design.nckpt.s7",
+      "src": "distinct weights with E1 generations: S1 9 (base,100,200,400,700,1000,1400,1900,final); S1-pre 5 (6 branches, stage3-step11921 = S1 base); S2 8; S2-ctl 5; S3a 7; S8 5; S9 7; S10 1 (gpt-oss-120b, 3 effort settings, one weight set); S7 = shared step 0 + non-zero steps of each REF seed (ASSUMES both seeds start from the same initial weights)",
+      "value": 49
+    },
+    {
+      "key": "design.nckpt",
+      "src": "distinct weights with E1 generations: S1 9 (base,100,200,400,700,1000,1400,1900,final); S1-pre 5 (6 branches, stage3-step11921 = S1 base); S2 8; S2-ctl 5; S3a 7; S8 5; S9 7; S10 1 (gpt-oss-120b, 3 effort settings, one weight set); S7 = shared step 0 + non-zero steps of each REF seed (ASSUMES both seeds start from the same initial weights)",
+      "value": 96
+    },
+    {
+      "key": "n.ckpts",
+      "src": "distinct weights with E1 generations: S1 9 (base,100,200,400,700,1000,1400,1900,final); S1-pre 5 (6 branches, stage3-step11921 = S1 base); S2 8; S2-ctl 5; S3a 7; S8 5; S9 7; S10 1 (gpt-oss-120b, 3 effort settings, one weight set); S7 = shared step 0 + non-zero steps of each REF seed (ASSUMES both seeds start from the same initial weights)",
+      "value": 96
+    },
+    {
+      "key": "n.traces.s1",
+      "src": "rows of the local graded E1 MATH-500 generation files (S8: totals.n_resp in scale_summary.json; S7: n_samples of the REF idx files, both seeds); S1-pre excludes the linked S1-base branch",
+      "value": 9000
+    },
+    {
+      "key": "n.traces.s2",
+      "src": "rows of the local graded E1 MATH-500 generation files (S8: totals.n_resp in scale_summary.json; S7: n_samples of the REF idx files, both seeds); S1-pre excludes the linked S1-base branch",
+      "value": 4800
+    },
+    {
+      "key": "n.traces.s3a",
+      "src": "rows of the local graded E1 MATH-500 generation files (S8: totals.n_resp in scale_summary.json; S7: n_samples of the REF idx files, both seeds); S1-pre excludes the linked S1-base branch",
+      "value": 14000
+    },
+    {
+      "key": "n.traces.s2ctl",
+      "src": "rows of the local graded E1 MATH-500 generation files (S8: totals.n_resp in scale_summary.json; S7: n_samples of the REF idx files, both seeds); S1-pre excludes the linked S1-base branch",
+      "value": 3000
+    },
+    {
+      "key": "n.traces.s1pre",
+      "src": "rows of the local graded E1 MATH-500 generation files (S8: totals.n_resp in scale_summary.json; S7: n_samples of the REF idx files, both seeds); S1-pre excludes the linked S1-base branch",
+      "value": 5000
+    },
+    {
+      "key": "n.traces.s9",
+      "src": "rows of the local graded E1 MATH-500 generation files (S8: totals.n_resp in scale_summary.json; S7: n_samples of the REF idx files, both seeds); S1-pre excludes the linked S1-base branch",
+      "value": 7000
+    },
+    {
+      "key": "n.traces.s10",
+      "src": "rows of the local graded E1 MATH-500 generation files (S8: totals.n_resp in scale_summary.json; S7: n_samples of the REF idx files, both seeds); S1-pre excludes the linked S1-base branch",
+      "value": 2400
+    },
+    {
+      "key": "n.traces.s8",
+      "src": "rows of the local graded E1 MATH-500 generation files (S8: totals.n_resp in scale_summary.json; S7: n_samples of the REF idx files, both seeds); S1-pre excludes the linked S1-base branch",
+      "value": 4000
+    },
+    {
+      "key": "n.traces.s7",
+      "src": "rows of the local graded E1 MATH-500 generation files (S8: totals.n_resp in scale_summary.json; S7: n_samples of the REF idx files, both seeds); S1-pre excludes the linked S1-base branch",
+      "value": 80000
+    },
+    {
+      "key": "n.traces",
+      "src": "sum of n.traces.<series>: MATH-500 E1 traces of the main evidence base (no greedy/boxed/T=0.7 reruns, no AIME)",
+      "value": 129200
+    },
+    {
+      "key": "n.gpuh.gen",
+      "src": "sum of wall_seconds x n_gpus over the local meta files of this stage",
+      "value": 26.6
+    },
+    {
+      "key": "n.gpuh.insert_continue",
+      "src": "sum of wall_seconds x n_gpus over the local meta files of this stage",
+      "value": 28.2
+    },
+    {
+      "key": "n.gpuh.judge",
+      "src": "sum of wall_seconds x n_gpus over the local meta files of this stage",
+      "value": 0.5
+    },
+    {
+      "key": "n.gpuh.hsub",
+      "src": "sum of wall_seconds x n_gpus over the local meta files of this stage",
+      "value": 0.0
+    },
+    {
+      "key": "n.gpuh.revlab",
+      "src": "sum of wall_seconds x n_gpus over the local meta files of this stage",
+      "value": 1.4
+    },
+    {
+      "key": "n.gpuh.lsc_embed",
+      "src": "sum of wall_seconds x n_gpus over the local meta files of this stage",
+      "value": 0.3
+    },
+    {
+      "key": "n.gpuh",
+      "src": "LOWER BOUND: GPU stages (gen, insert_continue, judge, revlab) from the LOCAL *.meta.json only; excludes remote-only runs not harvested and the GRPO training jobs",
+      "value": 57
+    }
+  ]
+}

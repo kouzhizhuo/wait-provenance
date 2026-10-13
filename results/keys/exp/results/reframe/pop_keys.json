@@ -1,0 +1,814 @@
+{
+  "entries": [
+    {
+      "key": "h1.pop_phi4.final.freq2",
+      "src": "exp/results/scale/bb/BB_phi4/idx/math500.json",
+      "value": 0.0
+    },
+    {
+      "key": "h1.pop_phi4.final.freq4",
+      "src": "exp/results/scale/bb/BB_phi4/idx/math500.json",
+      "value": 0.0
+    },
+    {
+      "key": "h1.pop_phi4.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_phi4/idx/math500.json; exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.pop_phi4.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_phi4/idx/math500.json; exact Poisson 95%",
+      "value": 0.0073
+    },
+    {
+      "key": "h1.pop_phi4.final.nwait",
+      "src": "exp/results/scale/bb/BB_phi4/idx/math500.json",
+      "value": 0
+    },
+    {
+      "key": "h1.pop_phi4.final.ntok",
+      "src": "exp/results/scale/bb/BB_phi4/idx/math500.json",
+      "value": 508267
+    },
+    {
+      "key": "ctl.pop_phi4.final.acc",
+      "src": "exp/results/scale/bb/BB_phi4/idx/math500.json::acc",
+      "value": 82.0
+    },
+    {
+      "key": "ctl.pop_phi4.final.trunc",
+      "src": "exp/results/scale/bb/BB_phi4/idx/math500.json::truncated",
+      "value": 0.0
+    },
+    {
+      "key": "h1.pop_phi4.final.reflopen",
+      "src": "exp/results/scale/bb/BB_phi4/idx/math500.json (sentence-initial reflection openers per 1k sentences, first sentence excluded)",
+      "value": 2.2
+    },
+    {
+      "key": "h1.pop_phi4.final.reflopen_nowait",
+      "src": "exp/results/scale/bb/BB_phi4/idx/math500.json",
+      "value": 2.2
+    },
+    {
+      "key": "h1.pop_phi4r.final.freq2",
+      "src": "exp/results/scale/bb/BB_phi4r/idx/math500.json",
+      "value": 1.56
+    },
+    {
+      "key": "h1.pop_phi4r.final.freq4",
+      "src": "exp/results/scale/bb/BB_phi4r/idx/math500.json",
+      "value": 1.5587
+    },
+    {
+      "key": "h1.pop_phi4r.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_phi4r/idx/math500.json; exact Poisson 95%",
+      "value": 1.4957
+    },
+    {
+      "key": "h1.pop_phi4r.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_phi4r/idx/math500.json; exact Poisson 95%",
+      "value": 1.6237
+    },
+    {
+      "key": "h1.pop_phi4r.final.nwait",
+      "src": "exp/results/scale/bb/BB_phi4r/idx/math500.json",
+      "value": 2303
+    },
+    {
+      "key": "h1.pop_phi4r.final.ntok",
+      "src": "exp/results/scale/bb/BB_phi4r/idx/math500.json",
+      "value": 1477466
+    },
+    {
+      "key": "h1.pop_phi4r.final.si",
+      "src": "exp/results/scale/bb/BB_phi4r/idx/math500.json::indices.SI",
+      "value": 46.6
+    },
+    {
+      "key": "h1.pop_phi4r.final.si.lo",
+      "src": "exp/results/scale/bb/BB_phi4r/idx/math500.json::indices.SI",
+      "value": 42.1
+    },
+    {
+      "key": "h1.pop_phi4r.final.si.hi",
+      "src": "exp/results/scale/bb/BB_phi4r/idx/math500.json::indices.SI",
+      "value": 51.2
+    },
+    {
+      "key": "h1.pop_phi4r.final.orth",
+      "src": "exp/results/scale/bb/BB_phi4r/idx/math500.json::indices.ORTH",
+      "value": 35.8
+    },
+    {
+      "key": "h1.pop_phi4r.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_phi4r/idx/math500.json::indices.ORTH",
+      "value": 31.4
+    },
+    {
+      "key": "h1.pop_phi4r.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_phi4r/idx/math500.json::indices.ORTH",
+      "value": 40.0
+    },
+    {
+      "key": "ctl.pop_phi4r.final.acc",
+      "src": "exp/results/scale/bb/BB_phi4r/idx/math500.json::acc",
+      "value": 93.0
+    },
+    {
+      "key": "ctl.pop_phi4r.final.trunc",
+      "src": "exp/results/scale/bb/BB_phi4r/idx/math500.json::truncated",
+      "value": 6.0
+    },
+    {
+      "key": "h1.pop_phi4r.final.reflopen",
+      "src": "exp/results/scale/bb/BB_phi4r/idx/math500.json (sentence-initial reflection openers per 1k sentences, first sentence excluded)",
+      "value": 36.8
+    },
+    {
+      "key": "h1.pop_phi4r.final.reflopen_nowait",
+      "src": "exp/results/scale/bb/BB_phi4r/idx/math500.json",
+      "value": 23.2
+    },
+    {
+      "key": "h1.pop_phi4rp.final.freq2",
+      "src": "exp/results/scale/bb/BB_phi4rp/idx/math500.json",
+      "value": 2.58
+    },
+    {
+      "key": "h1.pop_phi4rp.final.freq4",
+      "src": "exp/results/scale/bb/BB_phi4rp/idx/math500.json",
+      "value": 2.5801
+    },
+    {
+      "key": "h1.pop_phi4rp.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_phi4rp/idx/math500.json; exact Poisson 95%",
+      "value": 2.5125
+    },
+    {
+      "key": "h1.pop_phi4rp.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_phi4rp/idx/math500.json; exact Poisson 95%",
+      "value": 2.649
+    },
+    {
+      "key": "h1.pop_phi4rp.final.nwait",
+      "src": "exp/results/scale/bb/BB_phi4rp/idx/math500.json",
+      "value": 5528
+    },
+    {
+      "key": "h1.pop_phi4rp.final.ntok",
+      "src": "exp/results/scale/bb/BB_phi4rp/idx/math500.json",
+      "value": 2142573
+    },
+    {
+      "key": "h1.pop_phi4rp.final.si",
+      "src": "exp/results/scale/bb/BB_phi4rp/idx/math500.json::indices.SI",
+      "value": 40.8
+    },
+    {
+      "key": "h1.pop_phi4rp.final.si.lo",
+      "src": "exp/results/scale/bb/BB_phi4rp/idx/math500.json::indices.SI",
+      "value": 38.0
+    },
+    {
+      "key": "h1.pop_phi4rp.final.si.hi",
+      "src": "exp/results/scale/bb/BB_phi4rp/idx/math500.json::indices.SI",
+      "value": 43.9
+    },
+    {
+      "key": "h1.pop_phi4rp.final.orth",
+      "src": "exp/results/scale/bb/BB_phi4rp/idx/math500.json::indices.ORTH",
+      "value": 33.2
+    },
+    {
+      "key": "h1.pop_phi4rp.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_phi4rp/idx/math500.json::indices.ORTH",
+      "value": 30.5
+    },
+    {
+      "key": "h1.pop_phi4rp.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_phi4rp/idx/math500.json::indices.ORTH",
+      "value": 36.0
+    },
+    {
+      "key": "ctl.pop_phi4rp.final.acc",
+      "src": "exp/results/scale/bb/BB_phi4rp/idx/math500.json::acc",
+      "value": 91.1
+    },
+    {
+      "key": "ctl.pop_phi4rp.final.trunc",
+      "src": "exp/results/scale/bb/BB_phi4rp/idx/math500.json::truncated",
+      "value": 10.9
+    },
+    {
+      "key": "h1.pop_phi4rp.final.reflopen",
+      "src": "exp/results/scale/bb/BB_phi4rp/idx/math500.json (sentence-initial reflection openers per 1k sentences, first sentence excluded)",
+      "value": 54.4
+    },
+    {
+      "key": "h1.pop_phi4rp.final.reflopen_nowait",
+      "src": "exp/results/scale/bb/BB_phi4rp/idx/math500.json",
+      "value": 33.6
+    },
+    {
+      "key": "h1.pop_mistral_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_mistral_base_ps/idx/math500.json (Mistral-Small-24B-Base-2501, problem_solution prompt, T=0.15; the boxed_raw T=1.0 run is invalid)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.pop_mistral_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_mistral_base_ps/idx/math500.json (Mistral-Small-24B-Base-2501, problem_solution prompt, T=0.15; the boxed_raw T=1.0 run is invalid)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.pop_mistral_base.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_mistral_base_ps/idx/math500.json (Mistral-Small-24B-Base-2501, problem_solution prompt, T=0.15; the boxed_raw T=1.0 run is invalid); exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.pop_mistral_base.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_mistral_base_ps/idx/math500.json (Mistral-Small-24B-Base-2501, problem_solution prompt, T=0.15; the boxed_raw T=1.0 run is invalid); exact Poisson 95%",
+      "value": 0.0027
+    },
+    {
+      "key": "h1.pop_mistral_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_mistral_base_ps/idx/math500.json (Mistral-Small-24B-Base-2501, problem_solution prompt, T=0.15; the boxed_raw T=1.0 run is invalid)",
+      "value": 0
+    },
+    {
+      "key": "h1.pop_mistral_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_mistral_base_ps/idx/math500.json (Mistral-Small-24B-Base-2501, problem_solution prompt, T=0.15; the boxed_raw T=1.0 run is invalid)",
+      "value": 1365234
+    },
+    {
+      "key": "ctl.pop_mistral_base.final.acc",
+      "src": "exp/results/scale/bb/BB_mistral_base_ps/idx/math500.json (Mistral-Small-24B-Base-2501, problem_solution prompt, T=0.15; the boxed_raw T=1.0 run is invalid)::acc",
+      "value": 32.0
+    },
+    {
+      "key": "ctl.pop_mistral_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_mistral_base_ps/idx/math500.json (Mistral-Small-24B-Base-2501, problem_solution prompt, T=0.15; the boxed_raw T=1.0 run is invalid)::truncated",
+      "value": 19.1
+    },
+    {
+      "key": "h1.pop_mistral_base.final.reflopen",
+      "src": "exp/results/scale/bb/BB_mistral_base_ps/idx/math500.json (Mistral-Small-24B-Base-2501, problem_solution prompt, T=0.15; the boxed_raw T=1.0 run is invalid) (sentence-initial reflection openers per 1k sentences, first sentence excluded)",
+      "value": 8.1
+    },
+    {
+      "key": "h1.pop_mistral_base.final.reflopen_nowait",
+      "src": "exp/results/scale/bb/BB_mistral_base_ps/idx/math500.json (Mistral-Small-24B-Base-2501, problem_solution prompt, T=0.15; the boxed_raw T=1.0 run is invalid)",
+      "value": 8.1
+    },
+    {
+      "key": "h1.pop_qwen3_8b_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen3_8b_base/idx/math500.json",
+      "value": 0.0
+    },
+    {
+      "key": "h1.pop_qwen3_8b_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen3_8b_base/idx/math500.json",
+      "value": 0.0
+    },
+    {
+      "key": "h1.pop_qwen3_8b_base.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen3_8b_base/idx/math500.json; exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.pop_qwen3_8b_base.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen3_8b_base/idx/math500.json; exact Poisson 95%",
+      "value": 0.0076
+    },
+    {
+      "key": "h1.pop_qwen3_8b_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_qwen3_8b_base/idx/math500.json",
+      "value": 0
+    },
+    {
+      "key": "h1.pop_qwen3_8b_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_qwen3_8b_base/idx/math500.json",
+      "value": 483045
+    },
+    {
+      "key": "ctl.pop_qwen3_8b_base.final.acc",
+      "src": "exp/results/scale/bb/BB_qwen3_8b_base/idx/math500.json::acc",
+      "value": 66.5
+    },
+    {
+      "key": "ctl.pop_qwen3_8b_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_qwen3_8b_base/idx/math500.json::truncated",
+      "value": 0.0
+    },
+    {
+      "key": "h1.pop_qwen3_8b_base.final.reflopen",
+      "src": "exp/results/scale/bb/BB_qwen3_8b_base/idx/math500.json (sentence-initial reflection openers per 1k sentences, first sentence excluded)",
+      "value": 4.7
+    },
+    {
+      "key": "h1.pop_qwen3_8b_base.final.reflopen_nowait",
+      "src": "exp/results/scale/bb/BB_qwen3_8b_base/idx/math500.json",
+      "value": 4.7
+    },
+    {
+      "key": "h1.pop_qwen3_8b.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen3_8b/idx/math500.json",
+      "value": 3.93
+    },
+    {
+      "key": "h1.pop_qwen3_8b.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen3_8b/idx/math500.json",
+      "value": 3.9312
+    },
+    {
+      "key": "h1.pop_qwen3_8b.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen3_8b/idx/math500.json; exact Poisson 95%",
+      "value": 3.8661
+    },
+    {
+      "key": "h1.pop_qwen3_8b.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen3_8b/idx/math500.json; exact Poisson 95%",
+      "value": 3.997
+    },
+    {
+      "key": "h1.pop_qwen3_8b.final.nwait",
+      "src": "exp/results/scale/bb/BB_qwen3_8b/idx/math500.json",
+      "value": 13916
+    },
+    {
+      "key": "h1.pop_qwen3_8b.final.ntok",
+      "src": "exp/results/scale/bb/BB_qwen3_8b/idx/math500.json",
+      "value": 3539906
+    },
+    {
+      "key": "h1.pop_qwen3_8b.final.si",
+      "src": "exp/results/scale/bb/BB_qwen3_8b/idx/math500.json::indices.SI",
+      "value": 92.8
+    },
+    {
+      "key": "h1.pop_qwen3_8b.final.si.lo",
+      "src": "exp/results/scale/bb/BB_qwen3_8b/idx/math500.json::indices.SI",
+      "value": 91.3
+    },
+    {
+      "key": "h1.pop_qwen3_8b.final.si.hi",
+      "src": "exp/results/scale/bb/BB_qwen3_8b/idx/math500.json::indices.SI",
+      "value": 94.1
+    },
+    {
+      "key": "h1.pop_qwen3_8b.final.orth",
+      "src": "exp/results/scale/bb/BB_qwen3_8b/idx/math500.json::indices.ORTH",
+      "value": 92.1
+    },
+    {
+      "key": "h1.pop_qwen3_8b.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_qwen3_8b/idx/math500.json::indices.ORTH",
+      "value": 90.6
+    },
+    {
+      "key": "h1.pop_qwen3_8b.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_qwen3_8b/idx/math500.json::indices.ORTH",
+      "value": 93.5
+    },
+    {
+      "key": "ctl.pop_qwen3_8b.final.acc",
+      "src": "exp/results/scale/bb/BB_qwen3_8b/idx/math500.json::acc",
+      "value": 84.9
+    },
+    {
+      "key": "ctl.pop_qwen3_8b.final.trunc",
+      "src": "exp/results/scale/bb/BB_qwen3_8b/idx/math500.json::truncated",
+      "value": 19.0
+    },
+    {
+      "key": "h1.pop_qwen3_8b.final.reflopen",
+      "src": "exp/results/scale/bb/BB_qwen3_8b/idx/math500.json (sentence-initial reflection openers per 1k sentences, first sentence excluded)",
+      "value": 137.1
+    },
+    {
+      "key": "h1.pop_qwen3_8b.final.reflopen_nowait",
+      "src": "exp/results/scale/bb/BB_qwen3_8b/idx/math500.json",
+      "value": 73.5
+    },
+    {
+      "key": "h1.pop_qwen3_14b_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen3_14b_base/idx/math500.json",
+      "value": 0.03
+    },
+    {
+      "key": "h1.pop_qwen3_14b_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen3_14b_base/idx/math500.json",
+      "value": 0.0265
+    },
+    {
+      "key": "h1.pop_qwen3_14b_base.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen3_14b_base/idx/math500.json; exact Poisson 95%",
+      "value": 0.0141
+    },
+    {
+      "key": "h1.pop_qwen3_14b_base.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen3_14b_base/idx/math500.json; exact Poisson 95%",
+      "value": 0.0454
+    },
+    {
+      "key": "h1.pop_qwen3_14b_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_qwen3_14b_base/idx/math500.json",
+      "value": 13
+    },
+    {
+      "key": "h1.pop_qwen3_14b_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_qwen3_14b_base/idx/math500.json",
+      "value": 489724
+    },
+    {
+      "key": "ctl.pop_qwen3_14b_base.final.acc",
+      "src": "exp/results/scale/bb/BB_qwen3_14b_base/idx/math500.json::acc",
+      "value": 66.5
+    },
+    {
+      "key": "ctl.pop_qwen3_14b_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_qwen3_14b_base/idx/math500.json::truncated",
+      "value": 0.0
+    },
+    {
+      "key": "h1.pop_qwen3_14b_base.final.reflopen",
+      "src": "exp/results/scale/bb/BB_qwen3_14b_base/idx/math500.json (sentence-initial reflection openers per 1k sentences, first sentence excluded)",
+      "value": 6.0
+    },
+    {
+      "key": "h1.pop_qwen3_14b_base.final.reflopen_nowait",
+      "src": "exp/results/scale/bb/BB_qwen3_14b_base/idx/math500.json",
+      "value": 5.4
+    },
+    {
+      "key": "h1.pop_qwen3_14b.final.freq2",
+      "src": "exp/results/scale/bb/BB_qwen3_14b/idx/math500.json",
+      "value": 3.03
+    },
+    {
+      "key": "h1.pop_qwen3_14b.final.freq4",
+      "src": "exp/results/scale/bb/BB_qwen3_14b/idx/math500.json",
+      "value": 3.0349
+    },
+    {
+      "key": "h1.pop_qwen3_14b.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_qwen3_14b/idx/math500.json; exact Poisson 95%",
+      "value": 2.9753
+    },
+    {
+      "key": "h1.pop_qwen3_14b.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_qwen3_14b/idx/math500.json; exact Poisson 95%",
+      "value": 3.0953
+    },
+    {
+      "key": "h1.pop_qwen3_14b.final.nwait",
+      "src": "exp/results/scale/bb/BB_qwen3_14b/idx/math500.json",
+      "value": 9880
+    },
+    {
+      "key": "h1.pop_qwen3_14b.final.ntok",
+      "src": "exp/results/scale/bb/BB_qwen3_14b/idx/math500.json",
+      "value": 3255515
+    },
+    {
+      "key": "h1.pop_qwen3_14b.final.si",
+      "src": "exp/results/scale/bb/BB_qwen3_14b/idx/math500.json::indices.SI",
+      "value": 92.5
+    },
+    {
+      "key": "h1.pop_qwen3_14b.final.si.lo",
+      "src": "exp/results/scale/bb/BB_qwen3_14b/idx/math500.json::indices.SI",
+      "value": 90.8
+    },
+    {
+      "key": "h1.pop_qwen3_14b.final.si.hi",
+      "src": "exp/results/scale/bb/BB_qwen3_14b/idx/math500.json::indices.SI",
+      "value": 94.0
+    },
+    {
+      "key": "h1.pop_qwen3_14b.final.orth",
+      "src": "exp/results/scale/bb/BB_qwen3_14b/idx/math500.json::indices.ORTH",
+      "value": 90.7
+    },
+    {
+      "key": "h1.pop_qwen3_14b.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_qwen3_14b/idx/math500.json::indices.ORTH",
+      "value": 88.9
+    },
+    {
+      "key": "h1.pop_qwen3_14b.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_qwen3_14b/idx/math500.json::indices.ORTH",
+      "value": 92.2
+    },
+    {
+      "key": "ctl.pop_qwen3_14b.final.acc",
+      "src": "exp/results/scale/bb/BB_qwen3_14b/idx/math500.json::acc",
+      "value": 87.9
+    },
+    {
+      "key": "ctl.pop_qwen3_14b.final.trunc",
+      "src": "exp/results/scale/bb/BB_qwen3_14b/idx/math500.json::truncated",
+      "value": 14.5
+    },
+    {
+      "key": "h1.pop_qwen3_14b.final.reflopen",
+      "src": "exp/results/scale/bb/BB_qwen3_14b/idx/math500.json (sentence-initial reflection openers per 1k sentences, first sentence excluded)",
+      "value": 127.0
+    },
+    {
+      "key": "h1.pop_qwen3_14b.final.reflopen_nowait",
+      "src": "exp/results/scale/bb/BB_qwen3_14b/idx/math500.json",
+      "value": 77.1
+    },
+    {
+      "key": "h1.pop_r1d_llama8.final.freq2",
+      "src": "exp/results/scale/bb/BB_r1d_llama8/idx/math500.json",
+      "value": 4.8
+    },
+    {
+      "key": "h1.pop_r1d_llama8.final.freq4",
+      "src": "exp/results/scale/bb/BB_r1d_llama8/idx/math500.json",
+      "value": 4.7972
+    },
+    {
+      "key": "h1.pop_r1d_llama8.final.freq4.lo",
+      "src": "exp/results/scale/bb/BB_r1d_llama8/idx/math500.json; exact Poisson 95%",
+      "value": 4.7155
+    },
+    {
+      "key": "h1.pop_r1d_llama8.final.freq4.hi",
+      "src": "exp/results/scale/bb/BB_r1d_llama8/idx/math500.json; exact Poisson 95%",
+      "value": 4.8801
+    },
+    {
+      "key": "h1.pop_r1d_llama8.final.nwait",
+      "src": "exp/results/scale/bb/BB_r1d_llama8/idx/math500.json",
+      "value": 13111
+    },
+    {
+      "key": "h1.pop_r1d_llama8.final.ntok",
+      "src": "exp/results/scale/bb/BB_r1d_llama8/idx/math500.json",
+      "value": 2733033
+    },
+    {
+      "key": "h1.pop_r1d_llama8.final.si",
+      "src": "exp/results/scale/bb/BB_r1d_llama8/idx/math500.json::indices.SI",
+      "value": 90.9
+    },
+    {
+      "key": "h1.pop_r1d_llama8.final.si.lo",
+      "src": "exp/results/scale/bb/BB_r1d_llama8/idx/math500.json::indices.SI",
+      "value": 89.6
+    },
+    {
+      "key": "h1.pop_r1d_llama8.final.si.hi",
+      "src": "exp/results/scale/bb/BB_r1d_llama8/idx/math500.json::indices.SI",
+      "value": 92.0
+    },
+    {
+      "key": "h1.pop_r1d_llama8.final.orth",
+      "src": "exp/results/scale/bb/BB_r1d_llama8/idx/math500.json::indices.ORTH",
+      "value": 90.3
+    },
+    {
+      "key": "h1.pop_r1d_llama8.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_r1d_llama8/idx/math500.json::indices.ORTH",
+      "value": 88.9
+    },
+    {
+      "key": "h1.pop_r1d_llama8.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_r1d_llama8/idx/math500.json::indices.ORTH",
+      "value": 91.5
+    },
+    {
+      "key": "ctl.pop_r1d_llama8.final.acc",
+      "src": "exp/results/scale/bb/BB_r1d_llama8/idx/math500.json::acc",
+      "value": 83.8
+    },
+    {
+      "key": "ctl.pop_r1d_llama8.final.trunc",
+      "src": "exp/results/scale/bb/BB_r1d_llama8/idx/math500.json::truncated",
+      "value": 13.5
+    },
+    {
+      "key": "h1.pop_r1d_llama8.final.reflopen",
+      "src": "exp/results/scale/bb/BB_r1d_llama8/idx/math500.json (sentence-initial reflection openers per 1k sentences, first sentence excluded)",
+      "value": 137.7
+    },
+    {
+      "key": "h1.pop_r1d_llama8.final.reflopen_nowait",
+      "src": "exp/results/scale/bb/BB_r1d_llama8/idx/math500.json",
+      "value": 53.7
+    },
+    {
+      "key": "h1.pop_qwen3b30.final.freq2",
+      "src": "exp/results/scale/bb/pop_qwen3b30/idx/math500.json (Slurm, model commit in model_commit.txt)",
+      "value": 0.02
+    },
+    {
+      "key": "h1.pop_qwen3b30.final.freq4",
+      "src": "exp/results/scale/bb/pop_qwen3b30/idx/math500.json (Slurm, model commit in model_commit.txt)",
+      "value": 0.0197
+    },
+    {
+      "key": "h1.pop_qwen3b30.final.freq4.lo",
+      "src": "exp/results/scale/bb/pop_qwen3b30/idx/math500.json (Slurm, model commit in model_commit.txt); exact Poisson 95%",
+      "value": 0.0102
+    },
+    {
+      "key": "h1.pop_qwen3b30.final.freq4.hi",
+      "src": "exp/results/scale/bb/pop_qwen3b30/idx/math500.json (Slurm, model commit in model_commit.txt); exact Poisson 95%",
+      "value": 0.0344
+    },
+    {
+      "key": "h1.pop_qwen3b30.final.nwait",
+      "src": "exp/results/scale/bb/pop_qwen3b30/idx/math500.json (Slurm, model commit in model_commit.txt)",
+      "value": 12
+    },
+    {
+      "key": "h1.pop_qwen3b30.final.ntok",
+      "src": "exp/results/scale/bb/pop_qwen3b30/idx/math500.json (Slurm, model commit in model_commit.txt)",
+      "value": 610227
+    },
+    {
+      "key": "ctl.pop_qwen3b30.final.acc",
+      "src": "exp/results/scale/bb/pop_qwen3b30/idx/math500.json (Slurm, model commit in model_commit.txt)::acc",
+      "value": 52.2
+    },
+    {
+      "key": "ctl.pop_qwen3b30.final.trunc",
+      "src": "exp/results/scale/bb/pop_qwen3b30/idx/math500.json (Slurm, model commit in model_commit.txt)::truncated",
+      "value": 0.2
+    },
+    {
+      "key": "h1.pop_qwen3b30.final.reflopen",
+      "src": "exp/results/scale/bb/pop_qwen3b30/idx/math500.json (Slurm, model commit in model_commit.txt) (sentence-initial reflection openers per 1k sentences, first sentence excluded)",
+      "value": 5.2
+    },
+    {
+      "key": "h1.pop_qwen3b30.final.reflopen_nowait",
+      "src": "exp/results/scale/bb/pop_qwen3b30/idx/math500.json (Slurm, model commit in model_commit.txt)",
+      "value": 4.8
+    },
+    {
+      "key": "h1.pop_r1dllama70b.final.freq2",
+      "src": "exp/results/scale/bb/pop_r1dllama70b/idx/math500.json (Slurm, R1-Distill-Llama-70B; model commit unrecorded; rerun 407448 after the tokenizer fix)",
+      "value": 3.97
+    },
+    {
+      "key": "h1.pop_r1dllama70b.final.freq4",
+      "src": "exp/results/scale/bb/pop_r1dllama70b/idx/math500.json (Slurm, R1-Distill-Llama-70B; model commit unrecorded; rerun 407448 after the tokenizer fix)",
+      "value": 3.9707
+    },
+    {
+      "key": "h1.pop_r1dllama70b.final.freq4.lo",
+      "src": "exp/results/scale/bb/pop_r1dllama70b/idx/math500.json (Slurm, R1-Distill-Llama-70B; model commit unrecorded; rerun 407448 after the tokenizer fix); exact Poisson 95%",
+      "value": 3.891
+    },
+    {
+      "key": "h1.pop_r1dllama70b.final.freq4.hi",
+      "src": "exp/results/scale/bb/pop_r1dllama70b/idx/math500.json (Slurm, R1-Distill-Llama-70B; model commit unrecorded; rerun 407448 after the tokenizer fix); exact Poisson 95%",
+      "value": 4.0516
+    },
+    {
+      "key": "h1.pop_r1dllama70b.final.nwait",
+      "src": "exp/results/scale/bb/pop_r1dllama70b/idx/math500.json (Slurm, R1-Distill-Llama-70B; model commit unrecorded; rerun 407448 after the tokenizer fix)",
+      "value": 9440
+    },
+    {
+      "key": "h1.pop_r1dllama70b.final.ntok",
+      "src": "exp/results/scale/bb/pop_r1dllama70b/idx/math500.json (Slurm, R1-Distill-Llama-70B; model commit unrecorded; rerun 407448 after the tokenizer fix)",
+      "value": 2377408
+    },
+    {
+      "key": "h1.pop_r1dllama70b.final.si",
+      "src": "exp/results/scale/bb/pop_r1dllama70b/idx/math500.json (Slurm, R1-Distill-Llama-70B; model commit unrecorded; rerun 407448 after the tokenizer fix)::indices.SI",
+      "value": 89.5
+    },
+    {
+      "key": "h1.pop_r1dllama70b.final.si.lo",
+      "src": "exp/results/scale/bb/pop_r1dllama70b/idx/math500.json (Slurm, R1-Distill-Llama-70B; model commit unrecorded; rerun 407448 after the tokenizer fix)::indices.SI",
+      "value": 87.5
+    },
+    {
+      "key": "h1.pop_r1dllama70b.final.si.hi",
+      "src": "exp/results/scale/bb/pop_r1dllama70b/idx/math500.json (Slurm, R1-Distill-Llama-70B; model commit unrecorded; rerun 407448 after the tokenizer fix)::indices.SI",
+      "value": 91.2
+    },
+    {
+      "key": "h1.pop_r1dllama70b.final.orth",
+      "src": "exp/results/scale/bb/pop_r1dllama70b/idx/math500.json (Slurm, R1-Distill-Llama-70B; model commit unrecorded; rerun 407448 after the tokenizer fix)::indices.ORTH",
+      "value": 88.2
+    },
+    {
+      "key": "h1.pop_r1dllama70b.final.orth.lo",
+      "src": "exp/results/scale/bb/pop_r1dllama70b/idx/math500.json (Slurm, R1-Distill-Llama-70B; model commit unrecorded; rerun 407448 after the tokenizer fix)::indices.ORTH",
+      "value": 85.8
+    },
+    {
+      "key": "h1.pop_r1dllama70b.final.orth.hi",
+      "src": "exp/results/scale/bb/pop_r1dllama70b/idx/math500.json (Slurm, R1-Distill-Llama-70B; model commit unrecorded; rerun 407448 after the tokenizer fix)::indices.ORTH",
+      "value": 90.0
+    },
+    {
+      "key": "ctl.pop_r1dllama70b.final.acc",
+      "src": "exp/results/scale/bb/pop_r1dllama70b/idx/math500.json (Slurm, R1-Distill-Llama-70B; model commit unrecorded; rerun 407448 after the tokenizer fix)::acc",
+      "value": 90.5
+    },
+    {
+      "key": "ctl.pop_r1dllama70b.final.trunc",
+      "src": "exp/results/scale/bb/pop_r1dllama70b/idx/math500.json (Slurm, R1-Distill-Llama-70B; model commit unrecorded; rerun 407448 after the tokenizer fix)::truncated",
+      "value": 7.1
+    },
+    {
+      "key": "h1.pop_r1dllama70b.final.reflopen",
+      "src": "exp/results/scale/bb/pop_r1dllama70b/idx/math500.json (Slurm, R1-Distill-Llama-70B; model commit unrecorded; rerun 407448 after the tokenizer fix) (sentence-initial reflection openers per 1k sentences, first sentence excluded)",
+      "value": 116.4
+    },
+    {
+      "key": "h1.pop_r1dllama70b.final.reflopen_nowait",
+      "src": "exp/results/scale/bb/pop_r1dllama70b/idx/math500.json (Slurm, R1-Distill-Llama-70B; model commit unrecorded; rerun 407448 after the tokenizer fix)",
+      "value": 48.7
+    },
+    {
+      "key": "h1.pop_qwen3t30.final.freq2",
+      "src": "exp/results/scale/bb/pop_qwen3t30/idx/math500.json (Slurm, Qwen3-30B-A3B thinking mode, job 407443)",
+      "value": 2.83
+    },
+    {
+      "key": "h1.pop_qwen3t30.final.freq4",
+      "src": "exp/results/scale/bb/pop_qwen3t30/idx/math500.json (Slurm, Qwen3-30B-A3B thinking mode, job 407443)",
+      "value": 2.8253
+    },
+    {
+      "key": "h1.pop_qwen3t30.final.freq4.lo",
+      "src": "exp/results/scale/bb/pop_qwen3t30/idx/math500.json (Slurm, Qwen3-30B-A3B thinking mode, job 407443); exact Poisson 95%",
+      "value": 2.7689
+    },
+    {
+      "key": "h1.pop_qwen3t30.final.freq4.hi",
+      "src": "exp/results/scale/bb/pop_qwen3t30/idx/math500.json (Slurm, Qwen3-30B-A3B thinking mode, job 407443); exact Poisson 95%",
+      "value": 2.8826
+    },
+    {
+      "key": "h1.pop_qwen3t30.final.nwait",
+      "src": "exp/results/scale/bb/pop_qwen3t30/idx/math500.json (Slurm, Qwen3-30B-A3B thinking mode, job 407443)",
+      "value": 9531
+    },
+    {
+      "key": "h1.pop_qwen3t30.final.ntok",
+      "src": "exp/results/scale/bb/pop_qwen3t30/idx/math500.json (Slurm, Qwen3-30B-A3B thinking mode, job 407443)",
+      "value": 3373414
+    },
+    {
+      "key": "h1.pop_qwen3t30.final.si",
+      "src": "exp/results/scale/bb/pop_qwen3t30/idx/math500.json (Slurm, Qwen3-30B-A3B thinking mode, job 407443)::indices.SI",
+      "value": 89.9
+    },
+    {
+      "key": "h1.pop_qwen3t30.final.si.lo",
+      "src": "exp/results/scale/bb/pop_qwen3t30/idx/math500.json (Slurm, Qwen3-30B-A3B thinking mode, job 407443)::indices.SI",
+      "value": 87.7
+    },
+    {
+      "key": "h1.pop_qwen3t30.final.si.hi",
+      "src": "exp/results/scale/bb/pop_qwen3t30/idx/math500.json (Slurm, Qwen3-30B-A3B thinking mode, job 407443)::indices.SI",
+      "value": 91.8
+    },
+    {
+      "key": "h1.pop_qwen3t30.final.orth",
+      "src": "exp/results/scale/bb/pop_qwen3t30/idx/math500.json (Slurm, Qwen3-30B-A3B thinking mode, job 407443)::indices.ORTH",
+      "value": 88.6
+    },
+    {
+      "key": "h1.pop_qwen3t30.final.orth.lo",
+      "src": "exp/results/scale/bb/pop_qwen3t30/idx/math500.json (Slurm, Qwen3-30B-A3B thinking mode, job 407443)::indices.ORTH",
+      "value": 86.3
+    },
+    {
+      "key": "h1.pop_qwen3t30.final.orth.hi",
+      "src": "exp/results/scale/bb/pop_qwen3t30/idx/math500.json (Slurm, Qwen3-30B-A3B thinking mode, job 407443)::indices.ORTH",
+      "value": 90.5
+    },
+    {
+      "key": "ctl.pop_qwen3t30.final.acc",
+      "src": "exp/results/scale/bb/pop_qwen3t30/idx/math500.json (Slurm, Qwen3-30B-A3B thinking mode, job 407443)::acc",
+      "value": 86.8
+    },
+    {
+      "key": "ctl.pop_qwen3t30.final.trunc",
+      "src": "exp/results/scale/bb/pop_qwen3t30/idx/math500.json (Slurm, Qwen3-30B-A3B thinking mode, job 407443)::truncated",
+      "value": 16.2
+    },
+    {
+      "key": "h1.pop_qwen3t30.final.reflopen",
+      "src": "exp/results/scale/bb/pop_qwen3t30/idx/math500.json (Slurm, Qwen3-30B-A3B thinking mode, job 407443) (sentence-initial reflection openers per 1k sentences, first sentence excluded)",
+      "value": 115.4
+    },
+    {
+      "key": "h1.pop_qwen3t30.final.reflopen_nowait",
+      "src": "exp/results/scale/bb/pop_qwen3t30/idx/math500.json (Slurm, Qwen3-30B-A3B thinking mode, job 407443)",
+      "value": 71.1
+    }
+  ]
+}

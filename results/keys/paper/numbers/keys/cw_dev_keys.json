@@ -1,0 +1,3364 @@
+{
+"entries": [
+{
+"key": "h5.olmo3think.dev.n_problems",
+"value": 300,
+"kind": "int",
+"src": "exp/results/cw/dev/olmo3think"
+},
+{
+"key": "h5.olmo3think.dev.n_pairs",
+"value": 143,
+"kind": "int",
+"src": "exp/results/cw/dev/olmo3think"
+},
+{
+"key": "h5.olmo3think.dev.tau",
+"value": 0.06310363858938217,
+"kind": "dec4",
+"src": "exp/results/cw/dev/olmo3think/calib.json"
+},
+{
+"key": "h5.olmo3think.dev.rho_lo95",
+"value": 0.9739130434782609,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/calib.json"
+},
+{
+"key": "h5.olmo3think.dev.hr_vanilla_A",
+"value": 0.673469387755102,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think"
+},
+{
+"key": "h5.olmo3think.dev.fa_vanilla_A",
+"value": 0.23863636363636365,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think"
+},
+{
+"key": "h5.olmo3think.dev.B_all.vanilla.hr",
+"value": 0.6396103896103896,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.vanilla.hr.lo",
+"value": 0.538961038961039,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.vanilla.hr.hi",
+"value": 0.7337662337662337,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.vanilla.fa",
+"value": 0.3246753246753247,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.vanilla.fa.lo",
+"value": 0.237012987012987,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.vanilla.fa.hi",
+"value": 0.41883116883116883,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.vanilla.dprime",
+"value": 0.80929852382504,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.vanilla.dprime.lo",
+"value": 0.520091675285291,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.vanilla.dprime.hi",
+"value": 1.1084393766061977,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.vanilla.crit",
+"value": 0.048438653416800315,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.vanilla.crit.lo",
+"value": -0.16924553382031646,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.vanilla.crit.hi",
+"value": 0.2674930447474643,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.cw.hr",
+"value": 0.6915584415584416,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.cw.hr.lo",
+"value": 0.5941558441558441,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.cw.hr.hi",
+"value": 0.7792207792207793,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.cw.fa",
+"value": 0.33766233766233766,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.cw.fa.lo",
+"value": 0.24667207792207793,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.cw.fa.hi",
+"value": 0.4351461038961034,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.cw.dprime",
+"value": 0.9159266246369244,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.cw.dprime.lo",
+"value": 0.6317183401359914,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.cw.dprime.hi",
+"value": 1.2085161060419511,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.cw.crit",
+"value": -0.040549022583021704,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.cw.crit.lo",
+"value": -0.261426249599476,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.cw.crit.hi",
+"value": 0.1831709601838518,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.vanilla.hr",
+"value": 0.47619047619047616,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.vanilla.hr.lo",
+"value": 0.2777777777777778,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.vanilla.hr.hi",
+"value": 0.6785714285714286,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.vanilla.fa",
+"value": 0.3246753246753247,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.vanilla.fa.lo",
+"value": 0.237012987012987,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.vanilla.fa.hi",
+"value": 0.41883116883116883,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.vanilla.dprime",
+"value": 0.39407419067430977,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.vanilla.dprime.lo",
+"value": -0.1291949064379969,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.vanilla.dprime.hi",
+"value": 0.9032702672881878,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.vanilla.crit",
+"value": 0.25605081999216545,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.vanilla.crit.lo",
+"value": -0.06658308444936813,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.vanilla.crit.hi",
+"value": 0.5674304308707607,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.cw.hr",
+"value": 0.5119047619047619,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.cw.hr.lo",
+"value": 0.3067866161616162,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.cw.hr.hi",
+"value": 0.7237468671679195,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.cw.fa",
+"value": 0.33766233766233766,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.cw.fa.lo",
+"value": 0.24667207792207793,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.cw.fa.hi",
+"value": 0.4351461038961034,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.cw.dprime",
+"value": 0.44690830971258966,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.cw.dprime.lo",
+"value": -0.0655139938086606,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.cw.dprime.hi",
+"value": 0.9656402702340748,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.cw.crit",
+"value": 0.1939601348791457,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.cw.crit.lo",
+"value": -0.14405297400860465,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.cw.crit.hi",
+"value": 0.5253620565929574,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4.json"
+},
+{
+"key": "h5.olmo3think.dev.B_all.sham.hr",
+"value": 0.6753246753246753,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_all.sham.hr.lo",
+"value": 0.577922077922078,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_all.sham.hr.hi",
+"value": 0.762987012987013,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_all.sham.fa",
+"value": 0.32792207792207795,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_all.sham.fa.lo",
+"value": 0.237012987012987,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_all.sham.fa.hi",
+"value": 0.42207792207792205,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_all.sham.dprime",
+"value": 0.8972050086012245,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_all.sham.dprime.lo",
+"value": 0.6354253186439731,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_all.sham.dprime.hi",
+"value": 1.1613728460218997,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_all.sham.crit",
+"value": -0.004485411028708197,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_all.sham.crit.lo",
+"value": -0.22656484094378584,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_all.sham.crit.hi",
+"value": 0.22467377338090444,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.sham.hr",
+"value": 0.47619047619047616,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.sham.hr.lo",
+"value": 0.27378246753246754,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.sham.hr.hi",
+"value": 0.6875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.sham.fa",
+"value": 0.32792207792207795,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.sham.fa.lo",
+"value": 0.237012987012987,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.sham.fa.hi",
+"value": 0.42207792207792205,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.sham.dprime",
+"value": 0.38510336861689354,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.sham.dprime.lo",
+"value": -0.16277692499005098,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.sham.dprime.hi",
+"value": 0.9022678751606302,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.sham.crit",
+"value": 0.2515654089634573,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.sham.crit.lo",
+"value": -0.06907506448270223,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.B_signflip.sham.crit.hi",
+"value": 0.582675112719125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.olmo3think.dev.match.m_vanilla",
+"value": 5199.206666666667,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/match.json"
+},
+{
+"key": "h5.olmo3think.dev.match.m_cw",
+"value": 5072.4,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/match.json"
+},
+{
+"key": "h5.olmo3think.dev.match.cw_ratio",
+"value": 0.9756103815838569,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/match.json"
+},
+{
+"key": "h5.olmo3think.dev.match.alpha_star",
+"value": 0.6,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/match.json"
+},
+{
+"key": "h5.olmo3think.dev.match.bf_cap_match",
+"value": 7667,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/match.json"
+},
+{
+"key": "h5.olmo3think.dev.match.bf_cap_loose",
+"value": 11500,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/match.json"
+},
+{
+"key": "h5.olmo3think.dev.match.rand_dev_ratio_to_cw",
+"value": 1.00533869568646,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/match.json"
+},
+{
+"key": "h5.olmo3think.dev.tau_rho75",
+"value": 0.20155155658721924,
+"kind": "dec4",
+"src": "exp/results/cw/dev/olmo3think/taus.json (exploratory, set after DEV; D50g)"
+},
+{
+"key": "h5.olmo3think.dev.tau_rho50",
+"value": 0.28438466787338257,
+"kind": "dec4",
+"src": "exp/results/cw/dev/olmo3think/taus.json (exploratory, set after DEV; D50g)"
+},
+{
+"key": "h5.olmo3think.dev.abl.cw_off.tau",
+"value": 0.06310363858938217,
+"kind": "dec4",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.cw_off.rho",
+"value": 0.9924242424242424,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.cw_off.rho.lo",
+"value": 0.9739130434782609,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.cw_off.hr",
+"value": 0.6266233766233766,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.cw_off.hr.lo",
+"value": 0.525974025974026,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.cw_off.hr.hi",
+"value": 0.7272727272727273,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.cw_off.fa",
+"value": 0.30844155844155846,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.cw_off.fa.lo",
+"value": 0.22069805194805195,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.cw_off.fa.hi",
+"value": 0.4090909090909091,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.cw_off.hr.vanilla",
+"value": 0.6396103896103896,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.cw_off.hr.vanilla.lo",
+"value": 0.5422077922077922,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.cw_off.hr.vanilla.hi",
+"value": 0.7402597402597403,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.cw_off.fa.vanilla",
+"value": 0.3246753246753247,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.cw_off.fa.vanilla.lo",
+"value": 0.23376623376623376,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.cw_off.fa.vanilla.hi",
+"value": 0.42207792207792205,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.lp.tau",
+"value": 0.46403563022613525,
+"kind": "dec4",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.lp.rho",
+"value": 1.0,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.lp.rho.lo",
+"value": 1.0,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.lp.hr",
+"value": 0.6396103896103896,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.lp.hr.lo",
+"value": 0.5422077922077922,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.lp.hr.hi",
+"value": 0.7402597402597403,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.lp.fa",
+"value": 0.016233766233766232,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.lp.fa.lo",
+"value": 0.0,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.lp.fa.hi",
+"value": 0.045535714285713846,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.lp.hr.vanilla",
+"value": 0.6396103896103896,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.lp.hr.vanilla.lo",
+"value": 0.5422077922077922,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.lp.hr.vanilla.hi",
+"value": 0.7402597402597403,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.lp.fa.vanilla",
+"value": 0.3246753246753247,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.lp.fa.vanilla.lo",
+"value": 0.23376623376623376,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.lp.fa.vanilla.hi",
+"value": 0.42207792207792205,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.waitonly.tau",
+"value": 0.06310363858938217,
+"kind": "dec4",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.waitonly.rho",
+"value": 1.0,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.waitonly.rho.lo",
+"value": 1.0,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.waitonly.hr",
+"value": 0.6266233766233766,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.waitonly.hr.lo",
+"value": 0.525974025974026,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.waitonly.hr.hi",
+"value": 0.7272727272727273,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.waitonly.fa",
+"value": 0.3181818181818182,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.waitonly.fa.lo",
+"value": 0.22727272727272727,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.waitonly.fa.hi",
+"value": 0.4155844155844156,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.waitonly.hr.vanilla",
+"value": 0.6396103896103896,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.waitonly.hr.vanilla.lo",
+"value": 0.5422077922077922,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.waitonly.hr.vanilla.hi",
+"value": 0.7402597402597403,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.waitonly.fa.vanilla",
+"value": 0.3246753246753247,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.waitonly.fa.vanilla.lo",
+"value": 0.23376623376623376,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.olmo3think.dev.abl.waitonly.fa.vanilla.hi",
+"value": 0.42207792207792205,
+"kind": "dec3",
+"src": "exp/results/cw/dev/olmo3think/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.n_problems",
+"value": 300,
+"kind": "int",
+"src": "exp/results/cw/dev/qwen3_8b"
+},
+{
+"key": "h5.qwen3_8b.dev.n_pairs",
+"value": 159,
+"kind": "int",
+"src": "exp/results/cw/dev/qwen3_8b"
+},
+{
+"key": "h5.qwen3_8b.dev.tau",
+"value": 0.04696204140782356,
+"kind": "dec4",
+"src": "exp/results/cw/dev/qwen3_8b/calib.json"
+},
+{
+"key": "h5.qwen3_8b.dev.rho_lo95",
+"value": 0.9172270114942528,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/calib.json"
+},
+{
+"key": "h5.qwen3_8b.dev.hr_vanilla_A",
+"value": 0.6798245614035088,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b"
+},
+{
+"key": "h5.qwen3_8b.dev.fa_vanilla_A",
+"value": 0.3259493670886076,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.vanilla.hr",
+"value": 0.721875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.vanilla.hr.lo",
+"value": 0.625,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.vanilla.hr.hi",
+"value": 0.809375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.vanilla.fa",
+"value": 0.4125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.vanilla.fa.lo",
+"value": 0.30625,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.vanilla.fa.hi",
+"value": 0.5125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.vanilla.dprime",
+"value": 0.8067804021016672,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.vanilla.dprime.lo",
+"value": 0.5455123582664088,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.vanilla.dprime.hi",
+"value": 1.095478058566538,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.vanilla.crit",
+"value": -0.18297161446029514,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.vanilla.crit.lo",
+"value": -0.40630257594177915,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.vanilla.crit.hi",
+"value": 0.05134834561300333,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.cw.hr",
+"value": 0.684375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.cw.hr.lo",
+"value": 0.5875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.cw.hr.hi",
+"value": 0.76875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.cw.fa",
+"value": 0.378125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.cw.fa.lo",
+"value": 0.278125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.cw.fa.hi",
+"value": 0.478125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.cw.dprime",
+"value": 0.7877637362762222,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.cw.dprime.lo",
+"value": 0.5380223611324245,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.cw.dprime.hi",
+"value": 1.0561120128808559,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.cw.crit",
+"value": -0.08447144916525087,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.cw.crit.lo",
+"value": -0.3085392460217835,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.cw.crit.hi",
+"value": 0.15019356199599132,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.vanilla.hr",
+"value": 0.7410714285714286,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.vanilla.hr.lo",
+"value": 0.5729082661290322,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.vanilla.hr.hi",
+"value": 0.8796388888888889,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.vanilla.fa",
+"value": 0.4125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.vanilla.fa.lo",
+"value": 0.30625,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.vanilla.fa.hi",
+"value": 0.5125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.vanilla.dprime",
+"value": 0.860493505696081,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.vanilla.dprime.lo",
+"value": 0.42114822441802224,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.vanilla.dprime.hi",
+"value": 1.3996179834897422,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.vanilla.crit",
+"value": -0.209828166257502,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.vanilla.crit.lo",
+"value": -0.522260330609943,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.vanilla.crit.hi",
+"value": 0.07099620668845591,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.cw.hr",
+"value": 0.6964285714285714,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.cw.hr.lo",
+"value": 0.5258405172413793,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.cw.hr.hi",
+"value": 0.85,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.cw.fa",
+"value": 0.378125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.cw.fa.lo",
+"value": 0.278125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.cw.fa.hi",
+"value": 0.478125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.cw.dprime",
+"value": 0.8185998236830612,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.cw.dprime.lo",
+"value": 0.3851636111905508,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.cw.dprime.hi",
+"value": 1.3146063981227512,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.cw.crit",
+"value": -0.09988949286867041,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.cw.crit.lo",
+"value": -0.40845112376186177,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.cw.crit.hi",
+"value": 0.19165675810363758,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4.json"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.sham.hr",
+"value": 0.709375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.sham.hr.lo",
+"value": 0.6125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.sham.hr.hi",
+"value": 0.796875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.sham.fa",
+"value": 0.3875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.sham.fa.lo",
+"value": 0.2875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.sham.fa.hi",
+"value": 0.484375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.sham.dprime",
+"value": 0.8345830728130839,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.sham.dprime.lo",
+"value": 0.566193523793588,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.sham.dprime.hi",
+"value": 1.1309551808230796,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.sham.crit",
+"value": -0.13236566492214974,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.sham.crit.lo",
+"value": -0.3573117029341238,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_all.sham.crit.hi",
+"value": 0.10492034702945477,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.sham.hr",
+"value": 0.7232142857142857,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.sham.hr.lo",
+"value": 0.5472867398648649,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.sham.hr.hi",
+"value": 0.8666666666666667,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.sham.fa",
+"value": 0.3875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.sham.fa.lo",
+"value": 0.2875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.sham.fa.hi",
+"value": 0.484375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.sham.dprime",
+"value": 0.8714518279514961,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.sham.dprime.lo",
+"value": 0.4121065742396129,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.sham.dprime.hi",
+"value": 1.4146715142380435,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.sham.crit",
+"value": -0.15080004249135587,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.sham.crit.lo",
+"value": -0.4868319203176736,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.B_signflip.sham.crit.hi",
+"value": 0.14784224961473036,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.qwen3_8b.dev.match.m_vanilla",
+"value": 5076.966666666666,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/match.json"
+},
+{
+"key": "h5.qwen3_8b.dev.match.m_cw",
+"value": 5059.83,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/match.json"
+},
+{
+"key": "h5.qwen3_8b.dev.match.cw_ratio",
+"value": 0.996624624940089,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/match.json"
+},
+{
+"key": "h5.qwen3_8b.dev.match.alpha_star",
+"value": 1.0,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/match.json"
+},
+{
+"key": "h5.qwen3_8b.dev.match.bf_cap_match",
+"value": 8069,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/match.json"
+},
+{
+"key": "h5.qwen3_8b.dev.match.bf_cap_loose",
+"value": 12104,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/match.json"
+},
+{
+"key": "h5.qwen3_8b.dev.match.rand_dev_ratio_to_cw",
+"value": 0.9889614209700062,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/match.json"
+},
+{
+"key": "h5.qwen3_8b.dev.tau_rho75",
+"value": 0.12268068641424179,
+"kind": "dec4",
+"src": "exp/results/cw/dev/qwen3_8b/taus.json (exploratory, set after DEV; D50g)"
+},
+{
+"key": "h5.qwen3_8b.dev.tau_rho50",
+"value": 0.21574699878692627,
+"kind": "dec4",
+"src": "exp/results/cw/dev/qwen3_8b/taus.json (exploratory, set after DEV; D50g)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.cw_off.tau",
+"value": 0.04696204140782356,
+"kind": "dec4",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.cw_off.rho",
+"value": 0.9741935483870968,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.cw_off.rho.lo",
+"value": 0.9172270114942528,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.cw_off.hr",
+"value": 0.696875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.cw_off.hr.lo",
+"value": 0.6,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.cw_off.hr.hi",
+"value": 0.7907031249999996,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.cw_off.fa",
+"value": 0.3375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.cw_off.fa.lo",
+"value": 0.2375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.cw_off.fa.hi",
+"value": 0.4375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.cw_off.hr.vanilla",
+"value": 0.721875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.cw_off.hr.vanilla.lo",
+"value": 0.628046875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.cw_off.hr.vanilla.hi",
+"value": 0.8125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.cw_off.fa.vanilla",
+"value": 0.4125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.cw_off.fa.vanilla.lo",
+"value": 0.309375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.cw_off.fa.vanilla.hi",
+"value": 0.5125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.lp.tau",
+"value": 0.7456893920898438,
+"kind": "dec4",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.lp.rho",
+"value": 0.9870967741935484,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.lp.rho.lo",
+"value": 0.9571428571428572,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.lp.hr",
+"value": 0.709375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.lp.hr.lo",
+"value": 0.618671875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.lp.hr.hi",
+"value": 0.8000781249999996,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.lp.fa",
+"value": 0.0125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.lp.fa.lo",
+"value": 0.0,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.lp.fa.hi",
+"value": 0.0375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.lp.hr.vanilla",
+"value": 0.721875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.lp.hr.vanilla.lo",
+"value": 0.628046875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.lp.hr.vanilla.hi",
+"value": 0.8125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.lp.fa.vanilla",
+"value": 0.4125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.lp.fa.vanilla.lo",
+"value": 0.309375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.lp.fa.vanilla.hi",
+"value": 0.5125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.waitonly.tau",
+"value": 0.04696204140782356,
+"kind": "dec4",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.waitonly.rho",
+"value": 0.9741935483870968,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.waitonly.rho.lo",
+"value": 0.9172270114942528,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.waitonly.hr",
+"value": 0.696875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.waitonly.hr.lo",
+"value": 0.6,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.waitonly.hr.hi",
+"value": 0.7907031249999996,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.waitonly.fa",
+"value": 0.365625,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.waitonly.fa.lo",
+"value": 0.265625,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.waitonly.fa.hi",
+"value": 0.4657031249999996,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.waitonly.hr.vanilla",
+"value": 0.721875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.waitonly.hr.vanilla.lo",
+"value": 0.628046875,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.waitonly.hr.vanilla.hi",
+"value": 0.8125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.waitonly.fa.vanilla",
+"value": 0.4125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.waitonly.fa.vanilla.lo",
+"value": 0.309375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.qwen3_8b.dev.abl.waitonly.fa.vanilla.hi",
+"value": 0.5125,
+"kind": "dec3",
+"src": "exp/results/cw/dev/qwen3_8b/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.n_problems",
+"value": 300,
+"kind": "int",
+"src": "exp/results/cw/dev/r1d7"
+},
+{
+"key": "h5.r1d7.dev.n_pairs",
+"value": 210,
+"kind": "int",
+"src": "exp/results/cw/dev/r1d7"
+},
+{
+"key": "h5.r1d7.dev.tau",
+"value": 0.08126799017190933,
+"kind": "dec4",
+"src": "exp/results/cw/dev/r1d7/calib.json"
+},
+{
+"key": "h5.r1d7.dev.rho_lo95",
+"value": 0.9393847006651885,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/calib.json"
+},
+{
+"key": "h5.r1d7.dev.hr_vanilla_A",
+"value": 0.5753424657534246,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7"
+},
+{
+"key": "h5.r1d7.dev.fa_vanilla_A",
+"value": 0.25235849056603776,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7"
+},
+{
+"key": "h5.r1d7.dev.B_all.vanilla.hr",
+"value": 0.6370192307692307,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.vanilla.hr.lo",
+"value": 0.5576923076923077,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.vanilla.hr.hi",
+"value": 0.7163461538461539,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.vanilla.fa",
+"value": 0.3245192307692308,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.vanilla.fa.lo",
+"value": 0.25240384615384615,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.vanilla.fa.hi",
+"value": 0.4014423076923077,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.vanilla.dprime",
+"value": 0.803555689736364,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.vanilla.dprime.lo",
+"value": 0.5845069570828988,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.vanilla.dprime.hi",
+"value": 1.0374434831418249,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.vanilla.crit",
+"value": 0.05215092456898632,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.vanilla.crit.lo",
+"value": -0.13127252286976496,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.vanilla.crit.hi",
+"value": 0.2278605748559427,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.cw.hr",
+"value": 0.6129807692307693,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.cw.hr.lo",
+"value": 0.53359375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.cw.hr.hi",
+"value": 0.6971153846153846,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.cw.fa",
+"value": 0.3269230769230769,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.cw.fa.lo",
+"value": 0.25240384615384615,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.cw.fa.hi",
+"value": 0.41346153846153844,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.cw.dprime",
+"value": 0.7336641761751648,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.cw.dprime.lo",
+"value": 0.5365605519459009,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.cw.dprime.hi",
+"value": 0.9615200035707565,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.cw.crit",
+"value": 0.08044326692892609,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.cw.crit.lo",
+"value": -0.11911013978742621,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_all.cw.crit.hi",
+"value": 0.2580293454290961,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.vanilla.hr",
+"value": 0.5982142857142857,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.vanilla.hr.lo",
+"value": 0.4230769230769231,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.vanilla.hr.hi",
+"value": 0.7580645161290323,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.vanilla.fa",
+"value": 0.3245192307692308,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.vanilla.fa.lo",
+"value": 0.25240384615384615,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.vanilla.fa.hi",
+"value": 0.4014423076923077,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.vanilla.dprime",
+"value": 0.7004099969794326,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.vanilla.dprime.lo",
+"value": 0.28558838735907116,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.vanilla.dprime.hi",
+"value": 1.1600871060798172,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.vanilla.crit",
+"value": 0.10372377094745208,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.vanilla.crit.lo",
+"value": -0.16520761612530385,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.vanilla.crit.hi",
+"value": 0.3661260241917749,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.cw.hr",
+"value": 0.5982142857142857,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.cw.hr.lo",
+"value": 0.4264705882352941,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.cw.hr.hi",
+"value": 0.7578188004032258,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.cw.fa",
+"value": 0.3269230769230769,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.cw.fa.lo",
+"value": 0.25240384615384615,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.cw.fa.hi",
+"value": 0.41346153846153844,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.cw.dprime",
+"value": 0.6937565825587727,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.cw.dprime.lo",
+"value": 0.2686038440083482,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.cw.dprime.hi",
+"value": 1.164924173510855,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.cw.crit",
+"value": 0.10039706373712215,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.cw.crit.lo",
+"value": -0.15880119276909227,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.cw.crit.hi",
+"value": 0.3507956900553685,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4.json"
+},
+{
+"key": "h5.r1d7.s5.n_events",
+"value": 300,
+"kind": "int",
+"src": "exp/results/cw/dev/r1d7/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.r1d7.s5.n_gated",
+"value": 25,
+"kind": "int",
+"src": "exp/results/cw/dev/r1d7/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.r1d7.s5.n_keep",
+"value": 275,
+"kind": "int",
+"src": "exp/results/cw/dev/r1d7/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.r1d7.s5.n_problems",
+"value": 146,
+"kind": "int",
+"src": "exp/results/cw/dev/r1d7/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.r1d7.s5.diff.est",
+"value": -0.03272727272727273,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.r1d7.s5.gain_gated.est",
+"value": -0.02,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.r1d7.s5.gain_keep.est",
+"value": 0.012727272727272728,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.r1d7.s5.diff.lo",
+"value": -0.1074640685461581,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.r1d7.s5.gain_gated.lo",
+"value": -0.09523809523809523,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.r1d7.s5.gain_keep.lo",
+"value": -0.005703422053231939,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.r1d7.s5.diff.hi",
+"value": 0.03601883841819139,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.r1d7.s5.gain_gated.hi",
+"value": 0.05004310344827602,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.r1d7.s5.gain_keep.hi",
+"value": 0.03157943650948934,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.r1d7.s5.acc_allow",
+"value": 0.8683333333333333,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.r1d7.s5.acc_suppress",
+"value": 0.8583333333333333,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.r1d7.s5.pass",
+"value": 0,
+"kind": "int",
+"src": "exp/results/cw/dev/r1d7/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.r1d7.dev.B_all.sham.hr",
+"value": 0.6153846153846154,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_all.sham.hr.lo",
+"value": 0.5360576923076923,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_all.sham.hr.hi",
+"value": 0.6995192307692307,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_all.sham.fa",
+"value": 0.3293269230769231,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_all.sham.fa.lo",
+"value": 0.2548076923076923,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_all.sham.fa.hi",
+"value": 0.41586538461538464,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_all.sham.dprime",
+"value": 0.7332989015679585,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_all.sham.dprime.lo",
+"value": 0.5322176417987333,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_all.sham.dprime.hi",
+"value": 0.9556709940035248,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_all.sham.crit",
+"value": 0.07399223124670315,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_all.sham.crit.lo",
+"value": -0.12712167563034166,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_all.sham.crit.hi",
+"value": 0.25437184417610864,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.sham.hr",
+"value": 0.5982142857142857,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.sham.hr.lo",
+"value": 0.4264705882352941,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.sham.hr.hi",
+"value": 0.7578188004032258,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.sham.fa",
+"value": 0.3293269230769231,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.sham.fa.lo",
+"value": 0.2548076923076923,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.sham.fa.hi",
+"value": 0.41586538461538464,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.sham.dprime",
+"value": 0.6871229095729466,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.sham.dprime.lo",
+"value": 0.2599981978144522,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.sham.dprime.hi",
+"value": 1.1586669163274297,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.sham.crit",
+"value": 0.09708022724420912,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.sham.crit.lo",
+"value": -0.16876309158661942,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.B_signflip.sham.crit.hi",
+"value": 0.34916571250934464,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.r1d7.dev.match.m_vanilla",
+"value": 3650.1866666666665,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/match.json"
+},
+{
+"key": "h5.r1d7.dev.match.m_cw",
+"value": 3443.9866666666667,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/match.json"
+},
+{
+"key": "h5.r1d7.dev.match.cw_ratio",
+"value": 0.9435097383147529,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/match.json"
+},
+{
+"key": "h5.r1d7.dev.match.alpha_star",
+"value": 0.6,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/match.json"
+},
+{
+"key": "h5.r1d7.dev.match.bf_cap_match",
+"value": 6703,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/match.json"
+},
+{
+"key": "h5.r1d7.dev.match.bf_cap_loose",
+"value": 10054,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/match.json"
+},
+{
+"key": "h5.r1d7.dev.match.rand_dev_ratio_to_cw",
+"value": 1.0018321789863684,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/match.json"
+},
+{
+"key": "h5.r1d7.dev.tau_rho75",
+"value": 0.23090584576129913,
+"kind": "dec4",
+"src": "exp/results/cw/dev/r1d7/taus.json (exploratory, set after DEV; D50g)"
+},
+{
+"key": "h5.r1d7.dev.tau_rho50",
+"value": 0.3530080318450928,
+"kind": "dec4",
+"src": "exp/results/cw/dev/r1d7/taus.json (exploratory, set after DEV; D50g)"
+},
+{
+"key": "h5.r1d7.dev.abl.cw_off.tau",
+"value": 0.08126799017190933,
+"kind": "dec4",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.cw_off.rho",
+"value": 0.9761904761904762,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.cw_off.rho.lo",
+"value": 0.9393847006651885,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.cw_off.hr",
+"value": 0.625,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.cw_off.hr.lo",
+"value": 0.5432091346153846,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.cw_off.hr.hi",
+"value": 0.7019831730769227,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.cw_off.fa",
+"value": 0.3004807692307692,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.cw_off.fa.lo",
+"value": 0.22115384615384615,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.cw_off.fa.hi",
+"value": 0.3798677884615381,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.cw_off.hr.vanilla",
+"value": 0.6370192307692307,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.cw_off.hr.vanilla.lo",
+"value": 0.5576923076923077,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.cw_off.hr.vanilla.hi",
+"value": 0.7188100961538458,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.cw_off.fa.vanilla",
+"value": 0.3245192307692308,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.cw_off.fa.vanilla.lo",
+"value": 0.24759615384615385,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.cw_off.fa.vanilla.hi",
+"value": 0.40625,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.lp.tau",
+"value": 0.4339526295661926,
+"kind": "dec4",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.lp.rho",
+"value": 0.9761904761904762,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.lp.rho.lo",
+"value": 0.9205298013245033,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.lp.hr",
+"value": 0.6153846153846154,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.lp.hr.lo",
+"value": 0.5360576923076923,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.lp.hr.hi",
+"value": 0.6947716346153843,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.lp.fa",
+"value": 0.09375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.lp.fa.lo",
+"value": 0.05042067307692308,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.lp.fa.hi",
+"value": 0.14423076923076922,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.lp.hr.vanilla",
+"value": 0.6370192307692307,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.lp.hr.vanilla.lo",
+"value": 0.5576923076923077,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.lp.hr.vanilla.hi",
+"value": 0.7188100961538458,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.lp.fa.vanilla",
+"value": 0.3245192307692308,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.lp.fa.vanilla.lo",
+"value": 0.24759615384615385,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.lp.fa.vanilla.hi",
+"value": 0.40625,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.waitonly.tau",
+"value": 0.08126799017190933,
+"kind": "dec4",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.waitonly.rho",
+"value": 0.9761904761904762,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.waitonly.rho.lo",
+"value": 0.9393847006651885,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.waitonly.hr",
+"value": 0.625,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.waitonly.hr.lo",
+"value": 0.5432091346153846,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.waitonly.hr.hi",
+"value": 0.7019831730769227,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.waitonly.fa",
+"value": 0.31490384615384615,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.waitonly.fa.lo",
+"value": 0.23557692307692307,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.waitonly.fa.hi",
+"value": 0.39663461538461536,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.waitonly.hr.vanilla",
+"value": 0.6370192307692307,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.waitonly.hr.vanilla.lo",
+"value": 0.5576923076923077,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.waitonly.hr.vanilla.hi",
+"value": 0.7188100961538458,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.waitonly.fa.vanilla",
+"value": 0.3245192307692308,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.waitonly.fa.vanilla.lo",
+"value": 0.24759615384615385,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.r1d7.dev.abl.waitonly.fa.vanilla.hi",
+"value": 0.40625,
+"kind": "dec3",
+"src": "exp/results/cw/dev/r1d7/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.n_problems",
+"value": 800,
+"kind": "int",
+"src": "exp/results/cw/dev/rlzero"
+},
+{
+"key": "h5.rlzero.dev.n_pairs",
+"value": 295,
+"kind": "int",
+"src": "exp/results/cw/dev/rlzero"
+},
+{
+"key": "h5.rlzero.dev.tau",
+"value": 0.04881703481078148,
+"kind": "dec4",
+"src": "exp/results/cw/dev/rlzero/calib.json"
+},
+{
+"key": "h5.rlzero.dev.rho_lo95",
+"value": 0.9050497741873927,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/calib.json"
+},
+{
+"key": "h5.rlzero.dev.hr_vanilla_A",
+"value": 0.4369158878504673,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero"
+},
+{
+"key": "h5.rlzero.dev.fa_vanilla_A",
+"value": 0.30319148936170215,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero"
+},
+{
+"key": "h5.rlzero.dev.B_all.vanilla.hr",
+"value": 0.4659090909090909,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.vanilla.hr.lo",
+"value": 0.4090909090909091,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.vanilla.hr.hi",
+"value": 0.5211038961038961,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.vanilla.fa",
+"value": 0.26461038961038963,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.vanilla.fa.lo",
+"value": 0.21428571428571427,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.vanilla.fa.hi",
+"value": 0.3165990259740257,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.vanilla.dprime",
+"value": 0.5426122570022139,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.vanilla.dprime.lo",
+"value": 0.39608408918920723,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.vanilla.dprime.hi",
+"value": 0.6890264951274268,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.vanilla.crit",
+"value": 0.35672462704681157,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.vanilla.crit.lo",
+"value": 0.2337134437782358,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.vanilla.crit.hi",
+"value": 0.4943953534040246,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.cw.hr",
+"value": 0.4366883116883117,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.cw.hr.lo",
+"value": 0.37987012987012986,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.cw.hr.hi",
+"value": 0.49512987012987014,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.cw.fa",
+"value": 0.28733766233766234,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.cw.fa.lo",
+"value": 0.2353896103896104,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.cw.fa.hi",
+"value": 0.3409090909090909,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.cw.dprime",
+"value": 0.40105781014229885,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.cw.dprime.lo",
+"value": 0.2557700250450954,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.cw.dprime.hi",
+"value": 0.5500385605440632,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.cw.crit",
+"value": 0.359639364649207,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.cw.crit.lo",
+"value": 0.23265182031987142,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_all.cw.crit.hi",
+"value": 0.4962861147235606,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.vanilla.hr",
+"value": 0.3541666666666667,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.vanilla.hr.lo",
+"value": 0.26040625,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.vanilla.hr.hi",
+"value": 0.44853412518853697,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.vanilla.fa",
+"value": 0.26461038961038963,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.vanilla.fa.lo",
+"value": 0.21428571428571427,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.vanilla.fa.hi",
+"value": 0.3165990259740257,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.vanilla.dprime",
+"value": 0.2559658965896534,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.vanilla.dprime.lo",
+"value": -0.036383673142966484,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.vanilla.dprime.hi",
+"value": 0.52940166745984,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.vanilla.crit",
+"value": 0.5000478072530918,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.vanilla.crit.lo",
+"value": 0.3486490680610579,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.vanilla.crit.hi",
+"value": 0.6646132386181839,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.cw.hr",
+"value": 0.375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.cw.hr.lo",
+"value": 0.27549744897959183,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.cw.hr.hi",
+"value": 0.4772853535353535,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.cw.fa",
+"value": 0.28733766233766234,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.cw.fa.lo",
+"value": 0.2353896103896104,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.cw.fa.hi",
+"value": 0.3409090909090909,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.cw.dprime",
+"value": 0.24323644967276564,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.cw.dprime.lo",
+"value": -0.05099249082649765,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.cw.dprime.hi",
+"value": 0.5359049229569699,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.cw.crit",
+"value": 0.43855004488397353,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.cw.crit.lo",
+"value": 0.28262020720260095,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.cw.crit.hi",
+"value": 0.6004747092067622,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4.json"
+},
+{
+"key": "h5.rlzero.s5.n_events",
+"value": 300,
+"kind": "int",
+"src": "exp/results/cw/dev/rlzero/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.rlzero.s5.n_gated",
+"value": 6,
+"kind": "int",
+"src": "exp/results/cw/dev/rlzero/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.rlzero.s5.n_keep",
+"value": 294,
+"kind": "int",
+"src": "exp/results/cw/dev/rlzero/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.rlzero.s5.n_problems",
+"value": 194,
+"kind": "int",
+"src": "exp/results/cw/dev/rlzero/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.rlzero.s5.diff.est",
+"value": 0.07993197278911564,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.rlzero.s5.gain_gated.est",
+"value": 0.08333333333333333,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.rlzero.s5.gain_keep.est",
+"value": 0.003401360544217687,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.rlzero.s5.diff.lo",
+"value": -0.025484468097414243,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.rlzero.s5.gain_gated.lo",
+"value": 0.0,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.rlzero.s5.gain_keep.lo",
+"value": -0.027120950074945232,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.rlzero.s5.diff.hi",
+"value": 0.27190032372598155,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.rlzero.s5.gain_gated.hi",
+"value": 0.28055555555555484,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.rlzero.s5.gain_keep.hi",
+"value": 0.033003300330033,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.rlzero.s5.acc_allow",
+"value": 0.675,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.rlzero.s5.acc_suppress",
+"value": 0.67,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.rlzero.s5.pass",
+"value": 0,
+"kind": "int",
+"src": "exp/results/cw/dev/rlzero/s5.json (S5 shared-prefix branching, natural DEV-B marker events)"
+},
+{
+"key": "h5.rlzero.dev.B_all.sham.hr",
+"value": 0.42694805194805197,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_all.sham.hr.lo",
+"value": 0.3685064935064935,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_all.sham.hr.hi",
+"value": 0.4837662337662338,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_all.sham.fa",
+"value": 0.2662337662337662,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_all.sham.fa.lo",
+"value": 0.21103896103896103,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_all.sham.fa.hi",
+"value": 0.3198051948051948,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_all.sham.dprime",
+"value": 0.4392424050623186,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_all.sham.dprime.lo",
+"value": 0.29113505357747593,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_all.sham.dprime.hi",
+"value": 0.5980695831312569,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_all.sham.crit",
+"value": 0.40346894528282234,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_all.sham.crit.lo",
+"value": 0.26746310720345634,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_all.sham.crit.hi",
+"value": 0.5547679556691643,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.sham.hr",
+"value": 0.34375,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.sham.hr.lo",
+"value": 0.24356060606060606,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.sham.hr.hi",
+"value": 0.44768047480620154,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.sham.fa",
+"value": 0.2662337662337662,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.sham.fa.lo",
+"value": 0.21103896103896103,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.sham.fa.hi",
+"value": 0.3198051948051948,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.sham.dprime",
+"value": 0.22303944295150635,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.sham.dprime.lo",
+"value": -0.09042936632056947,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.sham.dprime.hi",
+"value": 0.5305462536363128,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.sham.crit",
+"value": 0.5115704263382285,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.sham.crit.lo",
+"value": 0.3439790887990806,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.B_signflip.sham.crit.hi",
+"value": 0.6911940893925195,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/s4_sham.json (continuations through the processor path, mode sham)"
+},
+{
+"key": "h5.rlzero.dev.match.m_vanilla",
+"value": 2742.33625,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/match.json"
+},
+{
+"key": "h5.rlzero.dev.match.m_cw",
+"value": 2780.965,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/match.json"
+},
+{
+"key": "h5.rlzero.dev.match.cw_ratio",
+"value": 1.0140860735075796,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/match.json"
+},
+{
+"key": "h5.rlzero.dev.match.alpha_star",
+"value": 1.0,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/match.json"
+},
+{
+"key": "h5.rlzero.dev.match.bf_cap_match",
+"value": 8193,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/match.json"
+},
+{
+"key": "h5.rlzero.dev.match.bf_cap_loose",
+"value": 12290,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/match.json"
+},
+{
+"key": "h5.rlzero.dev.match.rand_dev_ratio_to_cw",
+"value": 0.9749057431503093,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/match.json"
+},
+{
+"key": "h5.rlzero.dev.tau_rho75",
+"value": 0.23484942317008972,
+"kind": "dec4",
+"src": "exp/results/cw/dev/rlzero/taus.json (exploratory, set after DEV; D50g)"
+},
+{
+"key": "h5.rlzero.dev.tau_rho50",
+"value": 0.39846155047416687,
+"kind": "dec4",
+"src": "exp/results/cw/dev/rlzero/taus.json (exploratory, set after DEV; D50g)"
+},
+{
+"key": "h5.rlzero.dev.abl.cw_off.tau",
+"value": 0.04881703481078148,
+"kind": "dec4",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.cw_off.rho",
+"value": 0.9625668449197861,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.cw_off.rho.lo",
+"value": 0.9050497741873927,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.cw_off.hr",
+"value": 0.4642857142857143,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.cw_off.hr.lo",
+"value": 0.4107142857142857,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.cw_off.hr.hi",
+"value": 0.5243506493506493,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.cw_off.fa",
+"value": 0.2597402597402597,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.cw_off.fa.lo",
+"value": 0.20941558441558442,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.cw_off.fa.hi",
+"value": 0.31006493506493504,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.cw_off.hr.vanilla",
+"value": 0.4659090909090909,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.cw_off.hr.vanilla.lo",
+"value": 0.41233766233766234,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.cw_off.hr.vanilla.hi",
+"value": 0.525974025974026,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.cw_off.fa.vanilla",
+"value": 0.26461038961038963,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.cw_off.fa.vanilla.lo",
+"value": 0.21428571428571427,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.cw_off.fa.vanilla.hi",
+"value": 0.31493506493506496,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.lp.tau",
+"value": 0.4998347759246826,
+"kind": "dec4",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.lp.rho",
+"value": 0.9786096256684492,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.lp.rho.lo",
+"value": 0.9322033898305084,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.lp.hr",
+"value": 0.4577922077922078,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.lp.hr.lo",
+"value": 0.4025974025974026,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.lp.hr.hi",
+"value": 0.5178571428571429,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.lp.fa",
+"value": 0.05194805194805195,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.lp.fa.lo",
+"value": 0.02922077922077922,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.lp.fa.hi",
+"value": 0.07954545454545454,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.lp.hr.vanilla",
+"value": 0.4659090909090909,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.lp.hr.vanilla.lo",
+"value": 0.41233766233766234,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.lp.hr.vanilla.hi",
+"value": 0.525974025974026,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.lp.fa.vanilla",
+"value": 0.26461038961038963,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.lp.fa.vanilla.lo",
+"value": 0.21428571428571427,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.lp.fa.vanilla.hi",
+"value": 0.31493506493506496,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.waitonly.tau",
+"value": 0.04881703481078148,
+"kind": "dec4",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.waitonly.rho",
+"value": 0.9679144385026738,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.waitonly.rho.lo",
+"value": 0.9157820607857672,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.waitonly.hr",
+"value": 0.4659090909090909,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.waitonly.hr.lo",
+"value": 0.41233766233766234,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.waitonly.hr.hi",
+"value": 0.525974025974026,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.waitonly.fa",
+"value": 0.2597402597402597,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.waitonly.fa.lo",
+"value": 0.20941558441558442,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.waitonly.fa.hi",
+"value": 0.31006493506493504,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.waitonly.hr.vanilla",
+"value": 0.4659090909090909,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.waitonly.hr.vanilla.lo",
+"value": 0.41233766233766234,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.waitonly.hr.vanilla.hi",
+"value": 0.525974025974026,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.waitonly.fa.vanilla",
+"value": 0.26461038961038963,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.waitonly.fa.vanilla.lo",
+"value": 0.21428571428571427,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+},
+{
+"key": "h5.rlzero.dev.abl.waitonly.fa.vanilla.hi",
+"value": 0.31493506493506496,
+"kind": "dec3",
+"src": "exp/results/cw/dev/rlzero/abl.json (offline ablation on existing DEV traces; D50f rule on DEV-A, scored on DEV-B)"
+}
+]
+}

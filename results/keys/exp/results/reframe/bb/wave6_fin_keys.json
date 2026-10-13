@@ -1,0 +1,249 @@
+{
+  "entries": [
+    {
+      "key": "h1.bb_r1d1p5b.final.fin.nwait",
+      "src": "BB_r1d1p5b_math500.graded.jsonl.gz",
+      "value": 6761
+    },
+    {
+      "key": "h1.bb_r1d1p5b.final.fin.ntok",
+      "src": "BB_r1d1p5b_math500.graded.jsonl.gz",
+      "value": 1849891
+    },
+    {
+      "key": "h1.bb_r1d1p5b.final.fin.n",
+      "src": "BB_r1d1p5b_math500.graded.jsonl.gz (finished responses)",
+      "value": 666
+    },
+    {
+      "key": "h1.bb_r1d1p5b.final.fin.freq2",
+      "src": "BB_r1d1p5b_math500.graded.jsonl.gz",
+      "value": 3.65
+    },
+    {
+      "key": "h1.bb_r1d1p5b.final.fin.freq4",
+      "src": "BB_r1d1p5b_math500.graded.jsonl.gz",
+      "value": 3.6548
+    },
+    {
+      "key": "h1.bb_r1d1p5b.final.fin.freq4.lo",
+      "src": "BB_r1d1p5b_math500.graded.jsonl.gz",
+      "value": 3.5682
+    },
+    {
+      "key": "h1.bb_r1d1p5b.final.fin.freq4.hi",
+      "src": "BB_r1d1p5b_math500.graded.jsonl.gz",
+      "value": 3.743
+    },
+    {
+      "key": "h1.bb_deepscaler.final.fin.nwait",
+      "src": "BB_deepscaler_math500.graded.jsonl.gz",
+      "value": 7906
+    },
+    {
+      "key": "h1.bb_deepscaler.final.fin.ntok",
+      "src": "BB_deepscaler_math500.graded.jsonl.gz",
+      "value": 1940197
+    },
+    {
+      "key": "h1.bb_deepscaler.final.fin.n",
+      "src": "BB_deepscaler_math500.graded.jsonl.gz (finished responses)",
+      "value": 754
+    },
+    {
+      "key": "h1.bb_deepscaler.final.fin.freq2",
+      "src": "BB_deepscaler_math500.graded.jsonl.gz",
+      "value": 4.07
+    },
+    {
+      "key": "h1.bb_deepscaler.final.fin.freq4",
+      "src": "BB_deepscaler_math500.graded.jsonl.gz",
+      "value": 4.0748
+    },
+    {
+      "key": "h1.bb_deepscaler.final.fin.freq4.lo",
+      "src": "BB_deepscaler_math500.graded.jsonl.gz",
+      "value": 3.9855
+    },
+    {
+      "key": "h1.bb_deepscaler.final.fin.freq4.hi",
+      "src": "BB_deepscaler_math500.graded.jsonl.gz",
+      "value": 4.1657
+    },
+    {
+      "key": "h1.bb_r1d14.final.fin.nwait",
+      "src": "BB_r1d14_math500.graded.jsonl.gz",
+      "value": 5467
+    },
+    {
+      "key": "h1.bb_r1d14.final.fin.ntok",
+      "src": "BB_r1d14_math500.graded.jsonl.gz",
+      "value": 1961390
+    },
+    {
+      "key": "h1.bb_r1d14.final.fin.n",
+      "src": "BB_r1d14_math500.graded.jsonl.gz (finished responses)",
+      "value": 724
+    },
+    {
+      "key": "h1.bb_r1d14.final.fin.freq2",
+      "src": "BB_r1d14_math500.graded.jsonl.gz",
+      "value": 2.79
+    },
+    {
+      "key": "h1.bb_r1d14.final.fin.freq4",
+      "src": "BB_r1d14_math500.graded.jsonl.gz",
+      "value": 2.7873
+    },
+    {
+      "key": "h1.bb_r1d14.final.fin.freq4.lo",
+      "src": "BB_r1d14_math500.graded.jsonl.gz",
+      "value": 2.7139
+    },
+    {
+      "key": "h1.bb_r1d14.final.fin.freq4.hi",
+      "src": "BB_r1d14_math500.graded.jsonl.gz",
+      "value": 2.8622
+    },
+    {
+      "key": "h1.bb_light14.final.fin.nwait",
+      "src": "BB_light14_math500.graded.jsonl.gz",
+      "value": 7104
+    },
+    {
+      "key": "h1.bb_light14.final.fin.ntok",
+      "src": "BB_light14_math500.graded.jsonl.gz",
+      "value": 2211188
+    },
+    {
+      "key": "h1.bb_light14.final.fin.n",
+      "src": "BB_light14_math500.graded.jsonl.gz (finished responses)",
+      "value": 713
+    },
+    {
+      "key": "h1.bb_light14.final.fin.freq2",
+      "src": "BB_light14_math500.graded.jsonl.gz",
+      "value": 3.21
+    },
+    {
+      "key": "h1.bb_light14.final.fin.freq4",
+      "src": "BB_light14_math500.graded.jsonl.gz",
+      "value": 3.2128
+    },
+    {
+      "key": "h1.bb_light14.final.fin.freq4.lo",
+      "src": "BB_light14_math500.graded.jsonl.gz",
+      "value": 3.1385
+    },
+    {
+      "key": "h1.bb_light14.final.fin.freq4.hi",
+      "src": "BB_light14_math500.graded.jsonl.gz",
+      "value": 3.2883
+    },
+    {
+      "key": "h1.bb_r1d7.final.fin.nwait",
+      "src": "BB_r1d7_math500.graded.jsonl.gz",
+      "value": 5393
+    },
+    {
+      "key": "h1.bb_r1d7.final.fin.ntok",
+      "src": "BB_r1d7_math500.graded.jsonl.gz",
+      "value": 1936224
+    },
+    {
+      "key": "h1.bb_r1d7.final.fin.n",
+      "src": "BB_r1d7_math500.graded.jsonl.gz (finished responses)",
+      "value": 714
+    },
+    {
+      "key": "h1.bb_r1d7.final.fin.freq2",
+      "src": "BB_r1d7_math500.graded.jsonl.gz",
+      "value": 2.79
+    },
+    {
+      "key": "h1.bb_r1d7.final.fin.freq4",
+      "src": "BB_r1d7_math500.graded.jsonl.gz",
+      "value": 2.7853
+    },
+    {
+      "key": "h1.bb_r1d7.final.fin.freq4.lo",
+      "src": "BB_r1d7_math500.graded.jsonl.gz",
+      "value": 2.7115
+    },
+    {
+      "key": "h1.bb_r1d7.final.fin.freq4.hi",
+      "src": "BB_r1d7_math500.graded.jsonl.gz",
+      "value": 2.8607
+    },
+    {
+      "key": "h1.bb_openthinker7.final.fin.nwait",
+      "src": "BB_openthinker7_math500.graded.jsonl.gz",
+      "value": 5592
+    },
+    {
+      "key": "h1.bb_openthinker7.final.fin.ntok",
+      "src": "BB_openthinker7_math500.graded.jsonl.gz",
+      "value": 1682426
+    },
+    {
+      "key": "h1.bb_openthinker7.final.fin.n",
+      "src": "BB_openthinker7_math500.graded.jsonl.gz (finished responses)",
+      "value": 662
+    },
+    {
+      "key": "h1.bb_openthinker7.final.fin.freq2",
+      "src": "BB_openthinker7_math500.graded.jsonl.gz",
+      "value": 3.32
+    },
+    {
+      "key": "h1.bb_openthinker7.final.fin.freq4",
+      "src": "BB_openthinker7_math500.graded.jsonl.gz",
+      "value": 3.3238
+    },
+    {
+      "key": "h1.bb_openthinker7.final.fin.freq4.lo",
+      "src": "BB_openthinker7_math500.graded.jsonl.gz",
+      "value": 3.2372
+    },
+    {
+      "key": "h1.bb_openthinker7.final.fin.freq4.hi",
+      "src": "BB_openthinker7_math500.graded.jsonl.gz",
+      "value": 3.4121
+    },
+    {
+      "key": "h1.bb_bespoke7.final.fin.nwait",
+      "src": "BB_bespoke7_math500.graded.jsonl.gz",
+      "value": 2970
+    },
+    {
+      "key": "h1.bb_bespoke7.final.fin.ntok",
+      "src": "BB_bespoke7_math500.graded.jsonl.gz",
+      "value": 1192907
+    },
+    {
+      "key": "h1.bb_bespoke7.final.fin.n",
+      "src": "BB_bespoke7_math500.graded.jsonl.gz (finished responses)",
+      "value": 696
+    },
+    {
+      "key": "h1.bb_bespoke7.final.fin.freq2",
+      "src": "BB_bespoke7_math500.graded.jsonl.gz",
+      "value": 2.49
+    },
+    {
+      "key": "h1.bb_bespoke7.final.fin.freq4",
+      "src": "BB_bespoke7_math500.graded.jsonl.gz",
+      "value": 2.4897
+    },
+    {
+      "key": "h1.bb_bespoke7.final.fin.freq4.lo",
+      "src": "BB_bespoke7_math500.graded.jsonl.gz",
+      "value": 2.401
+    },
+    {
+      "key": "h1.bb_bespoke7.final.fin.freq4.hi",
+      "src": "BB_bespoke7_math500.graded.jsonl.gz",
+      "value": 2.5809
+    }
+  ]
+}

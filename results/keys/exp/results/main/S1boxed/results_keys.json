@@ -1,0 +1,1225 @@
+{
+  "entries": [
+    {
+      "key": "h1.s1boxed.base.freq",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.FREQ_wait_1k.est",
+      "value": 4.7
+    },
+    {
+      "key": "h1.s1boxed.base.freq.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.FREQ_wait_1k.lo",
+      "value": 4.5
+    },
+    {
+      "key": "h1.s1boxed.base.freq.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.FREQ_wait_1k.hi",
+      "value": 5.0
+    },
+    {
+      "key": "h1.s1boxed.base.freq100",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.FREQ_wait_100s.est",
+      "value": 9.0
+    },
+    {
+      "key": "h1.s1boxed.base.freq100.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.FREQ_wait_100s.lo",
+      "value": 8.6
+    },
+    {
+      "key": "h1.s1boxed.base.freq100.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.FREQ_wait_100s.hi",
+      "value": 9.5
+    },
+    {
+      "key": "h1.s1boxed.base.fdisc",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.FREQ_disc_1k.est",
+      "value": 11.8
+    },
+    {
+      "key": "h1.s1boxed.base.fdisc.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.FREQ_disc_1k.lo",
+      "value": 11.3
+    },
+    {
+      "key": "h1.s1boxed.base.fdisc.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.FREQ_disc_1k.hi",
+      "value": 12.4
+    },
+    {
+      "key": "h1.s1boxed.base.si",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.SI.est",
+      "value": 92.2
+    },
+    {
+      "key": "h1.s1boxed.base.si.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.SI.lo",
+      "value": 91.5
+    },
+    {
+      "key": "h1.s1boxed.base.si.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.SI.hi",
+      "value": 92.9
+    },
+    {
+      "key": "h1.s1boxed.base.si.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.n_wait",
+      "value": 13624
+    },
+    {
+      "key": "h1.s1boxed.base.siconn",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.SI_conn.est",
+      "value": 97.2
+    },
+    {
+      "key": "h1.s1boxed.base.siconn.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.SI_conn.lo",
+      "value": 96.8
+    },
+    {
+      "key": "h1.s1boxed.base.siconn.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.SI_conn.hi",
+      "value": 97.5
+    },
+    {
+      "key": "h1.s1boxed.base.siconn.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.n_wait",
+      "value": 13624
+    },
+    {
+      "key": "h1.s1boxed.base.pi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.PI.est",
+      "value": 36.5
+    },
+    {
+      "key": "h1.s1boxed.base.pi.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.PI.lo",
+      "value": 35.0
+    },
+    {
+      "key": "h1.s1boxed.base.pi.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.PI.hi",
+      "value": 38.1
+    },
+    {
+      "key": "h1.s1boxed.base.orth",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.ORTH.est",
+      "value": 91.7
+    },
+    {
+      "key": "h1.s1boxed.base.orth.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.ORTH.lo",
+      "value": 91.0
+    },
+    {
+      "key": "h1.s1boxed.base.orth.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.ORTH.hi",
+      "value": 92.4
+    },
+    {
+      "key": "h1.s1boxed.base.orth.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.n_wait",
+      "value": 13624
+    },
+    {
+      "key": "h1.s1boxed.base.orthmax",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.ORTH_max.est",
+      "value": 91.7
+    },
+    {
+      "key": "h1.s1boxed.base.orthmax.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.ORTH_max.lo",
+      "value": 91.0
+    },
+    {
+      "key": "h1.s1boxed.base.orthmax.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.ORTH_max.hi",
+      "value": 92.4
+    },
+    {
+      "key": "h1.s1boxed.base.orthmax.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.n_wait",
+      "value": 13624
+    },
+    {
+      "key": "h1.s1boxed.base.commadrop",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.COMMA_DROP.est",
+      "value": 1.6
+    },
+    {
+      "key": "h1.s1boxed.base.commadrop.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.COMMA_DROP.lo",
+      "value": 1.4
+    },
+    {
+      "key": "h1.s1boxed.base.commadrop.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.COMMA_DROP.hi",
+      "value": 1.9
+    },
+    {
+      "key": "h1.s1boxed.base.commadrop.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.n_wait",
+      "value": 13624
+    },
+    {
+      "key": "h1.s1boxed.base.chain",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.CHAIN_RUNS_1k.est",
+      "value": 108.4
+    },
+    {
+      "key": "h1.s1boxed.base.chain.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.CHAIN_RUNS_1k.lo",
+      "value": 100.9
+    },
+    {
+      "key": "h1.s1boxed.base.chain.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.CHAIN_RUNS_1k.hi",
+      "value": 116.3
+    },
+    {
+      "key": "h1.s1boxed.base.chainshare",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.CHAIN.est",
+      "value": 12.4
+    },
+    {
+      "key": "h1.s1boxed.base.chainshare.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.CHAIN.lo",
+      "value": 11.5
+    },
+    {
+      "key": "h1.s1boxed.base.chainshare.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.CHAIN.hi",
+      "value": 13.4
+    },
+    {
+      "key": "h1.s1boxed.base.hpos",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.H_pos_rare.est",
+      "value": 0.45
+    },
+    {
+      "key": "h1.s1boxed.base.hpos.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.H_pos_rare.lo",
+      "value": 0.42
+    },
+    {
+      "key": "h1.s1boxed.base.hpos.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.H_pos_rare.hi",
+      "value": 0.48
+    },
+    {
+      "key": "h1.s1boxed.base.hpos.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.n_wait",
+      "value": 13624
+    },
+    {
+      "key": "h1.s1boxed.base.hpara",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.H_para_rare.est",
+      "value": 2.68
+    },
+    {
+      "key": "h1.s1boxed.base.hpara.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.H_para_rare.lo",
+      "value": 2.63
+    },
+    {
+      "key": "h1.s1boxed.base.hpara.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.H_para_rare.hi",
+      "value": 2.72
+    },
+    {
+      "key": "h1.s1boxed.base.hpara.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.n_R",
+      "value": 4220
+    },
+    {
+      "key": "h1.s1boxed.base.neff",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.N_eff.est",
+      "value": 6.4
+    },
+    {
+      "key": "h1.s1boxed.base.neff.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.N_eff.lo",
+      "value": 6.2
+    },
+    {
+      "key": "h1.s1boxed.base.neff.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.N_eff.hi",
+      "value": 6.58
+    },
+    {
+      "key": "h1.s1boxed.base.sharewait",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.SHARE_wait.est",
+      "value": 25.9
+    },
+    {
+      "key": "h1.s1boxed.base.sharewait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.SHARE_wait.lo",
+      "value": 24.2
+    },
+    {
+      "key": "h1.s1boxed.base.sharewait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.SHARE_wait.hi",
+      "value": 27.9
+    },
+    {
+      "key": "h1.s1boxed.base.obl",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.OBL.est",
+      "value": 59.1
+    },
+    {
+      "key": "h1.s1boxed.base.obl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.OBL.lo",
+      "value": 56.9
+    },
+    {
+      "key": "h1.s1boxed.base.obl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.OBL.hi",
+      "value": 61.2
+    },
+    {
+      "key": "h1.s1boxed.base.obl.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.n_R",
+      "value": 4220
+    },
+    {
+      "key": "h1.s1boxed.base.rel",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.REL.est",
+      "value": 12.3
+    },
+    {
+      "key": "h1.s1boxed.base.rel.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.REL.lo",
+      "value": 11.2
+    },
+    {
+      "key": "h1.s1boxed.base.rel.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.REL.hi",
+      "value": 13.4
+    },
+    {
+      "key": "h1.s1boxed.base.rel.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.n_M",
+      "value": 32142
+    },
+    {
+      "key": "h1.s1boxed.base.hnext",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.H_next_rare.est",
+      "value": 5.02
+    },
+    {
+      "key": "h1.s1boxed.base.hnext.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.H_next_rare.lo",
+      "value": 4.89
+    },
+    {
+      "key": "h1.s1boxed.base.hnext.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.H_next_rare.hi",
+      "value": 5.06
+    },
+    {
+      "key": "h1.s1boxed.base.hnext.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.n_wait",
+      "value": 13624
+    },
+    {
+      "key": "h1.s1boxed.base.eros",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.EROS.est",
+      "value": 34.4
+    },
+    {
+      "key": "h1.s1boxed.base.eros.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.EROS.lo",
+      "value": 28.5
+    },
+    {
+      "key": "h1.s1boxed.base.eros.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.EROS.hi",
+      "value": 40.8
+    },
+    {
+      "key": "h1.s1boxed.base.sentlen",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.SENTLEN_init.est",
+      "value": 12.0
+    },
+    {
+      "key": "h1.s1boxed.base.sentlen.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.SENTLEN_init.lo",
+      "value": 11.7
+    },
+    {
+      "key": "h1.s1boxed.base.sentlen.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.SENTLEN_init.hi",
+      "value": 12.3
+    },
+    {
+      "key": "h1.s1boxed.base.ctx",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.CTX.est",
+      "value": 1.11
+    },
+    {
+      "key": "h1.s1boxed.base.ctx.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.CTX.lo",
+      "value": 1.1
+    },
+    {
+      "key": "h1.s1boxed.base.ctx.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.CTX.hi",
+      "value": 1.12
+    },
+    {
+      "key": "h1.s1boxed.base.lex",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.LEX_share.est",
+      "value": 0.4
+    },
+    {
+      "key": "h1.s1boxed.base.lex.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.LEX_share.lo",
+      "value": 0.3
+    },
+    {
+      "key": "h1.s1boxed.base.lex.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.LEX_share.hi",
+      "value": 0.6
+    },
+    {
+      "key": "h1.s1boxed.base.revrate",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.R_per_100s.est",
+      "value": 2.8
+    },
+    {
+      "key": "h1.s1boxed.base.revrate.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.R_per_100s.lo",
+      "value": 2.56
+    },
+    {
+      "key": "h1.s1boxed.base.revrate.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.R_per_100s.hi",
+      "value": 3.04
+    },
+    {
+      "key": "h1.s1boxed.base.toks",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.tokens_per_resp.est",
+      "value": 2871
+    },
+    {
+      "key": "h1.s1boxed.base.toks.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.tokens_per_resp.lo",
+      "value": 2663
+    },
+    {
+      "key": "h1.s1boxed.base.toks.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices.tokens_per_resp.hi",
+      "value": 3071
+    },
+    {
+      "key": "n.s1boxed.base.resp",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.n_samples",
+      "value": 1000
+    },
+    {
+      "key": "ctl.s1boxed.base.acc",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.acc",
+      "value": 39.0
+    },
+    {
+      "key": "ctl.s1boxed.base.trunc",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.truncated",
+      "value": 16.2
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_freq",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.FREQ_wait_1k.est",
+      "value": 3.6
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_freq.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.FREQ_wait_1k.lo",
+      "value": 3.3
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_freq.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.FREQ_wait_1k.hi",
+      "value": 3.8
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_si",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.SI.est",
+      "value": 88.5
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_si.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.SI.lo",
+      "value": 87.3
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_si.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.SI.hi",
+      "value": 89.7
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_orth",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.ORTH.est",
+      "value": 87.7
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_orth.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.ORTH.lo",
+      "value": 86.4
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_orth.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.ORTH.hi",
+      "value": 88.9
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_obl",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.OBL.est",
+      "value": 54.7
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_obl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.OBL.lo",
+      "value": 51.1
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_obl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.OBL.hi",
+      "value": 57.9
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_rel",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.REL.est",
+      "value": 12.3
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_rel.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.REL.lo",
+      "value": 10.7
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_rel.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.REL.hi",
+      "value": 14.1
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_eros",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.EROS.est",
+      "value": 35.1
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_eros.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.EROS.lo",
+      "value": 25.4
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_eros.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.EROS.hi",
+      "value": 48.5
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_toks",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.tokens_per_resp.est",
+      "value": 1842
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_toks.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.tokens_per_resp.lo",
+      "value": 1701
+    },
+    {
+      "key": "ctl.s1boxed.base.finished_toks.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.base.indices_finished_only.tokens_per_resp.hi",
+      "value": 1994
+    },
+    {
+      "key": "h1.s1boxed.final.freq",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.FREQ_wait_1k.est",
+      "value": 10.6
+    },
+    {
+      "key": "h1.s1boxed.final.freq.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.FREQ_wait_1k.lo",
+      "value": 8.2
+    },
+    {
+      "key": "h1.s1boxed.final.freq.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.FREQ_wait_1k.hi",
+      "value": 13.3
+    },
+    {
+      "key": "h1.s1boxed.final.freq100",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.FREQ_wait_100s.est",
+      "value": 13.2
+    },
+    {
+      "key": "h1.s1boxed.final.freq100.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.FREQ_wait_100s.lo",
+      "value": 10.5
+    },
+    {
+      "key": "h1.s1boxed.final.freq100.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.FREQ_wait_100s.hi",
+      "value": 16.2
+    },
+    {
+      "key": "h1.s1boxed.final.fdisc",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.FREQ_disc_1k.est",
+      "value": 20.7
+    },
+    {
+      "key": "h1.s1boxed.final.fdisc.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.FREQ_disc_1k.lo",
+      "value": 18.0
+    },
+    {
+      "key": "h1.s1boxed.final.fdisc.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.FREQ_disc_1k.hi",
+      "value": 24.2
+    },
+    {
+      "key": "h1.s1boxed.final.si",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.SI.est",
+      "value": 92.5
+    },
+    {
+      "key": "h1.s1boxed.final.si.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.SI.lo",
+      "value": 90.4
+    },
+    {
+      "key": "h1.s1boxed.final.si.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.SI.hi",
+      "value": 94.0
+    },
+    {
+      "key": "h1.s1boxed.final.si.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.n_wait",
+      "value": 43397
+    },
+    {
+      "key": "h1.s1boxed.final.siconn",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.SI_conn.est",
+      "value": 96.6
+    },
+    {
+      "key": "h1.s1boxed.final.siconn.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.SI_conn.lo",
+      "value": 95.7
+    },
+    {
+      "key": "h1.s1boxed.final.siconn.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.SI_conn.hi",
+      "value": 97.3
+    },
+    {
+      "key": "h1.s1boxed.final.siconn.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.n_wait",
+      "value": 43397
+    },
+    {
+      "key": "h1.s1boxed.final.pi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.PI.est",
+      "value": 38.3
+    },
+    {
+      "key": "h1.s1boxed.final.pi.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.PI.lo",
+      "value": 30.8
+    },
+    {
+      "key": "h1.s1boxed.final.pi.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.PI.hi",
+      "value": 47.0
+    },
+    {
+      "key": "h1.s1boxed.final.orth",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.ORTH.est",
+      "value": 39.2
+    },
+    {
+      "key": "h1.s1boxed.final.orth.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.ORTH.lo",
+      "value": 30.7
+    },
+    {
+      "key": "h1.s1boxed.final.orth.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.ORTH.hi",
+      "value": 50.2
+    },
+    {
+      "key": "h1.s1boxed.final.orth.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.n_wait",
+      "value": 43397
+    },
+    {
+      "key": "h1.s1boxed.final.orthmax",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.ORTH_max.est",
+      "value": 39.2
+    },
+    {
+      "key": "h1.s1boxed.final.orthmax.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.ORTH_max.lo",
+      "value": 34.0
+    },
+    {
+      "key": "h1.s1boxed.final.orthmax.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.ORTH_max.hi",
+      "value": 50.2
+    },
+    {
+      "key": "h1.s1boxed.final.orthmax.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.n_wait",
+      "value": 43397
+    },
+    {
+      "key": "h1.s1boxed.final.commadrop",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.COMMA_DROP.est",
+      "value": 56.6
+    },
+    {
+      "key": "h1.s1boxed.final.commadrop.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.COMMA_DROP.lo",
+      "value": 44.5
+    },
+    {
+      "key": "h1.s1boxed.final.commadrop.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.COMMA_DROP.hi",
+      "value": 66.1
+    },
+    {
+      "key": "h1.s1boxed.final.commadrop.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.n_wait",
+      "value": 43397
+    },
+    {
+      "key": "h1.s1boxed.final.chain",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.CHAIN_RUNS_1k.est",
+      "value": 170.5
+    },
+    {
+      "key": "h1.s1boxed.final.chain.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.CHAIN_RUNS_1k.lo",
+      "value": 134.6
+    },
+    {
+      "key": "h1.s1boxed.final.chain.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.CHAIN_RUNS_1k.hi",
+      "value": 218.7
+    },
+    {
+      "key": "h1.s1boxed.final.chainshare",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.CHAIN.est",
+      "value": 49.3
+    },
+    {
+      "key": "h1.s1boxed.final.chainshare.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.CHAIN.lo",
+      "value": 34.9
+    },
+    {
+      "key": "h1.s1boxed.final.chainshare.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.CHAIN.hi",
+      "value": 59.9
+    },
+    {
+      "key": "h1.s1boxed.final.hpos",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.H_pos_rare.est",
+      "value": 0.41
+    },
+    {
+      "key": "h1.s1boxed.final.hpos.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.H_pos_rare.lo",
+      "value": 0.34
+    },
+    {
+      "key": "h1.s1boxed.final.hpos.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.H_pos_rare.hi",
+      "value": 0.48
+    },
+    {
+      "key": "h1.s1boxed.final.hpos.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.n_wait",
+      "value": 43397
+    },
+    {
+      "key": "h1.s1boxed.final.hpara",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.H_para_rare.est",
+      "value": 2.49
+    },
+    {
+      "key": "h1.s1boxed.final.hpara.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.H_para_rare.lo",
+      "value": 2.44
+    },
+    {
+      "key": "h1.s1boxed.final.hpara.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.H_para_rare.hi",
+      "value": 2.53
+    },
+    {
+      "key": "h1.s1boxed.final.hpara.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.n_R",
+      "value": 5104
+    },
+    {
+      "key": "h1.s1boxed.final.neff",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.N_eff.est",
+      "value": 5.6
+    },
+    {
+      "key": "h1.s1boxed.final.neff.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.N_eff.lo",
+      "value": 5.42
+    },
+    {
+      "key": "h1.s1boxed.final.neff.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.N_eff.hi",
+      "value": 5.77
+    },
+    {
+      "key": "h1.s1boxed.final.sharewait",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.SHARE_wait.est",
+      "value": 25.8
+    },
+    {
+      "key": "h1.s1boxed.final.sharewait.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.SHARE_wait.lo",
+      "value": 24.2
+    },
+    {
+      "key": "h1.s1boxed.final.sharewait.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.SHARE_wait.hi",
+      "value": 27.6
+    },
+    {
+      "key": "h1.s1boxed.final.obl",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.OBL.est",
+      "value": 46.8
+    },
+    {
+      "key": "h1.s1boxed.final.obl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.OBL.lo",
+      "value": 44.2
+    },
+    {
+      "key": "h1.s1boxed.final.obl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.OBL.hi",
+      "value": 49.3
+    },
+    {
+      "key": "h1.s1boxed.final.obl.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.n_R",
+      "value": 5104
+    },
+    {
+      "key": "h1.s1boxed.final.rel",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.REL.est",
+      "value": 5.1
+    },
+    {
+      "key": "h1.s1boxed.final.rel.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.REL.lo",
+      "value": 4.2
+    },
+    {
+      "key": "h1.s1boxed.final.rel.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.REL.hi",
+      "value": 6.1
+    },
+    {
+      "key": "h1.s1boxed.final.rel.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.n_M",
+      "value": 79705
+    },
+    {
+      "key": "h1.s1boxed.final.hnext",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.H_next_rare.est",
+      "value": 4.41
+    },
+    {
+      "key": "h1.s1boxed.final.hnext.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.H_next_rare.lo",
+      "value": 3.79
+    },
+    {
+      "key": "h1.s1boxed.final.hnext.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.H_next_rare.hi",
+      "value": 4.86
+    },
+    {
+      "key": "h1.s1boxed.final.hnext.n",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.n_wait",
+      "value": 43397
+    },
+    {
+      "key": "h1.s1boxed.final.eros",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.EROS.est",
+      "value": 365.1
+    },
+    {
+      "key": "h1.s1boxed.final.eros.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.EROS.lo",
+      "value": 31.5
+    },
+    {
+      "key": "h1.s1boxed.final.eros.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.EROS.hi",
+      "value": 871.3
+    },
+    {
+      "key": "h1.s1boxed.final.sentlen",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.SENTLEN_init.est",
+      "value": 5.5
+    },
+    {
+      "key": "h1.s1boxed.final.sentlen.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.SENTLEN_init.lo",
+      "value": 4.5
+    },
+    {
+      "key": "h1.s1boxed.final.sentlen.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.SENTLEN_init.hi",
+      "value": 6.9
+    },
+    {
+      "key": "h1.s1boxed.final.ctx",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.CTX.est",
+      "value": 2.12
+    },
+    {
+      "key": "h1.s1boxed.final.ctx.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.CTX.lo",
+      "value": 1.85
+    },
+    {
+      "key": "h1.s1boxed.final.ctx.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.CTX.hi",
+      "value": 2.46
+    },
+    {
+      "key": "h1.s1boxed.final.lex",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.LEX_share.est",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1boxed.final.lex.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.LEX_share.lo",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1boxed.final.lex.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.LEX_share.hi",
+      "value": 0.2
+    },
+    {
+      "key": "h1.s1boxed.final.revrate",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.R_per_100s.est",
+      "value": 1.55
+    },
+    {
+      "key": "h1.s1boxed.final.revrate.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.R_per_100s.lo",
+      "value": 1.41
+    },
+    {
+      "key": "h1.s1boxed.final.revrate.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.R_per_100s.hi",
+      "value": 1.7
+    },
+    {
+      "key": "h1.s1boxed.final.toks",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.tokens_per_resp.est",
+      "value": 4109
+    },
+    {
+      "key": "h1.s1boxed.final.toks.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.tokens_per_resp.lo",
+      "value": 3901
+    },
+    {
+      "key": "h1.s1boxed.final.toks.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices.tokens_per_resp.hi",
+      "value": 4309
+    },
+    {
+      "key": "n.s1boxed.final.resp",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.n_samples",
+      "value": 1000
+    },
+    {
+      "key": "ctl.s1boxed.final.acc",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.acc",
+      "value": 55.6
+    },
+    {
+      "key": "ctl.s1boxed.final.trunc",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.truncated",
+      "value": 19.1
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_freq",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.FREQ_wait_1k.est",
+      "value": 8.4
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_freq.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.FREQ_wait_1k.lo",
+      "value": 8.0
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_freq.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.FREQ_wait_1k.hi",
+      "value": 8.8
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_si",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.SI.est",
+      "value": 88.3
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_si.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.SI.lo",
+      "value": 87.5
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_si.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.SI.hi",
+      "value": 89.1
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_orth",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.ORTH.est",
+      "value": 55.6
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_orth.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.ORTH.lo",
+      "value": 52.7
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_orth.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.ORTH.hi",
+      "value": 58.2
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_obl",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.OBL.est",
+      "value": 47.2
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_obl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.OBL.lo",
+      "value": 43.6
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_obl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.OBL.hi",
+      "value": 50.8
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_rel",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.REL.est",
+      "value": 5.5
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_rel.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.REL.lo",
+      "value": 4.5
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_rel.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.REL.hi",
+      "value": 6.5
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_eros",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.EROS.est",
+      "value": 59.8
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_eros.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.EROS.lo",
+      "value": 30.3
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_eros.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.EROS.hi",
+      "value": 114.2
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_toks",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.tokens_per_resp.est",
+      "value": 3145
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_toks.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.tokens_per_resp.lo",
+      "value": 2982
+    },
+    {
+      "key": "ctl.s1boxed.final.finished_toks.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints.final.indices_finished_only.tokens_per_resp.hi",
+      "value": 3314
+    },
+    {
+      "key": "ctl.s1boxed.base.matched_freq",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.base.FREQ_wait_1k.est",
+      "value": 5.0
+    },
+    {
+      "key": "ctl.s1boxed.base.matched_freq.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.base.FREQ_wait_1k.lo",
+      "value": 5.0
+    },
+    {
+      "key": "ctl.s1boxed.base.matched_freq.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.base.FREQ_wait_1k.hi",
+      "value": 5.0
+    },
+    {
+      "key": "ctl.s1boxed.base.matched_rel",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.base.REL.est",
+      "value": 12.4
+    },
+    {
+      "key": "ctl.s1boxed.base.matched_rel.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.base.REL.lo",
+      "value": 12.3
+    },
+    {
+      "key": "ctl.s1boxed.base.matched_rel.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.base.REL.hi",
+      "value": 12.4
+    },
+    {
+      "key": "ctl.s1boxed.base.matched_si",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.base.SI.est",
+      "value": 92.4
+    },
+    {
+      "key": "ctl.s1boxed.base.matched_si.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.base.SI.lo",
+      "value": 92.3
+    },
+    {
+      "key": "ctl.s1boxed.base.matched_si.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.base.SI.hi",
+      "value": 92.4
+    },
+    {
+      "key": "ctl.s1boxed.base.matched_obl",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.base.OBL.est",
+      "value": 59.7
+    },
+    {
+      "key": "ctl.s1boxed.base.matched_obl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.base.OBL.lo",
+      "value": 59.5
+    },
+    {
+      "key": "ctl.s1boxed.base.matched_obl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.base.OBL.hi",
+      "value": 60.0
+    },
+    {
+      "key": "ctl.s1boxed.base.matched_hnext",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.base.H_next.est",
+      "value": 5.02
+    },
+    {
+      "key": "ctl.s1boxed.base.matched_hnext.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.base.H_next.lo",
+      "value": 5.01
+    },
+    {
+      "key": "ctl.s1boxed.base.matched_hnext.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.base.H_next.hi",
+      "value": 5.02
+    },
+    {
+      "key": "ctl.s1boxed.final.matched_freq",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.final.FREQ_wait_1k.est",
+      "value": 10.9
+    },
+    {
+      "key": "ctl.s1boxed.final.matched_freq.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.final.FREQ_wait_1k.lo",
+      "value": 9.2
+    },
+    {
+      "key": "ctl.s1boxed.final.matched_freq.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.final.FREQ_wait_1k.hi",
+      "value": 11.8
+    },
+    {
+      "key": "ctl.s1boxed.final.matched_rel",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.final.REL.est",
+      "value": 5.1
+    },
+    {
+      "key": "ctl.s1boxed.final.matched_rel.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.final.REL.lo",
+      "value": 4.6
+    },
+    {
+      "key": "ctl.s1boxed.final.matched_rel.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.final.REL.hi",
+      "value": 5.7
+    },
+    {
+      "key": "ctl.s1boxed.final.matched_si",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.final.SI.est",
+      "value": 93.1
+    },
+    {
+      "key": "ctl.s1boxed.final.matched_si.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.final.SI.lo",
+      "value": 91.8
+    },
+    {
+      "key": "ctl.s1boxed.final.matched_si.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.final.SI.hi",
+      "value": 93.8
+    },
+    {
+      "key": "ctl.s1boxed.final.matched_obl",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.final.OBL.est",
+      "value": 46.6
+    },
+    {
+      "key": "ctl.s1boxed.final.matched_obl.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.final.OBL.lo",
+      "value": 45.1
+    },
+    {
+      "key": "ctl.s1boxed.final.matched_obl.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.final.OBL.hi",
+      "value": 48.0
+    },
+    {
+      "key": "ctl.s1boxed.final.matched_hnext",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.final.H_next.est",
+      "value": 4.33
+    },
+    {
+      "key": "ctl.s1boxed.final.matched_hnext.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.final.H_next.lo",
+      "value": 4.09
+    },
+    {
+      "key": "ctl.s1boxed.final.matched_hnext.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::matched_length.checkpoints.final.H_next.hi",
+      "value": 4.74
+    },
+    {
+      "key": "n.s1boxed.ckpts",
+      "src": "$ARR_ROOT/runs/P1/main/S1boxed/h1_indices.json::checkpoints",
+      "value": 2
+    }
+  ],
+  "judge_tag": null,
+  "pilot": false,
+  "stage_map": {
+    "base": "base",
+    "final": "final"
+  }
+}

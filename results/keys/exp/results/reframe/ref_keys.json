@@ -1,0 +1,1344 @@
+{
+  "entries": [
+    {
+      "key": "h1.s7r1.step0000.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0012
+    },
+    {
+      "key": "h1.s7r1.step0000.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 2
+    },
+    {
+      "key": "ctl.s7r1.step0000.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 19.1
+    },
+    {
+      "key": "ctl.s7r1.step0000.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 9.0
+    },
+    {
+      "key": "h1.s7r1.step0005.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0033
+    },
+    {
+      "key": "h1.s7r1.step0005.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 5
+    },
+    {
+      "key": "ctl.s7r1.step0005.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 32.1
+    },
+    {
+      "key": "ctl.s7r1.step0005.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 7.2
+    },
+    {
+      "key": "h1.s7r1.step0010.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0008
+    },
+    {
+      "key": "h1.s7r1.step0010.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 1
+    },
+    {
+      "key": "ctl.s7r1.step0010.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 48.0
+    },
+    {
+      "key": "ctl.s7r1.step0010.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 5.4
+    },
+    {
+      "key": "h1.s7r1.step0015.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0024
+    },
+    {
+      "key": "h1.s7r1.step0015.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 3
+    },
+    {
+      "key": "ctl.s7r1.step0015.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 54.2
+    },
+    {
+      "key": "ctl.s7r1.step0015.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 5.1
+    },
+    {
+      "key": "h1.s7r1.step0020.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0020.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0020.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 58.0
+    },
+    {
+      "key": "ctl.s7r1.step0020.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 3.9
+    },
+    {
+      "key": "h1.s7r1.step0030.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0030.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0030.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 60.2
+    },
+    {
+      "key": "ctl.s7r1.step0030.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.7
+    },
+    {
+      "key": "h1.s7r1.step0040.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0018
+    },
+    {
+      "key": "h1.s7r1.step0040.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 2
+    },
+    {
+      "key": "ctl.s7r1.step0040.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 61.4
+    },
+    {
+      "key": "ctl.s7r1.step0040.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.6
+    },
+    {
+      "key": "h1.s7r1.step0060.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0060.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0060.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 63.2
+    },
+    {
+      "key": "ctl.s7r1.step0060.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.0
+    },
+    {
+      "key": "h1.s7r1.step0080.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0080.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0080.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 65.6
+    },
+    {
+      "key": "ctl.s7r1.step0080.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.4
+    },
+    {
+      "key": "h1.s7r1.step0100.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0100.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0100.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 66.3
+    },
+    {
+      "key": "ctl.s7r1.step0100.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.6
+    },
+    {
+      "key": "h1.s7r1.step0120.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0120.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0120.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 68.0
+    },
+    {
+      "key": "ctl.s7r1.step0120.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.2
+    },
+    {
+      "key": "h1.s7r1.step0140.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0140.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0140.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 68.3
+    },
+    {
+      "key": "ctl.s7r1.step0140.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.9
+    },
+    {
+      "key": "h1.s7r1.step0160.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0160.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0160.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 68.9
+    },
+    {
+      "key": "ctl.s7r1.step0160.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.1
+    },
+    {
+      "key": "h1.s7r1.step0180.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0029
+    },
+    {
+      "key": "h1.s7r1.step0180.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 3
+    },
+    {
+      "key": "ctl.s7r1.step0180.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 70.2
+    },
+    {
+      "key": "ctl.s7r1.step0180.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.8
+    },
+    {
+      "key": "h1.s7r1.step0200.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0200.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0200.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 71.1
+    },
+    {
+      "key": "ctl.s7r1.step0200.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.7
+    },
+    {
+      "key": "h1.s7r1.step0220.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0220.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0220.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 71.1
+    },
+    {
+      "key": "ctl.s7r1.step0220.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.4
+    },
+    {
+      "key": "h1.s7r1.step0240.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0240.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0240.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 71.5
+    },
+    {
+      "key": "ctl.s7r1.step0240.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.4
+    },
+    {
+      "key": "h1.s7r1.step0260.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0260.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0260.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 71.4
+    },
+    {
+      "key": "ctl.s7r1.step0260.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.9
+    },
+    {
+      "key": "h1.s7r1.step0280.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0280.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0280.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 72.8
+    },
+    {
+      "key": "ctl.s7r1.step0280.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.5
+    },
+    {
+      "key": "h1.s7r1.step0300.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0300.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0300.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 72.6
+    },
+    {
+      "key": "ctl.s7r1.step0300.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.4
+    },
+    {
+      "key": "h1.s7r1.step0320.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0320.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0320.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 73.6
+    },
+    {
+      "key": "ctl.s7r1.step0320.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.4
+    },
+    {
+      "key": "h1.s7r1.step0340.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0340.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0340.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 74.7
+    },
+    {
+      "key": "ctl.s7r1.step0340.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.9
+    },
+    {
+      "key": "h1.s7r1.step0360.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0360.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0360.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 74.2
+    },
+    {
+      "key": "ctl.s7r1.step0360.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.7
+    },
+    {
+      "key": "h1.s7r1.step0380.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0380.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0380.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 74.2
+    },
+    {
+      "key": "ctl.s7r1.step0380.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.5
+    },
+    {
+      "key": "h1.s7r1.step0400.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.step0400.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r1.step0400.acc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 74.4
+    },
+    {
+      "key": "ctl.s7r1.step0400.trunc",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.0
+    },
+    {
+      "key": "h1.s7r1.max.freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::max over steps of FREQ_wait_1k",
+      "value": 0.0033
+    },
+    {
+      "key": "h1.s7r1.max.freq4",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::step 5 (max FREQ); exact Poisson 95%",
+      "value": 0.0033
+    },
+    {
+      "key": "h1.s7r1.max.freq4.lo",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::step 5 (max FREQ); exact Poisson 95%",
+      "value": 0.0011
+    },
+    {
+      "key": "h1.s7r1.max.freq4.hi",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::step 5 (max FREQ); exact Poisson 95%",
+      "value": 0.0077
+    },
+    {
+      "key": "h1.s7r1.max.step",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::step of max FREQ",
+      "value": 5
+    },
+    {
+      "key": "h1.s7r1.max.nwait",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::max over steps of wait:n",
+      "value": 5
+    },
+    {
+      "key": "h1.s7r1.trend.rho_freq",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::spearman(step, FREQ_wait_1k)",
+      "value": -0.59
+    },
+    {
+      "key": "h1.s7r1.trend.rho_freq.p",
+      "src": "exp/rl/results/ref_s1/results.tgz::idx/s<step>.json::spearman p",
+      "value": 0.002
+    },
+    {
+      "key": "h1.s7r2.step0000.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0028
+    },
+    {
+      "key": "h1.s7r2.step0000.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 5
+    },
+    {
+      "key": "ctl.s7r2.step0000.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 17.8
+    },
+    {
+      "key": "ctl.s7r2.step0000.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 10.2
+    },
+    {
+      "key": "h1.s7r2.step0005.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0031
+    },
+    {
+      "key": "h1.s7r2.step0005.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 5
+    },
+    {
+      "key": "ctl.s7r2.step0005.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 30.5
+    },
+    {
+      "key": "ctl.s7r2.step0005.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 9.2
+    },
+    {
+      "key": "h1.s7r2.step0010.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0015
+    },
+    {
+      "key": "h1.s7r2.step0010.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 2
+    },
+    {
+      "key": "ctl.s7r2.step0010.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 50.7
+    },
+    {
+      "key": "ctl.s7r2.step0010.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 4.8
+    },
+    {
+      "key": "h1.s7r2.step0015.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0024
+    },
+    {
+      "key": "h1.s7r2.step0015.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 3
+    },
+    {
+      "key": "ctl.s7r2.step0015.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 55.1
+    },
+    {
+      "key": "ctl.s7r2.step0015.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 4.6
+    },
+    {
+      "key": "h1.s7r2.step0020.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0020.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0020.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 59.5
+    },
+    {
+      "key": "ctl.s7r2.step0020.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 3.1
+    },
+    {
+      "key": "h1.s7r2.step0030.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0030.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0030.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 62.2
+    },
+    {
+      "key": "ctl.s7r2.step0030.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 3.1
+    },
+    {
+      "key": "h1.s7r2.step0040.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0040.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0040.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 62.6
+    },
+    {
+      "key": "ctl.s7r2.step0040.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.8
+    },
+    {
+      "key": "h1.s7r2.step0060.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0060.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0060.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 65.5
+    },
+    {
+      "key": "ctl.s7r2.step0060.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.0
+    },
+    {
+      "key": "h1.s7r2.step0080.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0080.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0080.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 66.2
+    },
+    {
+      "key": "ctl.s7r2.step0080.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.7
+    },
+    {
+      "key": "h1.s7r2.step0100.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0100.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0100.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 66.8
+    },
+    {
+      "key": "ctl.s7r2.step0100.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.1
+    },
+    {
+      "key": "h1.s7r2.step0120.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0120.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0120.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 67.9
+    },
+    {
+      "key": "ctl.s7r2.step0120.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.8
+    },
+    {
+      "key": "h1.s7r2.step0140.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0140.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0140.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 69.9
+    },
+    {
+      "key": "ctl.s7r2.step0140.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.8
+    },
+    {
+      "key": "h1.s7r2.step0160.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0160.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0160.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 68.8
+    },
+    {
+      "key": "ctl.s7r2.step0160.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.8
+    },
+    {
+      "key": "h1.s7r2.step0180.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0180.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0180.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 69.8
+    },
+    {
+      "key": "ctl.s7r2.step0180.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.9
+    },
+    {
+      "key": "h1.s7r2.step0200.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0200.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0200.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 69.4
+    },
+    {
+      "key": "ctl.s7r2.step0200.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.9
+    },
+    {
+      "key": "h1.s7r2.step0220.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0220.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0220.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 70.4
+    },
+    {
+      "key": "ctl.s7r2.step0220.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.2
+    },
+    {
+      "key": "h1.s7r2.step0240.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0240.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0240.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 71.2
+    },
+    {
+      "key": "ctl.s7r2.step0240.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.1
+    },
+    {
+      "key": "h1.s7r2.step0260.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0260.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0260.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 71.1
+    },
+    {
+      "key": "ctl.s7r2.step0260.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.0
+    },
+    {
+      "key": "h1.s7r2.step0280.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0280.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0280.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 72.1
+    },
+    {
+      "key": "ctl.s7r2.step0280.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.3
+    },
+    {
+      "key": "h1.s7r2.step0300.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0300.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0300.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 72.6
+    },
+    {
+      "key": "ctl.s7r2.step0300.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.4
+    },
+    {
+      "key": "h1.s7r2.step0320.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0320.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0320.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 71.8
+    },
+    {
+      "key": "ctl.s7r2.step0320.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.2
+    },
+    {
+      "key": "h1.s7r2.step0340.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0340.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0340.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 73.6
+    },
+    {
+      "key": "ctl.s7r2.step0340.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.8
+    },
+    {
+      "key": "h1.s7r2.step0360.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0360.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0360.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 73.6
+    },
+    {
+      "key": "ctl.s7r2.step0360.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.4
+    },
+    {
+      "key": "h1.s7r2.step0380.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0380.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0380.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 74.2
+    },
+    {
+      "key": "ctl.s7r2.step0380.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.6
+    },
+    {
+      "key": "h1.s7r2.step0400.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.step0400.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r2.step0400.acc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::acc",
+      "value": 74.2
+    },
+    {
+      "key": "ctl.s7r2.step0400.trunc",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.6
+    },
+    {
+      "key": "h1.s7r2.max.freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::max over steps of FREQ_wait_1k",
+      "value": 0.0031
+    },
+    {
+      "key": "h1.s7r2.max.freq4",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::step 5 (max FREQ); exact Poisson 95%",
+      "value": 0.0031
+    },
+    {
+      "key": "h1.s7r2.max.freq4.lo",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::step 5 (max FREQ); exact Poisson 95%",
+      "value": 0.001
+    },
+    {
+      "key": "h1.s7r2.max.freq4.hi",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::step 5 (max FREQ); exact Poisson 95%",
+      "value": 0.0071
+    },
+    {
+      "key": "h1.s7r2.max.step",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::step of max FREQ",
+      "value": 5
+    },
+    {
+      "key": "h1.s7r2.max.nwait",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::max over steps of wait:n",
+      "value": 5
+    },
+    {
+      "key": "h1.s7r2.trend.rho_freq",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::spearman(step, FREQ_wait_1k)",
+      "value": -0.64
+    },
+    {
+      "key": "h1.s7r2.trend.rho_freq.p",
+      "src": "exp/rl/results/ref_s2/results.tgz::idx/s<step>.json::spearman p",
+      "value": 0.001
+    },
+    {
+      "key": "h1.s7r7b.step0000.freq",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0016
+    },
+    {
+      "key": "h1.s7r7b.step0000.nwait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 3
+    },
+    {
+      "key": "ctl.s7r7b.step0000.acc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 16.9
+    },
+    {
+      "key": "ctl.s7r7b.step0000.trunc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 9.7
+    },
+    {
+      "key": "h1.s7r7b.step0020.freq",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.step0020.nwait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r7b.step0020.acc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 69.8
+    },
+    {
+      "key": "ctl.s7r7b.step0020.trunc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 2.4
+    },
+    {
+      "key": "h1.s7r7b.step0040.freq",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.step0040.nwait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r7b.step0040.acc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 73.0
+    },
+    {
+      "key": "ctl.s7r7b.step0040.trunc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.8
+    },
+    {
+      "key": "h1.s7r7b.step0060.freq",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.step0060.nwait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r7b.step0060.acc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 73.9
+    },
+    {
+      "key": "ctl.s7r7b.step0060.trunc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.5
+    },
+    {
+      "key": "h1.s7r7b.step0100.freq",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.step0100.nwait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r7b.step0100.acc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 75.8
+    },
+    {
+      "key": "ctl.s7r7b.step0100.trunc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.2
+    },
+    {
+      "key": "h1.s7r7b.step0150.freq",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.step0150.nwait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r7b.step0150.acc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 77.0
+    },
+    {
+      "key": "ctl.s7r7b.step0150.trunc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.7
+    },
+    {
+      "key": "h1.s7r7b.step0200.freq",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.step0200.nwait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r7b.step0200.acc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 75.2
+    },
+    {
+      "key": "ctl.s7r7b.step0200.trunc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.2
+    },
+    {
+      "key": "h1.s7r7b.step0250.freq",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.step0250.nwait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r7b.step0250.acc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 75.4
+    },
+    {
+      "key": "ctl.s7r7b.step0250.trunc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 0.9
+    },
+    {
+      "key": "h1.s7r7b.step0300.freq",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.step0300.nwait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r7b.step0300.acc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 76.7
+    },
+    {
+      "key": "ctl.s7r7b.step0300.trunc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.0
+    },
+    {
+      "key": "h1.s7r7b.step0350.freq",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.step0350.nwait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r7b.step0350.acc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 76.9
+    },
+    {
+      "key": "ctl.s7r7b.step0350.trunc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.1
+    },
+    {
+      "key": "h1.s7r7b.step0400.freq",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::indices.FREQ_wait_1k",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.step0400.nwait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::totals.wait:n",
+      "value": 0
+    },
+    {
+      "key": "ctl.s7r7b.step0400.acc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::acc",
+      "value": 76.0
+    },
+    {
+      "key": "ctl.s7r7b.step0400.trunc",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::truncated (finish=length share; cap 3,072)",
+      "value": 1.1
+    },
+    {
+      "key": "h1.s7r7b.max.freq",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::max over steps of FREQ_wait_1k",
+      "value": 0.0016
+    },
+    {
+      "key": "h1.s7r7b.max.freq4",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::step 0 (max FREQ); exact Poisson 95%",
+      "value": 0.0016
+    },
+    {
+      "key": "h1.s7r7b.max.freq4.lo",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::step 0 (max FREQ); exact Poisson 95%",
+      "value": 0.0003
+    },
+    {
+      "key": "h1.s7r7b.max.freq4.hi",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::step 0 (max FREQ); exact Poisson 95%",
+      "value": 0.0047
+    },
+    {
+      "key": "h1.s7r7b.max.step",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::step of max FREQ",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r7b.max.nwait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::max over steps of wait:n",
+      "value": 3
+    },
+    {
+      "key": "h1.s7r7b.trend.rho_freq",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::spearman(step, FREQ_wait_1k)",
+      "value": -0.5
+    },
+    {
+      "key": "h1.s7r7b.trend.rho_freq.p",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::idx/s<step>.json::spearman p",
+      "value": 0.117
+    }
+  ]
+}

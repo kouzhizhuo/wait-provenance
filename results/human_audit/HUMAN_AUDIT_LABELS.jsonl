@@ -1,0 +1,59 @@
+{"id": "H-01", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-02", "label": "Re-checks an earlier step and confirms it unchanged", "letter": "C", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-03", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-04", "label": "Simply continues to the next step", "letter": "E", "comment": "Unsure", "annotator": "A1", "source": "human"}
+{"id": "H-05", "label": "Re-checks an earlier step and confirms it unchanged", "letter": "C", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-06", "label": "Re-checks an earlier step and confirms it unchanged", "letter": "C", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-07", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-08", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-09", "label": "Re-checks an earlier step and confirms it unchanged", "letter": "C", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-10", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-11", "label": "Re-checks an earlier step and confirms it unchanged", "letter": "C", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-12", "label": "Re-checks an earlier step and confirms it unchanged", "letter": "C", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-13", "label": "Re-checks an earlier step and confirms it unchanged", "letter": "C", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-14", "label": "Explores an alternative case or method while keeping the earlier steps", "letter": "D", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-15", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-16", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-17", "label": "Corrects or changes an earlier value or claim", "letter": "A", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-18", "label": "Explores an alternative case or method while keeping the earlier steps", "letter": "D", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-19", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-20", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-21", "label": "Corrects or changes an earlier value or claim", "letter": "A", "comment": "unsure", "annotator": "A1", "source": "human"}
+{"id": "H-22", "label": "Re-checks an earlier step and confirms it unchanged", "letter": "C", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-23", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-24", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-25", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-26", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-27", "label": "Re-checks an earlier step and confirms it unchanged", "letter": "C", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-28", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-29", "label": "Explores an alternative case or method while keeping the earlier steps", "letter": "D", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-30", "label": "Simply continues to the next step", "letter": "E", "comment": "unsure", "annotator": "A1", "source": "human"}
+{"id": "H-31", "label": "Corrects or changes an earlier value or claim", "letter": "A", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-32", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-34", "label": "Corrects or changes an earlier value or claim", "letter": "A", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-35", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-36", "label": "Corrects or changes an earlier value or claim", "letter": "A", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-37", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-38", "label": "Re-checks an earlier step and confirms it unchanged", "letter": "C", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-39", "label": "Re-checks an earlier step and confirms it unchanged", "letter": "C", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-40", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-41", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-42", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-43", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-44", "label": "Corrects or changes an earlier value or claim", "letter": "A", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-45", "label": "Re-checks an earlier step and confirms it unchanged", "letter": "C", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-46", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-47", "label": "Re-checks an earlier step and confirms it unchanged", "letter": "C", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-48", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-49", "label": "Re-checks an earlier step and confirms it unchanged", "letter": "C", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-50", "label": "Re-checks an earlier step and confirms it unchanged", "letter": "C", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-51", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-52", "label": "Corrects or changes an earlier value or claim", "letter": "A", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-53", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-54", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-55", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-56", "label": "Explores an alternative case or method while keeping the earlier steps", "letter": "D", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-57", "label": "Re-checks an earlier step and confirms it unchanged", "letter": "C", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-58", "label": "Explores an alternative case or method while keeping the earlier steps", "letter": "D", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-59", "label": "Corrects or changes an earlier value or claim", "letter": "A", "comment": "", "annotator": "A1", "source": "human"}
+{"id": "H-60", "label": "Simply continues to the next step", "letter": "E", "comment": "", "annotator": "A1", "source": "human"}

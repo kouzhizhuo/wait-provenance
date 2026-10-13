@@ -1,0 +1,5709 @@
+{
+  "entries": [
+    {
+      "key": "h1.fork_ref1m.base.freq",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_wait_1k.est",
+      "value": 4.9
+    },
+    {
+      "key": "h1.fork_ref1m.base.freq.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_wait_1k.lo",
+      "value": 4.6
+    },
+    {
+      "key": "h1.fork_ref1m.base.freq.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_wait_1k.hi",
+      "value": 5.3
+    },
+    {
+      "key": "h1.fork_ref1m.base.freq100",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_wait_100s.est",
+      "value": 9.2
+    },
+    {
+      "key": "h1.fork_ref1m.base.freq100.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_wait_100s.lo",
+      "value": 8.6
+    },
+    {
+      "key": "h1.fork_ref1m.base.freq100.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_wait_100s.hi",
+      "value": 9.7
+    },
+    {
+      "key": "h1.fork_ref1m.base.fdisc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_disc_1k.est",
+      "value": 11.3
+    },
+    {
+      "key": "h1.fork_ref1m.base.fdisc.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_disc_1k.lo",
+      "value": 10.7
+    },
+    {
+      "key": "h1.fork_ref1m.base.fdisc.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_disc_1k.hi",
+      "value": 11.8
+    },
+    {
+      "key": "h1.fork_ref1m.base.si",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SI.est",
+      "value": 89.6
+    },
+    {
+      "key": "h1.fork_ref1m.base.si.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SI.lo",
+      "value": 88.7
+    },
+    {
+      "key": "h1.fork_ref1m.base.si.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SI.hi",
+      "value": 90.5
+    },
+    {
+      "key": "h1.fork_ref1m.base.si.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.n_wait",
+      "value": 11164
+    },
+    {
+      "key": "h1.fork_ref1m.base.siconn",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SI_conn.est",
+      "value": 95.3
+    },
+    {
+      "key": "h1.fork_ref1m.base.siconn.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SI_conn.lo",
+      "value": 94.8
+    },
+    {
+      "key": "h1.fork_ref1m.base.siconn.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SI_conn.hi",
+      "value": 95.8
+    },
+    {
+      "key": "h1.fork_ref1m.base.siconn.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.n_wait",
+      "value": 11164
+    },
+    {
+      "key": "h1.fork_ref1m.base.pi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.PI.est",
+      "value": 34.9
+    },
+    {
+      "key": "h1.fork_ref1m.base.pi.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.PI.lo",
+      "value": 33.2
+    },
+    {
+      "key": "h1.fork_ref1m.base.pi.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.PI.hi",
+      "value": 36.6
+    },
+    {
+      "key": "h1.fork_ref1m.base.orth",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.ORTH.est",
+      "value": 88.9
+    },
+    {
+      "key": "h1.fork_ref1m.base.orth.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.ORTH.lo",
+      "value": 87.9
+    },
+    {
+      "key": "h1.fork_ref1m.base.orth.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.ORTH.hi",
+      "value": 89.8
+    },
+    {
+      "key": "h1.fork_ref1m.base.orth.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.n_wait",
+      "value": 11164
+    },
+    {
+      "key": "h1.fork_ref1m.base.orthmax",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.ORTH_max.est",
+      "value": 88.9
+    },
+    {
+      "key": "h1.fork_ref1m.base.orthmax.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.ORTH_max.lo",
+      "value": 87.9
+    },
+    {
+      "key": "h1.fork_ref1m.base.orthmax.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.ORTH_max.hi",
+      "value": 89.8
+    },
+    {
+      "key": "h1.fork_ref1m.base.orthmax.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.n_wait",
+      "value": 11164
+    },
+    {
+      "key": "h1.fork_ref1m.base.commadrop",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.COMMA_DROP.est",
+      "value": 2.7
+    },
+    {
+      "key": "h1.fork_ref1m.base.commadrop.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.COMMA_DROP.lo",
+      "value": 2.3
+    },
+    {
+      "key": "h1.fork_ref1m.base.commadrop.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.COMMA_DROP.hi",
+      "value": 3.2
+    },
+    {
+      "key": "h1.fork_ref1m.base.commadrop.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.n_wait",
+      "value": 11164
+    },
+    {
+      "key": "h1.fork_ref1m.base.chain",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CHAIN_RUNS_1k.est",
+      "value": 117.6
+    },
+    {
+      "key": "h1.fork_ref1m.base.chain.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CHAIN_RUNS_1k.lo",
+      "value": 108.8
+    },
+    {
+      "key": "h1.fork_ref1m.base.chain.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CHAIN_RUNS_1k.hi",
+      "value": 126.5
+    },
+    {
+      "key": "h1.fork_ref1m.base.chainshare",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CHAIN.est",
+      "value": 14.5
+    },
+    {
+      "key": "h1.fork_ref1m.base.chainshare.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CHAIN.lo",
+      "value": 13.3
+    },
+    {
+      "key": "h1.fork_ref1m.base.chainshare.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CHAIN.hi",
+      "value": 15.6
+    },
+    {
+      "key": "h1.fork_ref1m.base.neff",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.N_eff.est",
+      "value": 6.05
+    },
+    {
+      "key": "h1.fork_ref1m.base.neff.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.N_eff.lo",
+      "value": 5.76
+    },
+    {
+      "key": "h1.fork_ref1m.base.neff.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.N_eff.hi",
+      "value": 6.3
+    },
+    {
+      "key": "h1.fork_ref1m.base.sharewait",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SHARE_wait.est",
+      "value": 31.2
+    },
+    {
+      "key": "h1.fork_ref1m.base.sharewait.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SHARE_wait.lo",
+      "value": 29.0
+    },
+    {
+      "key": "h1.fork_ref1m.base.sharewait.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SHARE_wait.hi",
+      "value": 33.5
+    },
+    {
+      "key": "h1.fork_ref1m.base.obl",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.OBL.est",
+      "value": 54.5
+    },
+    {
+      "key": "h1.fork_ref1m.base.obl.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.OBL.lo",
+      "value": 51.7
+    },
+    {
+      "key": "h1.fork_ref1m.base.obl.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.OBL.hi",
+      "value": 57.3
+    },
+    {
+      "key": "h1.fork_ref1m.base.obl.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.n_R",
+      "value": 2928
+    },
+    {
+      "key": "h1.fork_ref1m.base.rel",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.REL.est",
+      "value": 10.3
+    },
+    {
+      "key": "h1.fork_ref1m.base.rel.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.REL.lo",
+      "value": 9.2
+    },
+    {
+      "key": "h1.fork_ref1m.base.rel.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.REL.hi",
+      "value": 11.5
+    },
+    {
+      "key": "h1.fork_ref1m.base.rel.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.n_M",
+      "value": 23922
+    },
+    {
+      "key": "h1.fork_ref1m.base.eros",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.EROS.est",
+      "value": 25.9
+    },
+    {
+      "key": "h1.fork_ref1m.base.eros.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.EROS.lo",
+      "value": 22.4
+    },
+    {
+      "key": "h1.fork_ref1m.base.eros.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.EROS.hi",
+      "value": 29.5
+    },
+    {
+      "key": "h1.fork_ref1m.base.sentlen",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SENTLEN_init.est",
+      "value": 11.8
+    },
+    {
+      "key": "h1.fork_ref1m.base.sentlen.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SENTLEN_init.lo",
+      "value": 11.4
+    },
+    {
+      "key": "h1.fork_ref1m.base.sentlen.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SENTLEN_init.hi",
+      "value": 12.1
+    },
+    {
+      "key": "h1.fork_ref1m.base.ctx",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CTX.est",
+      "value": 1.15
+    },
+    {
+      "key": "h1.fork_ref1m.base.ctx.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CTX.lo",
+      "value": 1.13
+    },
+    {
+      "key": "h1.fork_ref1m.base.ctx.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CTX.hi",
+      "value": 1.17
+    },
+    {
+      "key": "h1.fork_ref1m.base.lex",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.LEX_share.est",
+      "value": 0.8
+    },
+    {
+      "key": "h1.fork_ref1m.base.lex.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.LEX_share.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h1.fork_ref1m.base.lex.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.LEX_share.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h1.fork_ref1m.base.revrate",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.R_per_100s.est",
+      "value": 2.41
+    },
+    {
+      "key": "h1.fork_ref1m.base.revrate.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.R_per_100s.lo",
+      "value": 2.15
+    },
+    {
+      "key": "h1.fork_ref1m.base.revrate.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.R_per_100s.hi",
+      "value": 2.67
+    },
+    {
+      "key": "h1.fork_ref1m.base.toks",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.tokens_per_resp.est",
+      "value": 2259
+    },
+    {
+      "key": "h1.fork_ref1m.base.toks.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.tokens_per_resp.lo",
+      "value": 2072
+    },
+    {
+      "key": "h1.fork_ref1m.base.toks.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.tokens_per_resp.hi",
+      "value": 2450
+    },
+    {
+      "key": "n.fork_ref1m.base.resp",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.n_samples",
+      "value": 1000
+    },
+    {
+      "key": "ctl.fork_ref1m.base.acc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.acc",
+      "value": 51.2
+    },
+    {
+      "key": "ctl.fork_ref1m.base.trunc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.truncated",
+      "value": 10.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.freq",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_wait_1k.est",
+      "value": 4.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.freq.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_wait_1k.lo",
+      "value": 3.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.freq.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_wait_1k.hi",
+      "value": 4.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.freq100",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_wait_100s.est",
+      "value": 7.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.freq100.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_wait_100s.lo",
+      "value": 6.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.freq100.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_wait_100s.hi",
+      "value": 7.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.fdisc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_disc_1k.est",
+      "value": 9.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.fdisc.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_disc_1k.lo",
+      "value": 9.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.fdisc.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_disc_1k.hi",
+      "value": 10.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.si",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SI.est",
+      "value": 92.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.si.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SI.lo",
+      "value": 91.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.si.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SI.hi",
+      "value": 93.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.si.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.n_wait",
+      "value": 6893
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.siconn",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SI_conn.est",
+      "value": 96.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.siconn.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SI_conn.lo",
+      "value": 96.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.siconn.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SI_conn.hi",
+      "value": 97.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.siconn.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.n_wait",
+      "value": 6893
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.pi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.PI.est",
+      "value": 37.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.pi.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.PI.lo",
+      "value": 35.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.pi.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.PI.hi",
+      "value": 39.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.orth",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.ORTH.est",
+      "value": 91.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.orth.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.ORTH.lo",
+      "value": 90.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.orth.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.ORTH.hi",
+      "value": 92.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.orth.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.n_wait",
+      "value": 6893
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.orthmax",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.ORTH_max.est",
+      "value": 91.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.orthmax.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.ORTH_max.lo",
+      "value": 90.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.orthmax.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.ORTH_max.hi",
+      "value": 92.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.orthmax.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.n_wait",
+      "value": 6893
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.commadrop",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.COMMA_DROP.est",
+      "value": 2.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.commadrop.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.COMMA_DROP.lo",
+      "value": 1.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.commadrop.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.COMMA_DROP.hi",
+      "value": 2.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.commadrop.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.n_wait",
+      "value": 6893
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.chain",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CHAIN_RUNS_1k.est",
+      "value": 94.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.chain.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CHAIN_RUNS_1k.lo",
+      "value": 86.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.chain.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CHAIN_RUNS_1k.hi",
+      "value": 102.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.chainshare",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CHAIN.est",
+      "value": 11.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.chainshare.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CHAIN.lo",
+      "value": 10.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.chainshare.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CHAIN.hi",
+      "value": 12.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.neff",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.N_eff.est",
+      "value": 6.27
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.neff.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.N_eff.lo",
+      "value": 5.95
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.neff.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.N_eff.hi",
+      "value": 6.51
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.sharewait",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SHARE_wait.est",
+      "value": 28.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.sharewait.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SHARE_wait.lo",
+      "value": 26.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.sharewait.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SHARE_wait.hi",
+      "value": 31.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.obl",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.OBL.est",
+      "value": 52.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.obl.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.OBL.lo",
+      "value": 49.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.obl.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.OBL.hi",
+      "value": 55.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.obl.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.n_R",
+      "value": 1681
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.rel",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.REL.est",
+      "value": 8.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.rel.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.REL.lo",
+      "value": 7.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.rel.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.REL.hi",
+      "value": 9.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.rel.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.n_M",
+      "value": 16138
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.eros",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.EROS.est",
+      "value": 24.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.eros.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.EROS.lo",
+      "value": 21.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.eros.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.EROS.hi",
+      "value": 28.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.sentlen",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SENTLEN_init.est",
+      "value": 11.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.sentlen.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SENTLEN_init.lo",
+      "value": 10.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.sentlen.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SENTLEN_init.hi",
+      "value": 11.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.ctx",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CTX.est",
+      "value": 1.13
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.ctx.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CTX.lo",
+      "value": 1.11
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.ctx.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CTX.hi",
+      "value": 1.15
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.lex",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.LEX_share.est",
+      "value": 0.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.lex.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.LEX_share.lo",
+      "value": 0.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.lex.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.LEX_share.hi",
+      "value": 0.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.revrate",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.R_per_100s.est",
+      "value": 1.75
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.revrate.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.R_per_100s.lo",
+      "value": 1.55
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.revrate.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.R_per_100s.hi",
+      "value": 1.97
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.toks",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.tokens_per_resp.est",
+      "value": 1726
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.toks.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.tokens_per_resp.lo",
+      "value": 1567
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.toks.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.tokens_per_resp.hi",
+      "value": 1886
+    },
+    {
+      "key": "n.fork_ref1m.step0100.resp",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.n_samples",
+      "value": 1000
+    },
+    {
+      "key": "ctl.fork_ref1m.step0100.acc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.acc",
+      "value": 84.0
+    },
+    {
+      "key": "ctl.fork_ref1m.step0100.trunc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.truncated",
+      "value": 4.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.freq",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_wait_1k.est",
+      "value": 4.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.freq.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_wait_1k.lo",
+      "value": 4.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.freq.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_wait_1k.hi",
+      "value": 4.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.freq100",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_wait_100s.est",
+      "value": 7.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.freq100.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_wait_100s.lo",
+      "value": 7.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.freq100.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_wait_100s.hi",
+      "value": 7.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.fdisc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_disc_1k.est",
+      "value": 10.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.fdisc.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_disc_1k.lo",
+      "value": 9.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.fdisc.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_disc_1k.hi",
+      "value": 10.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.si",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SI.est",
+      "value": 93.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.si.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SI.lo",
+      "value": 92.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.si.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SI.hi",
+      "value": 94.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.si.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.n_wait",
+      "value": 6498
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.siconn",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SI_conn.est",
+      "value": 96.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.siconn.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SI_conn.lo",
+      "value": 96.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.siconn.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SI_conn.hi",
+      "value": 97.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.siconn.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.n_wait",
+      "value": 6498
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.pi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.PI.est",
+      "value": 38.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.pi.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.PI.lo",
+      "value": 36.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.pi.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.PI.hi",
+      "value": 40.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.orth",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.ORTH.est",
+      "value": 93.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.orth.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.ORTH.lo",
+      "value": 92.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.orth.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.ORTH.hi",
+      "value": 93.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.orth.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.n_wait",
+      "value": 6498
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.orthmax",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.ORTH_max.est",
+      "value": 93.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.orthmax.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.ORTH_max.lo",
+      "value": 92.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.orthmax.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.ORTH_max.hi",
+      "value": 93.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.orthmax.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.n_wait",
+      "value": 6498
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.commadrop",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.COMMA_DROP.est",
+      "value": 2.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.commadrop.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.COMMA_DROP.lo",
+      "value": 1.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.commadrop.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.COMMA_DROP.hi",
+      "value": 2.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.commadrop.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.n_wait",
+      "value": 6498
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.chain",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CHAIN_RUNS_1k.est",
+      "value": 102.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.chain.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CHAIN_RUNS_1k.lo",
+      "value": 94.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.chain.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CHAIN_RUNS_1k.hi",
+      "value": 110.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.chainshare",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CHAIN.est",
+      "value": 11.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.chainshare.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CHAIN.lo",
+      "value": 10.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.chainshare.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CHAIN.hi",
+      "value": 12.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.neff",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.N_eff.est",
+      "value": 6.33
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.neff.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.N_eff.lo",
+      "value": 5.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.neff.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.N_eff.hi",
+      "value": 6.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.sharewait",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SHARE_wait.est",
+      "value": 31.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.sharewait.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SHARE_wait.lo",
+      "value": 28.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.sharewait.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SHARE_wait.hi",
+      "value": 34.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.obl",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.OBL.est",
+      "value": 49.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.obl.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.OBL.lo",
+      "value": 45.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.obl.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.OBL.hi",
+      "value": 53.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.obl.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.n_R",
+      "value": 1214
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.rel",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.REL.est",
+      "value": 6.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.rel.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.REL.lo",
+      "value": 5.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.rel.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.REL.hi",
+      "value": 7.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.rel.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.n_M",
+      "value": 15027
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.eros",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.EROS.est",
+      "value": 23.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.eros.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.EROS.lo",
+      "value": 20.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.eros.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.EROS.hi",
+      "value": 26.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.sentlen",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SENTLEN_init.est",
+      "value": 10.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.sentlen.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SENTLEN_init.lo",
+      "value": 10.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.sentlen.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SENTLEN_init.hi",
+      "value": 10.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.ctx",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CTX.est",
+      "value": 1.11
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.ctx.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CTX.lo",
+      "value": 1.09
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.ctx.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CTX.hi",
+      "value": 1.13
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.lex",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.LEX_share.est",
+      "value": 0.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.lex.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.LEX_share.lo",
+      "value": 0.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.lex.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.LEX_share.hi",
+      "value": 0.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.revrate",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.R_per_100s.est",
+      "value": 1.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.revrate.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.R_per_100s.lo",
+      "value": 1.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.revrate.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.R_per_100s.hi",
+      "value": 1.62
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.toks",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.tokens_per_resp.est",
+      "value": 1514
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.toks.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.tokens_per_resp.lo",
+      "value": 1378
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.toks.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.tokens_per_resp.hi",
+      "value": 1647
+    },
+    {
+      "key": "n.fork_ref1m.step0200.resp",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.n_samples",
+      "value": 1000
+    },
+    {
+      "key": "ctl.fork_ref1m.step0200.acc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.acc",
+      "value": 85.4
+    },
+    {
+      "key": "ctl.fork_ref1m.step0200.trunc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.truncated",
+      "value": 1.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.freq",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_wait_1k.est",
+      "value": 4.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.freq.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_wait_1k.lo",
+      "value": 4.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.freq.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_wait_1k.hi",
+      "value": 5.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.freq100",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_wait_100s.est",
+      "value": 8.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.freq100.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_wait_100s.lo",
+      "value": 7.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.freq100.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_wait_100s.hi",
+      "value": 8.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.fdisc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_disc_1k.est",
+      "value": 10.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.fdisc.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_disc_1k.lo",
+      "value": 10.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.fdisc.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_disc_1k.hi",
+      "value": 11.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.si",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SI.est",
+      "value": 92.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.si.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SI.lo",
+      "value": 91.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.si.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SI.hi",
+      "value": 92.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.si.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.n_wait",
+      "value": 7397
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.siconn",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SI_conn.est",
+      "value": 96.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.siconn.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SI_conn.lo",
+      "value": 95.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.siconn.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SI_conn.hi",
+      "value": 96.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.siconn.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.n_wait",
+      "value": 7397
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.pi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.PI.est",
+      "value": 40.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.pi.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.PI.lo",
+      "value": 38.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.pi.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.PI.hi",
+      "value": 41.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.orth",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.ORTH.est",
+      "value": 90.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.orth.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.ORTH.lo",
+      "value": 89.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.orth.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.ORTH.hi",
+      "value": 91.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.orth.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.n_wait",
+      "value": 7397
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.orthmax",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.ORTH_max.est",
+      "value": 90.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.orthmax.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.ORTH_max.lo",
+      "value": 89.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.orthmax.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.ORTH_max.hi",
+      "value": 91.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.orthmax.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.n_wait",
+      "value": 7397
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.commadrop",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.COMMA_DROP.est",
+      "value": 3.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.commadrop.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.COMMA_DROP.lo",
+      "value": 2.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.commadrop.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.COMMA_DROP.hi",
+      "value": 4.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.commadrop.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.n_wait",
+      "value": 7397
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.chain",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CHAIN_RUNS_1k.est",
+      "value": 112.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.chain.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CHAIN_RUNS_1k.lo",
+      "value": 103.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.chain.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CHAIN_RUNS_1k.hi",
+      "value": 121.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.chainshare",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CHAIN.est",
+      "value": 13.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.chainshare.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CHAIN.lo",
+      "value": 12.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.chainshare.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CHAIN.hi",
+      "value": 14.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.neff",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.N_eff.est",
+      "value": 6.18
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.neff.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.N_eff.lo",
+      "value": 5.75
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.neff.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.N_eff.hi",
+      "value": 6.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.sharewait",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SHARE_wait.est",
+      "value": 32.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.sharewait.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SHARE_wait.lo",
+      "value": 29.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.sharewait.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SHARE_wait.hi",
+      "value": 35.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.obl",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.OBL.est",
+      "value": 51.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.obl.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.OBL.lo",
+      "value": 46.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.obl.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.OBL.hi",
+      "value": 55.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.obl.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.n_R",
+      "value": 1210
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.rel",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.REL.est",
+      "value": 6.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.rel.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.REL.lo",
+      "value": 5.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.rel.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.REL.hi",
+      "value": 7.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.rel.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.n_M",
+      "value": 15586
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.eros",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.EROS.est",
+      "value": 21.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.eros.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.EROS.lo",
+      "value": 18.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.eros.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.EROS.hi",
+      "value": 23.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.sentlen",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SENTLEN_init.est",
+      "value": 10.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.sentlen.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SENTLEN_init.lo",
+      "value": 10.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.sentlen.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SENTLEN_init.hi",
+      "value": 10.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.ctx",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CTX.est",
+      "value": 1.16
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.ctx.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CTX.lo",
+      "value": 1.13
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.ctx.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CTX.hi",
+      "value": 1.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.lex",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.LEX_share.est",
+      "value": 0.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.lex.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.LEX_share.lo",
+      "value": 0.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.lex.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.LEX_share.hi",
+      "value": 0.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.revrate",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.R_per_100s.est",
+      "value": 1.35
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.revrate.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.R_per_100s.lo",
+      "value": 1.17
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.revrate.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.R_per_100s.hi",
+      "value": 1.55
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.toks",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.tokens_per_resp.est",
+      "value": 1531
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.toks.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.tokens_per_resp.lo",
+      "value": 1416
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.toks.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.tokens_per_resp.hi",
+      "value": 1648
+    },
+    {
+      "key": "n.fork_ref1m.step0300.resp",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.n_samples",
+      "value": 1000
+    },
+    {
+      "key": "ctl.fork_ref1m.step0300.acc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.acc",
+      "value": 85.7
+    },
+    {
+      "key": "ctl.fork_ref1m.step0300.trunc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.truncated",
+      "value": 0.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.freq",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.FREQ_wait_1k.est",
+      "value": 4.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.freq.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.FREQ_wait_1k.lo",
+      "value": 4.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.freq.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.FREQ_wait_1k.hi",
+      "value": 5.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.freq100",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.FREQ_wait_100s.est",
+      "value": 8.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.freq100.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.FREQ_wait_100s.lo",
+      "value": 7.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.freq100.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.FREQ_wait_100s.hi",
+      "value": 8.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.fdisc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.FREQ_disc_1k.est",
+      "value": 10.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.fdisc.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.FREQ_disc_1k.lo",
+      "value": 10.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.fdisc.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.FREQ_disc_1k.hi",
+      "value": 10.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.si",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.SI.est",
+      "value": 92.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.si.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.SI.lo",
+      "value": 91.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.si.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.SI.hi",
+      "value": 93.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.si.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.n_wait",
+      "value": 7863
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.siconn",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.SI_conn.est",
+      "value": 96.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.siconn.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.SI_conn.lo",
+      "value": 95.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.siconn.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.SI_conn.hi",
+      "value": 96.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.siconn.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.n_wait",
+      "value": 7863
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.pi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.PI.est",
+      "value": 36.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.pi.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.PI.lo",
+      "value": 35.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.pi.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.PI.hi",
+      "value": 38.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.orth",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.ORTH.est",
+      "value": 91.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.orth.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.ORTH.lo",
+      "value": 91.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.orth.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.ORTH.hi",
+      "value": 92.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.orth.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.n_wait",
+      "value": 7863
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.orthmax",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.ORTH_max.est",
+      "value": 91.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.orthmax.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.ORTH_max.lo",
+      "value": 91.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.orthmax.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.ORTH_max.hi",
+      "value": 92.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.orthmax.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.n_wait",
+      "value": 7863
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.commadrop",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.COMMA_DROP.est",
+      "value": 2.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.commadrop.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.COMMA_DROP.lo",
+      "value": 2.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.commadrop.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.COMMA_DROP.hi",
+      "value": 3.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.commadrop.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.n_wait",
+      "value": 7863
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.chain",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.CHAIN_RUNS_1k.est",
+      "value": 98.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.chain.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.CHAIN_RUNS_1k.lo",
+      "value": 91.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.chain.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.CHAIN_RUNS_1k.hi",
+      "value": 106.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.chainshare",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.CHAIN.est",
+      "value": 11.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.chainshare.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.CHAIN.lo",
+      "value": 10.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.chainshare.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.CHAIN.hi",
+      "value": 12.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.neff",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.N_eff.est",
+      "value": 6.13
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.neff.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.N_eff.lo",
+      "value": 5.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.neff.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.N_eff.hi",
+      "value": 6.41
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.sharewait",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.SHARE_wait.est",
+      "value": 29.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.sharewait.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.SHARE_wait.lo",
+      "value": 27.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.sharewait.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.SHARE_wait.hi",
+      "value": 31.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.obl",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.OBL.est",
+      "value": 48.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.obl.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.OBL.lo",
+      "value": 44.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.obl.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.OBL.hi",
+      "value": 52.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.obl.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.n_R",
+      "value": 1223
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.rel",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.REL.est",
+      "value": 5.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.rel.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.REL.lo",
+      "value": 5.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.rel.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.REL.hi",
+      "value": 6.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.rel.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.n_M",
+      "value": 16445
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.eros",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.EROS.est",
+      "value": 22.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.eros.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.EROS.lo",
+      "value": 19.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.eros.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.EROS.hi",
+      "value": 24.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.sentlen",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.SENTLEN_init.est",
+      "value": 10.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.sentlen.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.SENTLEN_init.lo",
+      "value": 10.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.sentlen.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.SENTLEN_init.hi",
+      "value": 11.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.ctx",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.CTX.est",
+      "value": 1.11
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.ctx.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.CTX.lo",
+      "value": 1.09
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.ctx.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.CTX.hi",
+      "value": 1.13
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.lex",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.LEX_share.est",
+      "value": 0.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.lex.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.LEX_share.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.lex.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.LEX_share.hi",
+      "value": 1.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.revrate",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.R_per_100s.est",
+      "value": 1.27
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.revrate.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.R_per_100s.lo",
+      "value": 1.12
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.revrate.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.R_per_100s.hi",
+      "value": 1.44
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.toks",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.tokens_per_resp.est",
+      "value": 1664
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.toks.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.tokens_per_resp.lo",
+      "value": 1542
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.toks.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.indices.tokens_per_resp.hi",
+      "value": 1787
+    },
+    {
+      "key": "n.fork_ref1m.step0350.resp",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.n_samples",
+      "value": 1000
+    },
+    {
+      "key": "ctl.fork_ref1m.step0350.acc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.acc",
+      "value": 85.3
+    },
+    {
+      "key": "ctl.fork_ref1m.step0350.trunc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.350.truncated",
+      "value": 0.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.freq",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_wait_1k.est",
+      "value": 4.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.freq.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_wait_1k.lo",
+      "value": 4.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.freq.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_wait_1k.hi",
+      "value": 5.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.freq100",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_wait_100s.est",
+      "value": 8.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.freq100.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_wait_100s.lo",
+      "value": 8.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.freq100.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_wait_100s.hi",
+      "value": 8.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.fdisc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_disc_1k.est",
+      "value": 10.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.fdisc.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_disc_1k.lo",
+      "value": 10.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.fdisc.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_disc_1k.hi",
+      "value": 11.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.si",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SI.est",
+      "value": 92.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.si.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SI.lo",
+      "value": 91.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.si.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SI.hi",
+      "value": 92.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.si.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.n_wait",
+      "value": 7924
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.siconn",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SI_conn.est",
+      "value": 96.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.siconn.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SI_conn.lo",
+      "value": 96.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.siconn.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SI_conn.hi",
+      "value": 96.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.siconn.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.n_wait",
+      "value": 7924
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.pi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.PI.est",
+      "value": 36.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.pi.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.PI.lo",
+      "value": 35.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.pi.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.PI.hi",
+      "value": 38.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.orth",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.ORTH.est",
+      "value": 91.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.orth.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.ORTH.lo",
+      "value": 90.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.orth.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.ORTH.hi",
+      "value": 92.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.orth.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.n_wait",
+      "value": 7924
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.orthmax",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.ORTH_max.est",
+      "value": 91.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.orthmax.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.ORTH_max.lo",
+      "value": 90.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.orthmax.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.ORTH_max.hi",
+      "value": 92.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.orthmax.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.n_wait",
+      "value": 7924
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.commadrop",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.COMMA_DROP.est",
+      "value": 2.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.commadrop.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.COMMA_DROP.lo",
+      "value": 2.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.commadrop.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.COMMA_DROP.hi",
+      "value": 2.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.commadrop.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.n_wait",
+      "value": 7924
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.chain",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CHAIN_RUNS_1k.est",
+      "value": 89.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.chain.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CHAIN_RUNS_1k.lo",
+      "value": 81.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.chain.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CHAIN_RUNS_1k.hi",
+      "value": 96.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.chainshare",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CHAIN.est",
+      "value": 10.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.chainshare.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CHAIN.lo",
+      "value": 9.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.chainshare.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CHAIN.hi",
+      "value": 11.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.neff",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.N_eff.est",
+      "value": 6.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.neff.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.N_eff.lo",
+      "value": 6.05
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.neff.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.N_eff.hi",
+      "value": 6.67
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.sharewait",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SHARE_wait.est",
+      "value": 28.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.sharewait.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SHARE_wait.lo",
+      "value": 26.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.sharewait.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SHARE_wait.hi",
+      "value": 31.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.obl",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.OBL.est",
+      "value": 51.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.obl.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.OBL.lo",
+      "value": 47.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.obl.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.OBL.hi",
+      "value": 55.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.obl.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.n_R",
+      "value": 1166
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.rel",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.REL.est",
+      "value": 5.7
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.rel.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.REL.lo",
+      "value": 4.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.rel.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.REL.hi",
+      "value": 6.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.rel.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.n_M",
+      "value": 16585
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.eros",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.EROS.est",
+      "value": 22.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.eros.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.EROS.lo",
+      "value": 20.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.eros.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.EROS.hi",
+      "value": 24.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.sentlen",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SENTLEN_init.est",
+      "value": 11.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.sentlen.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SENTLEN_init.lo",
+      "value": 11.3
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.sentlen.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SENTLEN_init.hi",
+      "value": 11.8
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.ctx",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CTX.est",
+      "value": 1.14
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.ctx.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CTX.lo",
+      "value": 1.12
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.ctx.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CTX.hi",
+      "value": 1.16
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.lex",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.LEX_share.est",
+      "value": 0.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.lex.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.LEX_share.lo",
+      "value": 0.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.lex.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.LEX_share.hi",
+      "value": 0.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.revrate",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.R_per_100s.est",
+      "value": 1.24
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.revrate.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.R_per_100s.lo",
+      "value": 1.08
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.revrate.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.R_per_100s.hi",
+      "value": 1.42
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.toks",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.tokens_per_resp.est",
+      "value": 1648
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.toks.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.tokens_per_resp.lo",
+      "value": 1544
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.toks.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.tokens_per_resp.hi",
+      "value": 1756
+    },
+    {
+      "key": "n.fork_ref1m.step0400.resp",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.n_samples",
+      "value": 1000
+    },
+    {
+      "key": "ctl.fork_ref1m.step0400.acc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.acc",
+      "value": 86.1
+    },
+    {
+      "key": "ctl.fork_ref1m.step0400.trunc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.truncated",
+      "value": 0.3
+    },
+    {
+      "key": "n.fork_ref1m.ckpts",
+      "src": "exp/rl/results/.../matched/idx::checkpoints",
+      "value": 6
+    },
+    {
+      "key": "h1.fork_b0m.base.freq",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_wait_1k.est",
+      "value": 4.9
+    },
+    {
+      "key": "h1.fork_b0m.base.freq.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_wait_1k.lo",
+      "value": 4.6
+    },
+    {
+      "key": "h1.fork_b0m.base.freq.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_wait_1k.hi",
+      "value": 5.3
+    },
+    {
+      "key": "h1.fork_b0m.base.freq100",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_wait_100s.est",
+      "value": 9.2
+    },
+    {
+      "key": "h1.fork_b0m.base.freq100.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_wait_100s.lo",
+      "value": 8.6
+    },
+    {
+      "key": "h1.fork_b0m.base.freq100.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_wait_100s.hi",
+      "value": 9.7
+    },
+    {
+      "key": "h1.fork_b0m.base.fdisc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_disc_1k.est",
+      "value": 11.3
+    },
+    {
+      "key": "h1.fork_b0m.base.fdisc.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_disc_1k.lo",
+      "value": 10.7
+    },
+    {
+      "key": "h1.fork_b0m.base.fdisc.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.FREQ_disc_1k.hi",
+      "value": 11.8
+    },
+    {
+      "key": "h1.fork_b0m.base.si",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SI.est",
+      "value": 89.6
+    },
+    {
+      "key": "h1.fork_b0m.base.si.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SI.lo",
+      "value": 88.7
+    },
+    {
+      "key": "h1.fork_b0m.base.si.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SI.hi",
+      "value": 90.5
+    },
+    {
+      "key": "h1.fork_b0m.base.si.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.n_wait",
+      "value": 11164
+    },
+    {
+      "key": "h1.fork_b0m.base.siconn",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SI_conn.est",
+      "value": 95.3
+    },
+    {
+      "key": "h1.fork_b0m.base.siconn.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SI_conn.lo",
+      "value": 94.8
+    },
+    {
+      "key": "h1.fork_b0m.base.siconn.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SI_conn.hi",
+      "value": 95.8
+    },
+    {
+      "key": "h1.fork_b0m.base.siconn.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.n_wait",
+      "value": 11164
+    },
+    {
+      "key": "h1.fork_b0m.base.pi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.PI.est",
+      "value": 34.9
+    },
+    {
+      "key": "h1.fork_b0m.base.pi.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.PI.lo",
+      "value": 33.2
+    },
+    {
+      "key": "h1.fork_b0m.base.pi.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.PI.hi",
+      "value": 36.6
+    },
+    {
+      "key": "h1.fork_b0m.base.orth",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.ORTH.est",
+      "value": 88.9
+    },
+    {
+      "key": "h1.fork_b0m.base.orth.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.ORTH.lo",
+      "value": 87.9
+    },
+    {
+      "key": "h1.fork_b0m.base.orth.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.ORTH.hi",
+      "value": 89.8
+    },
+    {
+      "key": "h1.fork_b0m.base.orth.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.n_wait",
+      "value": 11164
+    },
+    {
+      "key": "h1.fork_b0m.base.orthmax",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.ORTH_max.est",
+      "value": 88.9
+    },
+    {
+      "key": "h1.fork_b0m.base.orthmax.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.ORTH_max.lo",
+      "value": 87.9
+    },
+    {
+      "key": "h1.fork_b0m.base.orthmax.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.ORTH_max.hi",
+      "value": 89.8
+    },
+    {
+      "key": "h1.fork_b0m.base.orthmax.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.n_wait",
+      "value": 11164
+    },
+    {
+      "key": "h1.fork_b0m.base.commadrop",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.COMMA_DROP.est",
+      "value": 2.7
+    },
+    {
+      "key": "h1.fork_b0m.base.commadrop.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.COMMA_DROP.lo",
+      "value": 2.3
+    },
+    {
+      "key": "h1.fork_b0m.base.commadrop.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.COMMA_DROP.hi",
+      "value": 3.2
+    },
+    {
+      "key": "h1.fork_b0m.base.commadrop.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.n_wait",
+      "value": 11164
+    },
+    {
+      "key": "h1.fork_b0m.base.chain",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CHAIN_RUNS_1k.est",
+      "value": 117.6
+    },
+    {
+      "key": "h1.fork_b0m.base.chain.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CHAIN_RUNS_1k.lo",
+      "value": 108.8
+    },
+    {
+      "key": "h1.fork_b0m.base.chain.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CHAIN_RUNS_1k.hi",
+      "value": 126.5
+    },
+    {
+      "key": "h1.fork_b0m.base.chainshare",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CHAIN.est",
+      "value": 14.5
+    },
+    {
+      "key": "h1.fork_b0m.base.chainshare.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CHAIN.lo",
+      "value": 13.3
+    },
+    {
+      "key": "h1.fork_b0m.base.chainshare.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CHAIN.hi",
+      "value": 15.6
+    },
+    {
+      "key": "h1.fork_b0m.base.neff",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.N_eff.est",
+      "value": 6.05
+    },
+    {
+      "key": "h1.fork_b0m.base.neff.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.N_eff.lo",
+      "value": 5.76
+    },
+    {
+      "key": "h1.fork_b0m.base.neff.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.N_eff.hi",
+      "value": 6.3
+    },
+    {
+      "key": "h1.fork_b0m.base.sharewait",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SHARE_wait.est",
+      "value": 31.2
+    },
+    {
+      "key": "h1.fork_b0m.base.sharewait.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SHARE_wait.lo",
+      "value": 29.0
+    },
+    {
+      "key": "h1.fork_b0m.base.sharewait.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SHARE_wait.hi",
+      "value": 33.5
+    },
+    {
+      "key": "h1.fork_b0m.base.obl",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.OBL.est",
+      "value": 54.5
+    },
+    {
+      "key": "h1.fork_b0m.base.obl.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.OBL.lo",
+      "value": 51.7
+    },
+    {
+      "key": "h1.fork_b0m.base.obl.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.OBL.hi",
+      "value": 57.3
+    },
+    {
+      "key": "h1.fork_b0m.base.obl.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.n_R",
+      "value": 2928
+    },
+    {
+      "key": "h1.fork_b0m.base.rel",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.REL.est",
+      "value": 10.3
+    },
+    {
+      "key": "h1.fork_b0m.base.rel.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.REL.lo",
+      "value": 9.2
+    },
+    {
+      "key": "h1.fork_b0m.base.rel.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.REL.hi",
+      "value": 11.5
+    },
+    {
+      "key": "h1.fork_b0m.base.rel.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.n_M",
+      "value": 23922
+    },
+    {
+      "key": "h1.fork_b0m.base.eros",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.EROS.est",
+      "value": 25.9
+    },
+    {
+      "key": "h1.fork_b0m.base.eros.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.EROS.lo",
+      "value": 22.4
+    },
+    {
+      "key": "h1.fork_b0m.base.eros.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.EROS.hi",
+      "value": 29.5
+    },
+    {
+      "key": "h1.fork_b0m.base.sentlen",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SENTLEN_init.est",
+      "value": 11.8
+    },
+    {
+      "key": "h1.fork_b0m.base.sentlen.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SENTLEN_init.lo",
+      "value": 11.4
+    },
+    {
+      "key": "h1.fork_b0m.base.sentlen.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.SENTLEN_init.hi",
+      "value": 12.1
+    },
+    {
+      "key": "h1.fork_b0m.base.ctx",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CTX.est",
+      "value": 1.15
+    },
+    {
+      "key": "h1.fork_b0m.base.ctx.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CTX.lo",
+      "value": 1.13
+    },
+    {
+      "key": "h1.fork_b0m.base.ctx.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.CTX.hi",
+      "value": 1.17
+    },
+    {
+      "key": "h1.fork_b0m.base.lex",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.LEX_share.est",
+      "value": 0.8
+    },
+    {
+      "key": "h1.fork_b0m.base.lex.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.LEX_share.lo",
+      "value": 0.5
+    },
+    {
+      "key": "h1.fork_b0m.base.lex.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.LEX_share.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h1.fork_b0m.base.revrate",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.R_per_100s.est",
+      "value": 2.41
+    },
+    {
+      "key": "h1.fork_b0m.base.revrate.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.R_per_100s.lo",
+      "value": 2.15
+    },
+    {
+      "key": "h1.fork_b0m.base.revrate.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.R_per_100s.hi",
+      "value": 2.67
+    },
+    {
+      "key": "h1.fork_b0m.base.toks",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.tokens_per_resp.est",
+      "value": 2259
+    },
+    {
+      "key": "h1.fork_b0m.base.toks.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.tokens_per_resp.lo",
+      "value": 2072
+    },
+    {
+      "key": "h1.fork_b0m.base.toks.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.indices.tokens_per_resp.hi",
+      "value": 2450
+    },
+    {
+      "key": "n.fork_b0m.base.resp",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.n_samples",
+      "value": 1000
+    },
+    {
+      "key": "ctl.fork_b0m.base.acc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.acc",
+      "value": 51.2
+    },
+    {
+      "key": "ctl.fork_b0m.base.trunc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.base.truncated",
+      "value": 10.5
+    },
+    {
+      "key": "h1.fork_b0m.step0020.freq",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.FREQ_wait_1k.est",
+      "value": 5.1
+    },
+    {
+      "key": "h1.fork_b0m.step0020.freq.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.FREQ_wait_1k.lo",
+      "value": 4.9
+    },
+    {
+      "key": "h1.fork_b0m.step0020.freq.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.FREQ_wait_1k.hi",
+      "value": 5.3
+    },
+    {
+      "key": "h1.fork_b0m.step0020.freq100",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.FREQ_wait_100s.est",
+      "value": 9.2
+    },
+    {
+      "key": "h1.fork_b0m.step0020.freq100.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.FREQ_wait_100s.lo",
+      "value": 8.8
+    },
+    {
+      "key": "h1.fork_b0m.step0020.freq100.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.FREQ_wait_100s.hi",
+      "value": 9.6
+    },
+    {
+      "key": "h1.fork_b0m.step0020.fdisc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.FREQ_disc_1k.est",
+      "value": 11.4
+    },
+    {
+      "key": "h1.fork_b0m.step0020.fdisc.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.FREQ_disc_1k.lo",
+      "value": 11.0
+    },
+    {
+      "key": "h1.fork_b0m.step0020.fdisc.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.FREQ_disc_1k.hi",
+      "value": 11.8
+    },
+    {
+      "key": "h1.fork_b0m.step0020.si",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.SI.est",
+      "value": 89.5
+    },
+    {
+      "key": "h1.fork_b0m.step0020.si.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.SI.lo",
+      "value": 88.7
+    },
+    {
+      "key": "h1.fork_b0m.step0020.si.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.SI.hi",
+      "value": 90.3
+    },
+    {
+      "key": "h1.fork_b0m.step0020.si.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.n_wait",
+      "value": 14150
+    },
+    {
+      "key": "h1.fork_b0m.step0020.siconn",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.SI_conn.est",
+      "value": 95.2
+    },
+    {
+      "key": "h1.fork_b0m.step0020.siconn.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.SI_conn.lo",
+      "value": 94.7
+    },
+    {
+      "key": "h1.fork_b0m.step0020.siconn.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.SI_conn.hi",
+      "value": 95.6
+    },
+    {
+      "key": "h1.fork_b0m.step0020.siconn.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.n_wait",
+      "value": 14150
+    },
+    {
+      "key": "h1.fork_b0m.step0020.pi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.PI.est",
+      "value": 34.9
+    },
+    {
+      "key": "h1.fork_b0m.step0020.pi.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.PI.lo",
+      "value": 33.4
+    },
+    {
+      "key": "h1.fork_b0m.step0020.pi.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.PI.hi",
+      "value": 36.3
+    },
+    {
+      "key": "h1.fork_b0m.step0020.orth",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.ORTH.est",
+      "value": 88.8
+    },
+    {
+      "key": "h1.fork_b0m.step0020.orth.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.ORTH.lo",
+      "value": 87.9
+    },
+    {
+      "key": "h1.fork_b0m.step0020.orth.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.ORTH.hi",
+      "value": 89.6
+    },
+    {
+      "key": "h1.fork_b0m.step0020.orth.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.n_wait",
+      "value": 14150
+    },
+    {
+      "key": "h1.fork_b0m.step0020.orthmax",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.ORTH_max.est",
+      "value": 88.8
+    },
+    {
+      "key": "h1.fork_b0m.step0020.orthmax.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.ORTH_max.lo",
+      "value": 87.9
+    },
+    {
+      "key": "h1.fork_b0m.step0020.orthmax.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.ORTH_max.hi",
+      "value": 89.6
+    },
+    {
+      "key": "h1.fork_b0m.step0020.orthmax.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.n_wait",
+      "value": 14150
+    },
+    {
+      "key": "h1.fork_b0m.step0020.commadrop",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.COMMA_DROP.est",
+      "value": 2.8
+    },
+    {
+      "key": "h1.fork_b0m.step0020.commadrop.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.COMMA_DROP.lo",
+      "value": 2.4
+    },
+    {
+      "key": "h1.fork_b0m.step0020.commadrop.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.COMMA_DROP.hi",
+      "value": 3.1
+    },
+    {
+      "key": "h1.fork_b0m.step0020.commadrop.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.n_wait",
+      "value": 14150
+    },
+    {
+      "key": "h1.fork_b0m.step0020.chain",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.CHAIN_RUNS_1k.est",
+      "value": 117.7
+    },
+    {
+      "key": "h1.fork_b0m.step0020.chain.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.CHAIN_RUNS_1k.lo",
+      "value": 111.8
+    },
+    {
+      "key": "h1.fork_b0m.step0020.chain.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.CHAIN_RUNS_1k.hi",
+      "value": 123.1
+    },
+    {
+      "key": "h1.fork_b0m.step0020.chainshare",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.CHAIN.est",
+      "value": 14.1
+    },
+    {
+      "key": "h1.fork_b0m.step0020.chainshare.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.CHAIN.lo",
+      "value": 13.3
+    },
+    {
+      "key": "h1.fork_b0m.step0020.chainshare.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.CHAIN.hi",
+      "value": 14.9
+    },
+    {
+      "key": "h1.fork_b0m.step0020.neff",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.N_eff.est",
+      "value": 5.8
+    },
+    {
+      "key": "h1.fork_b0m.step0020.neff.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.N_eff.lo",
+      "value": 5.59
+    },
+    {
+      "key": "h1.fork_b0m.step0020.neff.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.N_eff.hi",
+      "value": 6.0
+    },
+    {
+      "key": "h1.fork_b0m.step0020.sharewait",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.SHARE_wait.est",
+      "value": 32.5
+    },
+    {
+      "key": "h1.fork_b0m.step0020.sharewait.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.SHARE_wait.lo",
+      "value": 30.7
+    },
+    {
+      "key": "h1.fork_b0m.step0020.sharewait.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.SHARE_wait.hi",
+      "value": 34.3
+    },
+    {
+      "key": "h1.fork_b0m.step0020.obl",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.OBL.est",
+      "value": 55.7
+    },
+    {
+      "key": "h1.fork_b0m.step0020.obl.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.OBL.lo",
+      "value": 53.3
+    },
+    {
+      "key": "h1.fork_b0m.step0020.obl.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.OBL.hi",
+      "value": 58.3
+    },
+    {
+      "key": "h1.fork_b0m.step0020.obl.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.n_R",
+      "value": 3580
+    },
+    {
+      "key": "h1.fork_b0m.step0020.rel",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.REL.est",
+      "value": 10.1
+    },
+    {
+      "key": "h1.fork_b0m.step0020.rel.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.REL.lo",
+      "value": 9.1
+    },
+    {
+      "key": "h1.fork_b0m.step0020.rel.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.REL.hi",
+      "value": 11.0
+    },
+    {
+      "key": "h1.fork_b0m.step0020.rel.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.n_M",
+      "value": 29628
+    },
+    {
+      "key": "h1.fork_b0m.step0020.eros",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.EROS.est",
+      "value": 26.7
+    },
+    {
+      "key": "h1.fork_b0m.step0020.eros.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.EROS.lo",
+      "value": 22.6
+    },
+    {
+      "key": "h1.fork_b0m.step0020.eros.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.EROS.hi",
+      "value": 31.5
+    },
+    {
+      "key": "h1.fork_b0m.step0020.sentlen",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.SENTLEN_init.est",
+      "value": 11.6
+    },
+    {
+      "key": "h1.fork_b0m.step0020.sentlen.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.SENTLEN_init.lo",
+      "value": 11.4
+    },
+    {
+      "key": "h1.fork_b0m.step0020.sentlen.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.SENTLEN_init.hi",
+      "value": 11.9
+    },
+    {
+      "key": "h1.fork_b0m.step0020.ctx",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.CTX.est",
+      "value": 1.14
+    },
+    {
+      "key": "h1.fork_b0m.step0020.ctx.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.CTX.lo",
+      "value": 1.12
+    },
+    {
+      "key": "h1.fork_b0m.step0020.ctx.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.CTX.hi",
+      "value": 1.15
+    },
+    {
+      "key": "h1.fork_b0m.step0020.lex",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.LEX_share.est",
+      "value": 0.6
+    },
+    {
+      "key": "h1.fork_b0m.step0020.lex.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.LEX_share.lo",
+      "value": 0.4
+    },
+    {
+      "key": "h1.fork_b0m.step0020.lex.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.LEX_share.hi",
+      "value": 0.8
+    },
+    {
+      "key": "h1.fork_b0m.step0020.revrate",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.R_per_100s.est",
+      "value": 2.33
+    },
+    {
+      "key": "h1.fork_b0m.step0020.revrate.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.R_per_100s.lo",
+      "value": 2.12
+    },
+    {
+      "key": "h1.fork_b0m.step0020.revrate.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.R_per_100s.hi",
+      "value": 2.54
+    },
+    {
+      "key": "h1.fork_b0m.step0020.toks",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.tokens_per_resp.est",
+      "value": 2774
+    },
+    {
+      "key": "h1.fork_b0m.step0020.toks.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.tokens_per_resp.lo",
+      "value": 2566
+    },
+    {
+      "key": "h1.fork_b0m.step0020.toks.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.indices.tokens_per_resp.hi",
+      "value": 3002
+    },
+    {
+      "key": "n.fork_b0m.step0020.resp",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.n_samples",
+      "value": 1000
+    },
+    {
+      "key": "ctl.fork_b0m.step0020.acc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.acc",
+      "value": 79.5
+    },
+    {
+      "key": "ctl.fork_b0m.step0020.trunc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.20.truncated",
+      "value": 12.9
+    },
+    {
+      "key": "h1.fork_b0m.step0100.freq",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_wait_1k.est",
+      "value": 3.6
+    },
+    {
+      "key": "h1.fork_b0m.step0100.freq.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_wait_1k.lo",
+      "value": 3.4
+    },
+    {
+      "key": "h1.fork_b0m.step0100.freq.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_wait_1k.hi",
+      "value": 3.8
+    },
+    {
+      "key": "h1.fork_b0m.step0100.freq100",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_wait_100s.est",
+      "value": 6.7
+    },
+    {
+      "key": "h1.fork_b0m.step0100.freq100.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_wait_100s.lo",
+      "value": 6.3
+    },
+    {
+      "key": "h1.fork_b0m.step0100.freq100.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_wait_100s.hi",
+      "value": 7.0
+    },
+    {
+      "key": "h1.fork_b0m.step0100.fdisc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_disc_1k.est",
+      "value": 8.7
+    },
+    {
+      "key": "h1.fork_b0m.step0100.fdisc.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_disc_1k.lo",
+      "value": 8.3
+    },
+    {
+      "key": "h1.fork_b0m.step0100.fdisc.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.FREQ_disc_1k.hi",
+      "value": 9.2
+    },
+    {
+      "key": "h1.fork_b0m.step0100.si",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SI.est",
+      "value": 90.8
+    },
+    {
+      "key": "h1.fork_b0m.step0100.si.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SI.lo",
+      "value": 89.9
+    },
+    {
+      "key": "h1.fork_b0m.step0100.si.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SI.hi",
+      "value": 91.7
+    },
+    {
+      "key": "h1.fork_b0m.step0100.si.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.n_wait",
+      "value": 6670
+    },
+    {
+      "key": "h1.fork_b0m.step0100.siconn",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SI_conn.est",
+      "value": 95.9
+    },
+    {
+      "key": "h1.fork_b0m.step0100.siconn.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SI_conn.lo",
+      "value": 95.5
+    },
+    {
+      "key": "h1.fork_b0m.step0100.siconn.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SI_conn.hi",
+      "value": 96.4
+    },
+    {
+      "key": "h1.fork_b0m.step0100.siconn.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.n_wait",
+      "value": 6670
+    },
+    {
+      "key": "h1.fork_b0m.step0100.pi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.PI.est",
+      "value": 38.2
+    },
+    {
+      "key": "h1.fork_b0m.step0100.pi.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.PI.lo",
+      "value": 36.2
+    },
+    {
+      "key": "h1.fork_b0m.step0100.pi.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.PI.hi",
+      "value": 40.1
+    },
+    {
+      "key": "h1.fork_b0m.step0100.orth",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.ORTH.est",
+      "value": 90.5
+    },
+    {
+      "key": "h1.fork_b0m.step0100.orth.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.ORTH.lo",
+      "value": 89.7
+    },
+    {
+      "key": "h1.fork_b0m.step0100.orth.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.ORTH.hi",
+      "value": 91.3
+    },
+    {
+      "key": "h1.fork_b0m.step0100.orth.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.n_wait",
+      "value": 6670
+    },
+    {
+      "key": "h1.fork_b0m.step0100.orthmax",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.ORTH_max.est",
+      "value": 90.5
+    },
+    {
+      "key": "h1.fork_b0m.step0100.orthmax.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.ORTH_max.lo",
+      "value": 89.7
+    },
+    {
+      "key": "h1.fork_b0m.step0100.orthmax.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.ORTH_max.hi",
+      "value": 91.3
+    },
+    {
+      "key": "h1.fork_b0m.step0100.orthmax.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.n_wait",
+      "value": 6670
+    },
+    {
+      "key": "h1.fork_b0m.step0100.commadrop",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.COMMA_DROP.est",
+      "value": 1.8
+    },
+    {
+      "key": "h1.fork_b0m.step0100.commadrop.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.COMMA_DROP.lo",
+      "value": 1.4
+    },
+    {
+      "key": "h1.fork_b0m.step0100.commadrop.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.COMMA_DROP.hi",
+      "value": 2.2
+    },
+    {
+      "key": "h1.fork_b0m.step0100.commadrop.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.n_wait",
+      "value": 6670
+    },
+    {
+      "key": "h1.fork_b0m.step0100.chain",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CHAIN_RUNS_1k.est",
+      "value": 98.2
+    },
+    {
+      "key": "h1.fork_b0m.step0100.chain.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CHAIN_RUNS_1k.lo",
+      "value": 90.8
+    },
+    {
+      "key": "h1.fork_b0m.step0100.chain.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CHAIN_RUNS_1k.hi",
+      "value": 105.4
+    },
+    {
+      "key": "h1.fork_b0m.step0100.chainshare",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CHAIN.est",
+      "value": 11.4
+    },
+    {
+      "key": "h1.fork_b0m.step0100.chainshare.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CHAIN.lo",
+      "value": 10.5
+    },
+    {
+      "key": "h1.fork_b0m.step0100.chainshare.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CHAIN.hi",
+      "value": 12.3
+    },
+    {
+      "key": "h1.fork_b0m.step0100.neff",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.N_eff.est",
+      "value": 5.81
+    },
+    {
+      "key": "h1.fork_b0m.step0100.neff.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.N_eff.lo",
+      "value": 5.53
+    },
+    {
+      "key": "h1.fork_b0m.step0100.neff.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.N_eff.hi",
+      "value": 6.04
+    },
+    {
+      "key": "h1.fork_b0m.step0100.sharewait",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SHARE_wait.est",
+      "value": 29.5
+    },
+    {
+      "key": "h1.fork_b0m.step0100.sharewait.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SHARE_wait.lo",
+      "value": 27.1
+    },
+    {
+      "key": "h1.fork_b0m.step0100.sharewait.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SHARE_wait.hi",
+      "value": 32.2
+    },
+    {
+      "key": "h1.fork_b0m.step0100.obl",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.OBL.est",
+      "value": 49.9
+    },
+    {
+      "key": "h1.fork_b0m.step0100.obl.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.OBL.lo",
+      "value": 46.3
+    },
+    {
+      "key": "h1.fork_b0m.step0100.obl.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.OBL.hi",
+      "value": 53.1
+    },
+    {
+      "key": "h1.fork_b0m.step0100.obl.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.n_R",
+      "value": 1823
+    },
+    {
+      "key": "h1.fork_b0m.step0100.rel",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.REL.est",
+      "value": 8.7
+    },
+    {
+      "key": "h1.fork_b0m.step0100.rel.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.REL.lo",
+      "value": 7.6
+    },
+    {
+      "key": "h1.fork_b0m.step0100.rel.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.REL.hi",
+      "value": 10.0
+    },
+    {
+      "key": "h1.fork_b0m.step0100.rel.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.n_M",
+      "value": 15368
+    },
+    {
+      "key": "h1.fork_b0m.step0100.eros",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.EROS.est",
+      "value": 23.9
+    },
+    {
+      "key": "h1.fork_b0m.step0100.eros.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.EROS.lo",
+      "value": 20.9
+    },
+    {
+      "key": "h1.fork_b0m.step0100.eros.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.EROS.hi",
+      "value": 27.0
+    },
+    {
+      "key": "h1.fork_b0m.step0100.sentlen",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SENTLEN_init.est",
+      "value": 11.5
+    },
+    {
+      "key": "h1.fork_b0m.step0100.sentlen.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SENTLEN_init.lo",
+      "value": 11.2
+    },
+    {
+      "key": "h1.fork_b0m.step0100.sentlen.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.SENTLEN_init.hi",
+      "value": 11.9
+    },
+    {
+      "key": "h1.fork_b0m.step0100.ctx",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CTX.est",
+      "value": 1.14
+    },
+    {
+      "key": "h1.fork_b0m.step0100.ctx.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CTX.lo",
+      "value": 1.12
+    },
+    {
+      "key": "h1.fork_b0m.step0100.ctx.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.CTX.hi",
+      "value": 1.17
+    },
+    {
+      "key": "h1.fork_b0m.step0100.lex",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.LEX_share.est",
+      "value": 0.4
+    },
+    {
+      "key": "h1.fork_b0m.step0100.lex.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.LEX_share.lo",
+      "value": 0.2
+    },
+    {
+      "key": "h1.fork_b0m.step0100.lex.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.LEX_share.hi",
+      "value": 0.6
+    },
+    {
+      "key": "h1.fork_b0m.step0100.revrate",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.R_per_100s.est",
+      "value": 1.82
+    },
+    {
+      "key": "h1.fork_b0m.step0100.revrate.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.R_per_100s.lo",
+      "value": 1.58
+    },
+    {
+      "key": "h1.fork_b0m.step0100.revrate.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.R_per_100s.hi",
+      "value": 2.06
+    },
+    {
+      "key": "h1.fork_b0m.step0100.toks",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.tokens_per_resp.est",
+      "value": 1852
+    },
+    {
+      "key": "h1.fork_b0m.step0100.toks.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.tokens_per_resp.lo",
+      "value": 1689
+    },
+    {
+      "key": "h1.fork_b0m.step0100.toks.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.indices.tokens_per_resp.hi",
+      "value": 2009
+    },
+    {
+      "key": "n.fork_b0m.step0100.resp",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.n_samples",
+      "value": 1000
+    },
+    {
+      "key": "ctl.fork_b0m.step0100.acc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.acc",
+      "value": 81.5
+    },
+    {
+      "key": "ctl.fork_b0m.step0100.trunc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.100.truncated",
+      "value": 4.7
+    },
+    {
+      "key": "h1.fork_b0m.step0200.freq",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_wait_1k.est",
+      "value": 4.0
+    },
+    {
+      "key": "h1.fork_b0m.step0200.freq.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_wait_1k.lo",
+      "value": 3.8
+    },
+    {
+      "key": "h1.fork_b0m.step0200.freq.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_wait_1k.hi",
+      "value": 4.3
+    },
+    {
+      "key": "h1.fork_b0m.step0200.freq100",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_wait_100s.est",
+      "value": 7.4
+    },
+    {
+      "key": "h1.fork_b0m.step0200.freq100.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_wait_100s.lo",
+      "value": 6.9
+    },
+    {
+      "key": "h1.fork_b0m.step0200.freq100.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_wait_100s.hi",
+      "value": 7.9
+    },
+    {
+      "key": "h1.fork_b0m.step0200.fdisc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_disc_1k.est",
+      "value": 8.8
+    },
+    {
+      "key": "h1.fork_b0m.step0200.fdisc.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_disc_1k.lo",
+      "value": 8.3
+    },
+    {
+      "key": "h1.fork_b0m.step0200.fdisc.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.FREQ_disc_1k.hi",
+      "value": 9.3
+    },
+    {
+      "key": "h1.fork_b0m.step0200.si",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SI.est",
+      "value": 93.3
+    },
+    {
+      "key": "h1.fork_b0m.step0200.si.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SI.lo",
+      "value": 92.7
+    },
+    {
+      "key": "h1.fork_b0m.step0200.si.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SI.hi",
+      "value": 94.0
+    },
+    {
+      "key": "h1.fork_b0m.step0200.si.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.n_wait",
+      "value": 6863
+    },
+    {
+      "key": "h1.fork_b0m.step0200.siconn",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SI_conn.est",
+      "value": 96.6
+    },
+    {
+      "key": "h1.fork_b0m.step0200.siconn.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SI_conn.lo",
+      "value": 96.2
+    },
+    {
+      "key": "h1.fork_b0m.step0200.siconn.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SI_conn.hi",
+      "value": 97.1
+    },
+    {
+      "key": "h1.fork_b0m.step0200.siconn.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.n_wait",
+      "value": 6863
+    },
+    {
+      "key": "h1.fork_b0m.step0200.pi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.PI.est",
+      "value": 33.9
+    },
+    {
+      "key": "h1.fork_b0m.step0200.pi.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.PI.lo",
+      "value": 32.1
+    },
+    {
+      "key": "h1.fork_b0m.step0200.pi.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.PI.hi",
+      "value": 35.8
+    },
+    {
+      "key": "h1.fork_b0m.step0200.orth",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.ORTH.est",
+      "value": 93.3
+    },
+    {
+      "key": "h1.fork_b0m.step0200.orth.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.ORTH.lo",
+      "value": 92.6
+    },
+    {
+      "key": "h1.fork_b0m.step0200.orth.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.ORTH.hi",
+      "value": 94.0
+    },
+    {
+      "key": "h1.fork_b0m.step0200.orth.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.n_wait",
+      "value": 6863
+    },
+    {
+      "key": "h1.fork_b0m.step0200.orthmax",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.ORTH_max.est",
+      "value": 93.3
+    },
+    {
+      "key": "h1.fork_b0m.step0200.orthmax.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.ORTH_max.lo",
+      "value": 92.6
+    },
+    {
+      "key": "h1.fork_b0m.step0200.orthmax.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.ORTH_max.hi",
+      "value": 94.0
+    },
+    {
+      "key": "h1.fork_b0m.step0200.orthmax.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.n_wait",
+      "value": 6863
+    },
+    {
+      "key": "h1.fork_b0m.step0200.commadrop",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.COMMA_DROP.est",
+      "value": 1.5
+    },
+    {
+      "key": "h1.fork_b0m.step0200.commadrop.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.COMMA_DROP.lo",
+      "value": 1.2
+    },
+    {
+      "key": "h1.fork_b0m.step0200.commadrop.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.COMMA_DROP.hi",
+      "value": 1.9
+    },
+    {
+      "key": "h1.fork_b0m.step0200.commadrop.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.n_wait",
+      "value": 6863
+    },
+    {
+      "key": "h1.fork_b0m.step0200.chain",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CHAIN_RUNS_1k.est",
+      "value": 110.4
+    },
+    {
+      "key": "h1.fork_b0m.step0200.chain.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CHAIN_RUNS_1k.lo",
+      "value": 102.0
+    },
+    {
+      "key": "h1.fork_b0m.step0200.chain.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CHAIN_RUNS_1k.hi",
+      "value": 119.1
+    },
+    {
+      "key": "h1.fork_b0m.step0200.chainshare",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CHAIN.est",
+      "value": 13.1
+    },
+    {
+      "key": "h1.fork_b0m.step0200.chainshare.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CHAIN.lo",
+      "value": 11.8
+    },
+    {
+      "key": "h1.fork_b0m.step0200.chainshare.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CHAIN.hi",
+      "value": 14.5
+    },
+    {
+      "key": "h1.fork_b0m.step0200.neff",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.N_eff.est",
+      "value": 6.0
+    },
+    {
+      "key": "h1.fork_b0m.step0200.neff.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.N_eff.lo",
+      "value": 5.65
+    },
+    {
+      "key": "h1.fork_b0m.step0200.neff.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.N_eff.hi",
+      "value": 6.31
+    },
+    {
+      "key": "h1.fork_b0m.step0200.sharewait",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SHARE_wait.est",
+      "value": 33.6
+    },
+    {
+      "key": "h1.fork_b0m.step0200.sharewait.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SHARE_wait.lo",
+      "value": 30.8
+    },
+    {
+      "key": "h1.fork_b0m.step0200.sharewait.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SHARE_wait.hi",
+      "value": 36.5
+    },
+    {
+      "key": "h1.fork_b0m.step0200.obl",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.OBL.est",
+      "value": 47.8
+    },
+    {
+      "key": "h1.fork_b0m.step0200.obl.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.OBL.lo",
+      "value": 43.4
+    },
+    {
+      "key": "h1.fork_b0m.step0200.obl.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.OBL.hi",
+      "value": 52.1
+    },
+    {
+      "key": "h1.fork_b0m.step0200.obl.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.n_R",
+      "value": 1306
+    },
+    {
+      "key": "h1.fork_b0m.step0200.rel",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.REL.est",
+      "value": 7.1
+    },
+    {
+      "key": "h1.fork_b0m.step0200.rel.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.REL.lo",
+      "value": 6.1
+    },
+    {
+      "key": "h1.fork_b0m.step0200.rel.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.REL.hi",
+      "value": 8.0
+    },
+    {
+      "key": "h1.fork_b0m.step0200.rel.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.n_M",
+      "value": 14297
+    },
+    {
+      "key": "h1.fork_b0m.step0200.eros",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.EROS.est",
+      "value": 24.4
+    },
+    {
+      "key": "h1.fork_b0m.step0200.eros.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.EROS.lo",
+      "value": 21.4
+    },
+    {
+      "key": "h1.fork_b0m.step0200.eros.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.EROS.hi",
+      "value": 27.6
+    },
+    {
+      "key": "h1.fork_b0m.step0200.sentlen",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SENTLEN_init.est",
+      "value": 11.2
+    },
+    {
+      "key": "h1.fork_b0m.step0200.sentlen.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SENTLEN_init.lo",
+      "value": 10.8
+    },
+    {
+      "key": "h1.fork_b0m.step0200.sentlen.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.SENTLEN_init.hi",
+      "value": 11.5
+    },
+    {
+      "key": "h1.fork_b0m.step0200.ctx",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CTX.est",
+      "value": 1.1
+    },
+    {
+      "key": "h1.fork_b0m.step0200.ctx.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CTX.lo",
+      "value": 1.08
+    },
+    {
+      "key": "h1.fork_b0m.step0200.ctx.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.CTX.hi",
+      "value": 1.12
+    },
+    {
+      "key": "h1.fork_b0m.step0200.lex",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.LEX_share.est",
+      "value": 0.7
+    },
+    {
+      "key": "h1.fork_b0m.step0200.lex.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.LEX_share.lo",
+      "value": 0.4
+    },
+    {
+      "key": "h1.fork_b0m.step0200.lex.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.LEX_share.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h1.fork_b0m.step0200.revrate",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.R_per_100s.est",
+      "value": 1.41
+    },
+    {
+      "key": "h1.fork_b0m.step0200.revrate.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.R_per_100s.lo",
+      "value": 1.24
+    },
+    {
+      "key": "h1.fork_b0m.step0200.revrate.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.R_per_100s.hi",
+      "value": 1.6
+    },
+    {
+      "key": "h1.fork_b0m.step0200.toks",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.tokens_per_resp.est",
+      "value": 1699
+    },
+    {
+      "key": "h1.fork_b0m.step0200.toks.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.tokens_per_resp.lo",
+      "value": 1559
+    },
+    {
+      "key": "h1.fork_b0m.step0200.toks.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.indices.tokens_per_resp.hi",
+      "value": 1831
+    },
+    {
+      "key": "n.fork_b0m.step0200.resp",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.n_samples",
+      "value": 1000
+    },
+    {
+      "key": "ctl.fork_b0m.step0200.acc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.acc",
+      "value": 85.1
+    },
+    {
+      "key": "ctl.fork_b0m.step0200.trunc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.200.truncated",
+      "value": 2.0
+    },
+    {
+      "key": "h1.fork_b0m.step0300.freq",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_wait_1k.est",
+      "value": 4.8
+    },
+    {
+      "key": "h1.fork_b0m.step0300.freq.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_wait_1k.lo",
+      "value": 4.5
+    },
+    {
+      "key": "h1.fork_b0m.step0300.freq.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_wait_1k.hi",
+      "value": 5.1
+    },
+    {
+      "key": "h1.fork_b0m.step0300.freq100",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_wait_100s.est",
+      "value": 8.5
+    },
+    {
+      "key": "h1.fork_b0m.step0300.freq100.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_wait_100s.lo",
+      "value": 8.1
+    },
+    {
+      "key": "h1.fork_b0m.step0300.freq100.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_wait_100s.hi",
+      "value": 9.0
+    },
+    {
+      "key": "h1.fork_b0m.step0300.fdisc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_disc_1k.est",
+      "value": 9.9
+    },
+    {
+      "key": "h1.fork_b0m.step0300.fdisc.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_disc_1k.lo",
+      "value": 9.3
+    },
+    {
+      "key": "h1.fork_b0m.step0300.fdisc.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.FREQ_disc_1k.hi",
+      "value": 10.4
+    },
+    {
+      "key": "h1.fork_b0m.step0300.si",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SI.est",
+      "value": 93.5
+    },
+    {
+      "key": "h1.fork_b0m.step0300.si.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SI.lo",
+      "value": 92.6
+    },
+    {
+      "key": "h1.fork_b0m.step0300.si.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SI.hi",
+      "value": 94.3
+    },
+    {
+      "key": "h1.fork_b0m.step0300.si.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.n_wait",
+      "value": 7465
+    },
+    {
+      "key": "h1.fork_b0m.step0300.siconn",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SI_conn.est",
+      "value": 96.0
+    },
+    {
+      "key": "h1.fork_b0m.step0300.siconn.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SI_conn.lo",
+      "value": 95.4
+    },
+    {
+      "key": "h1.fork_b0m.step0300.siconn.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SI_conn.hi",
+      "value": 96.6
+    },
+    {
+      "key": "h1.fork_b0m.step0300.siconn.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.n_wait",
+      "value": 7465
+    },
+    {
+      "key": "h1.fork_b0m.step0300.pi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.PI.est",
+      "value": 30.8
+    },
+    {
+      "key": "h1.fork_b0m.step0300.pi.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.PI.lo",
+      "value": 29.2
+    },
+    {
+      "key": "h1.fork_b0m.step0300.pi.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.PI.hi",
+      "value": 32.3
+    },
+    {
+      "key": "h1.fork_b0m.step0300.orth",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.ORTH.est",
+      "value": 93.1
+    },
+    {
+      "key": "h1.fork_b0m.step0300.orth.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.ORTH.lo",
+      "value": 92.2
+    },
+    {
+      "key": "h1.fork_b0m.step0300.orth.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.ORTH.hi",
+      "value": 93.9
+    },
+    {
+      "key": "h1.fork_b0m.step0300.orth.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.n_wait",
+      "value": 7465
+    },
+    {
+      "key": "h1.fork_b0m.step0300.orthmax",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.ORTH_max.est",
+      "value": 93.1
+    },
+    {
+      "key": "h1.fork_b0m.step0300.orthmax.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.ORTH_max.lo",
+      "value": 92.2
+    },
+    {
+      "key": "h1.fork_b0m.step0300.orthmax.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.ORTH_max.hi",
+      "value": 93.9
+    },
+    {
+      "key": "h1.fork_b0m.step0300.orthmax.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.n_wait",
+      "value": 7465
+    },
+    {
+      "key": "h1.fork_b0m.step0300.commadrop",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.COMMA_DROP.est",
+      "value": 2.1
+    },
+    {
+      "key": "h1.fork_b0m.step0300.commadrop.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.COMMA_DROP.lo",
+      "value": 1.7
+    },
+    {
+      "key": "h1.fork_b0m.step0300.commadrop.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.COMMA_DROP.hi",
+      "value": 2.5
+    },
+    {
+      "key": "h1.fork_b0m.step0300.commadrop.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.n_wait",
+      "value": 7465
+    },
+    {
+      "key": "h1.fork_b0m.step0300.chain",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CHAIN_RUNS_1k.est",
+      "value": 110.0
+    },
+    {
+      "key": "h1.fork_b0m.step0300.chain.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CHAIN_RUNS_1k.lo",
+      "value": 101.1
+    },
+    {
+      "key": "h1.fork_b0m.step0300.chain.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CHAIN_RUNS_1k.hi",
+      "value": 118.7
+    },
+    {
+      "key": "h1.fork_b0m.step0300.chainshare",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CHAIN.est",
+      "value": 13.0
+    },
+    {
+      "key": "h1.fork_b0m.step0300.chainshare.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CHAIN.lo",
+      "value": 11.8
+    },
+    {
+      "key": "h1.fork_b0m.step0300.chainshare.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CHAIN.hi",
+      "value": 14.1
+    },
+    {
+      "key": "h1.fork_b0m.step0300.neff",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.N_eff.est",
+      "value": 5.79
+    },
+    {
+      "key": "h1.fork_b0m.step0300.neff.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.N_eff.lo",
+      "value": 5.41
+    },
+    {
+      "key": "h1.fork_b0m.step0300.neff.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.N_eff.hi",
+      "value": 6.13
+    },
+    {
+      "key": "h1.fork_b0m.step0300.sharewait",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SHARE_wait.est",
+      "value": 36.4
+    },
+    {
+      "key": "h1.fork_b0m.step0300.sharewait.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SHARE_wait.lo",
+      "value": 33.4
+    },
+    {
+      "key": "h1.fork_b0m.step0300.sharewait.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SHARE_wait.hi",
+      "value": 39.3
+    },
+    {
+      "key": "h1.fork_b0m.step0300.obl",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.OBL.est",
+      "value": 52.0
+    },
+    {
+      "key": "h1.fork_b0m.step0300.obl.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.OBL.lo",
+      "value": 47.7
+    },
+    {
+      "key": "h1.fork_b0m.step0300.obl.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.OBL.hi",
+      "value": 56.1
+    },
+    {
+      "key": "h1.fork_b0m.step0300.obl.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.n_R",
+      "value": 1407
+    },
+    {
+      "key": "h1.fork_b0m.step0300.rel",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.REL.est",
+      "value": 8.1
+    },
+    {
+      "key": "h1.fork_b0m.step0300.rel.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.REL.lo",
+      "value": 6.9
+    },
+    {
+      "key": "h1.fork_b0m.step0300.rel.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.REL.hi",
+      "value": 9.3
+    },
+    {
+      "key": "h1.fork_b0m.step0300.rel.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.n_M",
+      "value": 14632
+    },
+    {
+      "key": "h1.fork_b0m.step0300.eros",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.EROS.est",
+      "value": 24.3
+    },
+    {
+      "key": "h1.fork_b0m.step0300.eros.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.EROS.lo",
+      "value": 21.6
+    },
+    {
+      "key": "h1.fork_b0m.step0300.eros.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.EROS.hi",
+      "value": 27.3
+    },
+    {
+      "key": "h1.fork_b0m.step0300.sentlen",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SENTLEN_init.est",
+      "value": 11.2
+    },
+    {
+      "key": "h1.fork_b0m.step0300.sentlen.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SENTLEN_init.lo",
+      "value": 10.8
+    },
+    {
+      "key": "h1.fork_b0m.step0300.sentlen.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.SENTLEN_init.hi",
+      "value": 11.5
+    },
+    {
+      "key": "h1.fork_b0m.step0300.ctx",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CTX.est",
+      "value": 1.12
+    },
+    {
+      "key": "h1.fork_b0m.step0300.ctx.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CTX.lo",
+      "value": 1.1
+    },
+    {
+      "key": "h1.fork_b0m.step0300.ctx.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.CTX.hi",
+      "value": 1.15
+    },
+    {
+      "key": "h1.fork_b0m.step0300.lex",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.LEX_share.est",
+      "value": 0.5
+    },
+    {
+      "key": "h1.fork_b0m.step0300.lex.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.LEX_share.lo",
+      "value": 0.3
+    },
+    {
+      "key": "h1.fork_b0m.step0300.lex.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.LEX_share.hi",
+      "value": 0.7
+    },
+    {
+      "key": "h1.fork_b0m.step0300.revrate",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.R_per_100s.est",
+      "value": 1.61
+    },
+    {
+      "key": "h1.fork_b0m.step0300.revrate.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.R_per_100s.lo",
+      "value": 1.39
+    },
+    {
+      "key": "h1.fork_b0m.step0300.revrate.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.R_per_100s.hi",
+      "value": 1.84
+    },
+    {
+      "key": "h1.fork_b0m.step0300.toks",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.tokens_per_resp.est",
+      "value": 1551
+    },
+    {
+      "key": "h1.fork_b0m.step0300.toks.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.tokens_per_resp.lo",
+      "value": 1432
+    },
+    {
+      "key": "h1.fork_b0m.step0300.toks.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.indices.tokens_per_resp.hi",
+      "value": 1675
+    },
+    {
+      "key": "n.fork_b0m.step0300.resp",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.n_samples",
+      "value": 1000
+    },
+    {
+      "key": "ctl.fork_b0m.step0300.acc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.acc",
+      "value": 85.9
+    },
+    {
+      "key": "ctl.fork_b0m.step0300.trunc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.300.truncated",
+      "value": 0.5
+    },
+    {
+      "key": "h1.fork_b0m.step0400.freq",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_wait_1k.est",
+      "value": 4.0
+    },
+    {
+      "key": "h1.fork_b0m.step0400.freq.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_wait_1k.lo",
+      "value": 3.8
+    },
+    {
+      "key": "h1.fork_b0m.step0400.freq.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_wait_1k.hi",
+      "value": 4.3
+    },
+    {
+      "key": "h1.fork_b0m.step0400.freq100",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_wait_100s.est",
+      "value": 7.3
+    },
+    {
+      "key": "h1.fork_b0m.step0400.freq100.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_wait_100s.lo",
+      "value": 6.8
+    },
+    {
+      "key": "h1.fork_b0m.step0400.freq100.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_wait_100s.hi",
+      "value": 7.7
+    },
+    {
+      "key": "h1.fork_b0m.step0400.fdisc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_disc_1k.est",
+      "value": 8.8
+    },
+    {
+      "key": "h1.fork_b0m.step0400.fdisc.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_disc_1k.lo",
+      "value": 8.3
+    },
+    {
+      "key": "h1.fork_b0m.step0400.fdisc.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.FREQ_disc_1k.hi",
+      "value": 9.4
+    },
+    {
+      "key": "h1.fork_b0m.step0400.si",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SI.est",
+      "value": 93.0
+    },
+    {
+      "key": "h1.fork_b0m.step0400.si.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SI.lo",
+      "value": 92.2
+    },
+    {
+      "key": "h1.fork_b0m.step0400.si.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SI.hi",
+      "value": 93.8
+    },
+    {
+      "key": "h1.fork_b0m.step0400.si.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.n_wait",
+      "value": 6161
+    },
+    {
+      "key": "h1.fork_b0m.step0400.siconn",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SI_conn.est",
+      "value": 96.3
+    },
+    {
+      "key": "h1.fork_b0m.step0400.siconn.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SI_conn.lo",
+      "value": 95.8
+    },
+    {
+      "key": "h1.fork_b0m.step0400.siconn.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SI_conn.hi",
+      "value": 96.8
+    },
+    {
+      "key": "h1.fork_b0m.step0400.siconn.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.n_wait",
+      "value": 6161
+    },
+    {
+      "key": "h1.fork_b0m.step0400.pi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.PI.est",
+      "value": 30.0
+    },
+    {
+      "key": "h1.fork_b0m.step0400.pi.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.PI.lo",
+      "value": 28.4
+    },
+    {
+      "key": "h1.fork_b0m.step0400.pi.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.PI.hi",
+      "value": 31.8
+    },
+    {
+      "key": "h1.fork_b0m.step0400.orth",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.ORTH.est",
+      "value": 93.0
+    },
+    {
+      "key": "h1.fork_b0m.step0400.orth.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.ORTH.lo",
+      "value": 92.1
+    },
+    {
+      "key": "h1.fork_b0m.step0400.orth.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.ORTH.hi",
+      "value": 93.8
+    },
+    {
+      "key": "h1.fork_b0m.step0400.orth.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.n_wait",
+      "value": 6161
+    },
+    {
+      "key": "h1.fork_b0m.step0400.orthmax",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.ORTH_max.est",
+      "value": 93.0
+    },
+    {
+      "key": "h1.fork_b0m.step0400.orthmax.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.ORTH_max.lo",
+      "value": 92.1
+    },
+    {
+      "key": "h1.fork_b0m.step0400.orthmax.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.ORTH_max.hi",
+      "value": 93.8
+    },
+    {
+      "key": "h1.fork_b0m.step0400.orthmax.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.n_wait",
+      "value": 6161
+    },
+    {
+      "key": "h1.fork_b0m.step0400.commadrop",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.COMMA_DROP.est",
+      "value": 1.6
+    },
+    {
+      "key": "h1.fork_b0m.step0400.commadrop.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.COMMA_DROP.lo",
+      "value": 1.3
+    },
+    {
+      "key": "h1.fork_b0m.step0400.commadrop.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.COMMA_DROP.hi",
+      "value": 1.9
+    },
+    {
+      "key": "h1.fork_b0m.step0400.commadrop.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.n_wait",
+      "value": 6161
+    },
+    {
+      "key": "h1.fork_b0m.step0400.chain",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CHAIN_RUNS_1k.est",
+      "value": 97.5
+    },
+    {
+      "key": "h1.fork_b0m.step0400.chain.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CHAIN_RUNS_1k.lo",
+      "value": 88.6
+    },
+    {
+      "key": "h1.fork_b0m.step0400.chain.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CHAIN_RUNS_1k.hi",
+      "value": 106.7
+    },
+    {
+      "key": "h1.fork_b0m.step0400.chainshare",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CHAIN.est",
+      "value": 11.6
+    },
+    {
+      "key": "h1.fork_b0m.step0400.chainshare.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CHAIN.lo",
+      "value": 10.4
+    },
+    {
+      "key": "h1.fork_b0m.step0400.chainshare.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CHAIN.hi",
+      "value": 12.8
+    },
+    {
+      "key": "h1.fork_b0m.step0400.neff",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.N_eff.est",
+      "value": 6.44
+    },
+    {
+      "key": "h1.fork_b0m.step0400.neff.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.N_eff.lo",
+      "value": 5.94
+    },
+    {
+      "key": "h1.fork_b0m.step0400.neff.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.N_eff.hi",
+      "value": 6.8
+    },
+    {
+      "key": "h1.fork_b0m.step0400.sharewait",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SHARE_wait.est",
+      "value": 31.3
+    },
+    {
+      "key": "h1.fork_b0m.step0400.sharewait.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SHARE_wait.lo",
+      "value": 28.7
+    },
+    {
+      "key": "h1.fork_b0m.step0400.sharewait.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SHARE_wait.hi",
+      "value": 34.1
+    },
+    {
+      "key": "h1.fork_b0m.step0400.obl",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.OBL.est",
+      "value": 50.8
+    },
+    {
+      "key": "h1.fork_b0m.step0400.obl.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.OBL.lo",
+      "value": 45.7
+    },
+    {
+      "key": "h1.fork_b0m.step0400.obl.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.OBL.hi",
+      "value": 55.5
+    },
+    {
+      "key": "h1.fork_b0m.step0400.obl.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.n_R",
+      "value": 1140
+    },
+    {
+      "key": "h1.fork_b0m.step0400.rel",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.REL.est",
+      "value": 7.0
+    },
+    {
+      "key": "h1.fork_b0m.step0400.rel.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.REL.lo",
+      "value": 5.9
+    },
+    {
+      "key": "h1.fork_b0m.step0400.rel.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.REL.hi",
+      "value": 8.3
+    },
+    {
+      "key": "h1.fork_b0m.step0400.rel.n",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.n_M",
+      "value": 12937
+    },
+    {
+      "key": "h1.fork_b0m.step0400.eros",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.EROS.est",
+      "value": 24.5
+    },
+    {
+      "key": "h1.fork_b0m.step0400.eros.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.EROS.lo",
+      "value": 21.5
+    },
+    {
+      "key": "h1.fork_b0m.step0400.eros.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.EROS.hi",
+      "value": 28.1
+    },
+    {
+      "key": "h1.fork_b0m.step0400.sentlen",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SENTLEN_init.est",
+      "value": 11.5
+    },
+    {
+      "key": "h1.fork_b0m.step0400.sentlen.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SENTLEN_init.lo",
+      "value": 11.2
+    },
+    {
+      "key": "h1.fork_b0m.step0400.sentlen.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.SENTLEN_init.hi",
+      "value": 11.8
+    },
+    {
+      "key": "h1.fork_b0m.step0400.ctx",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CTX.est",
+      "value": 1.13
+    },
+    {
+      "key": "h1.fork_b0m.step0400.ctx.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CTX.lo",
+      "value": 1.1
+    },
+    {
+      "key": "h1.fork_b0m.step0400.ctx.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.CTX.hi",
+      "value": 1.16
+    },
+    {
+      "key": "h1.fork_b0m.step0400.lex",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.LEX_share.est",
+      "value": 0.7
+    },
+    {
+      "key": "h1.fork_b0m.step0400.lex.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.LEX_share.lo",
+      "value": 0.4
+    },
+    {
+      "key": "h1.fork_b0m.step0400.lex.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.LEX_share.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h1.fork_b0m.step0400.revrate",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.R_per_100s.est",
+      "value": 1.34
+    },
+    {
+      "key": "h1.fork_b0m.step0400.revrate.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.R_per_100s.lo",
+      "value": 1.17
+    },
+    {
+      "key": "h1.fork_b0m.step0400.revrate.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.R_per_100s.hi",
+      "value": 1.54
+    },
+    {
+      "key": "h1.fork_b0m.step0400.toks",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.tokens_per_resp.est",
+      "value": 1531
+    },
+    {
+      "key": "h1.fork_b0m.step0400.toks.lo",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.tokens_per_resp.lo",
+      "value": 1424
+    },
+    {
+      "key": "h1.fork_b0m.step0400.toks.hi",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.indices.tokens_per_resp.hi",
+      "value": 1640
+    },
+    {
+      "key": "n.fork_b0m.step0400.resp",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.n_samples",
+      "value": 1000
+    },
+    {
+      "key": "ctl.fork_b0m.step0400.acc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.acc",
+      "value": 86.5
+    },
+    {
+      "key": "ctl.fork_b0m.step0400.trunc",
+      "src": "exp/rl/results/.../matched/idx::checkpoints.400.truncated",
+      "value": 0.4
+    },
+    {
+      "key": "n.fork_b0m.ckpts",
+      "src": "exp/rl/results/.../matched/idx::checkpoints",
+      "value": 6
+    },
+    {
+      "key": "h1.fork_ref1.base.fin.nwait",
+      "src": "gen_all_raw_step300.tgz::gen/s0.graded.jsonl.gz",
+      "value": 3566
+    },
+    {
+      "key": "h1.fork_ref1.base.fin.ntok",
+      "src": "gen_all_raw_step300.tgz::gen/s0.graded.jsonl.gz",
+      "value": 1019945
+    },
+    {
+      "key": "h1.fork_ref1.base.fin.nfin",
+      "src": "gen_all_raw_step300.tgz::gen/s0.graded.jsonl.gz",
+      "value": 1192
+    },
+    {
+      "key": "h1.fork_ref1.base.fin.nresp",
+      "src": "gen_all_raw_step300.tgz::gen/s0.graded.jsonl.gz",
+      "value": 1600
+    },
+    {
+      "key": "h1.fork_ref1.base.fin.freq",
+      "src": "gen_all_raw_step300.tgz::gen/s0.graded.jsonl.gz; finished responses only",
+      "value": 3.5
+    },
+    {
+      "key": "h1.fork_ref1.base.fin.freq.lo",
+      "src": "gen_all_raw_step300.tgz::gen/s0.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.38
+    },
+    {
+      "key": "h1.fork_ref1.base.fin.freq.hi",
+      "src": "gen_all_raw_step300.tgz::gen/s0.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.61
+    },
+    {
+      "key": "h1.fork_ref1.base.fin.acc",
+      "src": "gen_all_raw_step300.tgz::gen/s0.graded.jsonl.gz; accuracy among finished responses",
+      "value": 57.6
+    },
+    {
+      "key": "h1.fork_ref1.base.fin.finshare",
+      "src": "gen_all_raw_step300.tgz::gen/s0.graded.jsonl.gz",
+      "value": 74.5
+    },
+    {
+      "key": "h1.fork_ref1.step0010.fin.nwait",
+      "src": "gen_all_raw_step300.tgz::gen/s10.graded.jsonl.gz",
+      "value": 5838
+    },
+    {
+      "key": "h1.fork_ref1.step0010.fin.ntok",
+      "src": "gen_all_raw_step300.tgz::gen/s10.graded.jsonl.gz",
+      "value": 1360923
+    },
+    {
+      "key": "h1.fork_ref1.step0010.fin.nfin",
+      "src": "gen_all_raw_step300.tgz::gen/s10.graded.jsonl.gz",
+      "value": 1105
+    },
+    {
+      "key": "h1.fork_ref1.step0010.fin.nresp",
+      "src": "gen_all_raw_step300.tgz::gen/s10.graded.jsonl.gz",
+      "value": 1600
+    },
+    {
+      "key": "h1.fork_ref1.step0010.fin.freq",
+      "src": "gen_all_raw_step300.tgz::gen/s10.graded.jsonl.gz; finished responses only",
+      "value": 4.29
+    },
+    {
+      "key": "h1.fork_ref1.step0010.fin.freq.lo",
+      "src": "gen_all_raw_step300.tgz::gen/s10.graded.jsonl.gz; exact Poisson 95%",
+      "value": 4.18
+    },
+    {
+      "key": "h1.fork_ref1.step0010.fin.freq.hi",
+      "src": "gen_all_raw_step300.tgz::gen/s10.graded.jsonl.gz; exact Poisson 95%",
+      "value": 4.4
+    },
+    {
+      "key": "h1.fork_ref1.step0010.fin.acc",
+      "src": "gen_all_raw_step300.tgz::gen/s10.graded.jsonl.gz; accuracy among finished responses",
+      "value": 94.1
+    },
+    {
+      "key": "h1.fork_ref1.step0010.fin.finshare",
+      "src": "gen_all_raw_step300.tgz::gen/s10.graded.jsonl.gz",
+      "value": 69.1
+    },
+    {
+      "key": "h1.fork_ref1.step0020.fin.nwait",
+      "src": "gen_all_raw_step300.tgz::gen/s20.graded.jsonl.gz",
+      "value": 5159
+    },
+    {
+      "key": "h1.fork_ref1.step0020.fin.ntok",
+      "src": "gen_all_raw_step300.tgz::gen/s20.graded.jsonl.gz",
+      "value": 1313454
+    },
+    {
+      "key": "h1.fork_ref1.step0020.fin.nfin",
+      "src": "gen_all_raw_step300.tgz::gen/s20.graded.jsonl.gz",
+      "value": 1146
+    },
+    {
+      "key": "h1.fork_ref1.step0020.fin.nresp",
+      "src": "gen_all_raw_step300.tgz::gen/s20.graded.jsonl.gz",
+      "value": 1600
+    },
+    {
+      "key": "h1.fork_ref1.step0020.fin.freq",
+      "src": "gen_all_raw_step300.tgz::gen/s20.graded.jsonl.gz; finished responses only",
+      "value": 3.93
+    },
+    {
+      "key": "h1.fork_ref1.step0020.fin.freq.lo",
+      "src": "gen_all_raw_step300.tgz::gen/s20.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.82
+    },
+    {
+      "key": "h1.fork_ref1.step0020.fin.freq.hi",
+      "src": "gen_all_raw_step300.tgz::gen/s20.graded.jsonl.gz; exact Poisson 95%",
+      "value": 4.04
+    },
+    {
+      "key": "h1.fork_ref1.step0020.fin.acc",
+      "src": "gen_all_raw_step300.tgz::gen/s20.graded.jsonl.gz; accuracy among finished responses",
+      "value": 95.5
+    },
+    {
+      "key": "h1.fork_ref1.step0020.fin.finshare",
+      "src": "gen_all_raw_step300.tgz::gen/s20.graded.jsonl.gz",
+      "value": 71.6
+    },
+    {
+      "key": "h1.fork_ref1.step0030.fin.nwait",
+      "src": "gen_all_raw_step300.tgz::gen/s30.graded.jsonl.gz",
+      "value": 4574
+    },
+    {
+      "key": "h1.fork_ref1.step0030.fin.ntok",
+      "src": "gen_all_raw_step300.tgz::gen/s30.graded.jsonl.gz",
+      "value": 1269636
+    },
+    {
+      "key": "h1.fork_ref1.step0030.fin.nfin",
+      "src": "gen_all_raw_step300.tgz::gen/s30.graded.jsonl.gz",
+      "value": 1181
+    },
+    {
+      "key": "h1.fork_ref1.step0030.fin.nresp",
+      "src": "gen_all_raw_step300.tgz::gen/s30.graded.jsonl.gz",
+      "value": 1600
+    },
+    {
+      "key": "h1.fork_ref1.step0030.fin.freq",
+      "src": "gen_all_raw_step300.tgz::gen/s30.graded.jsonl.gz; finished responses only",
+      "value": 3.6
+    },
+    {
+      "key": "h1.fork_ref1.step0030.fin.freq.lo",
+      "src": "gen_all_raw_step300.tgz::gen/s30.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.5
+    },
+    {
+      "key": "h1.fork_ref1.step0030.fin.freq.hi",
+      "src": "gen_all_raw_step300.tgz::gen/s30.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.71
+    },
+    {
+      "key": "h1.fork_ref1.step0030.fin.acc",
+      "src": "gen_all_raw_step300.tgz::gen/s30.graded.jsonl.gz; accuracy among finished responses",
+      "value": 94.2
+    },
+    {
+      "key": "h1.fork_ref1.step0030.fin.finshare",
+      "src": "gen_all_raw_step300.tgz::gen/s30.graded.jsonl.gz",
+      "value": 73.8
+    },
+    {
+      "key": "h1.fork_ref1.step0040.fin.nwait",
+      "src": "gen_all_raw_step300.tgz::gen/s40.graded.jsonl.gz",
+      "value": 4314
+    },
+    {
+      "key": "h1.fork_ref1.step0040.fin.ntok",
+      "src": "gen_all_raw_step300.tgz::gen/s40.graded.jsonl.gz",
+      "value": 1279837
+    },
+    {
+      "key": "h1.fork_ref1.step0040.fin.nfin",
+      "src": "gen_all_raw_step300.tgz::gen/s40.graded.jsonl.gz",
+      "value": 1229
+    },
+    {
+      "key": "h1.fork_ref1.step0040.fin.nresp",
+      "src": "gen_all_raw_step300.tgz::gen/s40.graded.jsonl.gz",
+      "value": 1600
+    },
+    {
+      "key": "h1.fork_ref1.step0040.fin.freq",
+      "src": "gen_all_raw_step300.tgz::gen/s40.graded.jsonl.gz; finished responses only",
+      "value": 3.37
+    },
+    {
+      "key": "h1.fork_ref1.step0040.fin.freq.lo",
+      "src": "gen_all_raw_step300.tgz::gen/s40.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.27
+    },
+    {
+      "key": "h1.fork_ref1.step0040.fin.freq.hi",
+      "src": "gen_all_raw_step300.tgz::gen/s40.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.47
+    },
+    {
+      "key": "h1.fork_ref1.step0040.fin.acc",
+      "src": "gen_all_raw_step300.tgz::gen/s40.graded.jsonl.gz; accuracy among finished responses",
+      "value": 95.6
+    },
+    {
+      "key": "h1.fork_ref1.step0040.fin.finshare",
+      "src": "gen_all_raw_step300.tgz::gen/s40.graded.jsonl.gz",
+      "value": 76.8
+    },
+    {
+      "key": "h1.fork_ref1.step0050.fin.nwait",
+      "src": "gen_all_raw_step300.tgz::gen/s50.graded.jsonl.gz",
+      "value": 4399
+    },
+    {
+      "key": "h1.fork_ref1.step0050.fin.ntok",
+      "src": "gen_all_raw_step300.tgz::gen/s50.graded.jsonl.gz",
+      "value": 1288696
+    },
+    {
+      "key": "h1.fork_ref1.step0050.fin.nfin",
+      "src": "gen_all_raw_step300.tgz::gen/s50.graded.jsonl.gz",
+      "value": 1263
+    },
+    {
+      "key": "h1.fork_ref1.step0050.fin.nresp",
+      "src": "gen_all_raw_step300.tgz::gen/s50.graded.jsonl.gz",
+      "value": 1600
+    },
+    {
+      "key": "h1.fork_ref1.step0050.fin.freq",
+      "src": "gen_all_raw_step300.tgz::gen/s50.graded.jsonl.gz; finished responses only",
+      "value": 3.41
+    },
+    {
+      "key": "h1.fork_ref1.step0050.fin.freq.lo",
+      "src": "gen_all_raw_step300.tgz::gen/s50.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.31
+    },
+    {
+      "key": "h1.fork_ref1.step0050.fin.freq.hi",
+      "src": "gen_all_raw_step300.tgz::gen/s50.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.52
+    },
+    {
+      "key": "h1.fork_ref1.step0050.fin.acc",
+      "src": "gen_all_raw_step300.tgz::gen/s50.graded.jsonl.gz; accuracy among finished responses",
+      "value": 93.9
+    },
+    {
+      "key": "h1.fork_ref1.step0050.fin.finshare",
+      "src": "gen_all_raw_step300.tgz::gen/s50.graded.jsonl.gz",
+      "value": 78.9
+    },
+    {
+      "key": "h1.fork_ref1.step0060.fin.nwait",
+      "src": "gen_all_raw_step300.tgz::gen/s60.graded.jsonl.gz",
+      "value": 4728
+    },
+    {
+      "key": "h1.fork_ref1.step0060.fin.ntok",
+      "src": "gen_all_raw_step300.tgz::gen/s60.graded.jsonl.gz",
+      "value": 1315166
+    },
+    {
+      "key": "h1.fork_ref1.step0060.fin.nfin",
+      "src": "gen_all_raw_step300.tgz::gen/s60.graded.jsonl.gz",
+      "value": 1295
+    },
+    {
+      "key": "h1.fork_ref1.step0060.fin.nresp",
+      "src": "gen_all_raw_step300.tgz::gen/s60.graded.jsonl.gz",
+      "value": 1600
+    },
+    {
+      "key": "h1.fork_ref1.step0060.fin.freq",
+      "src": "gen_all_raw_step300.tgz::gen/s60.graded.jsonl.gz; finished responses only",
+      "value": 3.59
+    },
+    {
+      "key": "h1.fork_ref1.step0060.fin.freq.lo",
+      "src": "gen_all_raw_step300.tgz::gen/s60.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.49
+    },
+    {
+      "key": "h1.fork_ref1.step0060.fin.freq.hi",
+      "src": "gen_all_raw_step300.tgz::gen/s60.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.7
+    },
+    {
+      "key": "h1.fork_ref1.step0060.fin.acc",
+      "src": "gen_all_raw_step300.tgz::gen/s60.graded.jsonl.gz; accuracy among finished responses",
+      "value": 94.1
+    },
+    {
+      "key": "h1.fork_ref1.step0060.fin.finshare",
+      "src": "gen_all_raw_step300.tgz::gen/s60.graded.jsonl.gz",
+      "value": 80.9
+    },
+    {
+      "key": "h1.fork_ref1.step0070.fin.nwait",
+      "src": "gen_all_raw_step300.tgz::gen/s70.graded.jsonl.gz",
+      "value": 4558
+    },
+    {
+      "key": "h1.fork_ref1.step0070.fin.ntok",
+      "src": "gen_all_raw_step300.tgz::gen/s70.graded.jsonl.gz",
+      "value": 1318093
+    },
+    {
+      "key": "h1.fork_ref1.step0070.fin.nfin",
+      "src": "gen_all_raw_step300.tgz::gen/s70.graded.jsonl.gz",
+      "value": 1310
+    },
+    {
+      "key": "h1.fork_ref1.step0070.fin.nresp",
+      "src": "gen_all_raw_step300.tgz::gen/s70.graded.jsonl.gz",
+      "value": 1600
+    },
+    {
+      "key": "h1.fork_ref1.step0070.fin.freq",
+      "src": "gen_all_raw_step300.tgz::gen/s70.graded.jsonl.gz; finished responses only",
+      "value": 3.46
+    },
+    {
+      "key": "h1.fork_ref1.step0070.fin.freq.lo",
+      "src": "gen_all_raw_step300.tgz::gen/s70.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.36
+    },
+    {
+      "key": "h1.fork_ref1.step0070.fin.freq.hi",
+      "src": "gen_all_raw_step300.tgz::gen/s70.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.56
+    },
+    {
+      "key": "h1.fork_ref1.step0070.fin.acc",
+      "src": "gen_all_raw_step300.tgz::gen/s70.graded.jsonl.gz; accuracy among finished responses",
+      "value": 94.3
+    },
+    {
+      "key": "h1.fork_ref1.step0070.fin.finshare",
+      "src": "gen_all_raw_step300.tgz::gen/s70.graded.jsonl.gz",
+      "value": 81.9
+    },
+    {
+      "key": "h1.fork_ref1.step0080.fin.nwait",
+      "src": "gen_all_raw_step300.tgz::gen/s80.graded.jsonl.gz",
+      "value": 4532
+    },
+    {
+      "key": "h1.fork_ref1.step0080.fin.ntok",
+      "src": "gen_all_raw_step300.tgz::gen/s80.graded.jsonl.gz",
+      "value": 1324670
+    },
+    {
+      "key": "h1.fork_ref1.step0080.fin.nfin",
+      "src": "gen_all_raw_step300.tgz::gen/s80.graded.jsonl.gz",
+      "value": 1324
+    },
+    {
+      "key": "h1.fork_ref1.step0080.fin.nresp",
+      "src": "gen_all_raw_step300.tgz::gen/s80.graded.jsonl.gz",
+      "value": 1600
+    },
+    {
+      "key": "h1.fork_ref1.step0080.fin.freq",
+      "src": "gen_all_raw_step300.tgz::gen/s80.graded.jsonl.gz; finished responses only",
+      "value": 3.42
+    },
+    {
+      "key": "h1.fork_ref1.step0080.fin.freq.lo",
+      "src": "gen_all_raw_step300.tgz::gen/s80.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.32
+    },
+    {
+      "key": "h1.fork_ref1.step0080.fin.freq.hi",
+      "src": "gen_all_raw_step300.tgz::gen/s80.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.52
+    },
+    {
+      "key": "h1.fork_ref1.step0080.fin.acc",
+      "src": "gen_all_raw_step300.tgz::gen/s80.graded.jsonl.gz; accuracy among finished responses",
+      "value": 92.9
+    },
+    {
+      "key": "h1.fork_ref1.step0080.fin.finshare",
+      "src": "gen_all_raw_step300.tgz::gen/s80.graded.jsonl.gz",
+      "value": 82.8
+    },
+    {
+      "key": "h1.fork_ref1.step0090.fin.nwait",
+      "src": "gen_all_raw_step300.tgz::gen/s90.graded.jsonl.gz",
+      "value": 4274
+    },
+    {
+      "key": "h1.fork_ref1.step0090.fin.ntok",
+      "src": "gen_all_raw_step300.tgz::gen/s90.graded.jsonl.gz",
+      "value": 1285263
+    },
+    {
+      "key": "h1.fork_ref1.step0090.fin.nfin",
+      "src": "gen_all_raw_step300.tgz::gen/s90.graded.jsonl.gz",
+      "value": 1342
+    },
+    {
+      "key": "h1.fork_ref1.step0090.fin.nresp",
+      "src": "gen_all_raw_step300.tgz::gen/s90.graded.jsonl.gz",
+      "value": 1600
+    },
+    {
+      "key": "h1.fork_ref1.step0090.fin.freq",
+      "src": "gen_all_raw_step300.tgz::gen/s90.graded.jsonl.gz; finished responses only",
+      "value": 3.33
+    },
+    {
+      "key": "h1.fork_ref1.step0090.fin.freq.lo",
+      "src": "gen_all_raw_step300.tgz::gen/s90.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.23
+    },
+    {
+      "key": "h1.fork_ref1.step0090.fin.freq.hi",
+      "src": "gen_all_raw_step300.tgz::gen/s90.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.43
+    },
+    {
+      "key": "h1.fork_ref1.step0090.fin.acc",
+      "src": "gen_all_raw_step300.tgz::gen/s90.graded.jsonl.gz; accuracy among finished responses",
+      "value": 92.8
+    },
+    {
+      "key": "h1.fork_ref1.step0090.fin.finshare",
+      "src": "gen_all_raw_step300.tgz::gen/s90.graded.jsonl.gz",
+      "value": 83.9
+    },
+    {
+      "key": "h1.fork_ref1.step0100.fin.nwait",
+      "src": "gen_all_raw_step300.tgz::gen/s100.graded.jsonl.gz",
+      "value": 4260
+    },
+    {
+      "key": "h1.fork_ref1.step0100.fin.ntok",
+      "src": "gen_all_raw_step300.tgz::gen/s100.graded.jsonl.gz",
+      "value": 1277005
+    },
+    {
+      "key": "h1.fork_ref1.step0100.fin.nfin",
+      "src": "gen_all_raw_step300.tgz::gen/s100.graded.jsonl.gz",
+      "value": 1356
+    },
+    {
+      "key": "h1.fork_ref1.step0100.fin.nresp",
+      "src": "gen_all_raw_step300.tgz::gen/s100.graded.jsonl.gz",
+      "value": 1600
+    },
+    {
+      "key": "h1.fork_ref1.step0100.fin.freq",
+      "src": "gen_all_raw_step300.tgz::gen/s100.graded.jsonl.gz; finished responses only",
+      "value": 3.34
+    },
+    {
+      "key": "h1.fork_ref1.step0100.fin.freq.lo",
+      "src": "gen_all_raw_step300.tgz::gen/s100.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.24
+    },
+    {
+      "key": "h1.fork_ref1.step0100.fin.freq.hi",
+      "src": "gen_all_raw_step300.tgz::gen/s100.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.44
+    },
+    {
+      "key": "h1.fork_ref1.step0100.fin.acc",
+      "src": "gen_all_raw_step300.tgz::gen/s100.graded.jsonl.gz; accuracy among finished responses",
+      "value": 93.3
+    },
+    {
+      "key": "h1.fork_ref1.step0100.fin.finshare",
+      "src": "gen_all_raw_step300.tgz::gen/s100.graded.jsonl.gz",
+      "value": 84.8
+    },
+    {
+      "key": "h1.fork_ref1.step0150.fin.nwait",
+      "src": "gen_all_raw_step300.tgz::gen/s150.graded.jsonl.gz",
+      "value": 5874
+    },
+    {
+      "key": "h1.fork_ref1.step0150.fin.ntok",
+      "src": "gen_all_raw_step300.tgz::gen/s150.graded.jsonl.gz",
+      "value": 1389945
+    },
+    {
+      "key": "h1.fork_ref1.step0150.fin.nfin",
+      "src": "gen_all_raw_step300.tgz::gen/s150.graded.jsonl.gz",
+      "value": 1364
+    },
+    {
+      "key": "h1.fork_ref1.step0150.fin.nresp",
+      "src": "gen_all_raw_step300.tgz::gen/s150.graded.jsonl.gz",
+      "value": 1600
+    },
+    {
+      "key": "h1.fork_ref1.step0150.fin.freq",
+      "src": "gen_all_raw_step300.tgz::gen/s150.graded.jsonl.gz; finished responses only",
+      "value": 4.23
+    },
+    {
+      "key": "h1.fork_ref1.step0150.fin.freq.lo",
+      "src": "gen_all_raw_step300.tgz::gen/s150.graded.jsonl.gz; exact Poisson 95%",
+      "value": 4.12
+    },
+    {
+      "key": "h1.fork_ref1.step0150.fin.freq.hi",
+      "src": "gen_all_raw_step300.tgz::gen/s150.graded.jsonl.gz; exact Poisson 95%",
+      "value": 4.34
+    },
+    {
+      "key": "h1.fork_ref1.step0150.fin.acc",
+      "src": "gen_all_raw_step300.tgz::gen/s150.graded.jsonl.gz; accuracy among finished responses",
+      "value": 94.4
+    },
+    {
+      "key": "h1.fork_ref1.step0150.fin.finshare",
+      "src": "gen_all_raw_step300.tgz::gen/s150.graded.jsonl.gz",
+      "value": 85.2
+    },
+    {
+      "key": "h1.fork_ref1.step0200.fin.nwait",
+      "src": "gen_all_raw_step300.tgz::gen/s200.graded.jsonl.gz",
+      "value": 5572
+    },
+    {
+      "key": "h1.fork_ref1.step0200.fin.ntok",
+      "src": "gen_all_raw_step300.tgz::gen/s200.graded.jsonl.gz",
+      "value": 1353619
+    },
+    {
+      "key": "h1.fork_ref1.step0200.fin.nfin",
+      "src": "gen_all_raw_step300.tgz::gen/s200.graded.jsonl.gz",
+      "value": 1404
+    },
+    {
+      "key": "h1.fork_ref1.step0200.fin.nresp",
+      "src": "gen_all_raw_step300.tgz::gen/s200.graded.jsonl.gz",
+      "value": 1600
+    },
+    {
+      "key": "h1.fork_ref1.step0200.fin.freq",
+      "src": "gen_all_raw_step300.tgz::gen/s200.graded.jsonl.gz; finished responses only",
+      "value": 4.12
+    },
+    {
+      "key": "h1.fork_ref1.step0200.fin.freq.lo",
+      "src": "gen_all_raw_step300.tgz::gen/s200.graded.jsonl.gz; exact Poisson 95%",
+      "value": 4.01
+    },
+    {
+      "key": "h1.fork_ref1.step0200.fin.freq.hi",
+      "src": "gen_all_raw_step300.tgz::gen/s200.graded.jsonl.gz; exact Poisson 95%",
+      "value": 4.23
+    },
+    {
+      "key": "h1.fork_ref1.step0200.fin.acc",
+      "src": "gen_all_raw_step300.tgz::gen/s200.graded.jsonl.gz; accuracy among finished responses",
+      "value": 94.0
+    },
+    {
+      "key": "h1.fork_ref1.step0200.fin.finshare",
+      "src": "gen_all_raw_step300.tgz::gen/s200.graded.jsonl.gz",
+      "value": 87.8
+    },
+    {
+      "key": "h1.fork_ref1.step0250.fin.nwait",
+      "src": "gen_all_raw_step300.tgz::gen/s250.graded.jsonl.gz",
+      "value": 5882
+    },
+    {
+      "key": "h1.fork_ref1.step0250.fin.ntok",
+      "src": "gen_all_raw_step300.tgz::gen/s250.graded.jsonl.gz",
+      "value": 1472254
+    },
+    {
+      "key": "h1.fork_ref1.step0250.fin.nfin",
+      "src": "gen_all_raw_step300.tgz::gen/s250.graded.jsonl.gz",
+      "value": 1410
+    },
+    {
+      "key": "h1.fork_ref1.step0250.fin.nresp",
+      "src": "gen_all_raw_step300.tgz::gen/s250.graded.jsonl.gz",
+      "value": 1600
+    },
+    {
+      "key": "h1.fork_ref1.step0250.fin.freq",
+      "src": "gen_all_raw_step300.tgz::gen/s250.graded.jsonl.gz; finished responses only",
+      "value": 4.0
+    },
+    {
+      "key": "h1.fork_ref1.step0250.fin.freq.lo",
+      "src": "gen_all_raw_step300.tgz::gen/s250.graded.jsonl.gz; exact Poisson 95%",
+      "value": 3.89
+    },
+    {
+      "key": "h1.fork_ref1.step0250.fin.freq.hi",
+      "src": "gen_all_raw_step300.tgz::gen/s250.graded.jsonl.gz; exact Poisson 95%",
+      "value": 4.1
+    },
+    {
+      "key": "h1.fork_ref1.step0250.fin.acc",
+      "src": "gen_all_raw_step300.tgz::gen/s250.graded.jsonl.gz; accuracy among finished responses",
+      "value": 94.6
+    },
+    {
+      "key": "h1.fork_ref1.step0250.fin.finshare",
+      "src": "gen_all_raw_step300.tgz::gen/s250.graded.jsonl.gz",
+      "value": 88.1
+    },
+    {
+      "key": "h1.fork_ref1.step0300.fin.nwait",
+      "src": "gen_all_raw_step300.tgz::gen/s300.graded.jsonl.gz",
+      "value": 7100
+    },
+    {
+      "key": "h1.fork_ref1.step0300.fin.ntok",
+      "src": "gen_all_raw_step300.tgz::gen/s300.graded.jsonl.gz",
+      "value": 1528900
+    },
+    {
+      "key": "h1.fork_ref1.step0300.fin.nfin",
+      "src": "gen_all_raw_step300.tgz::gen/s300.graded.jsonl.gz",
+      "value": 1427
+    },
+    {
+      "key": "h1.fork_ref1.step0300.fin.nresp",
+      "src": "gen_all_raw_step300.tgz::gen/s300.graded.jsonl.gz",
+      "value": 1600
+    },
+    {
+      "key": "h1.fork_ref1.step0300.fin.freq",
+      "src": "gen_all_raw_step300.tgz::gen/s300.graded.jsonl.gz; finished responses only",
+      "value": 4.64
+    },
+    {
+      "key": "h1.fork_ref1.step0300.fin.freq.lo",
+      "src": "gen_all_raw_step300.tgz::gen/s300.graded.jsonl.gz; exact Poisson 95%",
+      "value": 4.54
+    },
+    {
+      "key": "h1.fork_ref1.step0300.fin.freq.hi",
+      "src": "gen_all_raw_step300.tgz::gen/s300.graded.jsonl.gz; exact Poisson 95%",
+      "value": 4.75
+    },
+    {
+      "key": "h1.fork_ref1.step0300.fin.acc",
+      "src": "gen_all_raw_step300.tgz::gen/s300.graded.jsonl.gz; accuracy among finished responses",
+      "value": 93.9
+    },
+    {
+      "key": "h1.fork_ref1.step0300.fin.finshare",
+      "src": "gen_all_raw_step300.tgz::gen/s300.graded.jsonl.gz",
+      "value": 89.2
+    },
+    {
+      "key": "h1.fork_ref1.trend.a_wait_fin",
+      "src": "FREQ_wait(step 300)/FREQ_wait(step 0), finished responses only, original fork eval (cap 3,072, n=8)",
+      "value": 1.33
+    },
+    {
+      "key": "h1.fork_ref1.trend.a_wait_fin.lo",
+      "src": "FREQ_wait(step 300)/FREQ_wait(step 0), finished responses only, original fork eval (cap 3,072, n=8)",
+      "value": 1.28
+    },
+    {
+      "key": "h1.fork_ref1.trend.a_wait_fin.hi",
+      "src": "FREQ_wait(step 300)/FREQ_wait(step 0), finished responses only, original fork eval (cap 3,072, n=8)",
+      "value": 1.38
+    },
+    {
+      "key": "h1.fork_ref1.trend.fin_last_step",
+      "src": "original fork eval (cap 3,072, n=8)",
+      "value": 300
+    },
+    {
+      "key": "h1.fork_ref1m.base.fin.nwait",
+      "src": "<LOCAL>
+      "value": 6007
+    },
+    {
+      "key": "h1.fork_ref1m.base.fin.ntok",
+      "src": "<LOCAL>
+      "value": 1399335
+    },
+    {
+      "key": "h1.fork_ref1m.base.fin.nfin",
+      "src": "<LOCAL>
+      "value": 895
+    },
+    {
+      "key": "h1.fork_ref1m.base.fin.nresp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "h1.fork_ref1m.base.fin.freq",
+      "src": "<LOCAL> finished responses only",
+      "value": 4.29
+    },
+    {
+      "key": "h1.fork_ref1m.base.fin.freq.lo",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.18
+    },
+    {
+      "key": "h1.fork_ref1m.base.fin.freq.hi",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.4
+    },
+    {
+      "key": "h1.fork_ref1m.base.fin.acc",
+      "src": "<LOCAL> accuracy among finished responses",
+      "value": 56.4
+    },
+    {
+      "key": "h1.fork_ref1m.base.fin.finshare",
+      "src": "<LOCAL>
+      "value": 89.5
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.fin.nwait",
+      "src": "<LOCAL>
+      "value": 5490
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.fin.ntok",
+      "src": "<LOCAL>
+      "value": 1389859
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.fin.nfin",
+      "src": "<LOCAL>
+      "value": 959
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.fin.nresp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.fin.freq",
+      "src": "<LOCAL> finished responses only",
+      "value": 3.95
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.fin.freq.lo",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 3.85
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.fin.freq.hi",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.06
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.fin.acc",
+      "src": "<LOCAL> accuracy among finished responses",
+      "value": 87.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0100.fin.finshare",
+      "src": "<LOCAL>
+      "value": 95.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.fin.nwait",
+      "src": "<LOCAL>
+      "value": 5893
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.fin.ntok",
+      "src": "<LOCAL>
+      "value": 1366619
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.fin.nfin",
+      "src": "<LOCAL>
+      "value": 982
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.fin.nresp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.fin.freq",
+      "src": "<LOCAL> finished responses only",
+      "value": 4.31
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.fin.freq.lo",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.fin.freq.hi",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.42
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.fin.acc",
+      "src": "<LOCAL> accuracy among finished responses",
+      "value": 87.0
+    },
+    {
+      "key": "h1.fork_ref1m.step0200.fin.finshare",
+      "src": "<LOCAL>
+      "value": 98.2
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.fin.nwait",
+      "src": "<LOCAL>
+      "value": 7279
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.fin.ntok",
+      "src": "<LOCAL>
+      "value": 1498269
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.fin.nfin",
+      "src": "<LOCAL>
+      "value": 996
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.fin.nresp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.fin.freq",
+      "src": "<LOCAL> finished responses only",
+      "value": 4.86
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.fin.freq.lo",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.75
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.fin.freq.hi",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.97
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.fin.acc",
+      "src": "<LOCAL> accuracy among finished responses",
+      "value": 85.9
+    },
+    {
+      "key": "h1.fork_ref1m.step0300.fin.finshare",
+      "src": "<LOCAL>
+      "value": 99.6
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.fin.nwait",
+      "src": "<LOCAL>
+      "value": 7522
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.fin.ntok",
+      "src": "<LOCAL>
+      "value": 1589867
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.fin.nfin",
+      "src": "<LOCAL>
+      "value": 991
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.fin.nresp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.fin.freq",
+      "src": "<LOCAL> finished responses only",
+      "value": 4.73
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.fin.freq.lo",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.62
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.fin.freq.hi",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.84
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.fin.acc",
+      "src": "<LOCAL> accuracy among finished responses",
+      "value": 86.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0350.fin.finshare",
+      "src": "<LOCAL>
+      "value": 99.1
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.fin.nwait",
+      "src": "<LOCAL>
+      "value": 7833
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.fin.ntok",
+      "src": "<LOCAL>
+      "value": 1623648
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.fin.nfin",
+      "src": "<LOCAL>
+      "value": 997
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.fin.nresp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.fin.freq",
+      "src": "<LOCAL> finished responses only",
+      "value": 4.82
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.fin.freq.lo",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.72
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.fin.freq.hi",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.93
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.fin.acc",
+      "src": "<LOCAL> accuracy among finished responses",
+      "value": 86.4
+    },
+    {
+      "key": "h1.fork_ref1m.step0400.fin.finshare",
+      "src": "<LOCAL>
+      "value": 99.7
+    },
+    {
+      "key": "h1.fork_ref1m.trend.a_wait_fin",
+      "src": "FREQ_wait(step 400)/FREQ_wait(step 0), finished responses only, matched eval (S1 settings)",
+      "value": 1.12
+    },
+    {
+      "key": "h1.fork_ref1m.trend.a_wait_fin.lo",
+      "src": "FREQ_wait(step 400)/FREQ_wait(step 0), finished responses only, matched eval (S1 settings)",
+      "value": 1.09
+    },
+    {
+      "key": "h1.fork_ref1m.trend.a_wait_fin.hi",
+      "src": "FREQ_wait(step 400)/FREQ_wait(step 0), finished responses only, matched eval (S1 settings)",
+      "value": 1.16
+    },
+    {
+      "key": "h1.fork_ref1m.trend.fin_last_step",
+      "src": "matched eval (S1 settings)",
+      "value": 400
+    },
+    {
+      "key": "h1.fork_ref1m.trend.a_wait",
+      "src": "FREQ_wait(step 400)/FREQ_wait(base), all tokens, matched eval",
+      "value": 0.97
+    },
+    {
+      "key": "h1.fork_ref1m.trend.a_wait.lo",
+      "src": "FREQ_wait(step 400)/FREQ_wait(base), all tokens, matched eval",
+      "value": 0.95
+    },
+    {
+      "key": "h1.fork_ref1m.trend.a_wait.hi",
+      "src": "FREQ_wait(step 400)/FREQ_wait(base), all tokens, matched eval",
+      "value": 1.0
+    },
+    {
+      "key": "h1.fork_ref1m.trend.last_step",
+      "src": "matched eval",
+      "value": 400
+    },
+    {
+      "key": "h1.fork_b0m.base.fin.nwait",
+      "src": "<LOCAL>
+      "value": 6007
+    },
+    {
+      "key": "h1.fork_b0m.base.fin.ntok",
+      "src": "<LOCAL>
+      "value": 1399335
+    },
+    {
+      "key": "h1.fork_b0m.base.fin.nfin",
+      "src": "<LOCAL>
+      "value": 895
+    },
+    {
+      "key": "h1.fork_b0m.base.fin.nresp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "h1.fork_b0m.base.fin.freq",
+      "src": "<LOCAL> finished responses only",
+      "value": 4.29
+    },
+    {
+      "key": "h1.fork_b0m.base.fin.freq.lo",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.18
+    },
+    {
+      "key": "h1.fork_b0m.base.fin.freq.hi",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.4
+    },
+    {
+      "key": "h1.fork_b0m.base.fin.acc",
+      "src": "<LOCAL> accuracy among finished responses",
+      "value": 56.4
+    },
+    {
+      "key": "h1.fork_b0m.base.fin.finshare",
+      "src": "<LOCAL>
+      "value": 89.5
+    },
+    {
+      "key": "h1.fork_b0m.step0020.fin.nwait",
+      "src": "<LOCAL>
+      "value": 8337
+    },
+    {
+      "key": "h1.fork_b0m.step0020.fin.ntok",
+      "src": "<LOCAL>
+      "value": 1717544
+    },
+    {
+      "key": "h1.fork_b0m.step0020.fin.nfin",
+      "src": "<LOCAL>
+      "value": 871
+    },
+    {
+      "key": "h1.fork_b0m.step0020.fin.nresp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "h1.fork_b0m.step0020.fin.freq",
+      "src": "<LOCAL> finished responses only",
+      "value": 4.85
+    },
+    {
+      "key": "h1.fork_b0m.step0020.fin.freq.lo",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.75
+    },
+    {
+      "key": "h1.fork_b0m.step0020.fin.freq.hi",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.96
+    },
+    {
+      "key": "h1.fork_b0m.step0020.fin.acc",
+      "src": "<LOCAL> accuracy among finished responses",
+      "value": 90.8
+    },
+    {
+      "key": "h1.fork_b0m.step0020.fin.finshare",
+      "src": "<LOCAL>
+      "value": 87.1
+    },
+    {
+      "key": "h1.fork_b0m.step0100.fin.nwait",
+      "src": "<LOCAL>
+      "value": 5113
+    },
+    {
+      "key": "h1.fork_b0m.step0100.fin.ntok",
+      "src": "<LOCAL>
+      "value": 1467268
+    },
+    {
+      "key": "h1.fork_b0m.step0100.fin.nfin",
+      "src": "<LOCAL>
+      "value": 953
+    },
+    {
+      "key": "h1.fork_b0m.step0100.fin.nresp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "h1.fork_b0m.step0100.fin.freq",
+      "src": "<LOCAL> finished responses only",
+      "value": 3.48
+    },
+    {
+      "key": "h1.fork_b0m.step0100.fin.freq.lo",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 3.39
+    },
+    {
+      "key": "h1.fork_b0m.step0100.fin.freq.hi",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 3.58
+    },
+    {
+      "key": "h1.fork_b0m.step0100.fin.acc",
+      "src": "<LOCAL> accuracy among finished responses",
+      "value": 85.3
+    },
+    {
+      "key": "h1.fork_b0m.step0100.fin.finshare",
+      "src": "<LOCAL>
+      "value": 95.3
+    },
+    {
+      "key": "h1.fork_b0m.step0200.fin.nwait",
+      "src": "<LOCAL>
+      "value": 6174
+    },
+    {
+      "key": "h1.fork_b0m.step0200.fin.ntok",
+      "src": "<LOCAL>
+      "value": 1535029
+    },
+    {
+      "key": "h1.fork_b0m.step0200.fin.nfin",
+      "src": "<LOCAL>
+      "value": 980
+    },
+    {
+      "key": "h1.fork_b0m.step0200.fin.nresp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "h1.fork_b0m.step0200.fin.freq",
+      "src": "<LOCAL> finished responses only",
+      "value": 4.02
+    },
+    {
+      "key": "h1.fork_b0m.step0200.fin.freq.lo",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 3.92
+    },
+    {
+      "key": "h1.fork_b0m.step0200.fin.freq.hi",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.12
+    },
+    {
+      "key": "h1.fork_b0m.step0200.fin.acc",
+      "src": "<LOCAL> accuracy among finished responses",
+      "value": 86.8
+    },
+    {
+      "key": "h1.fork_b0m.step0200.fin.finshare",
+      "src": "<LOCAL>
+      "value": 98.0
+    },
+    {
+      "key": "h1.fork_b0m.step0300.fin.nwait",
+      "src": "<LOCAL>
+      "value": 7290
+    },
+    {
+      "key": "h1.fork_b0m.step0300.fin.ntok",
+      "src": "<LOCAL>
+      "value": 1509961
+    },
+    {
+      "key": "h1.fork_b0m.step0300.fin.nfin",
+      "src": "<LOCAL>
+      "value": 995
+    },
+    {
+      "key": "h1.fork_b0m.step0300.fin.nresp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "h1.fork_b0m.step0300.fin.freq",
+      "src": "<LOCAL> finished responses only",
+      "value": 4.83
+    },
+    {
+      "key": "h1.fork_b0m.step0300.fin.freq.lo",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.72
+    },
+    {
+      "key": "h1.fork_b0m.step0300.fin.freq.hi",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.94
+    },
+    {
+      "key": "h1.fork_b0m.step0300.fin.acc",
+      "src": "<LOCAL> accuracy among finished responses",
+      "value": 86.2
+    },
+    {
+      "key": "h1.fork_b0m.step0300.fin.finshare",
+      "src": "<LOCAL>
+      "value": 99.5
+    },
+    {
+      "key": "h1.fork_b0m.step0400.fin.nwait",
+      "src": "<LOCAL>
+      "value": 6047
+    },
+    {
+      "key": "h1.fork_b0m.step0400.fin.ntok",
+      "src": "<LOCAL>
+      "value": 1497826
+    },
+    {
+      "key": "h1.fork_b0m.step0400.fin.nfin",
+      "src": "<LOCAL>
+      "value": 996
+    },
+    {
+      "key": "h1.fork_b0m.step0400.fin.nresp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "h1.fork_b0m.step0400.fin.freq",
+      "src": "<LOCAL> finished responses only",
+      "value": 4.04
+    },
+    {
+      "key": "h1.fork_b0m.step0400.fin.freq.lo",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 3.94
+    },
+    {
+      "key": "h1.fork_b0m.step0400.fin.freq.hi",
+      "src": "<LOCAL> exact Poisson 95%",
+      "value": 4.14
+    },
+    {
+      "key": "h1.fork_b0m.step0400.fin.acc",
+      "src": "<LOCAL> accuracy among finished responses",
+      "value": 86.8
+    },
+    {
+      "key": "h1.fork_b0m.step0400.fin.finshare",
+      "src": "<LOCAL>
+      "value": 99.6
+    },
+    {
+      "key": "h1.fork_b0m.trend.a_wait_fin",
+      "src": "FREQ_wait(step 400)/FREQ_wait(step 0), finished responses only, matched eval (S1 settings)",
+      "value": 0.94
+    },
+    {
+      "key": "h1.fork_b0m.trend.a_wait_fin.lo",
+      "src": "FREQ_wait(step 400)/FREQ_wait(step 0), finished responses only, matched eval (S1 settings)",
+      "value": 0.91
+    },
+    {
+      "key": "h1.fork_b0m.trend.a_wait_fin.hi",
+      "src": "FREQ_wait(step 400)/FREQ_wait(step 0), finished responses only, matched eval (S1 settings)",
+      "value": 0.97
+    },
+    {
+      "key": "h1.fork_b0m.trend.fin_last_step",
+      "src": "matched eval (S1 settings)",
+      "value": 400
+    },
+    {
+      "key": "h1.fork_b0m.trend.a_wait",
+      "src": "FREQ_wait(step 400)/FREQ_wait(base), all tokens, matched eval",
+      "value": 0.81
+    },
+    {
+      "key": "h1.fork_b0m.trend.a_wait.lo",
+      "src": "FREQ_wait(step 400)/FREQ_wait(base), all tokens, matched eval",
+      "value": 0.79
+    },
+    {
+      "key": "h1.fork_b0m.trend.a_wait.hi",
+      "src": "FREQ_wait(step 400)/FREQ_wait(base), all tokens, matched eval",
+      "value": 0.84
+    },
+    {
+      "key": "h1.fork_b0m.trend.last_step",
+      "src": "matched eval",
+      "value": 400
+    }
+  ]
+}

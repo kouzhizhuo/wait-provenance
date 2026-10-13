@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "key": "gold.s1.vc_precision_qwen3",
+      "src": "exp/results/main/S1/valchange/valchange_check_qwen3.jsonl (Qwen3-32B-FP8, no-think, T=0) vs blind key: share of 50 VALUE_CHANGE=1 windows the co-rater calls a value change/contradiction",
+      "value": 10.0
+    },
+    {
+      "key": "gold.s1.vc_precision_qwen3.lo",
+      "src": "exp/results/main/S1/valchange/valchange_check_qwen3.jsonl (Qwen3-32B-FP8, no-think, T=0) vs blind key: share of 50 VALUE_CHANGE=1 windows the co-rater calls a value change/contradiction",
+      "value": 4.3
+    },
+    {
+      "key": "gold.s1.vc_precision_qwen3.hi",
+      "src": "exp/results/main/S1/valchange/valchange_check_qwen3.jsonl (Qwen3-32B-FP8, no-think, T=0) vs blind key: share of 50 VALUE_CHANGE=1 windows the co-rater calls a value change/contradiction",
+      "value": 21.4
+    },
+    {
+      "key": "gold.s1.vc_n_checked",
+      "src": "exp/results/main/S1/valchange/valchange_check_qwen3.jsonl (Qwen3-32B-FP8, no-think, T=0) vs blind key",
+      "value": 50
+    },
+    {
+      "key": "gold.s1.vc_n_yes",
+      "src": "exp/results/main/S1/valchange/valchange_check_qwen3.jsonl (Qwen3-32B-FP8, no-think, T=0) vs blind key",
+      "value": 5
+    },
+    {
+      "key": "gold.s1.vc_recall_proxy_qwen3",
+      "src": "exp/results/main/S1/valchange/valchange_check_qwen3.jsonl (Qwen3-32B-FP8, no-think, T=0) vs blind key: among the 50 random judge-REVISE=1 windows, share of those the co-rater calls a value change that the detector flags",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s1.vc_recall_proxy_qwen3.lo",
+      "src": "exp/results/main/S1/valchange/valchange_check_qwen3.jsonl (Qwen3-32B-FP8, no-think, T=0) vs blind key: among the 50 random judge-REVISE=1 windows, share of those the co-rater calls a value change that the detector flags",
+      "value": 0.0
+    },
+    {
+      "key": "gold.s1.vc_recall_proxy_qwen3.hi",
+      "src": "exp/results/main/S1/valchange/valchange_check_qwen3.jsonl (Qwen3-32B-FP8, no-think, T=0) vs blind key: among the 50 random judge-REVISE=1 windows, share of those the co-rater calls a value change that the detector flags",
+      "value": 16.8
+    },
+    {
+      "key": "gold.s1.rev_qwen3_yes_share",
+      "src": "exp/results/main/S1/valchange/valchange_check_qwen3.jsonl (Qwen3-32B-FP8, no-think, T=0) vs blind key: share of judge-REVISE=1 windows the co-rater calls a value change",
+      "value": 38.0
+    },
+    {
+      "key": "gold.s1.rev_qwen3_yes_n",
+      "src": "exp/results/main/S1/valchange/valchange_check_qwen3.jsonl (Qwen3-32B-FP8, no-think, T=0) vs blind key",
+      "value": 19
+    },
+    {
+      "key": "gold.s1.rev_n_checked",
+      "src": "exp/results/main/S1/valchange/valchange_check_qwen3.jsonl (Qwen3-32B-FP8, no-think, T=0) vs blind key",
+      "value": 50
+    }
+  ],
+  "note": "co-rater only; the Claude/human rating of the same 100 items is separate"
+}

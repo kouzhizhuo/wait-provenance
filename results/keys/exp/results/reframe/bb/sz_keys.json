@@ -1,0 +1,3726 @@
+{
+  "entries": [
+    {
+      "key": "h1.bb_gr3_4_s1.final.nwait",
+      "src": "exp/results/scale/bb/BB_gr3_4_s1/gen_v1/BB_gr3_4_s1_v1.idx.json::primary: authors' own eval setting",
+      "value": 93
+    },
+    {
+      "key": "h1.bb_gr3_4_s1.final.ntok",
+      "src": "exp/results/scale/bb/BB_gr3_4_s1/gen_v1/BB_gr3_4_s1_v1.idx.json::primary: authors' own eval setting",
+      "value": 526054
+    },
+    {
+      "key": "h1.bb_gr3_4_s1.final.freq2",
+      "src": "exp/results/scale/bb/BB_gr3_4_s1/gen_v1/BB_gr3_4_s1_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.18
+    },
+    {
+      "key": "h1.bb_gr3_4_s1.final.freq4",
+      "src": "exp/results/scale/bb/BB_gr3_4_s1/gen_v1/BB_gr3_4_s1_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.1768
+    },
+    {
+      "key": "h1.bb_gr3_4_s1.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.1427
+    },
+    {
+      "key": "h1.bb_gr3_4_s1.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.2166
+    },
+    {
+      "key": "h1.bb_gr3_4_s1.final.si",
+      "src": "exp/results/scale/bb/BB_gr3_4_s1/gen_v1/BB_gr3_4_s1_v1.idx.json::primary: authors' own eval setting::indices.SI",
+      "value": 66.7
+    },
+    {
+      "key": "h1.bb_gr3_4_s1.final.si.lo",
+      "src": "exp/results/scale/bb/BB_gr3_4_s1/gen_v1/BB_gr3_4_s1_v1.idx.json::primary: authors' own eval setting::indices.SI",
+      "value": 46.5
+    },
+    {
+      "key": "h1.bb_gr3_4_s1.final.si.hi",
+      "src": "exp/results/scale/bb/BB_gr3_4_s1/gen_v1/BB_gr3_4_s1_v1.idx.json::primary: authors' own eval setting::indices.SI",
+      "value": 84.9
+    },
+    {
+      "key": "h1.bb_gr3_4_s1.final.orth",
+      "src": "exp/results/scale/bb/BB_gr3_4_s1/gen_v1/BB_gr3_4_s1_v1.idx.json::primary: authors' own eval setting::indices.ORTH",
+      "value": 67.7
+    },
+    {
+      "key": "h1.bb_gr3_4_s1.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_gr3_4_s1/gen_v1/BB_gr3_4_s1_v1.idx.json::primary: authors' own eval setting::indices.ORTH",
+      "value": 46.7
+    },
+    {
+      "key": "h1.bb_gr3_4_s1.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_gr3_4_s1/gen_v1/BB_gr3_4_s1_v1.idx.json::primary: authors' own eval setting::indices.ORTH",
+      "value": 86.0
+    },
+    {
+      "key": "ctl.bb_gr3_4_s1.final.acc",
+      "src": "exp/results/scale/bb/BB_gr3_4_s1/gen_v1/BB_gr3_4_s1_v1.idx.json::primary: authors' own eval setting",
+      "value": 79.0
+    },
+    {
+      "key": "ctl.bb_gr3_4_s1.final.trunc",
+      "src": "exp/results/scale/bb/BB_gr3_4_s1/gen_v1/BB_gr3_4_s1_v1.idx.json::primary: authors' own eval setting",
+      "value": 2.0
+    },
+    {
+      "key": "h1.bb_gr3_4_s2.final.nwait",
+      "src": "exp/results/scale/bb/BB_gr3_4_s2/gen_v1/BB_gr3_4_s2_v1.idx.json::primary: authors' own eval setting",
+      "value": 75
+    },
+    {
+      "key": "h1.bb_gr3_4_s2.final.ntok",
+      "src": "exp/results/scale/bb/BB_gr3_4_s2/gen_v1/BB_gr3_4_s2_v1.idx.json::primary: authors' own eval setting",
+      "value": 502288
+    },
+    {
+      "key": "h1.bb_gr3_4_s2.final.freq2",
+      "src": "exp/results/scale/bb/BB_gr3_4_s2/gen_v1/BB_gr3_4_s2_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.15
+    },
+    {
+      "key": "h1.bb_gr3_4_s2.final.freq4",
+      "src": "exp/results/scale/bb/BB_gr3_4_s2/gen_v1/BB_gr3_4_s2_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.1493
+    },
+    {
+      "key": "h1.bb_gr3_4_s2.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.1174
+    },
+    {
+      "key": "h1.bb_gr3_4_s2.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.1872
+    },
+    {
+      "key": "h1.bb_gr3_4_s2.final.si",
+      "src": "exp/results/scale/bb/BB_gr3_4_s2/gen_v1/BB_gr3_4_s2_v1.idx.json::primary: authors' own eval setting::indices.SI",
+      "value": 73.3
+    },
+    {
+      "key": "h1.bb_gr3_4_s2.final.si.lo",
+      "src": "exp/results/scale/bb/BB_gr3_4_s2/gen_v1/BB_gr3_4_s2_v1.idx.json::primary: authors' own eval setting::indices.SI",
+      "value": 59.8
+    },
+    {
+      "key": "h1.bb_gr3_4_s2.final.si.hi",
+      "src": "exp/results/scale/bb/BB_gr3_4_s2/gen_v1/BB_gr3_4_s2_v1.idx.json::primary: authors' own eval setting::indices.SI",
+      "value": 86.3
+    },
+    {
+      "key": "h1.bb_gr3_4_s2.final.orth",
+      "src": "exp/results/scale/bb/BB_gr3_4_s2/gen_v1/BB_gr3_4_s2_v1.idx.json::primary: authors' own eval setting::indices.ORTH",
+      "value": 78.7
+    },
+    {
+      "key": "h1.bb_gr3_4_s2.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_gr3_4_s2/gen_v1/BB_gr3_4_s2_v1.idx.json::primary: authors' own eval setting::indices.ORTH",
+      "value": 61.9
+    },
+    {
+      "key": "h1.bb_gr3_4_s2.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_gr3_4_s2/gen_v1/BB_gr3_4_s2_v1.idx.json::primary: authors' own eval setting::indices.ORTH",
+      "value": 89.9
+    },
+    {
+      "key": "ctl.bb_gr3_4_s2.final.acc",
+      "src": "exp/results/scale/bb/BB_gr3_4_s2/gen_v1/BB_gr3_4_s2_v1.idx.json::primary: authors' own eval setting",
+      "value": 77.4
+    },
+    {
+      "key": "ctl.bb_gr3_4_s2.final.trunc",
+      "src": "exp/results/scale/bb/BB_gr3_4_s2/gen_v1/BB_gr3_4_s2_v1.idx.json::primary: authors' own eval setting",
+      "value": 1.8
+    },
+    {
+      "key": "h1.bb_gr3_4_s3.final.nwait",
+      "src": "exp/results/scale/bb/BB_gr3_4_s3/gen_v1/BB_gr3_4_s3_v1.idx.json::primary: authors' own eval setting",
+      "value": 68
+    },
+    {
+      "key": "h1.bb_gr3_4_s3.final.ntok",
+      "src": "exp/results/scale/bb/BB_gr3_4_s3/gen_v1/BB_gr3_4_s3_v1.idx.json::primary: authors' own eval setting",
+      "value": 495434
+    },
+    {
+      "key": "h1.bb_gr3_4_s3.final.freq2",
+      "src": "exp/results/scale/bb/BB_gr3_4_s3/gen_v1/BB_gr3_4_s3_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.14
+    },
+    {
+      "key": "h1.bb_gr3_4_s3.final.freq4",
+      "src": "exp/results/scale/bb/BB_gr3_4_s3/gen_v1/BB_gr3_4_s3_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.1373
+    },
+    {
+      "key": "h1.bb_gr3_4_s3.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.1066
+    },
+    {
+      "key": "h1.bb_gr3_4_s3.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.174
+    },
+    {
+      "key": "h1.bb_gr3_4_s3.final.si",
+      "src": "exp/results/scale/bb/BB_gr3_4_s3/gen_v1/BB_gr3_4_s3_v1.idx.json::primary: authors' own eval setting::indices.SI",
+      "value": 77.9
+    },
+    {
+      "key": "h1.bb_gr3_4_s3.final.si.lo",
+      "src": "exp/results/scale/bb/BB_gr3_4_s3/gen_v1/BB_gr3_4_s3_v1.idx.json::primary: authors' own eval setting::indices.SI",
+      "value": 65.5
+    },
+    {
+      "key": "h1.bb_gr3_4_s3.final.si.hi",
+      "src": "exp/results/scale/bb/BB_gr3_4_s3/gen_v1/BB_gr3_4_s3_v1.idx.json::primary: authors' own eval setting::indices.SI",
+      "value": 87.8
+    },
+    {
+      "key": "h1.bb_gr3_4_s3.final.orth",
+      "src": "exp/results/scale/bb/BB_gr3_4_s3/gen_v1/BB_gr3_4_s3_v1.idx.json::primary: authors' own eval setting::indices.ORTH",
+      "value": 77.9
+    },
+    {
+      "key": "h1.bb_gr3_4_s3.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_gr3_4_s3/gen_v1/BB_gr3_4_s3_v1.idx.json::primary: authors' own eval setting::indices.ORTH",
+      "value": 65.5
+    },
+    {
+      "key": "h1.bb_gr3_4_s3.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_gr3_4_s3/gen_v1/BB_gr3_4_s3_v1.idx.json::primary: authors' own eval setting::indices.ORTH",
+      "value": 87.8
+    },
+    {
+      "key": "ctl.bb_gr3_4_s3.final.acc",
+      "src": "exp/results/scale/bb/BB_gr3_4_s3/gen_v1/BB_gr3_4_s3_v1.idx.json::primary: authors' own eval setting",
+      "value": 79.4
+    },
+    {
+      "key": "ctl.bb_gr3_4_s3.final.trunc",
+      "src": "exp/results/scale/bb/BB_gr3_4_s3/gen_v1/BB_gr3_4_s3_v1.idx.json::primary: authors' own eval setting",
+      "value": 1.0
+    },
+    {
+      "key": "h1.bb_gr7_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_gr7_base/gen_v1/BB_gr7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_gr7_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_gr7_base/gen_v1/BB_gr7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 341649
+    },
+    {
+      "key": "h1.bb_gr7_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_gr7_base/gen_v1/BB_gr7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr7_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_gr7_base/gen_v1/BB_gr7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr7_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr7_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0108
+    },
+    {
+      "key": "ctl.bb_gr7_base.final.acc",
+      "src": "exp/results/scale/bb/BB_gr7_base/gen_v1/BB_gr7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 61.6
+    },
+    {
+      "key": "ctl.bb_gr7_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_gr7_base/gen_v1/BB_gr7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 2.4
+    },
+    {
+      "key": "h1.bb_gr7_base.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_gr7_base/gen_t06/BB_gr7_base_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_gr7_base.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_gr7_base/gen_t06/BB_gr7_base_t06.idx.json::robustness decode t06",
+      "value": 1263150
+    },
+    {
+      "key": "h1.bb_gr7_base.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_gr7_base/gen_t06/BB_gr7_base_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr7_base.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr7_base.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0029
+    },
+    {
+      "key": "ctl.bb_gr7_base.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_gr7_base/gen_t06/BB_gr7_base_t06.idx.json::robustness decode t06",
+      "value": 59.6
+    },
+    {
+      "key": "ctl.bb_gr7_base.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_gr7_base/gen_t06/BB_gr7_base_t06.idx.json::robustness decode t06",
+      "value": 1.4
+    },
+    {
+      "key": "h1.bb_gr7.final.nwait",
+      "src": "exp/results/scale/bb/BB_gr7/gen_v1/BB_gr7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_gr7.final.ntok",
+      "src": "exp/results/scale/bb/BB_gr7/gen_v1/BB_gr7_v1.idx.json::primary: authors' own eval setting",
+      "value": 370856
+    },
+    {
+      "key": "h1.bb_gr7.final.freq2",
+      "src": "exp/results/scale/bb/BB_gr7/gen_v1/BB_gr7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr7.final.freq4",
+      "src": "exp/results/scale/bb/BB_gr7/gen_v1/BB_gr7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr7.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr7.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0099
+    },
+    {
+      "key": "ctl.bb_gr7.final.acc",
+      "src": "exp/results/scale/bb/BB_gr7/gen_v1/BB_gr7_v1.idx.json::primary: authors' own eval setting",
+      "value": 75.6
+    },
+    {
+      "key": "ctl.bb_gr7.final.trunc",
+      "src": "exp/results/scale/bb/BB_gr7/gen_v1/BB_gr7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.4
+    },
+    {
+      "key": "h1.bb_gr7.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_gr7/gen_t06/BB_gr7_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_gr7.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_gr7/gen_t06/BB_gr7_t06.idx.json::robustness decode t06",
+      "value": 1465440
+    },
+    {
+      "key": "h1.bb_gr7.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_gr7/gen_t06/BB_gr7_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr7.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr7.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0025
+    },
+    {
+      "key": "ctl.bb_gr7.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_gr7/gen_t06/BB_gr7_t06.idx.json::robustness decode t06",
+      "value": 73.7
+    },
+    {
+      "key": "ctl.bb_gr7.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_gr7/gen_t06/BB_gr7_t06.idx.json::robustness decode t06",
+      "value": 0.1
+    },
+    {
+      "key": "h1.bb_gr14_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_gr14_base/gen_v1/BB_gr14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_gr14_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_gr14_base/gen_v1/BB_gr14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 402903
+    },
+    {
+      "key": "h1.bb_gr14_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_gr14_base/gen_v1/BB_gr14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr14_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_gr14_base/gen_v1/BB_gr14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr14_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr14_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0092
+    },
+    {
+      "key": "ctl.bb_gr14_base.final.acc",
+      "src": "exp/results/scale/bb/BB_gr14_base/gen_v1/BB_gr14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 67.0
+    },
+    {
+      "key": "ctl.bb_gr14_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_gr14_base/gen_v1/BB_gr14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 5.0
+    },
+    {
+      "key": "h1.bb_gr14_base.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_gr14_base/gen_t06/BB_gr14_base_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_gr14_base.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_gr14_base/gen_t06/BB_gr14_base_t06.idx.json::robustness decode t06",
+      "value": 1133336
+    },
+    {
+      "key": "h1.bb_gr14_base.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_gr14_base/gen_t06/BB_gr14_base_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr14_base.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr14_base.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0033
+    },
+    {
+      "key": "ctl.bb_gr14_base.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_gr14_base/gen_t06/BB_gr14_base_t06.idx.json::robustness decode t06",
+      "value": 64.0
+    },
+    {
+      "key": "ctl.bb_gr14_base.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_gr14_base/gen_t06/BB_gr14_base_t06.idx.json::robustness decode t06",
+      "value": 1.6
+    },
+    {
+      "key": "h1.bb_gr14.final.nwait",
+      "src": "exp/results/scale/bb/BB_gr14/gen_v1/BB_gr14_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_gr14.final.ntok",
+      "src": "exp/results/scale/bb/BB_gr14/gen_v1/BB_gr14_v1.idx.json::primary: authors' own eval setting",
+      "value": 429343
+    },
+    {
+      "key": "h1.bb_gr14.final.freq2",
+      "src": "exp/results/scale/bb/BB_gr14/gen_v1/BB_gr14_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr14.final.freq4",
+      "src": "exp/results/scale/bb/BB_gr14/gen_v1/BB_gr14_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr14.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr14.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0086
+    },
+    {
+      "key": "ctl.bb_gr14.final.acc",
+      "src": "exp/results/scale/bb/BB_gr14/gen_v1/BB_gr14_v1.idx.json::primary: authors' own eval setting",
+      "value": 77.0
+    },
+    {
+      "key": "ctl.bb_gr14.final.trunc",
+      "src": "exp/results/scale/bb/BB_gr14/gen_v1/BB_gr14_v1.idx.json::primary: authors' own eval setting",
+      "value": 1.4
+    },
+    {
+      "key": "h1.bb_gr14.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_gr14/gen_t06/BB_gr14_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_gr14.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_gr14/gen_t06/BB_gr14_t06.idx.json::robustness decode t06",
+      "value": 1542160
+    },
+    {
+      "key": "h1.bb_gr14.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_gr14/gen_t06/BB_gr14_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr14.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr14.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0024
+    },
+    {
+      "key": "ctl.bb_gr14.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_gr14/gen_t06/BB_gr14_t06.idx.json::robustness decode t06",
+      "value": 76.8
+    },
+    {
+      "key": "ctl.bb_gr14.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_gr14/gen_t06/BB_gr14_t06.idx.json::robustness decode t06",
+      "value": 0.1
+    },
+    {
+      "key": "h1.bb_gr3_4_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_gr3_4_base/gen_v1/BB_gr3_4_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_gr3_4_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_gr3_4_base/gen_v1/BB_gr3_4_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 434190
+    },
+    {
+      "key": "h1.bb_gr3_4_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_gr3_4_base/gen_v1/BB_gr3_4_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr3_4_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_gr3_4_base/gen_v1/BB_gr3_4_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0023
+    },
+    {
+      "key": "h1.bb_gr3_4_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0001
+    },
+    {
+      "key": "h1.bb_gr3_4_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0128
+    },
+    {
+      "key": "ctl.bb_gr3_4_base.final.acc",
+      "src": "exp/results/scale/bb/BB_gr3_4_base/gen_v1/BB_gr3_4_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 71.2
+    },
+    {
+      "key": "ctl.bb_gr3_4_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_gr3_4_base/gen_v1/BB_gr3_4_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 4.4
+    },
+    {
+      "key": "h1.bb_gr3_4_base.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_gr3_4_base/gen_t06/BB_gr3_4_base_t06.idx.json::robustness decode t06",
+      "value": 42
+    },
+    {
+      "key": "h1.bb_gr3_4_base.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_gr3_4_base/gen_t06/BB_gr3_4_base_t06.idx.json::robustness decode t06",
+      "value": 2345946
+    },
+    {
+      "key": "h1.bb_gr3_4_base.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_gr3_4_base/gen_t06/BB_gr3_4_base_t06.idx.json::robustness decode t06",
+      "value": 0.0179
+    },
+    {
+      "key": "h1.bb_gr3_4_base.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0129
+    },
+    {
+      "key": "h1.bb_gr3_4_base.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0242
+    },
+    {
+      "key": "ctl.bb_gr3_4_base.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_gr3_4_base/gen_t06/BB_gr3_4_base_t06.idx.json::robustness decode t06",
+      "value": 62.4
+    },
+    {
+      "key": "ctl.bb_gr3_4_base.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_gr3_4_base/gen_t06/BB_gr3_4_base_t06.idx.json::robustness decode t06",
+      "value": 8.2
+    },
+    {
+      "key": "h1.bb_gr3_4.final.nwait",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_v1/BB_gr3_4_v1.idx.json::primary: authors' own eval setting",
+      "value": 153
+    },
+    {
+      "key": "h1.bb_gr3_4.final.ntok",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_v1/BB_gr3_4_v1.idx.json::primary: authors' own eval setting",
+      "value": 532823
+    },
+    {
+      "key": "h1.bb_gr3_4.final.freq2",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_v1/BB_gr3_4_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.29
+    },
+    {
+      "key": "h1.bb_gr3_4.final.freq4",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_v1/BB_gr3_4_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.2871
+    },
+    {
+      "key": "h1.bb_gr3_4.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.2435
+    },
+    {
+      "key": "h1.bb_gr3_4.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.3364
+    },
+    {
+      "key": "h1.bb_gr3_4.final.si",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_v1/BB_gr3_4_v1.idx.json::primary: authors' own eval setting::indices.SI",
+      "value": 79.1
+    },
+    {
+      "key": "h1.bb_gr3_4.final.si.lo",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_v1/BB_gr3_4_v1.idx.json::primary: authors' own eval setting::indices.SI",
+      "value": 38.0
+    },
+    {
+      "key": "h1.bb_gr3_4.final.si.hi",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_v1/BB_gr3_4_v1.idx.json::primary: authors' own eval setting::indices.SI",
+      "value": 96.7
+    },
+    {
+      "key": "h1.bb_gr3_4.final.orth",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_v1/BB_gr3_4_v1.idx.json::primary: authors' own eval setting::indices.ORTH",
+      "value": 79.1
+    },
+    {
+      "key": "h1.bb_gr3_4.final.orth.lo",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_v1/BB_gr3_4_v1.idx.json::primary: authors' own eval setting::indices.ORTH",
+      "value": 38.0
+    },
+    {
+      "key": "h1.bb_gr3_4.final.orth.hi",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_v1/BB_gr3_4_v1.idx.json::primary: authors' own eval setting::indices.ORTH",
+      "value": 96.7
+    },
+    {
+      "key": "ctl.bb_gr3_4.final.acc",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_v1/BB_gr3_4_v1.idx.json::primary: authors' own eval setting",
+      "value": 79.0
+    },
+    {
+      "key": "ctl.bb_gr3_4.final.trunc",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_v1/BB_gr3_4_v1.idx.json::primary: authors' own eval setting",
+      "value": 2.4
+    },
+    {
+      "key": "h1.bb_gr3_4.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_t06/BB_gr3_4_t06.idx.json::robustness decode t06",
+      "value": 390
+    },
+    {
+      "key": "h1.bb_gr3_4.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_t06/BB_gr3_4_t06.idx.json::robustness decode t06",
+      "value": 2020865
+    },
+    {
+      "key": "h1.bb_gr3_4.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_t06/BB_gr3_4_t06.idx.json::robustness decode t06",
+      "value": 0.193
+    },
+    {
+      "key": "h1.bb_gr3_4.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.1743
+    },
+    {
+      "key": "h1.bb_gr3_4.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.2131
+    },
+    {
+      "key": "ctl.bb_gr3_4.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_t06/BB_gr3_4_t06.idx.json::robustness decode t06",
+      "value": 79.0
+    },
+    {
+      "key": "ctl.bb_gr3_4.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_gr3_4/gen_t06/BB_gr3_4_t06.idx.json::robustness decode t06",
+      "value": 1.5
+    },
+    {
+      "key": "h1.bb_gr3_14_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_gr3_14_base/gen_v1/BB_gr3_14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_gr3_14_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_gr3_14_base/gen_v1/BB_gr3_14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 358905
+    },
+    {
+      "key": "h1.bb_gr3_14_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_gr3_14_base/gen_v1/BB_gr3_14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr3_14_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_gr3_14_base/gen_v1/BB_gr3_14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr3_14_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr3_14_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0103
+    },
+    {
+      "key": "ctl.bb_gr3_14_base.final.acc",
+      "src": "exp/results/scale/bb/BB_gr3_14_base/gen_v1/BB_gr3_14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 79.2
+    },
+    {
+      "key": "ctl.bb_gr3_14_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_gr3_14_base/gen_v1/BB_gr3_14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 2.2
+    },
+    {
+      "key": "h1.bb_gr3_14_base.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_gr3_14_base/gen_t06/BB_gr3_14_base_t06.idx.json::robustness decode t06",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_gr3_14_base.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_gr3_14_base/gen_t06/BB_gr3_14_base_t06.idx.json::robustness decode t06",
+      "value": 1338399
+    },
+    {
+      "key": "h1.bb_gr3_14_base.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_gr3_14_base/gen_t06/BB_gr3_14_base_t06.idx.json::robustness decode t06",
+      "value": 0.0007
+    },
+    {
+      "key": "h1.bb_gr3_14_base.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_gr3_14_base.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0042
+    },
+    {
+      "key": "ctl.bb_gr3_14_base.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_gr3_14_base/gen_t06/BB_gr3_14_base_t06.idx.json::robustness decode t06",
+      "value": 77.0
+    },
+    {
+      "key": "ctl.bb_gr3_14_base.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_gr3_14_base/gen_t06/BB_gr3_14_base_t06.idx.json::robustness decode t06",
+      "value": 1.6
+    },
+    {
+      "key": "h1.bb_gr3_14.final.nwait",
+      "src": "exp/results/scale/bb/BB_gr3_14/gen_v1/BB_gr3_14_v1.idx.json::primary: authors' own eval setting",
+      "value": 17
+    },
+    {
+      "key": "h1.bb_gr3_14.final.ntok",
+      "src": "exp/results/scale/bb/BB_gr3_14/gen_v1/BB_gr3_14_v1.idx.json::primary: authors' own eval setting",
+      "value": 470629
+    },
+    {
+      "key": "h1.bb_gr3_14.final.freq2",
+      "src": "exp/results/scale/bb/BB_gr3_14/gen_v1/BB_gr3_14_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.04
+    },
+    {
+      "key": "h1.bb_gr3_14.final.freq4",
+      "src": "exp/results/scale/bb/BB_gr3_14/gen_v1/BB_gr3_14_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0361
+    },
+    {
+      "key": "h1.bb_gr3_14.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.021
+    },
+    {
+      "key": "h1.bb_gr3_14.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0578
+    },
+    {
+      "key": "ctl.bb_gr3_14.final.acc",
+      "src": "exp/results/scale/bb/BB_gr3_14/gen_v1/BB_gr3_14_v1.idx.json::primary: authors' own eval setting",
+      "value": 85.2
+    },
+    {
+      "key": "ctl.bb_gr3_14.final.trunc",
+      "src": "exp/results/scale/bb/BB_gr3_14/gen_v1/BB_gr3_14_v1.idx.json::primary: authors' own eval setting",
+      "value": 2.4
+    },
+    {
+      "key": "h1.bb_gr3_14.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_gr3_14/gen_t06/BB_gr3_14_t06.idx.json::robustness decode t06",
+      "value": 253
+    },
+    {
+      "key": "h1.bb_gr3_14.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_gr3_14/gen_t06/BB_gr3_14_t06.idx.json::robustness decode t06",
+      "value": 1904894
+    },
+    {
+      "key": "h1.bb_gr3_14.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_gr3_14/gen_t06/BB_gr3_14_t06.idx.json::robustness decode t06",
+      "value": 0.1328
+    },
+    {
+      "key": "h1.bb_gr3_14.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.117
+    },
+    {
+      "key": "h1.bb_gr3_14.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.1502
+    },
+    {
+      "key": "ctl.bb_gr3_14.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_gr3_14/gen_t06/BB_gr3_14_t06.idx.json::robustness decode t06",
+      "value": 87.2
+    },
+    {
+      "key": "ctl.bb_gr3_14.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_gr3_14/gen_t06/BB_gr3_14_t06.idx.json::robustness decode t06",
+      "value": 2.3
+    },
+    {
+      "key": "h1.bb_os15_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_os15_base/gen_v1/BB_os15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_os15_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_os15_base/gen_v1/BB_os15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 837386
+    },
+    {
+      "key": "h1.bb_os15_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_os15_base/gen_v1/BB_os15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_os15_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_os15_base/gen_v1/BB_os15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_os15_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_os15_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0044
+    },
+    {
+      "key": "ctl.bb_os15_base.final.acc",
+      "src": "exp/results/scale/bb/BB_os15_base/gen_v1/BB_os15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 32.8
+    },
+    {
+      "key": "ctl.bb_os15_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_os15_base/gen_v1/BB_os15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 40.6
+    },
+    {
+      "key": "h1.bb_os15.final.nwait",
+      "src": "exp/results/scale/bb/BB_os15/gen_v1/BB_os15_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_os15.final.ntok",
+      "src": "exp/results/scale/bb/BB_os15/gen_v1/BB_os15_v1.idx.json::primary: authors' own eval setting",
+      "value": 359575
+    },
+    {
+      "key": "h1.bb_os15.final.freq2",
+      "src": "exp/results/scale/bb/BB_os15/gen_v1/BB_os15_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_os15.final.freq4",
+      "src": "exp/results/scale/bb/BB_os15/gen_v1/BB_os15_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_os15.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_os15.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0103
+    },
+    {
+      "key": "ctl.bb_os15.final.acc",
+      "src": "exp/results/scale/bb/BB_os15/gen_v1/BB_os15_v1.idx.json::primary: authors' own eval setting",
+      "value": 72.6
+    },
+    {
+      "key": "ctl.bb_os15.final.trunc",
+      "src": "exp/results/scale/bb/BB_os15/gen_v1/BB_os15_v1.idx.json::primary: authors' own eval setting",
+      "value": 4.8
+    },
+    {
+      "key": "h1.bb_oat15_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_oat15_base/gen_v1/BB_oat15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_oat15_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_oat15_base/gen_v1/BB_oat15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 854726
+    },
+    {
+      "key": "h1.bb_oat15_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_oat15_base/gen_v1/BB_oat15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat15_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_oat15_base/gen_v1/BB_oat15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0012
+    },
+    {
+      "key": "h1.bb_oat15_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat15_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0065
+    },
+    {
+      "key": "ctl.bb_oat15_base.final.acc",
+      "src": "exp/results/scale/bb/BB_oat15_base/gen_v1/BB_oat15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 24.6
+    },
+    {
+      "key": "ctl.bb_oat15_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_oat15_base/gen_v1/BB_oat15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat15.final.nwait",
+      "src": "exp/results/scale/bb/BB_oat15/gen_v1/BB_oat15_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_oat15.final.ntok",
+      "src": "exp/results/scale/bb/BB_oat15/gen_v1/BB_oat15_v1.idx.json::primary: authors' own eval setting",
+      "value": 349461
+    },
+    {
+      "key": "h1.bb_oat15.final.freq2",
+      "src": "exp/results/scale/bb/BB_oat15/gen_v1/BB_oat15_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat15.final.freq4",
+      "src": "exp/results/scale/bb/BB_oat15/gen_v1/BB_oat15_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat15.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat15.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0106
+    },
+    {
+      "key": "ctl.bb_oat15.final.acc",
+      "src": "exp/results/scale/bb/BB_oat15/gen_v1/BB_oat15_v1.idx.json::primary: authors' own eval setting",
+      "value": 72.6
+    },
+    {
+      "key": "ctl.bb_oat15.final.trunc",
+      "src": "exp/results/scale/bb/BB_oat15/gen_v1/BB_oat15_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz32_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_orz32_base/gen_v1/BB_orz32_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_orz32_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_orz32_base/gen_v1/BB_orz32_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 424454
+    },
+    {
+      "key": "h1.bb_orz32_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_orz32_base/gen_v1/BB_orz32_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz32_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_orz32_base/gen_v1/BB_orz32_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz32_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz32_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0087
+    },
+    {
+      "key": "ctl.bb_orz32_base.final.acc",
+      "src": "exp/results/scale/bb/BB_orz32_base/gen_v1/BB_orz32_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 10.8
+    },
+    {
+      "key": "ctl.bb_orz32_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_orz32_base/gen_v1/BB_orz32_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 2.0
+    },
+    {
+      "key": "h1.bb_orz32.final.nwait",
+      "src": "exp/results/scale/bb/BB_orz32/gen_v1/BB_orz32_v1.idx.json::primary: authors' own eval setting",
+      "value": 4
+    },
+    {
+      "key": "h1.bb_orz32.final.ntok",
+      "src": "exp/results/scale/bb/BB_orz32/gen_v1/BB_orz32_v1.idx.json::primary: authors' own eval setting",
+      "value": 2379766
+    },
+    {
+      "key": "h1.bb_orz32.final.freq2",
+      "src": "exp/results/scale/bb/BB_orz32/gen_v1/BB_orz32_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz32.final.freq4",
+      "src": "exp/results/scale/bb/BB_orz32/gen_v1/BB_orz32_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0017
+    },
+    {
+      "key": "h1.bb_orz32.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0005
+    },
+    {
+      "key": "h1.bb_orz32.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0043
+    },
+    {
+      "key": "ctl.bb_orz32.final.acc",
+      "src": "exp/results/scale/bb/BB_orz32/gen_v1/BB_orz32_v1.idx.json::primary: authors' own eval setting",
+      "value": 91.4
+    },
+    {
+      "key": "ctl.bb_orz32.final.trunc",
+      "src": "exp/results/scale/bb/BB_orz32/gen_v1/BB_orz32_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.6
+    },
+    {
+      "key": "h1.bb_sz_q32_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_q32_base/gen_v1/BB_sz_q32_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q32_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_q32_base/gen_v1/BB_sz_q32_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 253613
+    },
+    {
+      "key": "h1.bb_sz_q32_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_q32_base/gen_v1/BB_sz_q32_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q32_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_q32_base/gen_v1/BB_sz_q32_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q32_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q32_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0145
+    },
+    {
+      "key": "ctl.bb_sz_q32_base.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_q32_base/gen_v1/BB_sz_q32_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 50.4
+    },
+    {
+      "key": "ctl.bb_sz_q32_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_q32_base/gen_v1/BB_sz_q32_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.2
+    },
+    {
+      "key": "h1.bb_sz_q32.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_q32/gen_v1/BB_sz_q32_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q32.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_q32/gen_v1/BB_sz_q32_v1.idx.json::primary: authors' own eval setting",
+      "value": 295706
+    },
+    {
+      "key": "h1.bb_sz_q32.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_q32/gen_v1/BB_sz_q32_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q32.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_q32/gen_v1/BB_sz_q32_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q32.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q32.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0125
+    },
+    {
+      "key": "ctl.bb_sz_q32.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_q32/gen_v1/BB_sz_q32_v1.idx.json::primary: authors' own eval setting",
+      "value": 83.8
+    },
+    {
+      "key": "ctl.bb_sz_q32.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_q32/gen_v1/BB_sz_q32_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_m24_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_m24_base/gen_v1/BB_sz_m24_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_m24_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_m24_base/gen_v1/BB_sz_m24_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 296128
+    },
+    {
+      "key": "h1.bb_sz_m24_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_m24_base/gen_v1/BB_sz_m24_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_m24_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_m24_base/gen_v1/BB_sz_m24_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_m24_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_m24_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0125
+    },
+    {
+      "key": "ctl.bb_sz_m24_base.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_m24_base/gen_v1/BB_sz_m24_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 21.4
+    },
+    {
+      "key": "ctl.bb_sz_m24_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_m24_base/gen_v1/BB_sz_m24_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 2.0
+    },
+    {
+      "key": "h1.bb_sz_m24.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_m24/gen_v1/BB_sz_m24_v1.idx.json::primary: authors' own eval setting",
+      "value": 7
+    },
+    {
+      "key": "h1.bb_sz_m24.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_m24/gen_v1/BB_sz_m24_v1.idx.json::primary: authors' own eval setting",
+      "value": 1500001
+    },
+    {
+      "key": "h1.bb_sz_m24.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_m24/gen_v1/BB_sz_m24_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_m24.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_m24/gen_v1/BB_sz_m24_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0047
+    },
+    {
+      "key": "h1.bb_sz_m24.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0019
+    },
+    {
+      "key": "h1.bb_sz_m24.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0096
+    },
+    {
+      "key": "ctl.bb_sz_m24.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_m24/gen_v1/BB_sz_m24_v1.idx.json::primary: authors' own eval setting",
+      "value": 75.8
+    },
+    {
+      "key": "ctl.bb_sz_m24.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_m24/gen_v1/BB_sz_m24_v1.idx.json::primary: authors' own eval setting",
+      "value": 4.4
+    },
+    {
+      "key": "h1.bb_orz7b_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_orz7b_base/gen_v1/BB_orz7b_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_orz7b_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_orz7b_base/gen_v1/BB_orz7b_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 326045
+    },
+    {
+      "key": "h1.bb_orz7b_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_orz7b_base/gen_v1/BB_orz7b_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_orz7b_base/gen_v1/BB_orz7b_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0031
+    },
+    {
+      "key": "h1.bb_orz7b_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0001
+    },
+    {
+      "key": "h1.bb_orz7b_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0171
+    },
+    {
+      "key": "ctl.bb_orz7b_base.final.acc",
+      "src": "exp/results/scale/bb/BB_orz7b_base/gen_v1/BB_orz7b_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 13.2
+    },
+    {
+      "key": "ctl.bb_orz7b_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_orz7b_base/gen_v1/BB_orz7b_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.8
+    },
+    {
+      "key": "h1.bb_orz7b_base.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_orz7b_base/gen_t06/BB_orz7b_base_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_orz7b_base.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_orz7b_base/gen_t06/BB_orz7b_base_t06.idx.json::robustness decode t06",
+      "value": 1291335
+    },
+    {
+      "key": "h1.bb_orz7b_base.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_orz7b_base/gen_t06/BB_orz7b_base_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b_base.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b_base.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0029
+    },
+    {
+      "key": "ctl.bb_orz7b_base.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_orz7b_base/gen_t06/BB_orz7b_base_t06.idx.json::robustness decode t06",
+      "value": 31.1
+    },
+    {
+      "key": "ctl.bb_orz7b_base.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_orz7b_base/gen_t06/BB_orz7b_base_t06.idx.json::robustness decode t06",
+      "value": 1.1
+    },
+    {
+      "key": "h1.bb_orz7b_base.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_orz7b_base/gen_greedy/BB_orz7b_base_greedy.idx.json::robustness decode greedy",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_orz7b_base.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_orz7b_base/gen_greedy/BB_orz7b_base_greedy.idx.json::robustness decode greedy",
+      "value": 379924
+    },
+    {
+      "key": "h1.bb_orz7b_base.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_orz7b_base/gen_greedy/BB_orz7b_base_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b_base.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b_base.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0097
+    },
+    {
+      "key": "ctl.bb_orz7b_base.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_orz7b_base/gen_greedy/BB_orz7b_base_greedy.idx.json::robustness decode greedy",
+      "value": 35.8
+    },
+    {
+      "key": "ctl.bb_orz7b_base.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_orz7b_base/gen_greedy/BB_orz7b_base_greedy.idx.json::robustness decode greedy",
+      "value": 1.8
+    },
+    {
+      "key": "h1.bb_oat7_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_oat7_base/gen_v1/BB_oat7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_oat7_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_oat7_base/gen_v1/BB_oat7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 651765
+    },
+    {
+      "key": "h1.bb_oat7_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_oat7_base/gen_v1/BB_oat7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_oat7_base/gen_v1/BB_oat7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0057
+    },
+    {
+      "key": "ctl.bb_oat7_base.final.acc",
+      "src": "exp/results/scale/bb/BB_oat7_base/gen_v1/BB_oat7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 35.8
+    },
+    {
+      "key": "ctl.bb_oat7_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_oat7_base/gen_v1/BB_oat7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7_base.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_oat7_base/gen_t06/BB_oat7_base_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_oat7_base.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_oat7_base/gen_t06/BB_oat7_base_t06.idx.json::robustness decode t06",
+      "value": 3702816
+    },
+    {
+      "key": "h1.bb_oat7_base.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_oat7_base/gen_t06/BB_oat7_base_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7_base.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7_base.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.001
+    },
+    {
+      "key": "ctl.bb_oat7_base.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_oat7_base/gen_t06/BB_oat7_base_t06.idx.json::robustness decode t06",
+      "value": 45.9
+    },
+    {
+      "key": "ctl.bb_oat7_base.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_oat7_base/gen_t06/BB_oat7_base_t06.idx.json::robustness decode t06",
+      "value": 0.1
+    },
+    {
+      "key": "h1.bb_oat7_base.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_oat7_base/gen_greedy/BB_oat7_base_greedy.idx.json::robustness decode greedy",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_oat7_base.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_oat7_base/gen_greedy/BB_oat7_base_greedy.idx.json::robustness decode greedy",
+      "value": 1236399
+    },
+    {
+      "key": "h1.bb_oat7_base.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_oat7_base/gen_greedy/BB_oat7_base_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7_base.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7_base.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.003
+    },
+    {
+      "key": "ctl.bb_oat7_base.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_oat7_base/gen_greedy/BB_oat7_base_greedy.idx.json::robustness decode greedy",
+      "value": 50.0
+    },
+    {
+      "key": "ctl.bb_oat7_base.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_oat7_base/gen_greedy/BB_oat7_base_greedy.idx.json::robustness decode greedy",
+      "value": 0.2
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/gen_v1/BB_sz_q05_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/gen_v1/BB_sz_q05_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 1208661
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/gen_v1/BB_sz_q05_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/gen_v1/BB_sz_q05_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0008
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0046
+    },
+    {
+      "key": "ctl.bb_sz_q05_base.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/gen_v1/BB_sz_q05_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 8.6
+    },
+    {
+      "key": "ctl.bb_sz_q05_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/gen_v1/BB_sz_q05_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 11.0
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.nwait_t10",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/idx/math500.json::robustness decode t10",
+      "value": 7
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.ntok_t10",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/idx/math500.json::robustness decode t10",
+      "value": 730376
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.freq4_t10",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/idx/math500.json::robustness decode t10",
+      "value": 0.0096
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.freq4_t10.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0039
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.freq4_t10.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0197
+    },
+    {
+      "key": "ctl.bb_sz_q05_base.final.acc_t10",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/idx/math500.json::robustness decode t10",
+      "value": 4.2
+    },
+    {
+      "key": "ctl.bb_sz_q05_base.final.trunc_t10",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/idx/math500.json::robustness decode t10",
+      "value": 2.2
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/gen_t06/BB_sz_q05_base_t06.idx.json::robustness decode t06",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/gen_t06/BB_sz_q05_base_t06.idx.json::robustness decode t06",
+      "value": 7008752
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/gen_t06/BB_sz_q05_base_t06.idx.json::robustness decode t06",
+      "value": 0.0001
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0008
+    },
+    {
+      "key": "ctl.bb_sz_q05_base.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/gen_t06/BB_sz_q05_base_t06.idx.json::robustness decode t06",
+      "value": 14.9
+    },
+    {
+      "key": "ctl.bb_sz_q05_base.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/gen_t06/BB_sz_q05_base_t06.idx.json::robustness decode t06",
+      "value": 18.9
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/gen_greedy/BB_sz_q05_base_greedy.idx.json::robustness decode greedy",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/gen_greedy/BB_sz_q05_base_greedy.idx.json::robustness decode greedy",
+      "value": 1720707
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/gen_greedy/BB_sz_q05_base_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q05_base.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0021
+    },
+    {
+      "key": "ctl.bb_sz_q05_base.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/gen_greedy/BB_sz_q05_base_greedy.idx.json::robustness decode greedy",
+      "value": 19.0
+    },
+    {
+      "key": "ctl.bb_sz_q05_base.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q05_base/gen_greedy/BB_sz_q05_base_greedy.idx.json::robustness decode greedy",
+      "value": 18.6
+    },
+    {
+      "key": "h1.bb_sz_q05.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_q05/gen_v1/BB_sz_q05_v1.idx.json::primary: authors' own eval setting",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_sz_q05.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_q05/gen_v1/BB_sz_q05_v1.idx.json::primary: authors' own eval setting",
+      "value": 575136
+    },
+    {
+      "key": "h1.bb_sz_q05.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_q05/gen_v1/BB_sz_q05_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q05.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_q05/gen_v1/BB_sz_q05_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0017
+    },
+    {
+      "key": "h1.bb_sz_q05.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q05.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0097
+    },
+    {
+      "key": "ctl.bb_sz_q05.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_q05/gen_v1/BB_sz_q05_v1.idx.json::primary: authors' own eval setting",
+      "value": 30.8
+    },
+    {
+      "key": "ctl.bb_sz_q05.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_q05/gen_v1/BB_sz_q05_v1.idx.json::primary: authors' own eval setting",
+      "value": 3.6
+    },
+    {
+      "key": "h1.bb_sz_q05.final.nwait_t10",
+      "src": "exp/results/scale/bb/BB_sz_q05/idx/math500.json::robustness decode t10",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_sz_q05.final.ntok_t10",
+      "src": "exp/results/scale/bb/BB_sz_q05/idx/math500.json::robustness decode t10",
+      "value": 561836
+    },
+    {
+      "key": "h1.bb_sz_q05.final.freq4_t10",
+      "src": "exp/results/scale/bb/BB_sz_q05/idx/math500.json::robustness decode t10",
+      "value": 0.0018
+    },
+    {
+      "key": "h1.bb_sz_q05.final.freq4_t10.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q05.final.freq4_t10.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0099
+    },
+    {
+      "key": "ctl.bb_sz_q05.final.acc_t10",
+      "src": "exp/results/scale/bb/BB_sz_q05/idx/math500.json::robustness decode t10",
+      "value": 29.4
+    },
+    {
+      "key": "ctl.bb_sz_q05.final.trunc_t10",
+      "src": "exp/results/scale/bb/BB_sz_q05/idx/math500.json::robustness decode t10",
+      "value": 0.6
+    },
+    {
+      "key": "h1.bb_sz_q05.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_sz_q05/gen_t06/BB_sz_q05_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q05.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_sz_q05/gen_t06/BB_sz_q05_t06.idx.json::robustness decode t06",
+      "value": 2989852
+    },
+    {
+      "key": "h1.bb_sz_q05.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_sz_q05/gen_t06/BB_sz_q05_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q05.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q05.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0012
+    },
+    {
+      "key": "ctl.bb_sz_q05.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_sz_q05/gen_t06/BB_sz_q05_t06.idx.json::robustness decode t06",
+      "value": 32.6
+    },
+    {
+      "key": "ctl.bb_sz_q05.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_sz_q05/gen_t06/BB_sz_q05_t06.idx.json::robustness decode t06",
+      "value": 5.9
+    },
+    {
+      "key": "h1.bb_sz_q05.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q05/gen_greedy/BB_sz_q05_greedy.idx.json::robustness decode greedy",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q05.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q05/gen_greedy/BB_sz_q05_greedy.idx.json::robustness decode greedy",
+      "value": 949363
+    },
+    {
+      "key": "h1.bb_sz_q05.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q05/gen_greedy/BB_sz_q05_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q05.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q05.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0039
+    },
+    {
+      "key": "ctl.bb_sz_q05.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q05/gen_greedy/BB_sz_q05_greedy.idx.json::robustness decode greedy",
+      "value": 34.2
+    },
+    {
+      "key": "ctl.bb_sz_q05.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q05/gen_greedy/BB_sz_q05_greedy.idx.json::robustness decode greedy",
+      "value": 8.4
+    },
+    {
+      "key": "h1.bb_sz_q15_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_q15_base/gen_v1/BB_sz_q15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 2
+    },
+    {
+      "key": "h1.bb_sz_q15_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_q15_base/gen_v1/BB_sz_q15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 4050577
+    },
+    {
+      "key": "h1.bb_sz_q15_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_q15_base/gen_v1/BB_sz_q15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q15_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_q15_base/gen_v1/BB_sz_q15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0005
+    },
+    {
+      "key": "h1.bb_sz_q15_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0001
+    },
+    {
+      "key": "h1.bb_sz_q15_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0018
+    },
+    {
+      "key": "ctl.bb_sz_q15_base.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_q15_base/gen_v1/BB_sz_q15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 2.6
+    },
+    {
+      "key": "ctl.bb_sz_q15_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_q15_base/gen_v1/BB_sz_q15_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 48.0
+    },
+    {
+      "key": "h1.bb_sz_q15_base.final.nwait_t10",
+      "src": "exp/results/scale/bb/BB_sz_q15_base/idx/math500.json::robustness decode t10",
+      "value": 11
+    },
+    {
+      "key": "h1.bb_sz_q15_base.final.ntok_t10",
+      "src": "exp/results/scale/bb/BB_sz_q15_base/idx/math500.json::robustness decode t10",
+      "value": 1857007
+    },
+    {
+      "key": "h1.bb_sz_q15_base.final.freq4_t10",
+      "src": "exp/results/scale/bb/BB_sz_q15_base/idx/math500.json::robustness decode t10",
+      "value": 0.0059
+    },
+    {
+      "key": "h1.bb_sz_q15_base.final.freq4_t10.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.003
+    },
+    {
+      "key": "h1.bb_sz_q15_base.final.freq4_t10.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0106
+    },
+    {
+      "key": "ctl.bb_sz_q15_base.final.acc_t10",
+      "src": "exp/results/scale/bb/BB_sz_q15_base/idx/math500.json::robustness decode t10",
+      "value": 2.5
+    },
+    {
+      "key": "ctl.bb_sz_q15_base.final.trunc_t10",
+      "src": "exp/results/scale/bb/BB_sz_q15_base/idx/math500.json::robustness decode t10",
+      "value": 12.2
+    },
+    {
+      "key": "h1.bb_sz_q15.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_q15/gen_v1/BB_sz_q15_v1.idx.json::primary: authors' own eval setting",
+      "value": 4
+    },
+    {
+      "key": "h1.bb_sz_q15.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_q15/gen_v1/BB_sz_q15_v1.idx.json::primary: authors' own eval setting",
+      "value": 4075454
+    },
+    {
+      "key": "h1.bb_sz_q15.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_q15/gen_v1/BB_sz_q15_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q15.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_q15/gen_v1/BB_sz_q15_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.001
+    },
+    {
+      "key": "h1.bb_sz_q15.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0003
+    },
+    {
+      "key": "h1.bb_sz_q15.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0025
+    },
+    {
+      "key": "ctl.bb_sz_q15.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_q15/gen_v1/BB_sz_q15_v1.idx.json::primary: authors' own eval setting",
+      "value": 12.6
+    },
+    {
+      "key": "ctl.bb_sz_q15.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_q15/gen_v1/BB_sz_q15_v1.idx.json::primary: authors' own eval setting",
+      "value": 47.4
+    },
+    {
+      "key": "h1.bb_sz_q15.final.nwait_t10",
+      "src": "exp/results/scale/bb/BB_sz_q15/idx/math500.json::robustness decode t10",
+      "value": 6
+    },
+    {
+      "key": "h1.bb_sz_q15.final.ntok_t10",
+      "src": "exp/results/scale/bb/BB_sz_q15/idx/math500.json::robustness decode t10",
+      "value": 2042171
+    },
+    {
+      "key": "h1.bb_sz_q15.final.freq4_t10",
+      "src": "exp/results/scale/bb/BB_sz_q15/idx/math500.json::robustness decode t10",
+      "value": 0.0029
+    },
+    {
+      "key": "h1.bb_sz_q15.final.freq4_t10.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0011
+    },
+    {
+      "key": "h1.bb_sz_q15.final.freq4_t10.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0064
+    },
+    {
+      "key": "ctl.bb_sz_q15.final.acc_t10",
+      "src": "exp/results/scale/bb/BB_sz_q15/idx/math500.json::robustness decode t10",
+      "value": 12.5
+    },
+    {
+      "key": "ctl.bb_sz_q15.final.trunc_t10",
+      "src": "exp/results/scale/bb/BB_sz_q15/idx/math500.json::robustness decode t10",
+      "value": 14.0
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/gen_v1/BB_sz_q7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/gen_v1/BB_sz_q7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 365450
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/gen_v1/BB_sz_q7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/gen_v1/BB_sz_q7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0101
+    },
+    {
+      "key": "ctl.bb_sz_q7_base.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/gen_v1/BB_sz_q7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 48.2
+    },
+    {
+      "key": "ctl.bb_sz_q7_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/gen_v1/BB_sz_q7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.8
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.nwait_t10",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/idx/math500.json::robustness decode t10",
+      "value": 5
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.ntok_t10",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/idx/math500.json::robustness decode t10",
+      "value": 465875
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.freq4_t10",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/idx/math500.json::robustness decode t10",
+      "value": 0.0107
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.freq4_t10.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0035
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.freq4_t10.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.025
+    },
+    {
+      "key": "ctl.bb_sz_q7_base.final.acc_t10",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/idx/math500.json::robustness decode t10",
+      "value": 40.4
+    },
+    {
+      "key": "ctl.bb_sz_q7_base.final.trunc_t10",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/idx/math500.json::robustness decode t10",
+      "value": 0.2
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/gen_t06/BB_sz_q7_base_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/gen_t06/BB_sz_q7_base_t06.idx.json::robustness decode t06",
+      "value": 1433936
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/gen_t06/BB_sz_q7_base_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0026
+    },
+    {
+      "key": "ctl.bb_sz_q7_base.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/gen_t06/BB_sz_q7_base_t06.idx.json::robustness decode t06",
+      "value": 59.5
+    },
+    {
+      "key": "ctl.bb_sz_q7_base.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/gen_t06/BB_sz_q7_base_t06.idx.json::robustness decode t06",
+      "value": 1.1
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/gen_greedy/BB_sz_q7_base_greedy.idx.json::robustness decode greedy",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/gen_greedy/BB_sz_q7_base_greedy.idx.json::robustness decode greedy",
+      "value": 395811
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/gen_greedy/BB_sz_q7_base_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q7_base.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0093
+    },
+    {
+      "key": "ctl.bb_sz_q7_base.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/gen_greedy/BB_sz_q7_base_greedy.idx.json::robustness decode greedy",
+      "value": 61.6
+    },
+    {
+      "key": "ctl.bb_sz_q7_base.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q7_base/gen_greedy/BB_sz_q7_base_greedy.idx.json::robustness decode greedy",
+      "value": 1.8
+    },
+    {
+      "key": "h1.bb_sz_q7.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_q7/gen_v1/BB_sz_q7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q7.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_q7/gen_v1/BB_sz_q7_v1.idx.json::primary: authors' own eval setting",
+      "value": 322054
+    },
+    {
+      "key": "h1.bb_sz_q7.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_q7/gen_v1/BB_sz_q7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q7.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_q7/gen_v1/BB_sz_q7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q7.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q7.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0115
+    },
+    {
+      "key": "ctl.bb_sz_q7.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_q7/gen_v1/BB_sz_q7_v1.idx.json::primary: authors' own eval setting",
+      "value": 77.2
+    },
+    {
+      "key": "ctl.bb_sz_q7.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_q7/gen_v1/BB_sz_q7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.2
+    },
+    {
+      "key": "h1.bb_sz_q7.final.nwait_t10",
+      "src": "exp/results/scale/bb/BB_sz_q7/idx/math500.json::robustness decode t10",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q7.final.ntok_t10",
+      "src": "exp/results/scale/bb/BB_sz_q7/idx/math500.json::robustness decode t10",
+      "value": 478376
+    },
+    {
+      "key": "h1.bb_sz_q7.final.freq4_t10",
+      "src": "exp/results/scale/bb/BB_sz_q7/idx/math500.json::robustness decode t10",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q7.final.freq4_t10.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q7.final.freq4_t10.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0077
+    },
+    {
+      "key": "ctl.bb_sz_q7.final.acc_t10",
+      "src": "exp/results/scale/bb/BB_sz_q7/idx/math500.json::robustness decode t10",
+      "value": 77.8
+    },
+    {
+      "key": "ctl.bb_sz_q7.final.trunc_t10",
+      "src": "exp/results/scale/bb/BB_sz_q7/idx/math500.json::robustness decode t10",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q7.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_sz_q7/gen_t06/BB_sz_q7_t06.idx.json::robustness decode t06",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_sz_q7.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_sz_q7/gen_t06/BB_sz_q7_t06.idx.json::robustness decode t06",
+      "value": 1270510
+    },
+    {
+      "key": "h1.bb_sz_q7.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_sz_q7/gen_t06/BB_sz_q7_t06.idx.json::robustness decode t06",
+      "value": 0.0008
+    },
+    {
+      "key": "h1.bb_sz_q7.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q7.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0044
+    },
+    {
+      "key": "ctl.bb_sz_q7.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_sz_q7/gen_t06/BB_sz_q7_t06.idx.json::robustness decode t06",
+      "value": 77.2
+    },
+    {
+      "key": "ctl.bb_sz_q7.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_sz_q7/gen_t06/BB_sz_q7_t06.idx.json::robustness decode t06",
+      "value": 0.1
+    },
+    {
+      "key": "h1.bb_sz_q7.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q7/gen_greedy/BB_sz_q7_greedy.idx.json::robustness decode greedy",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_sz_q7.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q7/gen_greedy/BB_sz_q7_greedy.idx.json::robustness decode greedy",
+      "value": 325790
+    },
+    {
+      "key": "h1.bb_sz_q7.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q7/gen_greedy/BB_sz_q7_greedy.idx.json::robustness decode greedy",
+      "value": 0.0031
+    },
+    {
+      "key": "h1.bb_sz_q7.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0001
+    },
+    {
+      "key": "h1.bb_sz_q7.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0171
+    },
+    {
+      "key": "ctl.bb_sz_q7.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q7/gen_greedy/BB_sz_q7_greedy.idx.json::robustness decode greedy",
+      "value": 77.4
+    },
+    {
+      "key": "ctl.bb_sz_q7.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q7/gen_greedy/BB_sz_q7_greedy.idx.json::robustness decode greedy",
+      "value": 0.2
+    },
+    {
+      "key": "h1.bb_orz7b.final.nwait",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_v1/BB_orz7b_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_orz7b.final.ntok",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_v1/BB_orz7b_v1.idx.json::primary: authors' own eval setting",
+      "value": 655074
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq2",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_v1/BB_orz7b_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq4",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_v1/BB_orz7b_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0056
+    },
+    {
+      "key": "ctl.bb_orz7b.final.acc",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_v1/BB_orz7b_v1.idx.json::primary: authors' own eval setting",
+      "value": 81.8
+    },
+    {
+      "key": "ctl.bb_orz7b.final.trunc",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_v1/BB_orz7b_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b.final.nwait_t0",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_exact/BB_orz7b_exact.idx.json::robustness decode t0",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_orz7b.final.ntok_t0",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_exact/BB_orz7b_exact.idx.json::robustness decode t0",
+      "value": 587488
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq4_t0",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_exact/BB_orz7b_exact.idx.json::robustness decode t0",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq4_t0.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq4_t0.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0063
+    },
+    {
+      "key": "ctl.bb_orz7b.final.acc_t0",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_exact/BB_orz7b_exact.idx.json::robustness decode t0",
+      "value": 82.4
+    },
+    {
+      "key": "ctl.bb_orz7b.final.trunc_t0",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_exact/BB_orz7b_exact.idx.json::robustness decode t0",
+      "value": 8.6
+    },
+    {
+      "key": "h1.bb_orz7b.final.nwait_t10",
+      "src": "exp/results/scale/bb/BB_orz7b/idx/math500.json::robustness decode t10",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_orz7b.final.ntok_t10",
+      "src": "exp/results/scale/bb/BB_orz7b/idx/math500.json::robustness decode t10",
+      "value": 1058723
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq4_t10",
+      "src": "exp/results/scale/bb/BB_orz7b/idx/math500.json::robustness decode t10",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq4_t10.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq4_t10.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0035
+    },
+    {
+      "key": "ctl.bb_orz7b.final.acc_t10",
+      "src": "exp/results/scale/bb/BB_orz7b/idx/math500.json::robustness decode t10",
+      "value": 81.5
+    },
+    {
+      "key": "ctl.bb_orz7b.final.trunc_t10",
+      "src": "exp/results/scale/bb/BB_orz7b/idx/math500.json::robustness decode t10",
+      "value": 0.2
+    },
+    {
+      "key": "h1.bb_orz7b.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_t06/BB_orz7b_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_orz7b.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_t06/BB_orz7b_t06.idx.json::robustness decode t06",
+      "value": 2768415
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_t06/BB_orz7b_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0013
+    },
+    {
+      "key": "ctl.bb_orz7b.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_t06/BB_orz7b_t06.idx.json::robustness decode t06",
+      "value": 81.5
+    },
+    {
+      "key": "ctl.bb_orz7b.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_t06/BB_orz7b_t06.idx.json::robustness decode t06",
+      "value": 0.8
+    },
+    {
+      "key": "h1.bb_orz7b.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_greedy/BB_orz7b_greedy.idx.json::robustness decode greedy",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_orz7b.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_greedy/BB_orz7b_greedy.idx.json::robustness decode greedy",
+      "value": 703208
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_greedy/BB_orz7b_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_orz7b.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0052
+    },
+    {
+      "key": "ctl.bb_orz7b.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_greedy/BB_orz7b_greedy.idx.json::robustness decode greedy",
+      "value": 83.6
+    },
+    {
+      "key": "ctl.bb_orz7b.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_orz7b/gen_greedy/BB_orz7b_greedy.idx.json::robustness decode greedy",
+      "value": 1.0
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/gen_v1/BB_sz_qm7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/gen_v1/BB_sz_qm7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 605012
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/gen_v1/BB_sz_qm7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/gen_v1/BB_sz_qm7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0061
+    },
+    {
+      "key": "ctl.bb_sz_qm7_base.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/gen_v1/BB_sz_qm7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 43.0
+    },
+    {
+      "key": "ctl.bb_sz_qm7_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/gen_v1/BB_sz_qm7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.nwait_t10",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/idx/math500.json::robustness decode t10",
+      "value": 3
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.ntok_t10",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/idx/math500.json::robustness decode t10",
+      "value": 940673
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.freq4_t10",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/idx/math500.json::robustness decode t10",
+      "value": 0.0032
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.freq4_t10.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0007
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.freq4_t10.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0093
+    },
+    {
+      "key": "ctl.bb_sz_qm7_base.final.acc_t10",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/idx/math500.json::robustness decode t10",
+      "value": 14.4
+    },
+    {
+      "key": "ctl.bb_sz_qm7_base.final.trunc_t10",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/idx/math500.json::robustness decode t10",
+      "value": 9.2
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/gen_t06/BB_sz_qm7_base_t06.idx.json::robustness decode t06",
+      "value": 6
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/gen_t06/BB_sz_qm7_base_t06.idx.json::robustness decode t06",
+      "value": 2507741
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/gen_t06/BB_sz_qm7_base_t06.idx.json::robustness decode t06",
+      "value": 0.0024
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0009
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0052
+    },
+    {
+      "key": "ctl.bb_sz_qm7_base.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/gen_t06/BB_sz_qm7_base_t06.idx.json::robustness decode t06",
+      "value": 56.6
+    },
+    {
+      "key": "ctl.bb_sz_qm7_base.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/gen_t06/BB_sz_qm7_base_t06.idx.json::robustness decode t06",
+      "value": 0.1
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/gen_greedy/BB_sz_qm7_base_greedy.idx.json::robustness decode greedy",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/gen_greedy/BB_sz_qm7_base_greedy.idx.json::robustness decode greedy",
+      "value": 591235
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/gen_greedy/BB_sz_qm7_base_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7_base.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0062
+    },
+    {
+      "key": "ctl.bb_sz_qm7_base.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/gen_greedy/BB_sz_qm7_base_greedy.idx.json::robustness decode greedy",
+      "value": 64.6
+    },
+    {
+      "key": "ctl.bb_sz_qm7_base.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_qm7_base/gen_greedy/BB_sz_qm7_base_greedy.idx.json::robustness decode greedy",
+      "value": 1.2
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_qm7/gen_v1/BB_sz_qm7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_qm7/gen_v1/BB_sz_qm7_v1.idx.json::primary: authors' own eval setting",
+      "value": 347747
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_qm7/gen_v1/BB_sz_qm7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_qm7/gen_v1/BB_sz_qm7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0106
+    },
+    {
+      "key": "ctl.bb_sz_qm7.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_qm7/gen_v1/BB_sz_qm7_v1.idx.json::primary: authors' own eval setting",
+      "value": 75.6
+    },
+    {
+      "key": "ctl.bb_sz_qm7.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_qm7/gen_v1/BB_sz_qm7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.nwait_t10",
+      "src": "exp/results/scale/bb/BB_sz_qm7/idx/math500.json::robustness decode t10",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.ntok_t10",
+      "src": "exp/results/scale/bb/BB_sz_qm7/idx/math500.json::robustness decode t10",
+      "value": 573878
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.freq4_t10",
+      "src": "exp/results/scale/bb/BB_sz_qm7/idx/math500.json::robustness decode t10",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.freq4_t10.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.freq4_t10.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0064
+    },
+    {
+      "key": "ctl.bb_sz_qm7.final.acc_t10",
+      "src": "exp/results/scale/bb/BB_sz_qm7/idx/math500.json::robustness decode t10",
+      "value": 72.0
+    },
+    {
+      "key": "ctl.bb_sz_qm7.final.trunc_t10",
+      "src": "exp/results/scale/bb/BB_sz_qm7/idx/math500.json::robustness decode t10",
+      "value": 2.9
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_sz_qm7/gen_t06/BB_sz_qm7_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_sz_qm7/gen_t06/BB_sz_qm7_t06.idx.json::robustness decode t06",
+      "value": 1503491
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_sz_qm7/gen_t06/BB_sz_qm7_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0025
+    },
+    {
+      "key": "ctl.bb_sz_qm7.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_sz_qm7/gen_t06/BB_sz_qm7_t06.idx.json::robustness decode t06",
+      "value": 77.3
+    },
+    {
+      "key": "ctl.bb_sz_qm7.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_sz_qm7/gen_t06/BB_sz_qm7_t06.idx.json::robustness decode t06",
+      "value": 0.1
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_sz_qm7/gen_greedy/BB_sz_qm7_greedy.idx.json::robustness decode greedy",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_sz_qm7/gen_greedy/BB_sz_qm7_greedy.idx.json::robustness decode greedy",
+      "value": 412467
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_sz_qm7/gen_greedy/BB_sz_qm7_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_qm7.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0089
+    },
+    {
+      "key": "ctl.bb_sz_qm7.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_qm7/gen_greedy/BB_sz_qm7_greedy.idx.json::robustness decode greedy",
+      "value": 81.0
+    },
+    {
+      "key": "ctl.bb_sz_qm7.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_qm7/gen_greedy/BB_sz_qm7_greedy.idx.json::robustness decode greedy",
+      "value": 0.6
+    },
+    {
+      "key": "h1.bb_oat7.final.nwait",
+      "src": "exp/results/scale/bb/BB_oat7/gen_v1/BB_oat7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_oat7.final.ntok",
+      "src": "exp/results/scale/bb/BB_oat7/gen_v1/BB_oat7_v1.idx.json::primary: authors' own eval setting",
+      "value": 350491
+    },
+    {
+      "key": "h1.bb_oat7.final.freq2",
+      "src": "exp/results/scale/bb/BB_oat7/gen_v1/BB_oat7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7.final.freq4",
+      "src": "exp/results/scale/bb/BB_oat7/gen_v1/BB_oat7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0105
+    },
+    {
+      "key": "ctl.bb_oat7.final.acc",
+      "src": "exp/results/scale/bb/BB_oat7/gen_v1/BB_oat7_v1.idx.json::primary: authors' own eval setting",
+      "value": 79.8
+    },
+    {
+      "key": "ctl.bb_oat7.final.trunc",
+      "src": "exp/results/scale/bb/BB_oat7/gen_v1/BB_oat7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7.final.nwait_t0",
+      "src": "exp/results/scale/bb/BB_oat7/gen_exact/BB_oat7_exact.idx.json::robustness decode t0",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_oat7.final.ntok_t0",
+      "src": "exp/results/scale/bb/BB_oat7/gen_exact/BB_oat7_exact.idx.json::robustness decode t0",
+      "value": 335138
+    },
+    {
+      "key": "h1.bb_oat7.final.freq4_t0",
+      "src": "exp/results/scale/bb/BB_oat7/gen_exact/BB_oat7_exact.idx.json::robustness decode t0",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7.final.freq4_t0.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7.final.freq4_t0.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.011
+    },
+    {
+      "key": "ctl.bb_oat7.final.acc_t0",
+      "src": "exp/results/scale/bb/BB_oat7/gen_exact/BB_oat7_exact.idx.json::robustness decode t0",
+      "value": 80.2
+    },
+    {
+      "key": "ctl.bb_oat7.final.trunc_t0",
+      "src": "exp/results/scale/bb/BB_oat7/gen_exact/BB_oat7_exact.idx.json::robustness decode t0",
+      "value": 0.8
+    },
+    {
+      "key": "h1.bb_oat7.final.nwait_t10",
+      "src": "exp/results/scale/bb/BB_oat7/idx/math500.json::robustness decode t10",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_oat7.final.ntok_t10",
+      "src": "exp/results/scale/bb/BB_oat7/idx/math500.json::robustness decode t10",
+      "value": 524225
+    },
+    {
+      "key": "h1.bb_oat7.final.freq4_t10",
+      "src": "exp/results/scale/bb/BB_oat7/idx/math500.json::robustness decode t10",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7.final.freq4_t10.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7.final.freq4_t10.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.007
+    },
+    {
+      "key": "ctl.bb_oat7.final.acc_t10",
+      "src": "exp/results/scale/bb/BB_oat7/idx/math500.json::robustness decode t10",
+      "value": 82.5
+    },
+    {
+      "key": "ctl.bb_oat7.final.trunc_t10",
+      "src": "exp/results/scale/bb/BB_oat7/idx/math500.json::robustness decode t10",
+      "value": 0.6
+    },
+    {
+      "key": "h1.bb_oat7.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_oat7/gen_t06/BB_oat7_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_oat7.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_oat7/gen_t06/BB_oat7_t06.idx.json::robustness decode t06",
+      "value": 1380314
+    },
+    {
+      "key": "h1.bb_oat7.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_oat7/gen_t06/BB_oat7_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0027
+    },
+    {
+      "key": "ctl.bb_oat7.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_oat7/gen_t06/BB_oat7_t06.idx.json::robustness decode t06",
+      "value": 79.4
+    },
+    {
+      "key": "ctl.bb_oat7.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_oat7/gen_t06/BB_oat7_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_oat7/gen_greedy/BB_oat7_greedy.idx.json::robustness decode greedy",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_oat7.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_oat7/gen_greedy/BB_oat7_greedy.idx.json::robustness decode greedy",
+      "value": 337052
+    },
+    {
+      "key": "h1.bb_oat7.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_oat7/gen_greedy/BB_oat7_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_oat7.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0109
+    },
+    {
+      "key": "ctl.bb_oat7.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_oat7/gen_greedy/BB_oat7_greedy.idx.json::robustness decode greedy",
+      "value": 80.0
+    },
+    {
+      "key": "ctl.bb_oat7.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_oat7/gen_greedy/BB_oat7_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/gen_v1/BB_sz_q14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/gen_v1/BB_sz_q14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 286415
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/gen_v1/BB_sz_q14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/gen_v1/BB_sz_q14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0129
+    },
+    {
+      "key": "ctl.bb_sz_q14_base.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/gen_v1/BB_sz_q14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 53.2
+    },
+    {
+      "key": "ctl.bb_sz_q14_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/gen_v1/BB_sz_q14_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.6
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.nwait_t10",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/idx/math500.json::robustness decode t10",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.ntok_t10",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/idx/math500.json::robustness decode t10",
+      "value": 360603
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.freq4_t10",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/idx/math500.json::robustness decode t10",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.freq4_t10.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.freq4_t10.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0102
+    },
+    {
+      "key": "ctl.bb_sz_q14_base.final.acc_t10",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/idx/math500.json::robustness decode t10",
+      "value": 47.8
+    },
+    {
+      "key": "ctl.bb_sz_q14_base.final.trunc_t10",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/idx/math500.json::robustness decode t10",
+      "value": 0.1
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/gen_t06/BB_sz_q14_base_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/gen_t06/BB_sz_q14_base_t06.idx.json::robustness decode t06",
+      "value": 1470965
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/gen_t06/BB_sz_q14_base_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0025
+    },
+    {
+      "key": "ctl.bb_sz_q14_base.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/gen_t06/BB_sz_q14_base_t06.idx.json::robustness decode t06",
+      "value": 63.6
+    },
+    {
+      "key": "ctl.bb_sz_q14_base.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/gen_t06/BB_sz_q14_base_t06.idx.json::robustness decode t06",
+      "value": 1.7
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/gen_greedy/BB_sz_q14_base_greedy.idx.json::robustness decode greedy",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/gen_greedy/BB_sz_q14_base_greedy.idx.json::robustness decode greedy",
+      "value": 590776
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/gen_greedy/BB_sz_q14_base_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14_base.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0062
+    },
+    {
+      "key": "ctl.bb_sz_q14_base.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/gen_greedy/BB_sz_q14_base_greedy.idx.json::robustness decode greedy",
+      "value": 67.0
+    },
+    {
+      "key": "ctl.bb_sz_q14_base.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q14_base/gen_greedy/BB_sz_q14_base_greedy.idx.json::robustness decode greedy",
+      "value": 4.8
+    },
+    {
+      "key": "h1.bb_sz_q14.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_q14/gen_v1/BB_sz_q14_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_q14/gen_v1/BB_sz_q14_v1.idx.json::primary: authors' own eval setting",
+      "value": 301937
+    },
+    {
+      "key": "h1.bb_sz_q14.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_q14/gen_v1/BB_sz_q14_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_q14/gen_v1/BB_sz_q14_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0122
+    },
+    {
+      "key": "ctl.bb_sz_q14.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_q14/gen_v1/BB_sz_q14_v1.idx.json::primary: authors' own eval setting",
+      "value": 82.6
+    },
+    {
+      "key": "ctl.bb_sz_q14.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_q14/gen_v1/BB_sz_q14_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.nwait_t10",
+      "src": "exp/results/scale/bb/BB_sz_q14/idx/math500.json::robustness decode t10",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.ntok_t10",
+      "src": "exp/results/scale/bb/BB_sz_q14/idx/math500.json::robustness decode t10",
+      "value": 474976
+    },
+    {
+      "key": "h1.bb_sz_q14.final.freq4_t10",
+      "src": "exp/results/scale/bb/BB_sz_q14/idx/math500.json::robustness decode t10",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.freq4_t10.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.freq4_t10.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0078
+    },
+    {
+      "key": "ctl.bb_sz_q14.final.acc_t10",
+      "src": "exp/results/scale/bb/BB_sz_q14/idx/math500.json::robustness decode t10",
+      "value": 79.6
+    },
+    {
+      "key": "ctl.bb_sz_q14.final.trunc_t10",
+      "src": "exp/results/scale/bb/BB_sz_q14/idx/math500.json::robustness decode t10",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_sz_q14/gen_t06/BB_sz_q14_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_sz_q14/gen_t06/BB_sz_q14_t06.idx.json::robustness decode t06",
+      "value": 1196119
+    },
+    {
+      "key": "h1.bb_sz_q14.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_sz_q14/gen_t06/BB_sz_q14_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0031
+    },
+    {
+      "key": "ctl.bb_sz_q14.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_sz_q14/gen_t06/BB_sz_q14_t06.idx.json::robustness decode t06",
+      "value": 81.2
+    },
+    {
+      "key": "ctl.bb_sz_q14.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_sz_q14/gen_t06/BB_sz_q14_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q14/gen_greedy/BB_sz_q14_greedy.idx.json::robustness decode greedy",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q14/gen_greedy/BB_sz_q14_greedy.idx.json::robustness decode greedy",
+      "value": 297017
+    },
+    {
+      "key": "h1.bb_sz_q14.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q14/gen_greedy/BB_sz_q14_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_q14.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0124
+    },
+    {
+      "key": "ctl.bb_sz_q14.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q14/gen_greedy/BB_sz_q14_greedy.idx.json::robustness decode greedy",
+      "value": 80.4
+    },
+    {
+      "key": "ctl.bb_sz_q14.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_q14/gen_greedy/BB_sz_q14_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_m7_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_m7_base/gen_v1/BB_sz_m7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 5
+    },
+    {
+      "key": "h1.bb_sz_m7_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_m7_base/gen_v1/BB_sz_m7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 71136
+    },
+    {
+      "key": "h1.bb_sz_m7_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_m7_base/gen_v1/BB_sz_m7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.07
+    },
+    {
+      "key": "h1.bb_sz_m7_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_m7_base/gen_v1/BB_sz_m7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0703
+    },
+    {
+      "key": "h1.bb_sz_m7_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0228
+    },
+    {
+      "key": "h1.bb_sz_m7_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.164
+    },
+    {
+      "key": "ctl.bb_sz_m7_base.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_m7_base/gen_v1/BB_sz_m7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.4
+    },
+    {
+      "key": "ctl.bb_sz_m7_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_m7_base/gen_v1/BB_sz_m7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_m7_base.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_sz_m7_base/gen_t06/BB_sz_m7_base_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_m7_base.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_sz_m7_base/gen_t06/BB_sz_m7_base_t06.idx.json::robustness decode t06",
+      "value": 486268
+    },
+    {
+      "key": "h1.bb_sz_m7_base.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_sz_m7_base/gen_t06/BB_sz_m7_base_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_m7_base.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_m7_base.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0076
+    },
+    {
+      "key": "ctl.bb_sz_m7_base.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_sz_m7_base/gen_t06/BB_sz_m7_base_t06.idx.json::robustness decode t06",
+      "value": 0.6
+    },
+    {
+      "key": "ctl.bb_sz_m7_base.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_sz_m7_base/gen_t06/BB_sz_m7_base_t06.idx.json::robustness decode t06",
+      "value": 6.0
+    },
+    {
+      "key": "h1.bb_sz_m7_base.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_sz_m7_base/gen_greedy/BB_sz_m7_base_greedy.idx.json::robustness decode greedy",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_m7_base.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_sz_m7_base/gen_greedy/BB_sz_m7_base_greedy.idx.json::robustness decode greedy",
+      "value": 43729
+    },
+    {
+      "key": "h1.bb_sz_m7_base.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_sz_m7_base/gen_greedy/BB_sz_m7_base_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_m7_base.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_m7_base.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0844
+    },
+    {
+      "key": "ctl.bb_sz_m7_base.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_m7_base/gen_greedy/BB_sz_m7_base_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "ctl.bb_sz_m7_base.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_m7_base/gen_greedy/BB_sz_m7_base_greedy.idx.json::robustness decode greedy",
+      "value": 2.5
+    },
+    {
+      "key": "h1.bb_sz_m7.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_m7/gen_v1/BB_sz_m7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_m7.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_m7/gen_v1/BB_sz_m7_v1.idx.json::primary: authors' own eval setting",
+      "value": 2991021
+    },
+    {
+      "key": "h1.bb_sz_m7.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_m7/gen_v1/BB_sz_m7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_m7.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_m7/gen_v1/BB_sz_m7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_m7.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_m7.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0012
+    },
+    {
+      "key": "ctl.bb_sz_m7.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_m7/gen_v1/BB_sz_m7_v1.idx.json::primary: authors' own eval setting",
+      "value": 5.0
+    },
+    {
+      "key": "ctl.bb_sz_m7.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_m7/gen_v1/BB_sz_m7_v1.idx.json::primary: authors' own eval setting",
+      "value": 36.0
+    },
+    {
+      "key": "h1.bb_sz_m7.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_sz_m7/gen_t06/BB_sz_m7_t06.idx.json::robustness decode t06",
+      "value": 2
+    },
+    {
+      "key": "h1.bb_sz_m7.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_sz_m7/gen_t06/BB_sz_m7_t06.idx.json::robustness decode t06",
+      "value": 4138227
+    },
+    {
+      "key": "h1.bb_sz_m7.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_sz_m7/gen_t06/BB_sz_m7_t06.idx.json::robustness decode t06",
+      "value": 0.0005
+    },
+    {
+      "key": "h1.bb_sz_m7.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0001
+    },
+    {
+      "key": "h1.bb_sz_m7.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0017
+    },
+    {
+      "key": "ctl.bb_sz_m7.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_sz_m7/gen_t06/BB_sz_m7_t06.idx.json::robustness decode t06",
+      "value": 5.0
+    },
+    {
+      "key": "ctl.bb_sz_m7.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_sz_m7/gen_t06/BB_sz_m7_t06.idx.json::robustness decode t06",
+      "value": 62.3
+    },
+    {
+      "key": "h1.bb_sz_m7.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_sz_m7/gen_greedy/BB_sz_m7_greedy.idx.json::robustness decode greedy",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_m7.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_sz_m7/gen_greedy/BB_sz_m7_greedy.idx.json::robustness decode greedy",
+      "value": 1158886
+    },
+    {
+      "key": "h1.bb_sz_m7.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_sz_m7/gen_greedy/BB_sz_m7_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_m7.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_m7.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0032
+    },
+    {
+      "key": "ctl.bb_sz_m7.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_m7/gen_greedy/BB_sz_m7_greedy.idx.json::robustness decode greedy",
+      "value": 4.0
+    },
+    {
+      "key": "ctl.bb_sz_m7.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_m7/gen_greedy/BB_sz_m7_greedy.idx.json::robustness decode greedy",
+      "value": 70.0
+    },
+    {
+      "key": "h1.bb_sz_dsm7_base.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_ds7_base/gen_v1/BB_sz_ds7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_dsm7_base.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_ds7_base/gen_v1/BB_sz_ds7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 162131
+    },
+    {
+      "key": "h1.bb_sz_dsm7_base.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_ds7_base/gen_v1/BB_sz_ds7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_dsm7_base.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_ds7_base/gen_v1/BB_sz_ds7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_dsm7_base.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_dsm7_base.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0228
+    },
+    {
+      "key": "ctl.bb_sz_dsm7_base.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_ds7_base/gen_v1/BB_sz_ds7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 1.4
+    },
+    {
+      "key": "ctl.bb_sz_dsm7_base.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_ds7_base/gen_v1/BB_sz_ds7_base_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.2
+    },
+    {
+      "key": "h1.bb_sz_dsm7_base.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_sz_ds7_base/gen_t06/BB_sz_ds7_base_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_dsm7_base.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_sz_ds7_base/gen_t06/BB_sz_ds7_base_t06.idx.json::robustness decode t06",
+      "value": 1789986
+    },
+    {
+      "key": "h1.bb_sz_dsm7_base.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_sz_ds7_base/gen_t06/BB_sz_ds7_base_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_dsm7_base.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_dsm7_base.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0021
+    },
+    {
+      "key": "ctl.bb_sz_dsm7_base.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_sz_ds7_base/gen_t06/BB_sz_ds7_base_t06.idx.json::robustness decode t06",
+      "value": 2.6
+    },
+    {
+      "key": "ctl.bb_sz_dsm7_base.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_sz_ds7_base/gen_t06/BB_sz_ds7_base_t06.idx.json::robustness decode t06",
+      "value": 66.6
+    },
+    {
+      "key": "h1.bb_sz_dsm7_base.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_sz_ds7_base/gen_greedy/BB_sz_ds7_base_greedy.idx.json::robustness decode greedy",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_dsm7_base.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_sz_ds7_base/gen_greedy/BB_sz_ds7_base_greedy.idx.json::robustness decode greedy",
+      "value": 468657
+    },
+    {
+      "key": "h1.bb_sz_dsm7_base.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_sz_ds7_base/gen_greedy/BB_sz_ds7_base_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_dsm7_base.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_dsm7_base.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0079
+    },
+    {
+      "key": "ctl.bb_sz_dsm7_base.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_ds7_base/gen_greedy/BB_sz_ds7_base_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "ctl.bb_sz_dsm7_base.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_ds7_base/gen_greedy/BB_sz_ds7_base_greedy.idx.json::robustness decode greedy",
+      "value": 74.0
+    },
+    {
+      "key": "h1.bb_sz_dsm7.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_ds7/gen_v1/BB_sz_ds7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_dsm7.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_ds7/gen_v1/BB_sz_ds7_v1.idx.json::primary: authors' own eval setting",
+      "value": 320041
+    },
+    {
+      "key": "h1.bb_sz_dsm7.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_ds7/gen_v1/BB_sz_ds7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_dsm7.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_ds7/gen_v1/BB_sz_ds7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_dsm7.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_dsm7.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0115
+    },
+    {
+      "key": "ctl.bb_sz_dsm7.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_ds7/gen_v1/BB_sz_ds7_v1.idx.json::primary: authors' own eval setting",
+      "value": 19.2
+    },
+    {
+      "key": "ctl.bb_sz_dsm7.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_ds7/gen_v1/BB_sz_ds7_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.2
+    },
+    {
+      "key": "h1.bb_sz_dsm7.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_sz_ds7/gen_t06/BB_sz_ds7_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_dsm7.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_sz_ds7/gen_t06/BB_sz_ds7_t06.idx.json::robustness decode t06",
+      "value": 1630475
+    },
+    {
+      "key": "h1.bb_sz_dsm7.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_sz_ds7/gen_t06/BB_sz_ds7_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_dsm7.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_dsm7.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0023
+    },
+    {
+      "key": "ctl.bb_sz_dsm7.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_sz_ds7/gen_t06/BB_sz_ds7_t06.idx.json::robustness decode t06",
+      "value": 8.1
+    },
+    {
+      "key": "ctl.bb_sz_dsm7.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_sz_ds7/gen_t06/BB_sz_ds7_t06.idx.json::robustness decode t06",
+      "value": 60.6
+    },
+    {
+      "key": "h1.bb_sz_dsm7.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_sz_ds7/gen_greedy/BB_sz_ds7_greedy.idx.json::robustness decode greedy",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_dsm7.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_sz_ds7/gen_greedy/BB_sz_ds7_greedy.idx.json::robustness decode greedy",
+      "value": 510590
+    },
+    {
+      "key": "h1.bb_sz_dsm7.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_sz_ds7/gen_greedy/BB_sz_ds7_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_dsm7.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_dsm7.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0072
+    },
+    {
+      "key": "ctl.bb_sz_dsm7.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_ds7/gen_greedy/BB_sz_ds7_greedy.idx.json::robustness decode greedy",
+      "value": 4.5
+    },
+    {
+      "key": "ctl.bb_sz_dsm7.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_ds7/gen_greedy/BB_sz_ds7_greedy.idx.json::robustness decode greedy",
+      "value": 82.0
+    },
+    {
+      "key": "h1.bb_sz_l8.final.nwait",
+      "src": "exp/results/scale/bb/BB_sz_l8/gen_v1/BB_sz_l8_v1.idx.json::primary: authors' own eval setting",
+      "value": 1
+    },
+    {
+      "key": "h1.bb_sz_l8.final.ntok",
+      "src": "exp/results/scale/bb/BB_sz_l8/gen_v1/BB_sz_l8_v1.idx.json::primary: authors' own eval setting",
+      "value": 919335
+    },
+    {
+      "key": "h1.bb_sz_l8.final.freq2",
+      "src": "exp/results/scale/bb/BB_sz_l8/gen_v1/BB_sz_l8_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_l8.final.freq4",
+      "src": "exp/results/scale/bb/BB_sz_l8/gen_v1/BB_sz_l8_v1.idx.json::primary: authors' own eval setting",
+      "value": 0.0011
+    },
+    {
+      "key": "h1.bb_sz_l8.final.freq4.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_l8.final.freq4.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0061
+    },
+    {
+      "key": "ctl.bb_sz_l8.final.acc",
+      "src": "exp/results/scale/bb/BB_sz_l8/gen_v1/BB_sz_l8_v1.idx.json::primary: authors' own eval setting",
+      "value": 8.4
+    },
+    {
+      "key": "ctl.bb_sz_l8.final.trunc",
+      "src": "exp/results/scale/bb/BB_sz_l8/gen_v1/BB_sz_l8_v1.idx.json::primary: authors' own eval setting",
+      "value": 9.8
+    },
+    {
+      "key": "h1.bb_sz_l8.final.nwait_t06",
+      "src": "exp/results/scale/bb/BB_sz_l8/gen_t06/BB_sz_l8_t06.idx.json::robustness decode t06",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_l8.final.ntok_t06",
+      "src": "exp/results/scale/bb/BB_sz_l8/gen_t06/BB_sz_l8_t06.idx.json::robustness decode t06",
+      "value": 1474006
+    },
+    {
+      "key": "h1.bb_sz_l8.final.freq4_t06",
+      "src": "exp/results/scale/bb/BB_sz_l8/gen_t06/BB_sz_l8_t06.idx.json::robustness decode t06",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_l8.final.freq4_t06.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_l8.final.freq4_t06.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0025
+    },
+    {
+      "key": "ctl.bb_sz_l8.final.acc_t06",
+      "src": "exp/results/scale/bb/BB_sz_l8/gen_t06/BB_sz_l8_t06.idx.json::robustness decode t06",
+      "value": 6.0
+    },
+    {
+      "key": "ctl.bb_sz_l8.final.trunc_t06",
+      "src": "exp/results/scale/bb/BB_sz_l8/gen_t06/BB_sz_l8_t06.idx.json::robustness decode t06",
+      "value": 19.2
+    },
+    {
+      "key": "h1.bb_sz_l8.final.nwait_greedy",
+      "src": "exp/results/scale/bb/BB_sz_l8/gen_greedy/BB_sz_l8_greedy.idx.json::robustness decode greedy",
+      "value": 0
+    },
+    {
+      "key": "h1.bb_sz_l8.final.ntok_greedy",
+      "src": "exp/results/scale/bb/BB_sz_l8/gen_greedy/BB_sz_l8_greedy.idx.json::robustness decode greedy",
+      "value": 533106
+    },
+    {
+      "key": "h1.bb_sz_l8.final.freq4_greedy",
+      "src": "exp/results/scale/bb/BB_sz_l8/gen_greedy/BB_sz_l8_greedy.idx.json::robustness decode greedy",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_l8.final.freq4_greedy.lo",
+      "src": "exact Poisson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.bb_sz_l8.final.freq4_greedy.hi",
+      "src": "exact Poisson 95%",
+      "value": 0.0069
+    },
+    {
+      "key": "ctl.bb_sz_l8.final.acc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_l8/gen_greedy/BB_sz_l8_greedy.idx.json::robustness decode greedy",
+      "value": 9.5
+    },
+    {
+      "key": "ctl.bb_sz_l8.final.trunc_greedy",
+      "src": "exp/results/scale/bb/BB_sz_l8/gen_greedy/BB_sz_l8_greedy.idx.json::robustness decode greedy",
+      "value": 31.0
+    }
+  ],
+  "series": [
+    "bb_gr14",
+    "bb_gr14_base",
+    "bb_gr3_14",
+    "bb_gr3_14_base",
+    "bb_gr3_4",
+    "bb_gr3_4_base",
+    "bb_gr3_4_s1",
+    "bb_gr3_4_s2",
+    "bb_gr3_4_s3",
+    "bb_gr7",
+    "bb_gr7_base",
+    "bb_oat15",
+    "bb_oat15_base",
+    "bb_oat7",
+    "bb_oat7_base",
+    "bb_orz32",
+    "bb_orz32_base",
+    "bb_orz7b",
+    "bb_orz7b_base",
+    "bb_os15",
+    "bb_os15_base",
+    "bb_sz_dsm7",
+    "bb_sz_dsm7_base",
+    "bb_sz_l8",
+    "bb_sz_m24",
+    "bb_sz_m24_base",
+    "bb_sz_m7",
+    "bb_sz_m7_base",
+    "bb_sz_q05",
+    "bb_sz_q05_base",
+    "bb_sz_q14",
+    "bb_sz_q14_base",
+    "bb_sz_q15",
+    "bb_sz_q15_base",
+    "bb_sz_q32",
+    "bb_sz_q32_base",
+    "bb_sz_q7",
+    "bb_sz_q7_base",
+    "bb_sz_qm7",
+    "bb_sz_qm7_base"
+  ]
+}

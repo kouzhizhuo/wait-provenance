@@ -1,0 +1,1364 @@
+{
+  "entries": [
+    {
+      "key": "h4.s1.early.p_vc_given_rev_late",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 15.1
+    },
+    {
+      "key": "h4.s1.early.p_vc_given_rev_late.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 1.7
+    },
+    {
+      "key": "h4.s1.early.p_vc_given_rev_late.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 33.2
+    },
+    {
+      "key": "h4.s1.early.p_rev_given_vc_late",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 20.2
+    },
+    {
+      "key": "h4.s1.early.p_rev_given_vc_late.lo",
+      "src": "cluster bootstrap",
+      "value": 2.8
+    },
+    {
+      "key": "h4.s1.early.p_rev_given_vc_late.hi",
+      "src": "cluster bootstrap",
+      "value": 43.5
+    },
+    {
+      "key": "h4.s1.early.n_both_late",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 22
+    },
+    {
+      "key": "h4.s1.early.n_rev_late",
+      "src": "windows with judge-REVISE",
+      "value": 146
+    },
+    {
+      "key": "h4.s1.early.n_vc_late",
+      "src": "windows with VALUE_CHANGE",
+      "value": 109
+    },
+    {
+      "key": "h4.s1.mid.p_vc_given_rev_late",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 10.2
+    },
+    {
+      "key": "h4.s1.mid.p_vc_given_rev_late.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 1.5
+    },
+    {
+      "key": "h4.s1.mid.p_vc_given_rev_late.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 22.2
+    },
+    {
+      "key": "h4.s1.mid.p_rev_given_vc_late",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 15.3
+    },
+    {
+      "key": "h4.s1.mid.p_rev_given_vc_late.lo",
+      "src": "cluster bootstrap",
+      "value": 2.9
+    },
+    {
+      "key": "h4.s1.mid.p_rev_given_vc_late.hi",
+      "src": "cluster bootstrap",
+      "value": 33.3
+    },
+    {
+      "key": "h4.s1.mid.n_both_late",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 25
+    },
+    {
+      "key": "h4.s1.mid.n_rev_late",
+      "src": "windows with judge-REVISE",
+      "value": 245
+    },
+    {
+      "key": "h4.s1.mid.n_vc_late",
+      "src": "windows with VALUE_CHANGE",
+      "value": 163
+    },
+    {
+      "key": "h4.s1.late.p_vc_given_rev_late",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 8.0
+    },
+    {
+      "key": "h4.s1.late.p_vc_given_rev_late.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 1.7
+    },
+    {
+      "key": "h4.s1.late.p_vc_given_rev_late.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 17.9
+    },
+    {
+      "key": "h4.s1.late.p_rev_given_vc_late",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 17.1
+    },
+    {
+      "key": "h4.s1.late.p_rev_given_vc_late.lo",
+      "src": "cluster bootstrap",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s1.late.p_rev_given_vc_late.hi",
+      "src": "cluster bootstrap",
+      "value": 37.5
+    },
+    {
+      "key": "h4.s1.late.n_both_late",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 28
+    },
+    {
+      "key": "h4.s1.late.n_rev_late",
+      "src": "windows with judge-REVISE",
+      "value": 349
+    },
+    {
+      "key": "h4.s1.late.n_vc_late",
+      "src": "windows with VALUE_CHANGE",
+      "value": 164
+    },
+    {
+      "key": "h4.s1.final.p_vc_given_rev_late",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 6.1
+    },
+    {
+      "key": "h4.s1.final.p_vc_given_rev_late.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 0.6
+    },
+    {
+      "key": "h4.s1.final.p_vc_given_rev_late.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 15.4
+    },
+    {
+      "key": "h4.s1.final.p_rev_given_vc_late",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 14.0
+    },
+    {
+      "key": "h4.s1.final.p_rev_given_vc_late.lo",
+      "src": "cluster bootstrap",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s1.final.p_rev_given_vc_late.hi",
+      "src": "cluster bootstrap",
+      "value": 35.0
+    },
+    {
+      "key": "h4.s1.final.n_both_late",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 20
+    },
+    {
+      "key": "h4.s1.final.n_rev_late",
+      "src": "windows with judge-REVISE",
+      "value": 328
+    },
+    {
+      "key": "h4.s1.final.n_vc_late",
+      "src": "windows with VALUE_CHANGE",
+      "value": 143
+    },
+    {
+      "key": "h4.s1.base.p_vc_given_rev_late",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 10.8
+    },
+    {
+      "key": "h4.s1.base.p_vc_given_rev_late.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s1.base.p_vc_given_rev_late.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 24.8
+    },
+    {
+      "key": "h4.s1.base.p_rev_given_vc_late",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 13.0
+    },
+    {
+      "key": "h4.s1.base.p_rev_given_vc_late.lo",
+      "src": "cluster bootstrap",
+      "value": 1.2
+    },
+    {
+      "key": "h4.s1.base.p_rev_given_vc_late.hi",
+      "src": "cluster bootstrap",
+      "value": 30.3
+    },
+    {
+      "key": "h4.s1.base.n_both_late",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 23
+    },
+    {
+      "key": "h4.s1.base.n_rev_late",
+      "src": "windows with judge-REVISE",
+      "value": 213
+    },
+    {
+      "key": "h4.s1.base.n_vc_late",
+      "src": "windows with VALUE_CHANGE",
+      "value": 177
+    },
+    {
+      "key": "h4.s1.trend.p_vc_given_rev_late",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 9.3
+    },
+    {
+      "key": "h4.s1.trend.p_vc_given_rev_late.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 1.9
+    },
+    {
+      "key": "h4.s1.trend.p_vc_given_rev_late.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 21.1
+    },
+    {
+      "key": "h4.s1.trend.p_rev_given_vc_late",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 16.4
+    },
+    {
+      "key": "h4.s1.trend.p_rev_given_vc_late.lo",
+      "src": "cluster bootstrap",
+      "value": 4.0
+    },
+    {
+      "key": "h4.s1.trend.p_rev_given_vc_late.hi",
+      "src": "cluster bootstrap",
+      "value": 36.6
+    },
+    {
+      "key": "h4.s1.trend.n_both_late",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 194
+    },
+    {
+      "key": "h4.s1.trend.n_rev_late",
+      "src": "windows with judge-REVISE",
+      "value": 2076
+    },
+    {
+      "key": "h4.s1.trend.n_vc_late",
+      "src": "windows with VALUE_CHANGE",
+      "value": 1180
+    },
+    {
+      "key": "h4.s1.early.p_vc_given_rev_late_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 11.3
+    },
+    {
+      "key": "h4.s1.early.p_vc_given_rev_late_wait.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.early.p_vc_given_rev_late_wait.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 25.9
+    },
+    {
+      "key": "h4.s1.early.p_rev_given_vc_late_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 24.0
+    },
+    {
+      "key": "h4.s1.early.p_rev_given_vc_late_wait.lo",
+      "src": "cluster bootstrap",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.early.p_rev_given_vc_late_wait.hi",
+      "src": "cluster bootstrap",
+      "value": 50.0
+    },
+    {
+      "key": "h4.s1.early.n_both_late_wait",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 6
+    },
+    {
+      "key": "h4.s1.early.n_rev_late_wait",
+      "src": "windows with judge-REVISE",
+      "value": 53
+    },
+    {
+      "key": "h4.s1.early.n_vc_late_wait",
+      "src": "windows with VALUE_CHANGE",
+      "value": 25
+    },
+    {
+      "key": "h4.s1.mid.p_vc_given_rev_late_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 7.8
+    },
+    {
+      "key": "h4.s1.mid.p_vc_given_rev_late_wait.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.mid.p_vc_given_rev_late_wait.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 17.5
+    },
+    {
+      "key": "h4.s1.mid.p_rev_given_vc_late_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 17.2
+    },
+    {
+      "key": "h4.s1.mid.p_rev_given_vc_late_wait.lo",
+      "src": "cluster bootstrap",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.mid.p_rev_given_vc_late_wait.hi",
+      "src": "cluster bootstrap",
+      "value": 32.3
+    },
+    {
+      "key": "h4.s1.mid.n_both_late_wait",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 5
+    },
+    {
+      "key": "h4.s1.mid.n_rev_late_wait",
+      "src": "windows with judge-REVISE",
+      "value": 64
+    },
+    {
+      "key": "h4.s1.mid.n_vc_late_wait",
+      "src": "windows with VALUE_CHANGE",
+      "value": 29
+    },
+    {
+      "key": "h4.s1.late.p_vc_given_rev_late_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 6.1
+    },
+    {
+      "key": "h4.s1.late.p_vc_given_rev_late_wait.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s1.late.p_vc_given_rev_late_wait.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 12.6
+    },
+    {
+      "key": "h4.s1.late.p_rev_given_vc_late_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 29.2
+    },
+    {
+      "key": "h4.s1.late.p_rev_given_vc_late_wait.lo",
+      "src": "cluster bootstrap",
+      "value": 6.2
+    },
+    {
+      "key": "h4.s1.late.p_rev_given_vc_late_wait.hi",
+      "src": "cluster bootstrap",
+      "value": 58.3
+    },
+    {
+      "key": "h4.s1.late.n_both_late_wait",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 7
+    },
+    {
+      "key": "h4.s1.late.n_rev_late_wait",
+      "src": "windows with judge-REVISE",
+      "value": 114
+    },
+    {
+      "key": "h4.s1.late.n_vc_late_wait",
+      "src": "windows with VALUE_CHANGE",
+      "value": 24
+    },
+    {
+      "key": "h4.s1.final.p_vc_given_rev_late_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 2.9
+    },
+    {
+      "key": "h4.s1.final.p_vc_given_rev_late_wait.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.final.p_vc_given_rev_late_wait.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 6.5
+    },
+    {
+      "key": "h4.s1.final.p_rev_given_vc_late_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 17.6
+    },
+    {
+      "key": "h4.s1.final.p_rev_given_vc_late_wait.lo",
+      "src": "cluster bootstrap",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.final.p_rev_given_vc_late_wait.hi",
+      "src": "cluster bootstrap",
+      "value": 44.4
+    },
+    {
+      "key": "h4.s1.final.n_both_late_wait",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 3
+    },
+    {
+      "key": "h4.s1.final.n_rev_late_wait",
+      "src": "windows with judge-REVISE",
+      "value": 105
+    },
+    {
+      "key": "h4.s1.final.n_vc_late_wait",
+      "src": "windows with VALUE_CHANGE",
+      "value": 17
+    },
+    {
+      "key": "h4.s1.base.p_vc_given_rev_late_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 5.9
+    },
+    {
+      "key": "h4.s1.base.p_vc_given_rev_late_wait.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.base.p_vc_given_rev_late_wait.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 13.8
+    },
+    {
+      "key": "h4.s1.base.p_rev_given_vc_late_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 11.5
+    },
+    {
+      "key": "h4.s1.base.p_rev_given_vc_late_wait.lo",
+      "src": "cluster bootstrap",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.base.p_rev_given_vc_late_wait.hi",
+      "src": "cluster bootstrap",
+      "value": 29.6
+    },
+    {
+      "key": "h4.s1.base.n_both_late_wait",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 3
+    },
+    {
+      "key": "h4.s1.base.n_rev_late_wait",
+      "src": "windows with judge-REVISE",
+      "value": 51
+    },
+    {
+      "key": "h4.s1.base.n_vc_late_wait",
+      "src": "windows with VALUE_CHANGE",
+      "value": 26
+    },
+    {
+      "key": "h4.s1.trend.p_vc_given_rev_late_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 6.2
+    },
+    {
+      "key": "h4.s1.trend.p_vc_given_rev_late_wait.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 1.5
+    },
+    {
+      "key": "h4.s1.trend.p_vc_given_rev_late_wait.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 13.1
+    },
+    {
+      "key": "h4.s1.trend.p_rev_given_vc_late_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 20.3
+    },
+    {
+      "key": "h4.s1.trend.p_rev_given_vc_late_wait.lo",
+      "src": "cluster bootstrap",
+      "value": 6.5
+    },
+    {
+      "key": "h4.s1.trend.p_rev_given_vc_late_wait.hi",
+      "src": "cluster bootstrap",
+      "value": 37.7
+    },
+    {
+      "key": "h4.s1.trend.n_both_late_wait",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 43
+    },
+    {
+      "key": "h4.s1.trend.n_rev_late_wait",
+      "src": "windows with judge-REVISE",
+      "value": 689
+    },
+    {
+      "key": "h4.s1.trend.n_vc_late_wait",
+      "src": "windows with VALUE_CHANGE",
+      "value": 212
+    },
+    {
+      "key": "h4.s1.early.p_vc_given_rev_base",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 4.8
+    },
+    {
+      "key": "h4.s1.early.p_vc_given_rev_base.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 1.7
+    },
+    {
+      "key": "h4.s1.early.p_vc_given_rev_base.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 8.7
+    },
+    {
+      "key": "h4.s1.early.p_rev_given_vc_base",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 12.8
+    },
+    {
+      "key": "h4.s1.early.p_rev_given_vc_base.lo",
+      "src": "cluster bootstrap",
+      "value": 4.3
+    },
+    {
+      "key": "h4.s1.early.p_rev_given_vc_base.hi",
+      "src": "cluster bootstrap",
+      "value": 34.5
+    },
+    {
+      "key": "h4.s1.early.n_both_base",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 6
+    },
+    {
+      "key": "h4.s1.early.n_rev_base",
+      "src": "windows with judge-REVISE",
+      "value": 124
+    },
+    {
+      "key": "h4.s1.early.n_vc_base",
+      "src": "windows with VALUE_CHANGE",
+      "value": 47
+    },
+    {
+      "key": "h4.s1.mid.p_vc_given_rev_base",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 3.4
+    },
+    {
+      "key": "h4.s1.mid.p_vc_given_rev_base.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s1.mid.p_vc_given_rev_base.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 6.0
+    },
+    {
+      "key": "h4.s1.mid.p_rev_given_vc_base",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 11.1
+    },
+    {
+      "key": "h4.s1.mid.p_rev_given_vc_base.lo",
+      "src": "cluster bootstrap",
+      "value": 3.1
+    },
+    {
+      "key": "h4.s1.mid.p_rev_given_vc_base.hi",
+      "src": "cluster bootstrap",
+      "value": 28.0
+    },
+    {
+      "key": "h4.s1.mid.n_both_base",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 5
+    },
+    {
+      "key": "h4.s1.mid.n_rev_base",
+      "src": "windows with judge-REVISE",
+      "value": 146
+    },
+    {
+      "key": "h4.s1.mid.n_vc_base",
+      "src": "windows with VALUE_CHANGE",
+      "value": 45
+    },
+    {
+      "key": "h4.s1.late.p_vc_given_rev_base",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 1.9
+    },
+    {
+      "key": "h4.s1.late.p_vc_given_rev_base.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.late.p_vc_given_rev_base.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 4.7
+    },
+    {
+      "key": "h4.s1.late.p_rev_given_vc_base",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 12.5
+    },
+    {
+      "key": "h4.s1.late.p_rev_given_vc_base.lo",
+      "src": "cluster bootstrap",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.late.p_rev_given_vc_base.hi",
+      "src": "cluster bootstrap",
+      "value": 31.2
+    },
+    {
+      "key": "h4.s1.late.n_both_base",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 4
+    },
+    {
+      "key": "h4.s1.late.n_rev_base",
+      "src": "windows with judge-REVISE",
+      "value": 209
+    },
+    {
+      "key": "h4.s1.late.n_vc_base",
+      "src": "windows with VALUE_CHANGE",
+      "value": 32
+    },
+    {
+      "key": "h4.s1.final.p_vc_given_rev_base",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 2.0
+    },
+    {
+      "key": "h4.s1.final.p_vc_given_rev_base.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 0.5
+    },
+    {
+      "key": "h4.s1.final.p_vc_given_rev_base.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s1.final.p_rev_given_vc_base",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 12.1
+    },
+    {
+      "key": "h4.s1.final.p_rev_given_vc_base.lo",
+      "src": "cluster bootstrap",
+      "value": 2.8
+    },
+    {
+      "key": "h4.s1.final.p_rev_given_vc_base.hi",
+      "src": "cluster bootstrap",
+      "value": 30.8
+    },
+    {
+      "key": "h4.s1.final.n_both_base",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 4
+    },
+    {
+      "key": "h4.s1.final.n_rev_base",
+      "src": "windows with judge-REVISE",
+      "value": 204
+    },
+    {
+      "key": "h4.s1.final.n_vc_base",
+      "src": "windows with VALUE_CHANGE",
+      "value": 33
+    },
+    {
+      "key": "h4.s1.base.p_vc_given_rev_base",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 5.2
+    },
+    {
+      "key": "h4.s1.base.p_vc_given_rev_base.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 1.7
+    },
+    {
+      "key": "h4.s1.base.p_vc_given_rev_base.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 9.0
+    },
+    {
+      "key": "h4.s1.base.p_rev_given_vc_base",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 16.7
+    },
+    {
+      "key": "h4.s1.base.p_rev_given_vc_base.lo",
+      "src": "cluster bootstrap",
+      "value": 5.0
+    },
+    {
+      "key": "h4.s1.base.p_rev_given_vc_base.hi",
+      "src": "cluster bootstrap",
+      "value": 43.5
+    },
+    {
+      "key": "h4.s1.base.n_both_base",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 7
+    },
+    {
+      "key": "h4.s1.base.n_rev_base",
+      "src": "windows with judge-REVISE",
+      "value": 135
+    },
+    {
+      "key": "h4.s1.base.n_vc_base",
+      "src": "windows with VALUE_CHANGE",
+      "value": 42
+    },
+    {
+      "key": "h4.s1.trend.p_vc_given_rev_base",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 2.8
+    },
+    {
+      "key": "h4.s1.trend.p_vc_given_rev_base.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 1.3
+    },
+    {
+      "key": "h4.s1.trend.p_vc_given_rev_base.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 4.6
+    },
+    {
+      "key": "h4.s1.trend.p_rev_given_vc_base",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 11.0
+    },
+    {
+      "key": "h4.s1.trend.p_rev_given_vc_base.lo",
+      "src": "cluster bootstrap",
+      "value": 4.9
+    },
+    {
+      "key": "h4.s1.trend.p_rev_given_vc_base.hi",
+      "src": "cluster bootstrap",
+      "value": 26.9
+    },
+    {
+      "key": "h4.s1.trend.n_both_base",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 40
+    },
+    {
+      "key": "h4.s1.trend.n_rev_base",
+      "src": "windows with judge-REVISE",
+      "value": 1423
+    },
+    {
+      "key": "h4.s1.trend.n_vc_base",
+      "src": "windows with VALUE_CHANGE",
+      "value": 363
+    },
+    {
+      "key": "h4.s1.early.p_vc_given_rev_base_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 4.1
+    },
+    {
+      "key": "h4.s1.early.p_vc_given_rev_base_wait.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.early.p_vc_given_rev_base_wait.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 9.7
+    },
+    {
+      "key": "h4.s1.early.p_rev_given_vc_base_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 14.3
+    },
+    {
+      "key": "h4.s1.early.p_rev_given_vc_base_wait.lo",
+      "src": "cluster bootstrap",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.early.p_rev_given_vc_base_wait.hi",
+      "src": "cluster bootstrap",
+      "value": 50.0
+    },
+    {
+      "key": "h4.s1.early.n_both_base_wait",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 2
+    },
+    {
+      "key": "h4.s1.early.n_rev_base_wait",
+      "src": "windows with judge-REVISE",
+      "value": 49
+    },
+    {
+      "key": "h4.s1.early.n_vc_base_wait",
+      "src": "windows with VALUE_CHANGE",
+      "value": 14
+    },
+    {
+      "key": "h4.s1.mid.p_vc_given_rev_base_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 7.4
+    },
+    {
+      "key": "h4.s1.mid.p_vc_given_rev_base_wait.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 1.9
+    },
+    {
+      "key": "h4.s1.mid.p_vc_given_rev_base_wait.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 13.6
+    },
+    {
+      "key": "h4.s1.mid.p_rev_given_vc_base_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 30.8
+    },
+    {
+      "key": "h4.s1.mid.p_rev_given_vc_base_wait.lo",
+      "src": "cluster bootstrap",
+      "value": 6.7
+    },
+    {
+      "key": "h4.s1.mid.p_rev_given_vc_base_wait.hi",
+      "src": "cluster bootstrap",
+      "value": 83.3
+    },
+    {
+      "key": "h4.s1.mid.n_both_base_wait",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 4
+    },
+    {
+      "key": "h4.s1.mid.n_rev_base_wait",
+      "src": "windows with judge-REVISE",
+      "value": 54
+    },
+    {
+      "key": "h4.s1.mid.n_vc_base_wait",
+      "src": "windows with VALUE_CHANGE",
+      "value": 13
+    },
+    {
+      "key": "h4.s1.late.p_vc_given_rev_base_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 1.1
+    },
+    {
+      "key": "h4.s1.late.p_vc_given_rev_base_wait.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.late.p_vc_given_rev_base_wait.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s1.late.p_rev_given_vc_base_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 14.3
+    },
+    {
+      "key": "h4.s1.late.p_rev_given_vc_base_wait.lo",
+      "src": "cluster bootstrap",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.late.p_rev_given_vc_base_wait.hi",
+      "src": "cluster bootstrap",
+      "value": 60.0
+    },
+    {
+      "key": "h4.s1.late.n_both_base_wait",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 1
+    },
+    {
+      "key": "h4.s1.late.n_rev_base_wait",
+      "src": "windows with judge-REVISE",
+      "value": 87
+    },
+    {
+      "key": "h4.s1.late.n_vc_base_wait",
+      "src": "windows with VALUE_CHANGE",
+      "value": 7
+    },
+    {
+      "key": "h4.s1.final.p_vc_given_rev_base_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 4.3
+    },
+    {
+      "key": "h4.s1.final.p_vc_given_rev_base_wait.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.final.p_vc_given_rev_base_wait.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 9.9
+    },
+    {
+      "key": "h4.s1.final.p_rev_given_vc_base_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 30.0
+    },
+    {
+      "key": "h4.s1.final.p_rev_given_vc_base_wait.lo",
+      "src": "cluster bootstrap",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.final.p_rev_given_vc_base_wait.hi",
+      "src": "cluster bootstrap",
+      "value": 66.7
+    },
+    {
+      "key": "h4.s1.final.n_both_base_wait",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 3
+    },
+    {
+      "key": "h4.s1.final.n_rev_base_wait",
+      "src": "windows with judge-REVISE",
+      "value": 70
+    },
+    {
+      "key": "h4.s1.final.n_vc_base_wait",
+      "src": "windows with VALUE_CHANGE",
+      "value": 10
+    },
+    {
+      "key": "h4.s1.base.p_vc_given_rev_base_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 5.9
+    },
+    {
+      "key": "h4.s1.base.p_vc_given_rev_base_wait.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.base.p_vc_given_rev_base_wait.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 13.3
+    },
+    {
+      "key": "h4.s1.base.p_rev_given_vc_base_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 18.8
+    },
+    {
+      "key": "h4.s1.base.p_rev_given_vc_base_wait.lo",
+      "src": "cluster bootstrap",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s1.base.p_rev_given_vc_base_wait.hi",
+      "src": "cluster bootstrap",
+      "value": 42.9
+    },
+    {
+      "key": "h4.s1.base.n_both_base_wait",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 3
+    },
+    {
+      "key": "h4.s1.base.n_rev_base_wait",
+      "src": "windows with judge-REVISE",
+      "value": 51
+    },
+    {
+      "key": "h4.s1.base.n_vc_base_wait",
+      "src": "windows with VALUE_CHANGE",
+      "value": 16
+    },
+    {
+      "key": "h4.s1.trend.p_vc_given_rev_base_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 3.2
+    },
+    {
+      "key": "h4.s1.trend.p_vc_given_rev_base_wait.lo",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s1.trend.p_vc_given_rev_base_wait.hi",
+      "src": "cluster bootstrap over prefixes B=2000",
+      "value": 5.9
+    },
+    {
+      "key": "h4.s1.trend.p_rev_given_vc_base_wait",
+      "src": "exp/results/main/S1/valchange/windows.jsonl.gz",
+      "value": 19.1
+    },
+    {
+      "key": "h4.s1.trend.p_rev_given_vc_base_wait.lo",
+      "src": "cluster bootstrap",
+      "value": 6.2
+    },
+    {
+      "key": "h4.s1.trend.p_rev_given_vc_base_wait.hi",
+      "src": "cluster bootstrap",
+      "value": 43.3
+    },
+    {
+      "key": "h4.s1.trend.n_both_base_wait",
+      "src": "windows with judge-REVISE and VALUE_CHANGE",
+      "value": 18
+    },
+    {
+      "key": "h4.s1.trend.n_rev_base_wait",
+      "src": "windows with judge-REVISE",
+      "value": 557
+    },
+    {
+      "key": "h4.s1.trend.n_vc_base_wait",
+      "src": "windows with VALUE_CHANGE",
+      "value": 94
+    },
+    {
+      "key": "h4.s8base.final.p_vc_given_rev",
+      "src": "exp/results/scale/valchange/windows.jsonl.gz",
+      "value": 2.5
+    },
+    {
+      "key": "h4.s8base.final.p_vc_given_rev.lo",
+      "src": "cluster bootstrap",
+      "value": 0.7
+    },
+    {
+      "key": "h4.s8base.final.p_vc_given_rev.hi",
+      "src": "cluster bootstrap",
+      "value": 4.9
+    },
+    {
+      "key": "h4.s8base.final.p_rev_given_vc",
+      "src": "same",
+      "value": 23.3
+    },
+    {
+      "key": "h4.s8base.final.n_both",
+      "src": "same",
+      "value": 7
+    },
+    {
+      "key": "h4.s8base.final.n_rev",
+      "src": "same",
+      "value": 284
+    },
+    {
+      "key": "h4.s8base.final.n_vc",
+      "src": "same",
+      "value": 30
+    },
+    {
+      "key": "h4.s8dapo.final.p_vc_given_rev",
+      "src": "exp/results/scale/valchange/windows.jsonl.gz",
+      "value": 5.3
+    },
+    {
+      "key": "h4.s8dapo.final.p_vc_given_rev.lo",
+      "src": "cluster bootstrap",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8dapo.final.p_vc_given_rev.hi",
+      "src": "cluster bootstrap",
+      "value": 14.7
+    },
+    {
+      "key": "h4.s8dapo.final.p_rev_given_vc",
+      "src": "same",
+      "value": 15.8
+    },
+    {
+      "key": "h4.s8dapo.final.n_both",
+      "src": "same",
+      "value": 6
+    },
+    {
+      "key": "h4.s8dapo.final.n_rev",
+      "src": "same",
+      "value": 114
+    },
+    {
+      "key": "h4.s8dapo.final.n_vc",
+      "src": "same",
+      "value": 38
+    },
+    {
+      "key": "h4.s8qwq.final.p_vc_given_rev",
+      "src": "exp/results/scale/valchange/windows.jsonl.gz",
+      "value": 2.6
+    },
+    {
+      "key": "h4.s8qwq.final.p_vc_given_rev.lo",
+      "src": "cluster bootstrap",
+      "value": 0.4
+    },
+    {
+      "key": "h4.s8qwq.final.p_vc_given_rev.hi",
+      "src": "cluster bootstrap",
+      "value": 6.0
+    },
+    {
+      "key": "h4.s8qwq.final.p_rev_given_vc",
+      "src": "same",
+      "value": 35.3
+    },
+    {
+      "key": "h4.s8qwq.final.n_both",
+      "src": "same",
+      "value": 6
+    },
+    {
+      "key": "h4.s8qwq.final.n_rev",
+      "src": "same",
+      "value": 230
+    },
+    {
+      "key": "h4.s8qwq.final.n_vc",
+      "src": "same",
+      "value": 17
+    },
+    {
+      "key": "h4.s8orz.final.p_vc_given_rev",
+      "src": "exp/results/scale/valchange/windows.jsonl.gz",
+      "value": 2.3
+    },
+    {
+      "key": "h4.s8orz.final.p_vc_given_rev.lo",
+      "src": "cluster bootstrap",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8orz.final.p_vc_given_rev.hi",
+      "src": "cluster bootstrap",
+      "value": 6.4
+    },
+    {
+      "key": "h4.s8orz.final.p_rev_given_vc",
+      "src": "same",
+      "value": 16.7
+    },
+    {
+      "key": "h4.s8orz.final.n_both",
+      "src": "same",
+      "value": 3
+    },
+    {
+      "key": "h4.s8orz.final.n_rev",
+      "src": "same",
+      "value": 133
+    },
+    {
+      "key": "h4.s8orz.final.n_vc",
+      "src": "same",
+      "value": 18
+    },
+    {
+      "key": "h4.s8r1d.final.p_vc_given_rev",
+      "src": "exp/results/scale/valchange/windows.jsonl.gz",
+      "value": 3.5
+    },
+    {
+      "key": "h4.s8r1d.final.p_vc_given_rev.lo",
+      "src": "cluster bootstrap",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8r1d.final.p_vc_given_rev.hi",
+      "src": "cluster bootstrap",
+      "value": 8.8
+    },
+    {
+      "key": "h4.s8r1d.final.p_rev_given_vc",
+      "src": "same",
+      "value": 32.0
+    },
+    {
+      "key": "h4.s8r1d.final.n_both",
+      "src": "same",
+      "value": 8
+    },
+    {
+      "key": "h4.s8r1d.final.n_rev",
+      "src": "same",
+      "value": 229
+    },
+    {
+      "key": "h4.s8r1d.final.n_vc",
+      "src": "same",
+      "value": 25
+    },
+    {
+      "key": "h4.s10low.final.p_vc_given_rev",
+      "src": "exp/results/scale/valchange/windows.jsonl.gz",
+      "value": 1.6
+    },
+    {
+      "key": "h4.s10low.final.p_vc_given_rev.lo",
+      "src": "cluster bootstrap",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10low.final.p_vc_given_rev.hi",
+      "src": "cluster bootstrap",
+      "value": 4.7
+    },
+    {
+      "key": "h4.s10low.final.p_rev_given_vc",
+      "src": "same",
+      "value": 26.7
+    },
+    {
+      "key": "h4.s10low.final.n_both",
+      "src": "same",
+      "value": 4
+    },
+    {
+      "key": "h4.s10low.final.n_rev",
+      "src": "same",
+      "value": 250
+    },
+    {
+      "key": "h4.s10low.final.n_vc",
+      "src": "same",
+      "value": 15
+    },
+    {
+      "key": "h4.s10med.final.p_vc_given_rev",
+      "src": "exp/results/scale/valchange/windows.jsonl.gz",
+      "value": 0.4
+    },
+    {
+      "key": "h4.s10med.final.p_vc_given_rev.lo",
+      "src": "cluster bootstrap",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10med.final.p_vc_given_rev.hi",
+      "src": "cluster bootstrap",
+      "value": 1.5
+    },
+    {
+      "key": "h4.s10med.final.p_rev_given_vc",
+      "src": "same",
+      "value": 8.3
+    },
+    {
+      "key": "h4.s10med.final.n_both",
+      "src": "same",
+      "value": 1
+    },
+    {
+      "key": "h4.s10med.final.n_rev",
+      "src": "same",
+      "value": 236
+    },
+    {
+      "key": "h4.s10med.final.n_vc",
+      "src": "same",
+      "value": 12
+    },
+    {
+      "key": "h4.s10high.final.p_vc_given_rev",
+      "src": "exp/results/scale/valchange/windows.jsonl.gz",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10high.final.p_vc_given_rev.lo",
+      "src": "cluster bootstrap",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10high.final.p_vc_given_rev.hi",
+      "src": "cluster bootstrap",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10high.final.p_rev_given_vc",
+      "src": "same",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10high.final.n_both",
+      "src": "same",
+      "value": 0
+    },
+    {
+      "key": "h4.s10high.final.n_rev",
+      "src": "same",
+      "value": 266
+    },
+    {
+      "key": "h4.s10high.final.n_vc",
+      "src": "same",
+      "value": 4
+    }
+  ]
+}

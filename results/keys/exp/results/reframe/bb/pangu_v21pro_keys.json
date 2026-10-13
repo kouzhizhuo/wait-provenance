@@ -1,0 +1,74 @@
+{
+ "entries": [
+  {
+   "key": "h1.bb_pangu_v21pro.final.nwait",
+   "value": 678,
+   "src": "exp/results/scale/bb/BB_pangu_v21pro_think/gen_cap32k/BB_pangu_v21pro_think_c32k.idx.json (vendor API, think mode, queried 2026-10-13)"
+  },
+  {
+   "key": "h1.bb_pangu_v21pro.final.ntok",
+   "value": 884268,
+   "src": "exp/results/scale/bb/BB_pangu_v21pro_think/gen_cap32k/BB_pangu_v21pro_think_c32k.idx.json (vendor API, think mode, queried 2026-10-13)"
+  },
+  {
+   "key": "h1.bb_pangu_v21pro.final.freq2",
+   "value": 0.77,
+   "src": "exp/results/scale/bb/BB_pangu_v21pro_think/gen_cap32k/BB_pangu_v21pro_think_c32k.idx.json (vendor API, think mode, queried 2026-10-13)"
+  },
+  {
+   "key": "h1.bb_pangu_v21pro.final.freq4",
+   "value": 0.7667,
+   "src": "exp/results/scale/bb/BB_pangu_v21pro_think/gen_cap32k/BB_pangu_v21pro_think_c32k.idx.json (vendor API, think mode, queried 2026-10-13)"
+  },
+  {
+   "key": "h1.bb_pangu_v21pro.final.freq4.lo",
+   "value": 0.7101,
+   "src": "exp/results/scale/bb/BB_pangu_v21pro_think/gen_cap32k/BB_pangu_v21pro_think_c32k.idx.json (vendor API, think mode, queried 2026-10-13)"
+  },
+  {
+   "key": "h1.bb_pangu_v21pro.final.freq4.hi",
+   "value": 0.8267,
+   "src": "exp/results/scale/bb/BB_pangu_v21pro_think/gen_cap32k/BB_pangu_v21pro_think_c32k.idx.json (vendor API, think mode, queried 2026-10-13)"
+  },
+  {
+   "key": "ctl.bb_pangu_v21pro.final.acc",
+   "value": 93.7,
+   "src": "exp/results/scale/bb/BB_pangu_v21pro_think/gen_cap32k/BB_pangu_v21pro_think_c32k.idx.json (vendor API, think mode, queried 2026-10-13)"
+  },
+  {
+   "key": "ctl.bb_pangu_v21pro.final.trunc",
+   "value": 0.0,
+   "src": "exp/results/scale/bb/BB_pangu_v21pro_think/gen_cap32k/BB_pangu_v21pro_think_c32k.idx.json (vendor API, think mode, queried 2026-10-13)"
+  },
+  {
+   "key": "ctl.bb_pangu_v21pro.final.n",
+   "value": 745,
+   "src": "exp/results/scale/bb/BB_pangu_v21pro_think/gen_cap32k/BB_pangu_v21pro_think_c32k.idx.json (vendor API, think mode, queried 2026-10-13)"
+  },
+  {
+   "key": "ctl.bb_pangu_v21pro.final.n_problems",
+   "value": 190,
+   "src": "exp/results/scale/bb/BB_pangu_v21pro_think/gen_cap32k/BB_pangu_v21pro_think_c32k.idx.json (vendor API, think mode, queried 2026-10-13)"
+  },
+  {
+   "key": "h1.bb_pangu_v21pro.final.freq2.lo",
+   "value": 0.71,
+   "src": "exp/results/scale/bb/BB_pangu_v21pro_think/gen_cap32k/BB_pangu_v21pro_think_c32k.idx.json (vendor API, think mode, queried 2026-10-13); 2-decimal copy"
+  },
+  {
+   "key": "h1.bb_pangu_v21pro.final.freq2.hi",
+   "value": 0.83,
+   "src": "exp/results/scale/bb/BB_pangu_v21pro_think/gen_cap32k/BB_pangu_v21pro_think_c32k.idx.json (vendor API, think mode, queried 2026-10-13); 2-decimal copy"
+  },
+  {
+   "key": "h1.bb_pangu_v21pro.complete.freq2",
+   "value": 0.75,
+   "src": "exp/results/scale/bb/BB_pangu_v21pro_think/gen_cap32k/complete_only.idx.json (problems with all 4 samples; repo indices)"
+  },
+  {
+   "key": "h1.bb_pangu_v21pro.complete.n_problems",
+   "value": 182,
+   "src": "exp/results/scale/bb/BB_pangu_v21pro_think/gen_cap32k/complete_only.idx.json (problems with all 4 samples; repo indices)"
+  }
+ ]
+}

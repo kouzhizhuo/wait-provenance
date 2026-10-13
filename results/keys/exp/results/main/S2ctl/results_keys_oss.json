@@ -1,0 +1,572 @@
+{
+  "entries": [
+    {
+      "key": "h1.s2ctl.step5000.obl_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.OBL_j.est",
+      "value": 64.2
+    },
+    {
+      "key": "h1.s2ctl.step5000.obl_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.OBL_j.lo",
+      "value": 56.6
+    },
+    {
+      "key": "h1.s2ctl.step5000.obl_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.OBL_j.hi",
+      "value": 72.3
+    },
+    {
+      "key": "h1.s2ctl.step5000.obl_oss.n",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.n_R",
+      "value": 5245
+    },
+    {
+      "key": "h1.s2ctl.step5000.rel_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.REL_j.est",
+      "value": 38.2
+    },
+    {
+      "key": "h1.s2ctl.step5000.rel_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.REL_j.lo",
+      "value": 33.9
+    },
+    {
+      "key": "h1.s2ctl.step5000.rel_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.REL_j.hi",
+      "value": 42.7
+    },
+    {
+      "key": "h1.s2ctl.step5000.rel_oss.n",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.n_M",
+      "value": 39727
+    },
+    {
+      "key": "h1.s2ctl.step5000.revrate_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.R_per_100s_j.est",
+      "value": 10.36
+    },
+    {
+      "key": "h1.s2ctl.step5000.revrate_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.R_per_100s_j.lo",
+      "value": 8.96
+    },
+    {
+      "key": "h1.s2ctl.step5000.revrate_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.R_per_100s_j.hi",
+      "value": 11.81
+    },
+    {
+      "key": "h1.s2ctl.step5000.relstrict_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.REL_strict_j.est",
+      "value": 25.6
+    },
+    {
+      "key": "h1.s2ctl.step5000.relstrict_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.REL_strict_j.lo",
+      "value": 21.6
+    },
+    {
+      "key": "h1.s2ctl.step5000.relstrict_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.REL_strict_j.hi",
+      "value": 29.8
+    },
+    {
+      "key": "h1.s2ctl.early.obl_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.OBL_j.est",
+      "value": 64.2
+    },
+    {
+      "key": "h1.s2ctl.early.obl_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.OBL_j.lo",
+      "value": 56.6
+    },
+    {
+      "key": "h1.s2ctl.early.obl_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.OBL_j.hi",
+      "value": 72.3
+    },
+    {
+      "key": "h1.s2ctl.early.obl_oss.n",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.n_R",
+      "value": 5245
+    },
+    {
+      "key": "h1.s2ctl.early.rel_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.REL_j.est",
+      "value": 38.2
+    },
+    {
+      "key": "h1.s2ctl.early.rel_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.REL_j.lo",
+      "value": 33.9
+    },
+    {
+      "key": "h1.s2ctl.early.rel_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.REL_j.hi",
+      "value": 42.7
+    },
+    {
+      "key": "h1.s2ctl.early.rel_oss.n",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.n_M",
+      "value": 39727
+    },
+    {
+      "key": "h1.s2ctl.early.revrate_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.R_per_100s_j.est",
+      "value": 10.36
+    },
+    {
+      "key": "h1.s2ctl.early.revrate_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.R_per_100s_j.lo",
+      "value": 8.96
+    },
+    {
+      "key": "h1.s2ctl.early.revrate_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.R_per_100s_j.hi",
+      "value": 11.81
+    },
+    {
+      "key": "h1.s2ctl.early.relstrict_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.REL_strict_j.est",
+      "value": 25.6
+    },
+    {
+      "key": "h1.s2ctl.early.relstrict_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.REL_strict_j.lo",
+      "value": 21.6
+    },
+    {
+      "key": "h1.s2ctl.early.relstrict_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step5000.indices.REL_strict_j.hi",
+      "value": 29.8
+    },
+    {
+      "key": "h1.s2ctl.step15000.obl_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step15000.indices.OBL_j.est",
+      "value": 64.3
+    },
+    {
+      "key": "h1.s2ctl.step15000.obl_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step15000.indices.OBL_j.lo",
+      "value": 55.6
+    },
+    {
+      "key": "h1.s2ctl.step15000.obl_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step15000.indices.OBL_j.hi",
+      "value": 73.4
+    },
+    {
+      "key": "h1.s2ctl.step15000.obl_oss.n",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step15000.indices.n_R",
+      "value": 3737
+    },
+    {
+      "key": "h1.s2ctl.step15000.rel_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step15000.indices.REL_j.est",
+      "value": 36.6
+    },
+    {
+      "key": "h1.s2ctl.step15000.rel_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step15000.indices.REL_j.lo",
+      "value": 31.9
+    },
+    {
+      "key": "h1.s2ctl.step15000.rel_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step15000.indices.REL_j.hi",
+      "value": 41.7
+    },
+    {
+      "key": "h1.s2ctl.step15000.rel_oss.n",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step15000.indices.n_M",
+      "value": 31402
+    },
+    {
+      "key": "h1.s2ctl.step15000.revrate_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step15000.indices.R_per_100s_j.est",
+      "value": 9.22
+    },
+    {
+      "key": "h1.s2ctl.step15000.revrate_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step15000.indices.R_per_100s_j.lo",
+      "value": 7.66
+    },
+    {
+      "key": "h1.s2ctl.step15000.revrate_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step15000.indices.R_per_100s_j.hi",
+      "value": 10.91
+    },
+    {
+      "key": "h1.s2ctl.step15000.relstrict_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step15000.indices.REL_strict_j.est",
+      "value": 23.6
+    },
+    {
+      "key": "h1.s2ctl.step15000.relstrict_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step15000.indices.REL_strict_j.lo",
+      "value": 19.7
+    },
+    {
+      "key": "h1.s2ctl.step15000.relstrict_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step15000.indices.REL_strict_j.hi",
+      "value": 27.7
+    },
+    {
+      "key": "h1.s2ctl.step25000.obl_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.OBL_j.est",
+      "value": 65.6
+    },
+    {
+      "key": "h1.s2ctl.step25000.obl_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.OBL_j.lo",
+      "value": 58.4
+    },
+    {
+      "key": "h1.s2ctl.step25000.obl_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.OBL_j.hi",
+      "value": 73.7
+    },
+    {
+      "key": "h1.s2ctl.step25000.obl_oss.n",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.n_R",
+      "value": 3358
+    },
+    {
+      "key": "h1.s2ctl.step25000.rel_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.REL_j.est",
+      "value": 43.0
+    },
+    {
+      "key": "h1.s2ctl.step25000.rel_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.REL_j.lo",
+      "value": 37.6
+    },
+    {
+      "key": "h1.s2ctl.step25000.rel_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.REL_j.hi",
+      "value": 47.9
+    },
+    {
+      "key": "h1.s2ctl.step25000.rel_oss.n",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.n_M",
+      "value": 30657
+    },
+    {
+      "key": "h1.s2ctl.step25000.revrate_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.R_per_100s_j.est",
+      "value": 9.68
+    },
+    {
+      "key": "h1.s2ctl.step25000.revrate_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.R_per_100s_j.lo",
+      "value": 8.2
+    },
+    {
+      "key": "h1.s2ctl.step25000.revrate_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.R_per_100s_j.hi",
+      "value": 11.21
+    },
+    {
+      "key": "h1.s2ctl.step25000.relstrict_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.REL_strict_j.est",
+      "value": 30.8
+    },
+    {
+      "key": "h1.s2ctl.step25000.relstrict_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.REL_strict_j.lo",
+      "value": 25.3
+    },
+    {
+      "key": "h1.s2ctl.step25000.relstrict_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.REL_strict_j.hi",
+      "value": 35.8
+    },
+    {
+      "key": "h1.s2ctl.mid.obl_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.OBL_j.est",
+      "value": 65.6
+    },
+    {
+      "key": "h1.s2ctl.mid.obl_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.OBL_j.lo",
+      "value": 58.4
+    },
+    {
+      "key": "h1.s2ctl.mid.obl_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.OBL_j.hi",
+      "value": 73.7
+    },
+    {
+      "key": "h1.s2ctl.mid.obl_oss.n",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.n_R",
+      "value": 3358
+    },
+    {
+      "key": "h1.s2ctl.mid.rel_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.REL_j.est",
+      "value": 43.0
+    },
+    {
+      "key": "h1.s2ctl.mid.rel_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.REL_j.lo",
+      "value": 37.6
+    },
+    {
+      "key": "h1.s2ctl.mid.rel_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.REL_j.hi",
+      "value": 47.9
+    },
+    {
+      "key": "h1.s2ctl.mid.rel_oss.n",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.n_M",
+      "value": 30657
+    },
+    {
+      "key": "h1.s2ctl.mid.revrate_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.R_per_100s_j.est",
+      "value": 9.68
+    },
+    {
+      "key": "h1.s2ctl.mid.revrate_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.R_per_100s_j.lo",
+      "value": 8.2
+    },
+    {
+      "key": "h1.s2ctl.mid.revrate_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.R_per_100s_j.hi",
+      "value": 11.21
+    },
+    {
+      "key": "h1.s2ctl.mid.relstrict_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.REL_strict_j.est",
+      "value": 30.8
+    },
+    {
+      "key": "h1.s2ctl.mid.relstrict_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.REL_strict_j.lo",
+      "value": 25.3
+    },
+    {
+      "key": "h1.s2ctl.mid.relstrict_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step25000.indices.REL_strict_j.hi",
+      "value": 35.8
+    },
+    {
+      "key": "h1.s2ctl.step35000.obl_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step35000.indices.OBL_j.est",
+      "value": 61.2
+    },
+    {
+      "key": "h1.s2ctl.step35000.obl_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step35000.indices.OBL_j.lo",
+      "value": 52.3
+    },
+    {
+      "key": "h1.s2ctl.step35000.obl_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step35000.indices.OBL_j.hi",
+      "value": 69.8
+    },
+    {
+      "key": "h1.s2ctl.step35000.obl_oss.n",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step35000.indices.n_R",
+      "value": 3169
+    },
+    {
+      "key": "h1.s2ctl.step35000.rel_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step35000.indices.REL_j.est",
+      "value": 34.0
+    },
+    {
+      "key": "h1.s2ctl.step35000.rel_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step35000.indices.REL_j.lo",
+      "value": 29.1
+    },
+    {
+      "key": "h1.s2ctl.step35000.rel_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step35000.indices.REL_j.hi",
+      "value": 39.1
+    },
+    {
+      "key": "h1.s2ctl.step35000.rel_oss.n",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step35000.indices.n_M",
+      "value": 28740
+    },
+    {
+      "key": "h1.s2ctl.step35000.revrate_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step35000.indices.R_per_100s_j.est",
+      "value": 8.5
+    },
+    {
+      "key": "h1.s2ctl.step35000.revrate_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step35000.indices.R_per_100s_j.lo",
+      "value": 6.92
+    },
+    {
+      "key": "h1.s2ctl.step35000.revrate_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step35000.indices.R_per_100s_j.hi",
+      "value": 10.06
+    },
+    {
+      "key": "h1.s2ctl.step35000.relstrict_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step35000.indices.REL_strict_j.est",
+      "value": 22.4
+    },
+    {
+      "key": "h1.s2ctl.step35000.relstrict_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step35000.indices.REL_strict_j.lo",
+      "value": 18.6
+    },
+    {
+      "key": "h1.s2ctl.step35000.relstrict_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step35000.indices.REL_strict_j.hi",
+      "value": 26.4
+    },
+    {
+      "key": "h1.s2ctl.step43000.obl_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.OBL_j.est",
+      "value": 58.5
+    },
+    {
+      "key": "h1.s2ctl.step43000.obl_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.OBL_j.lo",
+      "value": 51.8
+    },
+    {
+      "key": "h1.s2ctl.step43000.obl_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.OBL_j.hi",
+      "value": 66.0
+    },
+    {
+      "key": "h1.s2ctl.step43000.obl_oss.n",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.n_R",
+      "value": 3059
+    },
+    {
+      "key": "h1.s2ctl.step43000.rel_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.REL_j.est",
+      "value": 35.0
+    },
+    {
+      "key": "h1.s2ctl.step43000.rel_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.REL_j.lo",
+      "value": 30.2
+    },
+    {
+      "key": "h1.s2ctl.step43000.rel_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.REL_j.hi",
+      "value": 39.7
+    },
+    {
+      "key": "h1.s2ctl.step43000.rel_oss.n",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.n_M",
+      "value": 29009
+    },
+    {
+      "key": "h1.s2ctl.step43000.revrate_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.R_per_100s_j.est",
+      "value": 9.72
+    },
+    {
+      "key": "h1.s2ctl.step43000.revrate_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.R_per_100s_j.lo",
+      "value": 7.81
+    },
+    {
+      "key": "h1.s2ctl.step43000.revrate_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.R_per_100s_j.hi",
+      "value": 11.76
+    },
+    {
+      "key": "h1.s2ctl.step43000.relstrict_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.REL_strict_j.est",
+      "value": 23.8
+    },
+    {
+      "key": "h1.s2ctl.step43000.relstrict_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.REL_strict_j.lo",
+      "value": 20.1
+    },
+    {
+      "key": "h1.s2ctl.step43000.relstrict_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.REL_strict_j.hi",
+      "value": 27.6
+    },
+    {
+      "key": "h1.s2ctl.late.obl_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.OBL_j.est",
+      "value": 58.5
+    },
+    {
+      "key": "h1.s2ctl.late.obl_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.OBL_j.lo",
+      "value": 51.8
+    },
+    {
+      "key": "h1.s2ctl.late.obl_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.OBL_j.hi",
+      "value": 66.0
+    },
+    {
+      "key": "h1.s2ctl.late.obl_oss.n",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.n_R",
+      "value": 3059
+    },
+    {
+      "key": "h1.s2ctl.late.rel_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.REL_j.est",
+      "value": 35.0
+    },
+    {
+      "key": "h1.s2ctl.late.rel_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.REL_j.lo",
+      "value": 30.2
+    },
+    {
+      "key": "h1.s2ctl.late.rel_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.REL_j.hi",
+      "value": 39.7
+    },
+    {
+      "key": "h1.s2ctl.late.rel_oss.n",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.n_M",
+      "value": 29009
+    },
+    {
+      "key": "h1.s2ctl.late.revrate_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.R_per_100s_j.est",
+      "value": 9.72
+    },
+    {
+      "key": "h1.s2ctl.late.revrate_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.R_per_100s_j.lo",
+      "value": 7.81
+    },
+    {
+      "key": "h1.s2ctl.late.revrate_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.R_per_100s_j.hi",
+      "value": 11.76
+    },
+    {
+      "key": "h1.s2ctl.late.relstrict_oss",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.REL_strict_j.est",
+      "value": 23.8
+    },
+    {
+      "key": "h1.s2ctl.late.relstrict_oss.lo",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.REL_strict_j.lo",
+      "value": 20.1
+    },
+    {
+      "key": "h1.s2ctl.late.relstrict_oss.hi",
+      "src": "$ARR_ROOT/runs/P1/main/S2ctl/h1_indices_oss.json::checkpoints.step43000.indices.REL_strict_j.hi",
+      "value": 27.6
+    }
+  ],
+  "judge_tag": "oss",
+  "pilot": false,
+  "stage_map": {
+    "base": "base",
+    "early": "step5000",
+    "late": "step43000",
+    "mid": "step25000"
+  }
+}

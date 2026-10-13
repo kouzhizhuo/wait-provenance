@@ -1,0 +1,9 @@
+{
+ "entries": [
+  {
+   "key": "h5.dev.fa_drop_max_pts",
+   "value": 0.9,
+   "src": "max over 4 primary models of 100*(sham FA - CW FA), DEV-B (h5.<m>.dev.B_all.*)"
+  }
+ ]
+}

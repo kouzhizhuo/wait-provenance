@@ -1,0 +1,3749 @@
+{
+  "entries": [
+    {
+      "key": "h1.s1.base.freq_resp",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait occurrences per response",
+      "value": 11.16
+    },
+    {
+      "key": "h1.s1.base.freq_word",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 8.84
+    },
+    {
+      "key": "h1.s1.base.acc_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 71.2
+    },
+    {
+      "key": "h1.s1.base.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 67.4
+    },
+    {
+      "key": "h1.s1.base.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 74.8
+    },
+    {
+      "key": "h1.s1.base.acc_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 23.1
+    },
+    {
+      "key": "h1.s1.base.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 19.3
+    },
+    {
+      "key": "h1.s1.base.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 27.4
+    },
+    {
+      "key": "h1.s1.base.n_resp_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 584
+    },
+    {
+      "key": "h1.s1.base.n_resp_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 416
+    },
+    {
+      "key": "h1.s1.base.wait_after_ans",
+      "src": "exp/results/main/S1/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=6284 waits)",
+      "value": 11.6
+    },
+    {
+      "key": "h1.s1.base.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 10.8
+    },
+    {
+      "key": "h1.s1.base.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 12.4
+    },
+    {
+      "key": "h1.s1.base.wait_after_ans_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 6284
+    },
+    {
+      "key": "h1.s1.step0100.freq_resp",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait occurrences per response",
+      "value": 18.07
+    },
+    {
+      "key": "h1.s1.step0100.freq_word",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 9.98
+    },
+    {
+      "key": "h1.s1.step0100.acc_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 80.0
+    },
+    {
+      "key": "h1.s1.step0100.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 77.3
+    },
+    {
+      "key": "h1.s1.step0100.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 82.4
+    },
+    {
+      "key": "h1.s1.step0100.acc_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 75.0
+    },
+    {
+      "key": "h1.s1.step0100.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 58.9
+    },
+    {
+      "key": "h1.s1.step0100.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 86.2
+    },
+    {
+      "key": "h1.s1.step0100.n_resp_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 964
+    },
+    {
+      "key": "h1.s1.step0100.n_resp_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 36
+    },
+    {
+      "key": "h1.s1.step0100.wait_after_ans",
+      "src": "exp/results/main/S1/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=11404 waits)",
+      "value": 5.2
+    },
+    {
+      "key": "h1.s1.step0100.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 4.8
+    },
+    {
+      "key": "h1.s1.step0100.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 5.6
+    },
+    {
+      "key": "h1.s1.step0100.wait_after_ans_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 11404
+    },
+    {
+      "key": "h1.s1.early.freq_resp",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait occurrences per response",
+      "value": 18.07
+    },
+    {
+      "key": "h1.s1.early.freq_word",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 9.98
+    },
+    {
+      "key": "h1.s1.early.acc_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 80.0
+    },
+    {
+      "key": "h1.s1.early.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 77.3
+    },
+    {
+      "key": "h1.s1.early.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 82.4
+    },
+    {
+      "key": "h1.s1.early.acc_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 75.0
+    },
+    {
+      "key": "h1.s1.early.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 58.9
+    },
+    {
+      "key": "h1.s1.early.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 86.2
+    },
+    {
+      "key": "h1.s1.early.n_resp_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 964
+    },
+    {
+      "key": "h1.s1.early.n_resp_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 36
+    },
+    {
+      "key": "h1.s1.early.wait_after_ans",
+      "src": "exp/results/main/S1/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=11404 waits)",
+      "value": 5.2
+    },
+    {
+      "key": "h1.s1.early.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 4.8
+    },
+    {
+      "key": "h1.s1.early.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 5.6
+    },
+    {
+      "key": "h1.s1.early.wait_after_ans_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 11404
+    },
+    {
+      "key": "h1.s1.step0200.freq_resp",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait occurrences per response",
+      "value": 20.78
+    },
+    {
+      "key": "h1.s1.step0200.freq_word",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 10.73
+    },
+    {
+      "key": "h1.s1.step0200.acc_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 79.7
+    },
+    {
+      "key": "h1.s1.step0200.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 77.1
+    },
+    {
+      "key": "h1.s1.step0200.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 82.1
+    },
+    {
+      "key": "h1.s1.step0200.acc_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 94.7
+    },
+    {
+      "key": "h1.s1.step0200.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 75.4
+    },
+    {
+      "key": "h1.s1.step0200.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 99.1
+    },
+    {
+      "key": "h1.s1.step0200.n_resp_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 981
+    },
+    {
+      "key": "h1.s1.step0200.n_resp_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 19
+    },
+    {
+      "key": "h1.s1.step0200.wait_after_ans",
+      "src": "exp/results/main/S1/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=13292 waits)",
+      "value": 10.7
+    },
+    {
+      "key": "h1.s1.step0200.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 10.2
+    },
+    {
+      "key": "h1.s1.step0200.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 11.2
+    },
+    {
+      "key": "h1.s1.step0200.wait_after_ans_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 13292
+    },
+    {
+      "key": "h1.s1.step0400.freq_resp",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait occurrences per response",
+      "value": 26.92
+    },
+    {
+      "key": "h1.s1.step0400.freq_word",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 13.43
+    },
+    {
+      "key": "h1.s1.step0400.acc_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 82.3
+    },
+    {
+      "key": "h1.s1.step0400.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 79.8
+    },
+    {
+      "key": "h1.s1.step0400.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 84.5
+    },
+    {
+      "key": "h1.s1.step0400.acc_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 92.3
+    },
+    {
+      "key": "h1.s1.step0400.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 66.7
+    },
+    {
+      "key": "h1.s1.step0400.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 98.6
+    },
+    {
+      "key": "h1.s1.step0400.n_resp_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 987
+    },
+    {
+      "key": "h1.s1.step0400.n_resp_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 13
+    },
+    {
+      "key": "h1.s1.step0400.wait_after_ans",
+      "src": "exp/results/main/S1/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=17989 waits)",
+      "value": 5.7
+    },
+    {
+      "key": "h1.s1.step0400.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 5.4
+    },
+    {
+      "key": "h1.s1.step0400.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 6.0
+    },
+    {
+      "key": "h1.s1.step0400.wait_after_ans_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 17989
+    },
+    {
+      "key": "h1.s1.step0700.freq_resp",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait occurrences per response",
+      "value": 28.5
+    },
+    {
+      "key": "h1.s1.step0700.freq_word",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 13.86
+    },
+    {
+      "key": "h1.s1.step0700.acc_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 83.4
+    },
+    {
+      "key": "h1.s1.step0700.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 80.9
+    },
+    {
+      "key": "h1.s1.step0700.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 85.6
+    },
+    {
+      "key": "h1.s1.step0700.acc_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s1.step0700.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 20.7
+    },
+    {
+      "key": "h1.s1.step0700.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s1.step0700.n_resp_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 999
+    },
+    {
+      "key": "h1.s1.step0700.n_resp_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s1.step0700.wait_after_ans",
+      "src": "exp/results/main/S1/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=20498 waits)",
+      "value": 4.2
+    },
+    {
+      "key": "h1.s1.step0700.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 3.9
+    },
+    {
+      "key": "h1.s1.step0700.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 4.5
+    },
+    {
+      "key": "h1.s1.step0700.wait_after_ans_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 20498
+    },
+    {
+      "key": "h1.s1.mid.freq_resp",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait occurrences per response",
+      "value": 28.5
+    },
+    {
+      "key": "h1.s1.mid.freq_word",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 13.86
+    },
+    {
+      "key": "h1.s1.mid.acc_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 83.4
+    },
+    {
+      "key": "h1.s1.mid.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 80.9
+    },
+    {
+      "key": "h1.s1.mid.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 85.6
+    },
+    {
+      "key": "h1.s1.mid.acc_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s1.mid.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 20.7
+    },
+    {
+      "key": "h1.s1.mid.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s1.mid.n_resp_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 999
+    },
+    {
+      "key": "h1.s1.mid.n_resp_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s1.mid.wait_after_ans",
+      "src": "exp/results/main/S1/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=20498 waits)",
+      "value": 4.2
+    },
+    {
+      "key": "h1.s1.mid.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 3.9
+    },
+    {
+      "key": "h1.s1.mid.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 4.5
+    },
+    {
+      "key": "h1.s1.mid.wait_after_ans_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 20498
+    },
+    {
+      "key": "h1.s1.step1000.freq_resp",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait occurrences per response",
+      "value": 44.61
+    },
+    {
+      "key": "h1.s1.step1000.freq_word",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 21.03
+    },
+    {
+      "key": "h1.s1.step1000.acc_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 84.4
+    },
+    {
+      "key": "h1.s1.step1000.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 82.0
+    },
+    {
+      "key": "h1.s1.step1000.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 86.5
+    },
+    {
+      "key": "h1.s1.step1000.acc_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1.step1000.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1.step1000.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 79.3
+    },
+    {
+      "key": "h1.s1.step1000.n_resp_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 999
+    },
+    {
+      "key": "h1.s1.step1000.n_resp_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s1.step1000.wait_after_ans",
+      "src": "exp/results/main/S1/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=26312 waits)",
+      "value": 6.0
+    },
+    {
+      "key": "h1.s1.step1000.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 5.7
+    },
+    {
+      "key": "h1.s1.step1000.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 6.3
+    },
+    {
+      "key": "h1.s1.step1000.wait_after_ans_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 26312
+    },
+    {
+      "key": "h1.s1.step1400.freq_resp",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait occurrences per response",
+      "value": 69.18
+    },
+    {
+      "key": "h1.s1.step1400.freq_word",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 29.46
+    },
+    {
+      "key": "h1.s1.step1400.acc_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 81.6
+    },
+    {
+      "key": "h1.s1.step1400.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 79.1
+    },
+    {
+      "key": "h1.s1.step1400.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 83.9
+    },
+    {
+      "key": "h1.s1.step1400.acc_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s1.step1400.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 20.7
+    },
+    {
+      "key": "h1.s1.step1400.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s1.step1400.n_resp_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 999
+    },
+    {
+      "key": "h1.s1.step1400.n_resp_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s1.step1400.wait_after_ans",
+      "src": "exp/results/main/S1/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=43996 waits)",
+      "value": 14.2
+    },
+    {
+      "key": "h1.s1.step1400.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 13.8
+    },
+    {
+      "key": "h1.s1.step1400.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 14.5
+    },
+    {
+      "key": "h1.s1.step1400.wait_after_ans_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 43996
+    },
+    {
+      "key": "h1.s1.step1900.freq_resp",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait occurrences per response",
+      "value": 76.4
+    },
+    {
+      "key": "h1.s1.step1900.freq_word",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 30.93
+    },
+    {
+      "key": "h1.s1.step1900.acc_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 82.0
+    },
+    {
+      "key": "h1.s1.step1900.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 79.5
+    },
+    {
+      "key": "h1.s1.step1900.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 84.2
+    },
+    {
+      "key": "h1.s1.step1900.acc_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1.step1900.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1.step1900.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 79.3
+    },
+    {
+      "key": "h1.s1.step1900.n_resp_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 999
+    },
+    {
+      "key": "h1.s1.step1900.n_resp_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s1.step1900.wait_after_ans",
+      "src": "exp/results/main/S1/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=52003 waits)",
+      "value": 4.9
+    },
+    {
+      "key": "h1.s1.step1900.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 4.7
+    },
+    {
+      "key": "h1.s1.step1900.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 5.1
+    },
+    {
+      "key": "h1.s1.step1900.wait_after_ans_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 52003
+    },
+    {
+      "key": "h1.s1.late.freq_resp",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait occurrences per response",
+      "value": 76.4
+    },
+    {
+      "key": "h1.s1.late.freq_word",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 30.93
+    },
+    {
+      "key": "h1.s1.late.acc_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 82.0
+    },
+    {
+      "key": "h1.s1.late.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 79.5
+    },
+    {
+      "key": "h1.s1.late.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 84.2
+    },
+    {
+      "key": "h1.s1.late.acc_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1.late.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1.late.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 79.3
+    },
+    {
+      "key": "h1.s1.late.n_resp_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 999
+    },
+    {
+      "key": "h1.s1.late.n_resp_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s1.late.wait_after_ans",
+      "src": "exp/results/main/S1/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=52003 waits)",
+      "value": 4.9
+    },
+    {
+      "key": "h1.s1.late.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 4.7
+    },
+    {
+      "key": "h1.s1.late.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 5.1
+    },
+    {
+      "key": "h1.s1.late.wait_after_ans_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 52003
+    },
+    {
+      "key": "h1.s1.final.freq_resp",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait occurrences per response",
+      "value": 50.19
+    },
+    {
+      "key": "h1.s1.final.freq_word",
+      "src": "exp/results/main/S1/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 23.02
+    },
+    {
+      "key": "h1.s1.final.acc_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 85.1
+    },
+    {
+      "key": "h1.s1.final.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 82.7
+    },
+    {
+      "key": "h1.s1.final.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 87.2
+    },
+    {
+      "key": "h1.s1.final.acc_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s1.final.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 20.7
+    },
+    {
+      "key": "h1.s1.final.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s1.final.n_resp_wait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 999
+    },
+    {
+      "key": "h1.s1.final.n_resp_nowait",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s1.final.wait_after_ans",
+      "src": "exp/results/main/S1/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=42291 waits)",
+      "value": 20.2
+    },
+    {
+      "key": "h1.s1.final.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 19.8
+    },
+    {
+      "key": "h1.s1.final.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 20.6
+    },
+    {
+      "key": "h1.s1.final.wait_after_ans_n",
+      "src": "exp/results/main/S1/gen/<EMAIL>",
+      "value": 42291
+    },
+    {
+      "key": "h1.s2.base.freq_resp",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait occurrences per response",
+      "value": 17.33
+    },
+    {
+      "key": "h1.s2.base.freq_word",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 6.71
+    },
+    {
+      "key": "h1.s2.base.acc_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 90.6
+    },
+    {
+      "key": "h1.s2.base.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 88.0
+    },
+    {
+      "key": "h1.s2.base.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 92.7
+    },
+    {
+      "key": "h1.s2.base.acc_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2.base.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2.base.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 49.0
+    },
+    {
+      "key": "h1.s2.base.n_resp_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 596
+    },
+    {
+      "key": "h1.s2.base.n_resp_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 4
+    },
+    {
+      "key": "h1.s2.base.wait_after_ans",
+      "src": "exp/results/main/S2/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=7550 waits)",
+      "value": 1.9
+    },
+    {
+      "key": "h1.s2.base.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 1.6
+    },
+    {
+      "key": "h1.s2.base.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 2.2
+    },
+    {
+      "key": "h1.s2.base.wait_after_ans_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 7550
+    },
+    {
+      "key": "h1.s2.step0025.freq_resp",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait occurrences per response",
+      "value": 21.2
+    },
+    {
+      "key": "h1.s2.step0025.freq_word",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.8
+    },
+    {
+      "key": "h1.s2.step0025.acc_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 89.8
+    },
+    {
+      "key": "h1.s2.step0025.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 87.1
+    },
+    {
+      "key": "h1.s2.step0025.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 92.0
+    },
+    {
+      "key": "h1.s2.step0025.acc_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 33.3
+    },
+    {
+      "key": "h1.s2.step0025.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 6.1
+    },
+    {
+      "key": "h1.s2.step0025.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 79.2
+    },
+    {
+      "key": "h1.s2.step0025.n_resp_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 597
+    },
+    {
+      "key": "h1.s2.step0025.n_resp_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 3
+    },
+    {
+      "key": "h1.s2.step0025.wait_after_ans",
+      "src": "exp/results/main/S2/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=8792 waits)",
+      "value": 2.8
+    },
+    {
+      "key": "h1.s2.step0025.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 2.5
+    },
+    {
+      "key": "h1.s2.step0025.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 3.2
+    },
+    {
+      "key": "h1.s2.step0025.wait_after_ans_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 8792
+    },
+    {
+      "key": "h1.s2.early.freq_resp",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait occurrences per response",
+      "value": 21.2
+    },
+    {
+      "key": "h1.s2.early.freq_word",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.8
+    },
+    {
+      "key": "h1.s2.early.acc_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 89.8
+    },
+    {
+      "key": "h1.s2.early.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 87.1
+    },
+    {
+      "key": "h1.s2.early.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 92.0
+    },
+    {
+      "key": "h1.s2.early.acc_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 33.3
+    },
+    {
+      "key": "h1.s2.early.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 6.1
+    },
+    {
+      "key": "h1.s2.early.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 79.2
+    },
+    {
+      "key": "h1.s2.early.n_resp_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 597
+    },
+    {
+      "key": "h1.s2.early.n_resp_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 3
+    },
+    {
+      "key": "h1.s2.early.wait_after_ans",
+      "src": "exp/results/main/S2/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=8792 waits)",
+      "value": 2.8
+    },
+    {
+      "key": "h1.s2.early.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 2.5
+    },
+    {
+      "key": "h1.s2.early.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 3.2
+    },
+    {
+      "key": "h1.s2.early.wait_after_ans_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 8792
+    },
+    {
+      "key": "h1.s2.step0100.freq_resp",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait occurrences per response",
+      "value": 18.72
+    },
+    {
+      "key": "h1.s2.step0100.freq_word",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.43
+    },
+    {
+      "key": "h1.s2.step0100.acc_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 89.9
+    },
+    {
+      "key": "h1.s2.step0100.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 87.3
+    },
+    {
+      "key": "h1.s2.step0100.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 92.1
+    },
+    {
+      "key": "h1.s2.step0100.acc_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 66.7
+    },
+    {
+      "key": "h1.s2.step0100.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 20.8
+    },
+    {
+      "key": "h1.s2.step0100.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 93.9
+    },
+    {
+      "key": "h1.s2.step0100.n_resp_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 597
+    },
+    {
+      "key": "h1.s2.step0100.n_resp_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 3
+    },
+    {
+      "key": "h1.s2.step0100.wait_after_ans",
+      "src": "exp/results/main/S2/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=7238 waits)",
+      "value": 2.3
+    },
+    {
+      "key": "h1.s2.step0100.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 2.0
+    },
+    {
+      "key": "h1.s2.step0100.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 2.7
+    },
+    {
+      "key": "h1.s2.step0100.wait_after_ans_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 7238
+    },
+    {
+      "key": "h1.s2.step0250.freq_resp",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait occurrences per response",
+      "value": 15.06
+    },
+    {
+      "key": "h1.s2.step0250.freq_word",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 5.96
+    },
+    {
+      "key": "h1.s2.step0250.acc_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 91.0
+    },
+    {
+      "key": "h1.s2.step0250.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 88.4
+    },
+    {
+      "key": "h1.s2.step0250.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 93.0
+    },
+    {
+      "key": "h1.s2.step0250.acc_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2.step0250.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2.step0250.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 79.3
+    },
+    {
+      "key": "h1.s2.step0250.n_resp_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 599
+    },
+    {
+      "key": "h1.s2.step0250.n_resp_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s2.step0250.wait_after_ans",
+      "src": "exp/results/main/S2/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=6633 waits)",
+      "value": 2.6
+    },
+    {
+      "key": "h1.s2.step0250.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 2.2
+    },
+    {
+      "key": "h1.s2.step0250.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 3.0
+    },
+    {
+      "key": "h1.s2.step0250.wait_after_ans_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 6633
+    },
+    {
+      "key": "h1.s2.step0500.freq_resp",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait occurrences per response",
+      "value": 20.32
+    },
+    {
+      "key": "h1.s2.step0500.freq_word",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.74
+    },
+    {
+      "key": "h1.s2.step0500.acc_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 93.0
+    },
+    {
+      "key": "h1.s2.step0500.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 90.7
+    },
+    {
+      "key": "h1.s2.step0500.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 94.8
+    },
+    {
+      "key": "h1.s2.step0500.acc_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2.step0500.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2.step0500.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 79.3
+    },
+    {
+      "key": "h1.s2.step0500.n_resp_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 599
+    },
+    {
+      "key": "h1.s2.step0500.n_resp_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s2.step0500.wait_after_ans",
+      "src": "exp/results/main/S2/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=9998 waits)",
+      "value": 3.9
+    },
+    {
+      "key": "h1.s2.step0500.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 3.5
+    },
+    {
+      "key": "h1.s2.step0500.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 4.3
+    },
+    {
+      "key": "h1.s2.step0500.wait_after_ans_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 9998
+    },
+    {
+      "key": "h1.s2.mid.freq_resp",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait occurrences per response",
+      "value": 20.32
+    },
+    {
+      "key": "h1.s2.mid.freq_word",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.74
+    },
+    {
+      "key": "h1.s2.mid.acc_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 93.0
+    },
+    {
+      "key": "h1.s2.mid.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 90.7
+    },
+    {
+      "key": "h1.s2.mid.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 94.8
+    },
+    {
+      "key": "h1.s2.mid.acc_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2.mid.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s2.mid.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 79.3
+    },
+    {
+      "key": "h1.s2.mid.n_resp_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 599
+    },
+    {
+      "key": "h1.s2.mid.n_resp_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s2.mid.wait_after_ans",
+      "src": "exp/results/main/S2/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=9998 waits)",
+      "value": 3.9
+    },
+    {
+      "key": "h1.s2.mid.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 3.5
+    },
+    {
+      "key": "h1.s2.mid.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 4.3
+    },
+    {
+      "key": "h1.s2.mid.wait_after_ans_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 9998
+    },
+    {
+      "key": "h1.s2.step0750.freq_resp",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait occurrences per response",
+      "value": 19.23
+    },
+    {
+      "key": "h1.s2.step0750.freq_word",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 6.68
+    },
+    {
+      "key": "h1.s2.step0750.acc_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 90.5
+    },
+    {
+      "key": "h1.s2.step0750.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 87.9
+    },
+    {
+      "key": "h1.s2.step0750.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 92.6
+    },
+    {
+      "key": "h1.s2.step0750.n_resp_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 600
+    },
+    {
+      "key": "h1.s2.step0750.n_resp_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s2.step0750.wait_after_ans",
+      "src": "exp/results/main/S2/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=8482 waits)",
+      "value": 5.0
+    },
+    {
+      "key": "h1.s2.step0750.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 4.6
+    },
+    {
+      "key": "h1.s2.step0750.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 5.5
+    },
+    {
+      "key": "h1.s2.step0750.wait_after_ans_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 8482
+    },
+    {
+      "key": "h1.s2.step1000.freq_resp",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait occurrences per response",
+      "value": 23.6
+    },
+    {
+      "key": "h1.s2.step1000.freq_word",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.95
+    },
+    {
+      "key": "h1.s2.step1000.acc_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 91.2
+    },
+    {
+      "key": "h1.s2.step1000.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 88.6
+    },
+    {
+      "key": "h1.s2.step1000.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 93.2
+    },
+    {
+      "key": "h1.s2.step1000.n_resp_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 600
+    },
+    {
+      "key": "h1.s2.step1000.n_resp_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s2.step1000.wait_after_ans",
+      "src": "exp/results/main/S2/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=10719 waits)",
+      "value": 7.6
+    },
+    {
+      "key": "h1.s2.step1000.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 7.1
+    },
+    {
+      "key": "h1.s2.step1000.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 8.1
+    },
+    {
+      "key": "h1.s2.step1000.wait_after_ans_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 10719
+    },
+    {
+      "key": "h1.s2.step1375.freq_resp",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait occurrences per response",
+      "value": 23.23
+    },
+    {
+      "key": "h1.s2.step1375.freq_word",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.74
+    },
+    {
+      "key": "h1.s2.step1375.acc_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 91.0
+    },
+    {
+      "key": "h1.s2.step1375.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 88.4
+    },
+    {
+      "key": "h1.s2.step1375.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 93.0
+    },
+    {
+      "key": "h1.s2.step1375.acc_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s2.step1375.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 20.7
+    },
+    {
+      "key": "h1.s2.step1375.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s2.step1375.n_resp_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 599
+    },
+    {
+      "key": "h1.s2.step1375.n_resp_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s2.step1375.wait_after_ans",
+      "src": "exp/results/main/S2/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=10702 waits)",
+      "value": 8.4
+    },
+    {
+      "key": "h1.s2.step1375.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 7.8
+    },
+    {
+      "key": "h1.s2.step1375.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 8.9
+    },
+    {
+      "key": "h1.s2.step1375.wait_after_ans_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 10702
+    },
+    {
+      "key": "h1.s2.late.freq_resp",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait occurrences per response",
+      "value": 23.23
+    },
+    {
+      "key": "h1.s2.late.freq_word",
+      "src": "exp/results/main/S2/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.74
+    },
+    {
+      "key": "h1.s2.late.acc_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 91.0
+    },
+    {
+      "key": "h1.s2.late.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 88.4
+    },
+    {
+      "key": "h1.s2.late.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 93.0
+    },
+    {
+      "key": "h1.s2.late.acc_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s2.late.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 20.7
+    },
+    {
+      "key": "h1.s2.late.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s2.late.n_resp_wait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 599
+    },
+    {
+      "key": "h1.s2.late.n_resp_nowait",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s2.late.wait_after_ans",
+      "src": "exp/results/main/S2/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=10702 waits)",
+      "value": 8.4
+    },
+    {
+      "key": "h1.s2.late.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 7.8
+    },
+    {
+      "key": "h1.s2.late.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 8.9
+    },
+    {
+      "key": "h1.s2.late.wait_after_ans_n",
+      "src": "exp/results/main/S2/gen/<EMAIL>",
+      "value": 10702
+    },
+    {
+      "key": "h1.s9.base.freq_resp",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait occurrences per response",
+      "value": 21.41
+    },
+    {
+      "key": "h1.s9.base.freq_word",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.85
+    },
+    {
+      "key": "h1.s9.base.acc_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 91.4
+    },
+    {
+      "key": "h1.s9.base.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 89.5
+    },
+    {
+      "key": "h1.s9.base.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 93.0
+    },
+    {
+      "key": "h1.s9.base.n_resp_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 1000
+    },
+    {
+      "key": "h1.s9.base.n_resp_nowait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s9.base.wait_after_ans",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=16621 waits)",
+      "value": 3.5
+    },
+    {
+      "key": "h1.s9.base.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 3.2
+    },
+    {
+      "key": "h1.s9.base.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 3.8
+    },
+    {
+      "key": "h1.s9.base.wait_after_ans_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 16621
+    },
+    {
+      "key": "h1.s9.step0100.freq_resp",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait occurrences per response",
+      "value": 20.85
+    },
+    {
+      "key": "h1.s9.step0100.freq_word",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.84
+    },
+    {
+      "key": "h1.s9.step0100.acc_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 91.8
+    },
+    {
+      "key": "h1.s9.step0100.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 89.9
+    },
+    {
+      "key": "h1.s9.step0100.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 93.3
+    },
+    {
+      "key": "h1.s9.step0100.acc_nowait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s9.step0100.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 20.7
+    },
+    {
+      "key": "h1.s9.step0100.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s9.step0100.n_resp_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 999
+    },
+    {
+      "key": "h1.s9.step0100.n_resp_nowait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s9.step0100.wait_after_ans",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=16324 waits)",
+      "value": 3.2
+    },
+    {
+      "key": "h1.s9.step0100.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 3.0
+    },
+    {
+      "key": "h1.s9.step0100.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 3.5
+    },
+    {
+      "key": "h1.s9.step0100.wait_after_ans_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 16324
+    },
+    {
+      "key": "h1.s9.early.freq_resp",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait occurrences per response",
+      "value": 20.85
+    },
+    {
+      "key": "h1.s9.early.freq_word",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.84
+    },
+    {
+      "key": "h1.s9.early.acc_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 91.8
+    },
+    {
+      "key": "h1.s9.early.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 89.9
+    },
+    {
+      "key": "h1.s9.early.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 93.3
+    },
+    {
+      "key": "h1.s9.early.acc_nowait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s9.early.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 20.7
+    },
+    {
+      "key": "h1.s9.early.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s9.early.n_resp_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 999
+    },
+    {
+      "key": "h1.s9.early.n_resp_nowait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s9.early.wait_after_ans",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=16324 waits)",
+      "value": 3.2
+    },
+    {
+      "key": "h1.s9.early.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 3.0
+    },
+    {
+      "key": "h1.s9.early.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 3.5
+    },
+    {
+      "key": "h1.s9.early.wait_after_ans_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 16324
+    },
+    {
+      "key": "h1.s9.step0300.freq_resp",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait occurrences per response",
+      "value": 18.37
+    },
+    {
+      "key": "h1.s9.step0300.freq_word",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.37
+    },
+    {
+      "key": "h1.s9.step0300.acc_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 92.8
+    },
+    {
+      "key": "h1.s9.step0300.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 91.0
+    },
+    {
+      "key": "h1.s9.step0300.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 94.2
+    },
+    {
+      "key": "h1.s9.step0300.n_resp_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 1000
+    },
+    {
+      "key": "h1.s9.step0300.n_resp_nowait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s9.step0300.wait_after_ans",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=14294 waits)",
+      "value": 3.2
+    },
+    {
+      "key": "h1.s9.step0300.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 2.9
+    },
+    {
+      "key": "h1.s9.step0300.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 3.5
+    },
+    {
+      "key": "h1.s9.step0300.wait_after_ans_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 14294
+    },
+    {
+      "key": "h1.s9.step0700.freq_resp",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait occurrences per response",
+      "value": 16.82
+    },
+    {
+      "key": "h1.s9.step0700.freq_word",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 6.62
+    },
+    {
+      "key": "h1.s9.step0700.acc_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 92.3
+    },
+    {
+      "key": "h1.s9.step0700.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 90.5
+    },
+    {
+      "key": "h1.s9.step0700.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 93.8
+    },
+    {
+      "key": "h1.s9.step0700.acc_nowait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s9.step0700.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 20.7
+    },
+    {
+      "key": "h1.s9.step0700.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s9.step0700.n_resp_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 999
+    },
+    {
+      "key": "h1.s9.step0700.n_resp_nowait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s9.step0700.wait_after_ans",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=13003 waits)",
+      "value": 5.6
+    },
+    {
+      "key": "h1.s9.step0700.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 5.2
+    },
+    {
+      "key": "h1.s9.step0700.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 6.0
+    },
+    {
+      "key": "h1.s9.step0700.wait_after_ans_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 13003
+    },
+    {
+      "key": "h1.s9.mid.freq_resp",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait occurrences per response",
+      "value": 16.82
+    },
+    {
+      "key": "h1.s9.mid.freq_word",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 6.62
+    },
+    {
+      "key": "h1.s9.mid.acc_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 92.3
+    },
+    {
+      "key": "h1.s9.mid.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 90.5
+    },
+    {
+      "key": "h1.s9.mid.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 93.8
+    },
+    {
+      "key": "h1.s9.mid.acc_nowait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s9.mid.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 20.7
+    },
+    {
+      "key": "h1.s9.mid.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s9.mid.n_resp_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 999
+    },
+    {
+      "key": "h1.s9.mid.n_resp_nowait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s9.mid.wait_after_ans",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=13003 waits)",
+      "value": 5.6
+    },
+    {
+      "key": "h1.s9.mid.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 5.2
+    },
+    {
+      "key": "h1.s9.mid.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 6.0
+    },
+    {
+      "key": "h1.s9.mid.wait_after_ans_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 13003
+    },
+    {
+      "key": "h1.s9.step1200.freq_resp",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait occurrences per response",
+      "value": 18.36
+    },
+    {
+      "key": "h1.s9.step1200.freq_word",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.14
+    },
+    {
+      "key": "h1.s9.step1200.acc_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 92.7
+    },
+    {
+      "key": "h1.s9.step1200.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 90.9
+    },
+    {
+      "key": "h1.s9.step1200.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 94.2
+    },
+    {
+      "key": "h1.s9.step1200.n_resp_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 1000
+    },
+    {
+      "key": "h1.s9.step1200.n_resp_nowait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s9.step1200.wait_after_ans",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=14718 waits)",
+      "value": 12.3
+    },
+    {
+      "key": "h1.s9.step1200.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 11.8
+    },
+    {
+      "key": "h1.s9.step1200.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 12.8
+    },
+    {
+      "key": "h1.s9.step1200.wait_after_ans_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 14718
+    },
+    {
+      "key": "h1.s9.step1800.freq_resp",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait occurrences per response",
+      "value": 19.86
+    },
+    {
+      "key": "h1.s9.step1800.freq_word",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.22
+    },
+    {
+      "key": "h1.s9.step1800.acc_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 93.0
+    },
+    {
+      "key": "h1.s9.step1800.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 91.2
+    },
+    {
+      "key": "h1.s9.step1800.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 94.4
+    },
+    {
+      "key": "h1.s9.step1800.n_resp_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 1000
+    },
+    {
+      "key": "h1.s9.step1800.n_resp_nowait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s9.step1800.wait_after_ans",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=16862 waits)",
+      "value": 19.8
+    },
+    {
+      "key": "h1.s9.step1800.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 19.2
+    },
+    {
+      "key": "h1.s9.step1800.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 20.4
+    },
+    {
+      "key": "h1.s9.step1800.wait_after_ans_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 16862
+    },
+    {
+      "key": "h1.s9.late.freq_resp",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait occurrences per response",
+      "value": 19.86
+    },
+    {
+      "key": "h1.s9.late.freq_word",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.22
+    },
+    {
+      "key": "h1.s9.late.acc_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 93.0
+    },
+    {
+      "key": "h1.s9.late.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 91.2
+    },
+    {
+      "key": "h1.s9.late.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 94.4
+    },
+    {
+      "key": "h1.s9.late.n_resp_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 1000
+    },
+    {
+      "key": "h1.s9.late.n_resp_nowait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s9.late.wait_after_ans",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=16862 waits)",
+      "value": 19.8
+    },
+    {
+      "key": "h1.s9.late.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 19.2
+    },
+    {
+      "key": "h1.s9.late.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 20.4
+    },
+    {
+      "key": "h1.s9.late.wait_after_ans_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 16862
+    },
+    {
+      "key": "h1.s9.step2300.freq_resp",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait occurrences per response",
+      "value": 19.31
+    },
+    {
+      "key": "h1.s9.step2300.freq_word",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.49
+    },
+    {
+      "key": "h1.s9.step2300.acc_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 93.0
+    },
+    {
+      "key": "h1.s9.step2300.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 91.2
+    },
+    {
+      "key": "h1.s9.step2300.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 94.4
+    },
+    {
+      "key": "h1.s9.step2300.n_resp_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 1000
+    },
+    {
+      "key": "h1.s9.step2300.n_resp_nowait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s9.step2300.wait_after_ans",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=15927 waits)",
+      "value": 17.4
+    },
+    {
+      "key": "h1.s9.step2300.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 16.8
+    },
+    {
+      "key": "h1.s9.step2300.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 18.0
+    },
+    {
+      "key": "h1.s9.step2300.wait_after_ans_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 15927
+    },
+    {
+      "key": "h1.s9.final.freq_resp",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait occurrences per response",
+      "value": 19.31
+    },
+    {
+      "key": "h1.s9.final.freq_word",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.49
+    },
+    {
+      "key": "h1.s9.final.acc_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 93.0
+    },
+    {
+      "key": "h1.s9.final.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 91.2
+    },
+    {
+      "key": "h1.s9.final.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 94.4
+    },
+    {
+      "key": "h1.s9.final.n_resp_wait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 1000
+    },
+    {
+      "key": "h1.s9.final.n_resp_nowait",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s9.final.wait_after_ans",
+      "src": "exp/results/s9/S9/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=15927 waits)",
+      "value": 17.4
+    },
+    {
+      "key": "h1.s9.final.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 16.8
+    },
+    {
+      "key": "h1.s9.final.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 18.0
+    },
+    {
+      "key": "h1.s9.final.wait_after_ans_n",
+      "src": "exp/results/s9/S9/gen/<EMAIL>",
+      "value": 15927
+    },
+    {
+      "key": "h1.s8base.final.freq_resp",
+      "src": "exp/results/scale/S8_base/gen/S8_base_math500.graded.jsonl.gz::wait occurrences per response",
+      "value": 0.01
+    },
+    {
+      "key": "h1.s8base.final.freq_word",
+      "src": "exp/results/scale/S8_base/gen/S8_base_math500.graded.jsonl.gz::wait per 1,000 whitespace-delimited words",
+      "value": 0.017
+    },
+    {
+      "key": "h1.s8base.final.acc_wait",
+      "src": "exp/results/scale/S8_base/gen/S8_base_math500.graded.jsonl.gz::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 25.0
+    },
+    {
+      "key": "h1.s8base.final.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 4.6
+    },
+    {
+      "key": "h1.s8base.final.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 69.9
+    },
+    {
+      "key": "h1.s8base.final.acc_nowait",
+      "src": "exp/results/scale/S8_base/gen/S8_base_math500.graded.jsonl.gz::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 35.8
+    },
+    {
+      "key": "h1.s8base.final.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 32.5
+    },
+    {
+      "key": "h1.s8base.final.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 39.2
+    },
+    {
+      "key": "h1.s8base.final.n_resp_wait",
+      "src": "exp/results/scale/S8_base/gen/S8_base_math500.graded.jsonl.gz",
+      "value": 4
+    },
+    {
+      "key": "h1.s8base.final.n_resp_nowait",
+      "src": "exp/results/scale/S8_base/gen/S8_base_math500.graded.jsonl.gz",
+      "value": 796
+    },
+    {
+      "key": "h1.s8dapo.final.freq_resp",
+      "src": "exp/results/scale/S8_dapo/gen/S8_dapo_math500.graded.jsonl.gz::wait occurrences per response",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.freq_word",
+      "src": "exp/results/scale/S8_dapo/gen/S8_dapo_math500.graded.jsonl.gz::wait per 1,000 whitespace-delimited words",
+      "value": 0.003
+    },
+    {
+      "key": "h1.s8dapo.final.acc_wait",
+      "src": "exp/results/scale/S8_dapo/gen/S8_dapo_math500.graded.jsonl.gz::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8dapo.final.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 65.8
+    },
+    {
+      "key": "h1.s8dapo.final.acc_nowait",
+      "src": "exp/results/scale/S8_dapo/gen/S8_dapo_math500.graded.jsonl.gz::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 76.6
+    },
+    {
+      "key": "h1.s8dapo.final.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 73.5
+    },
+    {
+      "key": "h1.s8dapo.final.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 79.4
+    },
+    {
+      "key": "h1.s8dapo.final.n_resp_wait",
+      "src": "exp/results/scale/S8_dapo/gen/S8_dapo_math500.graded.jsonl.gz",
+      "value": 2
+    },
+    {
+      "key": "h1.s8dapo.final.n_resp_nowait",
+      "src": "exp/results/scale/S8_dapo/gen/S8_dapo_math500.graded.jsonl.gz",
+      "value": 798
+    },
+    {
+      "key": "h1.s8orz.final.freq_resp",
+      "src": "exp/results/scale/S8_orz/gen/S8_orz_math500.graded.jsonl.gz::wait occurrences per response",
+      "value": 0.02
+    },
+    {
+      "key": "h1.s8orz.final.freq_word",
+      "src": "exp/results/scale/S8_orz/gen/S8_orz_math500.graded.jsonl.gz::wait per 1,000 whitespace-delimited words",
+      "value": 0.01
+    },
+    {
+      "key": "h1.s8orz.final.acc_wait",
+      "src": "exp/results/scale/S8_orz/gen/S8_orz_math500.graded.jsonl.gz::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 44.4
+    },
+    {
+      "key": "h1.s8orz.final.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 24.6
+    },
+    {
+      "key": "h1.s8orz.final.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 66.3
+    },
+    {
+      "key": "h1.s8orz.final.acc_nowait",
+      "src": "exp/results/scale/S8_orz/gen/S8_orz_math500.graded.jsonl.gz::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 79.5
+    },
+    {
+      "key": "h1.s8orz.final.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 76.6
+    },
+    {
+      "key": "h1.s8orz.final.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 82.2
+    },
+    {
+      "key": "h1.s8orz.final.n_resp_wait",
+      "src": "exp/results/scale/S8_orz/gen/S8_orz_math500.graded.jsonl.gz",
+      "value": 18
+    },
+    {
+      "key": "h1.s8orz.final.n_resp_nowait",
+      "src": "exp/results/scale/S8_orz/gen/S8_orz_math500.graded.jsonl.gz",
+      "value": 782
+    },
+    {
+      "key": "h1.s8qwq.final.freq_resp",
+      "src": "exp/results/scale/S8_qwq/gen/S8_qwq_math500.graded.jsonl.gz::wait occurrences per response",
+      "value": 16.98
+    },
+    {
+      "key": "h1.s8qwq.final.freq_word",
+      "src": "exp/results/scale/S8_qwq/gen/S8_qwq_math500.graded.jsonl.gz::wait per 1,000 whitespace-delimited words",
+      "value": 8.0
+    },
+    {
+      "key": "h1.s8qwq.final.acc_wait",
+      "src": "exp/results/scale/S8_qwq/gen/S8_qwq_math500.graded.jsonl.gz::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 89.6
+    },
+    {
+      "key": "h1.s8qwq.final.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 87.3
+    },
+    {
+      "key": "h1.s8qwq.final.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 91.5
+    },
+    {
+      "key": "h1.s8qwq.final.acc_nowait",
+      "src": "exp/results/scale/S8_qwq/gen/S8_qwq_math500.graded.jsonl.gz::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8qwq.final.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 20.7
+    },
+    {
+      "key": "h1.s8qwq.final.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8qwq.final.n_resp_wait",
+      "src": "exp/results/scale/S8_qwq/gen/S8_qwq_math500.graded.jsonl.gz",
+      "value": 799
+    },
+    {
+      "key": "h1.s8qwq.final.n_resp_nowait",
+      "src": "exp/results/scale/S8_qwq/gen/S8_qwq_math500.graded.jsonl.gz",
+      "value": 1
+    },
+    {
+      "key": "h1.s8qwq.final.wait_after_ans",
+      "src": "exp/results/scale/S8_qwq/gen/S8_qwq_math500.graded.jsonl.gz::share of wait occurrences after the first candidate answer (n=9960 waits)",
+      "value": 6.2
+    },
+    {
+      "key": "h1.s8qwq.final.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 5.7
+    },
+    {
+      "key": "h1.s8qwq.final.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 6.7
+    },
+    {
+      "key": "h1.s8qwq.final.wait_after_ans_n",
+      "src": "exp/results/scale/S8_qwq/gen/S8_qwq_math500.graded.jsonl.gz",
+      "value": 9960
+    },
+    {
+      "key": "h1.s8r1d.final.freq_resp",
+      "src": "exp/results/scale/S8_r1distill/gen/S8_r1distill_math500.graded.jsonl.gz::wait occurrences per response",
+      "value": 10.04
+    },
+    {
+      "key": "h1.s8r1d.final.freq_word",
+      "src": "exp/results/scale/S8_r1distill/gen/S8_r1distill_math500.graded.jsonl.gz::wait per 1,000 whitespace-delimited words",
+      "value": 5.91
+    },
+    {
+      "key": "h1.s8r1d.final.acc_wait",
+      "src": "exp/results/scale/S8_r1distill/gen/S8_r1distill_math500.graded.jsonl.gz::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 89.4
+    },
+    {
+      "key": "h1.s8r1d.final.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 87.1
+    },
+    {
+      "key": "h1.s8r1d.final.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 91.4
+    },
+    {
+      "key": "h1.s8r1d.final.acc_nowait",
+      "src": "exp/results/scale/S8_r1distill/gen/S8_r1distill_math500.graded.jsonl.gz::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8r1d.final.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 67.6
+    },
+    {
+      "key": "h1.s8r1d.final.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s8r1d.final.n_resp_wait",
+      "src": "exp/results/scale/S8_r1distill/gen/S8_r1distill_math500.graded.jsonl.gz",
+      "value": 792
+    },
+    {
+      "key": "h1.s8r1d.final.n_resp_nowait",
+      "src": "exp/results/scale/S8_r1distill/gen/S8_r1distill_math500.graded.jsonl.gz",
+      "value": 8
+    },
+    {
+      "key": "h1.s8r1d.final.wait_after_ans",
+      "src": "exp/results/scale/S8_r1distill/gen/S8_r1distill_math500.graded.jsonl.gz::share of wait occurrences after the first candidate answer (n=5260 waits)",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s8r1d.final.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s8r1d.final.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 0.2
+    },
+    {
+      "key": "h1.s8r1d.final.wait_after_ans_n",
+      "src": "exp/results/scale/S8_r1distill/gen/S8_r1distill_math500.graded.jsonl.gz",
+      "value": 5260
+    },
+    {
+      "key": "h1.s3a.base.freq_resp",
+      "src": "exp/results/main/S3/gen/<EMAIL>::wait occurrences per response",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.base.freq_word",
+      "src": "exp/results/main/S3/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 0.002
+    },
+    {
+      "key": "h1.s3a.base.acc_wait",
+      "src": "exp/results/main/S3/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.base.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.base.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 79.3
+    },
+    {
+      "key": "h1.s3a.base.acc_nowait",
+      "src": "exp/results/main/S3/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 42.1
+    },
+    {
+      "key": "h1.s3a.base.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 39.9
+    },
+    {
+      "key": "h1.s3a.base.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 44.2
+    },
+    {
+      "key": "h1.s3a.base.n_resp_wait",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s3a.base.n_resp_nowait",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 1999
+    },
+    {
+      "key": "h1.s3a.step1566.freq_resp",
+      "src": "exp/results/main/S3/gen/<EMAIL>::wait occurrences per response",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.step1566.freq_word",
+      "src": "exp/results/main/S3/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 0.002
+    },
+    {
+      "key": "h1.s3a.step1566.acc_wait",
+      "src": "exp/results/main/S3/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.step1566.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.step1566.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 79.3
+    },
+    {
+      "key": "h1.s3a.step1566.acc_nowait",
+      "src": "exp/results/main/S3/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 45.9
+    },
+    {
+      "key": "h1.s3a.step1566.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 43.7
+    },
+    {
+      "key": "h1.s3a.step1566.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 48.1
+    },
+    {
+      "key": "h1.s3a.step1566.n_resp_wait",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s3a.step1566.n_resp_nowait",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 1999
+    },
+    {
+      "key": "h1.s3a.late.freq_resp",
+      "src": "exp/results/main/S3/gen/<EMAIL>::wait occurrences per response",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.late.freq_word",
+      "src": "exp/results/main/S3/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 0.002
+    },
+    {
+      "key": "h1.s3a.late.acc_wait",
+      "src": "exp/results/main/S3/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.late.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s3a.late.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 79.3
+    },
+    {
+      "key": "h1.s3a.late.acc_nowait",
+      "src": "exp/results/main/S3/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 45.9
+    },
+    {
+      "key": "h1.s3a.late.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 43.7
+    },
+    {
+      "key": "h1.s3a.late.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 48.1
+    },
+    {
+      "key": "h1.s3a.late.n_resp_wait",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s3a.late.n_resp_nowait",
+      "src": "exp/results/main/S3/gen/<EMAIL>",
+      "value": 1999
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.freq_resp",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::wait occurrences per response",
+      "value": 0.04
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.freq_word",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 0.063
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.acc_wait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 10.4
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.acc_nowait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 0.4
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.n_resp_wait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 33
+    },
+    {
+      "key": "h1.s1pre.stage1-step141000.n_resp_nowait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 967
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.freq_resp",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::wait occurrences per response",
+      "value": 0.03
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.freq_word",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 0.054
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.acc_wait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 4.2
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 0.7
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 20.2
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.acc_nowait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 0.3
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 0.9
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.n_resp_wait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 24
+    },
+    {
+      "key": "h1.s1pre.stage1-step707000.n_resp_nowait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 976
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.freq_resp",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::wait occurrences per response",
+      "value": 0.03
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.freq_word",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 0.074
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.acc_wait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": -0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 14.3
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.acc_nowait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 0.6
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.n_resp_wait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 23
+    },
+    {
+      "key": "h1.s1pre.stage1-step1413814.n_resp_nowait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 977
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.freq_resp",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::wait occurrences per response",
+      "value": 5.07
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.freq_word",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.26
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.acc_wait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 54.4
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 48.9
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 59.8
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.acc_nowait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 27.0
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 23.9
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 30.5
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.n_resp_wait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 316
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.n_resp_nowait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 684
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.wait_after_ans",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=2480 waits)",
+      "value": 14.8
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 13.4
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 16.2
+    },
+    {
+      "key": "h1.s1pre.stage2-step47684.wait_after_ans_n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 2480
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.freq_resp",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::wait occurrences per response",
+      "value": 13.91
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.freq_word",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 10.42
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.acc_wait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 65.9
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 61.8
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 69.8
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.acc_nowait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 23.5
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 19.9
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 27.6
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.n_resp_wait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 537
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.n_resp_nowait",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 463
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.wait_after_ans",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=7260 waits)",
+      "value": 16.7
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 15.9
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 17.6
+    },
+    {
+      "key": "h1.s1pre.stage3-step6000.wait_after_ans_n",
+      "src": "exp/results/main/S1pre/gen/<EMAIL>",
+      "value": 7260
+    },
+    {
+      "key": "h1.s2ctl.step5000.freq_resp",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::wait occurrences per response",
+      "value": 27.27
+    },
+    {
+      "key": "h1.s2ctl.step5000.freq_word",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 8.94
+    },
+    {
+      "key": "h1.s2ctl.step5000.acc_wait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 85.3
+    },
+    {
+      "key": "h1.s2ctl.step5000.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 82.2
+    },
+    {
+      "key": "h1.s2ctl.step5000.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 87.9
+    },
+    {
+      "key": "h1.s2ctl.step5000.acc_nowait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s2ctl.step5000.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 20.7
+    },
+    {
+      "key": "h1.s2ctl.step5000.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s2ctl.step5000.n_resp_wait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 599
+    },
+    {
+      "key": "h1.s2ctl.step5000.n_resp_nowait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s2ctl.step5000.wait_after_ans",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=10435 waits)",
+      "value": 8.0
+    },
+    {
+      "key": "h1.s2ctl.step5000.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 7.5
+    },
+    {
+      "key": "h1.s2ctl.step5000.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 8.5
+    },
+    {
+      "key": "h1.s2ctl.step5000.wait_after_ans_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 10435
+    },
+    {
+      "key": "h1.s2ctl.early.freq_resp",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::wait occurrences per response",
+      "value": 27.27
+    },
+    {
+      "key": "h1.s2ctl.early.freq_word",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 8.94
+    },
+    {
+      "key": "h1.s2ctl.early.acc_wait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 85.3
+    },
+    {
+      "key": "h1.s2ctl.early.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 82.2
+    },
+    {
+      "key": "h1.s2ctl.early.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 87.9
+    },
+    {
+      "key": "h1.s2ctl.early.acc_nowait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s2ctl.early.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 20.7
+    },
+    {
+      "key": "h1.s2ctl.early.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s2ctl.early.n_resp_wait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 599
+    },
+    {
+      "key": "h1.s2ctl.early.n_resp_nowait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s2ctl.early.wait_after_ans",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=10435 waits)",
+      "value": 8.0
+    },
+    {
+      "key": "h1.s2ctl.early.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 7.5
+    },
+    {
+      "key": "h1.s2ctl.early.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 8.5
+    },
+    {
+      "key": "h1.s2ctl.early.wait_after_ans_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 10435
+    },
+    {
+      "key": "h1.s2ctl.step15000.freq_resp",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::wait occurrences per response",
+      "value": 23.33
+    },
+    {
+      "key": "h1.s2ctl.step15000.freq_word",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 9.39
+    },
+    {
+      "key": "h1.s2ctl.step15000.acc_wait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 88.6
+    },
+    {
+      "key": "h1.s2ctl.step15000.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 85.8
+    },
+    {
+      "key": "h1.s2ctl.step15000.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 90.9
+    },
+    {
+      "key": "h1.s2ctl.step15000.acc_nowait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s2ctl.step15000.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 51.0
+    },
+    {
+      "key": "h1.s2ctl.step15000.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s2ctl.step15000.n_resp_wait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 596
+    },
+    {
+      "key": "h1.s2ctl.step15000.n_resp_nowait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 4
+    },
+    {
+      "key": "h1.s2ctl.step15000.wait_after_ans",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=9113 waits)",
+      "value": 9.5
+    },
+    {
+      "key": "h1.s2ctl.step15000.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 8.9
+    },
+    {
+      "key": "h1.s2ctl.step15000.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 10.1
+    },
+    {
+      "key": "h1.s2ctl.step15000.wait_after_ans_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 9113
+    },
+    {
+      "key": "h1.s2ctl.step25000.freq_resp",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::wait occurrences per response",
+      "value": 21.17
+    },
+    {
+      "key": "h1.s2ctl.step25000.freq_word",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 8.44
+    },
+    {
+      "key": "h1.s2ctl.step25000.acc_wait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 90.7
+    },
+    {
+      "key": "h1.s2ctl.step25000.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 88.1
+    },
+    {
+      "key": "h1.s2ctl.step25000.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 92.7
+    },
+    {
+      "key": "h1.s2ctl.step25000.acc_nowait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s2ctl.step25000.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 20.7
+    },
+    {
+      "key": "h1.s2ctl.step25000.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s2ctl.step25000.n_resp_wait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 599
+    },
+    {
+      "key": "h1.s2ctl.step25000.n_resp_nowait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s2ctl.step25000.wait_after_ans",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=9414 waits)",
+      "value": 6.3
+    },
+    {
+      "key": "h1.s2ctl.step25000.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 5.8
+    },
+    {
+      "key": "h1.s2ctl.step25000.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 6.8
+    },
+    {
+      "key": "h1.s2ctl.step25000.wait_after_ans_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 9414
+    },
+    {
+      "key": "h1.s2ctl.mid.freq_resp",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::wait occurrences per response",
+      "value": 21.17
+    },
+    {
+      "key": "h1.s2ctl.mid.freq_word",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 8.44
+    },
+    {
+      "key": "h1.s2ctl.mid.acc_wait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 90.7
+    },
+    {
+      "key": "h1.s2ctl.mid.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 88.1
+    },
+    {
+      "key": "h1.s2ctl.mid.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 92.7
+    },
+    {
+      "key": "h1.s2ctl.mid.acc_nowait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s2ctl.mid.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 20.7
+    },
+    {
+      "key": "h1.s2ctl.mid.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 100.0
+    },
+    {
+      "key": "h1.s2ctl.mid.n_resp_wait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 599
+    },
+    {
+      "key": "h1.s2ctl.mid.n_resp_nowait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 1
+    },
+    {
+      "key": "h1.s2ctl.mid.wait_after_ans",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=9414 waits)",
+      "value": 6.3
+    },
+    {
+      "key": "h1.s2ctl.mid.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 5.8
+    },
+    {
+      "key": "h1.s2ctl.mid.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 6.8
+    },
+    {
+      "key": "h1.s2ctl.mid.wait_after_ans_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 9414
+    },
+    {
+      "key": "h1.s2ctl.step35000.freq_resp",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::wait occurrences per response",
+      "value": 19.19
+    },
+    {
+      "key": "h1.s2ctl.step35000.freq_word",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 7.71
+    },
+    {
+      "key": "h1.s2ctl.step35000.acc_wait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 90.3
+    },
+    {
+      "key": "h1.s2ctl.step35000.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 87.7
+    },
+    {
+      "key": "h1.s2ctl.step35000.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 92.4
+    },
+    {
+      "key": "h1.s2ctl.step35000.n_resp_wait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 600
+    },
+    {
+      "key": "h1.s2ctl.step35000.n_resp_nowait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s2ctl.step35000.wait_after_ans",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=8558 waits)",
+      "value": 6.3
+    },
+    {
+      "key": "h1.s2ctl.step35000.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 5.8
+    },
+    {
+      "key": "h1.s2ctl.step35000.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 6.9
+    },
+    {
+      "key": "h1.s2ctl.step35000.wait_after_ans_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 8558
+    },
+    {
+      "key": "h1.s2ctl.step43000.freq_resp",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::wait occurrences per response",
+      "value": 20.36
+    },
+    {
+      "key": "h1.s2ctl.step43000.freq_word",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 8.35
+    },
+    {
+      "key": "h1.s2ctl.step43000.acc_wait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 91.7
+    },
+    {
+      "key": "h1.s2ctl.step43000.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 89.2
+    },
+    {
+      "key": "h1.s2ctl.step43000.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 93.6
+    },
+    {
+      "key": "h1.s2ctl.step43000.n_resp_wait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 600
+    },
+    {
+      "key": "h1.s2ctl.step43000.n_resp_nowait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s2ctl.step43000.wait_after_ans",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=9269 waits)",
+      "value": 7.3
+    },
+    {
+      "key": "h1.s2ctl.step43000.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 6.8
+    },
+    {
+      "key": "h1.s2ctl.step43000.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 7.9
+    },
+    {
+      "key": "h1.s2ctl.step43000.wait_after_ans_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 9269
+    },
+    {
+      "key": "h1.s2ctl.late.freq_resp",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::wait occurrences per response",
+      "value": 20.36
+    },
+    {
+      "key": "h1.s2ctl.late.freq_word",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::wait per 1,000 whitespace-delimited words",
+      "value": 8.35
+    },
+    {
+      "key": "h1.s2ctl.late.acc_wait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 91.7
+    },
+    {
+      "key": "h1.s2ctl.late.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 89.2
+    },
+    {
+      "key": "h1.s2ctl.late.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 93.6
+    },
+    {
+      "key": "h1.s2ctl.late.n_resp_wait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 600
+    },
+    {
+      "key": "h1.s2ctl.late.n_resp_nowait",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 0
+    },
+    {
+      "key": "h1.s2ctl.late.wait_after_ans",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>::share of wait occurrences after the first candidate answer (n=9269 waits)",
+      "value": 7.3
+    },
+    {
+      "key": "h1.s2ctl.late.wait_after_ans.lo",
+      "src": "Wilson 95%",
+      "value": 6.8
+    },
+    {
+      "key": "h1.s2ctl.late.wait_after_ans.hi",
+      "src": "Wilson 95%",
+      "value": 7.9
+    },
+    {
+      "key": "h1.s2ctl.late.wait_after_ans_n",
+      "src": "exp/results/main/S2ctl/gen/<EMAIL>",
+      "value": 9269
+    },
+    {
+      "key": "h1.s7r1.base.freq_resp",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0::wait occurrences per response",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.base.freq_word",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0::wait per 1,000 whitespace-delimited words",
+      "value": 0.002
+    },
+    {
+      "key": "h1.s7r1.base.acc_wait",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.base.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.base.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 65.8
+    },
+    {
+      "key": "h1.s7r1.base.acc_nowait",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 19.1
+    },
+    {
+      "key": "h1.s7r1.base.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 17.3
+    },
+    {
+      "key": "h1.s7r1.base.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 21.2
+    },
+    {
+      "key": "h1.s7r1.base.n_resp_wait",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0",
+      "value": 2
+    },
+    {
+      "key": "h1.s7r1.base.n_resp_nowait",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s0",
+      "value": 1598
+    },
+    {
+      "key": "h1.s7r1.final.freq_resp",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400::wait occurrences per response",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.final.freq_word",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400::wait per 1,000 whitespace-delimited words",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r1.final.acc_nowait",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 74.4
+    },
+    {
+      "key": "h1.s7r1.final.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 72.2
+    },
+    {
+      "key": "h1.s7r1.final.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 76.5
+    },
+    {
+      "key": "h1.s7r1.final.n_resp_wait",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r1.final.n_resp_nowait",
+      "src": "exp/rl/results/ref_s1/results.tgz::gen/s400",
+      "value": 1600
+    },
+    {
+      "key": "h1.s7r2.base.freq_resp",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0::wait occurrences per response",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.base.freq_word",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0::wait per 1,000 whitespace-delimited words",
+      "value": 0.006
+    },
+    {
+      "key": "h1.s7r2.base.acc_wait",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.base.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.base.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 49.0
+    },
+    {
+      "key": "h1.s7r2.base.acc_nowait",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 17.9
+    },
+    {
+      "key": "h1.s7r2.base.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 16.1
+    },
+    {
+      "key": "h1.s7r2.base.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 19.8
+    },
+    {
+      "key": "h1.s7r2.base.n_resp_wait",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0",
+      "value": 4
+    },
+    {
+      "key": "h1.s7r2.base.n_resp_nowait",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s0",
+      "value": 1596
+    },
+    {
+      "key": "h1.s7r2.final.freq_resp",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400::wait occurrences per response",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.final.freq_word",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400::wait per 1,000 whitespace-delimited words",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r2.final.acc_nowait",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 74.2
+    },
+    {
+      "key": "h1.s7r2.final.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 72.0
+    },
+    {
+      "key": "h1.s7r2.final.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 76.3
+    },
+    {
+      "key": "h1.s7r2.final.n_resp_wait",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r2.final.n_resp_nowait",
+      "src": "exp/rl/results/ref_s2/results.tgz::gen/s400",
+      "value": 1600
+    },
+    {
+      "key": "h1.s7r7b.base.freq_resp",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0::wait occurrences per response",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.base.freq_word",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0::wait per 1,000 whitespace-delimited words",
+      "value": 0.003
+    },
+    {
+      "key": "h1.s7r7b.base.acc_wait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0::MATH-500 accuracy of responses with >=1 wait (Wilson 95%)",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.base.acc_wait.lo",
+      "src": "Wilson 95%",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.base.acc_wait.hi",
+      "src": "Wilson 95%",
+      "value": 56.2
+    },
+    {
+      "key": "h1.s7r7b.base.acc_nowait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 16.9
+    },
+    {
+      "key": "h1.s7r7b.base.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 15.1
+    },
+    {
+      "key": "h1.s7r7b.base.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 18.8
+    },
+    {
+      "key": "h1.s7r7b.base.n_resp_wait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0",
+      "value": 3
+    },
+    {
+      "key": "h1.s7r7b.base.n_resp_nowait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s0",
+      "value": 1597
+    },
+    {
+      "key": "h1.s7r7b.final.freq_resp",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400::wait occurrences per response",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.final.freq_word",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400::wait per 1,000 whitespace-delimited words",
+      "value": 0.0
+    },
+    {
+      "key": "h1.s7r7b.final.acc_nowait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400::MATH-500 accuracy of responses without wait (Wilson 95%)",
+      "value": 76.0
+    },
+    {
+      "key": "h1.s7r7b.final.acc_nowait.lo",
+      "src": "Wilson 95%",
+      "value": 73.8
+    },
+    {
+      "key": "h1.s7r7b.final.acc_nowait.hi",
+      "src": "Wilson 95%",
+      "value": 78.0
+    },
+    {
+      "key": "h1.s7r7b.final.n_resp_wait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400",
+      "value": 0
+    },
+    {
+      "key": "h1.s7r7b.final.n_resp_nowait",
+      "src": "exp/rl/results/ref7b_s1/results.tgz::gen/s400",
+      "value": 1600
+    }
+  ]
+}

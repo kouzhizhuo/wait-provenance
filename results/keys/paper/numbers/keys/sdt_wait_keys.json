@@ -1,0 +1,214 @@
+{
+ "entries": [
+  {
+   "key": "h2.s1.base.dprime_wait",
+   "value": 0.77,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[base].dprime_wait.est"
+  },
+  {
+   "key": "h2.s1.base.dprime_wait.lo",
+   "value": 0.66,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[base].dprime_wait.lo"
+  },
+  {
+   "key": "h2.s1.base.dprime_wait.hi",
+   "value": 0.9,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[base].dprime_wait.hi"
+  },
+  {
+   "key": "h2.s1.base.crit_wait",
+   "value": 0.46,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[base].criterion_wait.est"
+  },
+  {
+   "key": "h2.s1.base.crit_wait.lo",
+   "value": 0.35,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[base].criterion_wait.lo"
+  },
+  {
+   "key": "h2.s1.base.crit_wait.hi",
+   "value": 0.57,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[base].criterion_wait.hi"
+  },
+  {
+   "key": "h2.s1.final.dprime_wait",
+   "value": 1.29,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[final].dprime_wait.est"
+  },
+  {
+   "key": "h2.s1.final.dprime_wait.lo",
+   "value": 1.16,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[final].dprime_wait.lo"
+  },
+  {
+   "key": "h2.s1.final.dprime_wait.hi",
+   "value": 1.44,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[final].dprime_wait.hi"
+  },
+  {
+   "key": "h2.s1.final.crit_wait",
+   "value": 0.01,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[final].criterion_wait.est"
+  },
+  {
+   "key": "h2.s1.final.crit_wait.lo",
+   "value": -0.09,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[final].criterion_wait.lo"
+  },
+  {
+   "key": "h2.s1.final.crit_wait.hi",
+   "value": 0.11,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[final].criterion_wait.hi"
+  },
+  {
+   "key": "h2.s1.late.dprime_wait",
+   "value": 1.24,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[1900].dprime_wait.est"
+  },
+  {
+   "key": "h2.s1.late.dprime_wait.lo",
+   "value": 1.11,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[1900].dprime_wait.lo"
+  },
+  {
+   "key": "h2.s1.late.dprime_wait.hi",
+   "value": 1.38,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[1900].dprime_wait.hi"
+  },
+  {
+   "key": "h2.s1.late.crit_wait",
+   "value": -0.01,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[1900].criterion_wait.est"
+  },
+  {
+   "key": "h2.s1.late.crit_wait.lo",
+   "value": -0.12,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[1900].criterion_wait.lo"
+  },
+  {
+   "key": "h2.s1.late.crit_wait.hi",
+   "value": 0.09,
+   "src": "../exp/results/main/S1/sdt.json::checkpoints[1900].criterion_wait.hi"
+  },
+  {
+   "key": "h2.s2.base.dprime_wait",
+   "value": 1.05,
+   "src": "../exp/results/main/S2/sdt.json::checkpoints[base].dprime_wait.est"
+  },
+  {
+   "key": "h2.s2.base.dprime_wait.lo",
+   "value": 0.9,
+   "src": "../exp/results/main/S2/sdt.json::checkpoints[base].dprime_wait.lo"
+  },
+  {
+   "key": "h2.s2.base.dprime_wait.hi",
+   "value": 1.22,
+   "src": "../exp/results/main/S2/sdt.json::checkpoints[base].dprime_wait.hi"
+  },
+  {
+   "key": "h2.s2.base.crit_wait",
+   "value": 0.35,
+   "src": "../exp/results/main/S2/sdt.json::checkpoints[base].criterion_wait.est"
+  },
+  {
+   "key": "h2.s2.base.crit_wait.lo",
+   "value": 0.24,
+   "src": "../exp/results/main/S2/sdt.json::checkpoints[base].criterion_wait.lo"
+  },
+  {
+   "key": "h2.s2.base.crit_wait.hi",
+   "value": 0.47,
+   "src": "../exp/results/main/S2/sdt.json::checkpoints[base].criterion_wait.hi"
+  },
+  {
+   "key": "h2.s2.late.dprime_wait",
+   "value": 1.29,
+   "src": "../exp/results/main/S2/sdt.json::checkpoints[1375].dprime_wait.est"
+  },
+  {
+   "key": "h2.s2.late.dprime_wait.lo",
+   "value": 1.12,
+   "src": "../exp/results/main/S2/sdt.json::checkpoints[1375].dprime_wait.lo"
+  },
+  {
+   "key": "h2.s2.late.dprime_wait.hi",
+   "value": 1.47,
+   "src": "../exp/results/main/S2/sdt.json::checkpoints[1375].dprime_wait.hi"
+  },
+  {
+   "key": "h2.s2.late.crit_wait",
+   "value": 0.22,
+   "src": "../exp/results/main/S2/sdt.json::checkpoints[1375].criterion_wait.est"
+  },
+  {
+   "key": "h2.s2.late.crit_wait.lo",
+   "value": 0.09,
+   "src": "../exp/results/main/S2/sdt.json::checkpoints[1375].criterion_wait.lo"
+  },
+  {
+   "key": "h2.s2.late.crit_wait.hi",
+   "value": 0.35,
+   "src": "../exp/results/main/S2/sdt.json::checkpoints[1375].criterion_wait.hi"
+  },
+  {
+   "key": "h2.s9.step0100.dprime_wait",
+   "value": 1.21,
+   "src": "../exp/results/reframe/s9_sdt.json::checkpoints[100].dprime_wait.est"
+  },
+  {
+   "key": "h2.s9.step0100.dprime_wait.lo",
+   "value": 1.08,
+   "src": "../exp/results/reframe/s9_sdt.json::checkpoints[100].dprime_wait.lo"
+  },
+  {
+   "key": "h2.s9.step0100.dprime_wait.hi",
+   "value": 1.35,
+   "src": "../exp/results/reframe/s9_sdt.json::checkpoints[100].dprime_wait.hi"
+  },
+  {
+   "key": "h2.s9.step0100.crit_wait",
+   "value": 0.18,
+   "src": "../exp/results/reframe/s9_sdt.json::checkpoints[100].criterion_wait.est"
+  },
+  {
+   "key": "h2.s9.step0100.crit_wait.lo",
+   "value": 0.07,
+   "src": "../exp/results/reframe/s9_sdt.json::checkpoints[100].criterion_wait.lo"
+  },
+  {
+   "key": "h2.s9.step0100.crit_wait.hi",
+   "value": 0.29,
+   "src": "../exp/results/reframe/s9_sdt.json::checkpoints[100].criterion_wait.hi"
+  },
+  {
+   "key": "h2.s9.late.dprime_wait",
+   "value": 1.19,
+   "src": "../exp/results/reframe/s9_sdt.json::checkpoints[1800].dprime_wait.est"
+  },
+  {
+   "key": "h2.s9.late.dprime_wait.lo",
+   "value": 1.03,
+   "src": "../exp/results/reframe/s9_sdt.json::checkpoints[1800].dprime_wait.lo"
+  },
+  {
+   "key": "h2.s9.late.dprime_wait.hi",
+   "value": 1.35,
+   "src": "../exp/results/reframe/s9_sdt.json::checkpoints[1800].dprime_wait.hi"
+  },
+  {
+   "key": "h2.s9.late.crit_wait",
+   "value": 0.34,
+   "src": "../exp/results/reframe/s9_sdt.json::checkpoints[1800].criterion_wait.est"
+  },
+  {
+   "key": "h2.s9.late.crit_wait.lo",
+   "value": 0.23,
+   "src": "../exp/results/reframe/s9_sdt.json::checkpoints[1800].criterion_wait.lo"
+  },
+  {
+   "key": "h2.s9.late.crit_wait.hi",
+   "value": 0.45,
+   "src": "../exp/results/reframe/s9_sdt.json::checkpoints[1800].criterion_wait.hi"
+  }
+ ]
+}

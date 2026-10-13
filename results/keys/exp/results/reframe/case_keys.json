@@ -1,0 +1,69 @@
+{
+  "entries": [
+    {
+      "key": "fig1.case.pid",
+      "src": "selection rule (written before looking at the counts): the first MATH-500 problem in dataset order (smallest pid) whose sample sid=0 is correct at base, step 700 and final; no marker-based criterion. Counts are per response (sid=0): n_wait = occurrences of 'wait' (indices.trace_counts), n_rev = rule-based revision events (revisions.py), chains = reduplicated wait runs",
+      "value": 2
+    },
+    {
+      "key": "fig1.case.base.nwait",
+      "src": "selection rule (written before looking at the counts): the first MATH-500 problem in dataset order (smallest pid) whose sample sid=0 is correct at base, step 700 and final; no marker-based criterion. Counts are per response (sid=0): n_wait = occurrences of 'wait' (indices.trace_counts), n_rev = rule-based revision events (revisions.py), chains = reduplicated wait runs",
+      "value": 10
+    },
+    {
+      "key": "fig1.case.base.nrev",
+      "src": "selection rule (written before looking at the counts): the first MATH-500 problem in dataset order (smallest pid) whose sample sid=0 is correct at base, step 700 and final; no marker-based criterion. Counts are per response (sid=0): n_wait = occurrences of 'wait' (indices.trace_counts), n_rev = rule-based revision events (revisions.py), chains = reduplicated wait runs",
+      "value": 4
+    },
+    {
+      "key": "fig1.case.base.ntok",
+      "src": "selection rule (written before looking at the counts): the first MATH-500 problem in dataset order (smallest pid) whose sample sid=0 is correct at base, step 700 and final; no marker-based criterion. Counts are per response (sid=0): n_wait = occurrences of 'wait' (indices.trace_counts), n_rev = rule-based revision events (revisions.py), chains = reduplicated wait runs",
+      "value": 2162
+    },
+    {
+      "key": "fig1.case.base.nchain",
+      "src": "selection rule (written before looking at the counts): the first MATH-500 problem in dataset order (smallest pid) whose sample sid=0 is correct at base, step 700 and final; no marker-based criterion. Counts are per response (sid=0): n_wait = occurrences of 'wait' (indices.trace_counts), n_rev = rule-based revision events (revisions.py), chains = reduplicated wait runs",
+      "value": 0
+    },
+    {
+      "key": "fig1.case.mid.nwait",
+      "src": "selection rule (written before looking at the counts): the first MATH-500 problem in dataset order (smallest pid) whose sample sid=0 is correct at base, step 700 and final; no marker-based criterion. Counts are per response (sid=0): n_wait = occurrences of 'wait' (indices.trace_counts), n_rev = rule-based revision events (revisions.py), chains = reduplicated wait runs",
+      "value": 16
+    },
+    {
+      "key": "fig1.case.mid.nrev",
+      "src": "selection rule (written before looking at the counts): the first MATH-500 problem in dataset order (smallest pid) whose sample sid=0 is correct at base, step 700 and final; no marker-based criterion. Counts are per response (sid=0): n_wait = occurrences of 'wait' (indices.trace_counts), n_rev = rule-based revision events (revisions.py), chains = reduplicated wait runs",
+      "value": 3
+    },
+    {
+      "key": "fig1.case.mid.ntok",
+      "src": "selection rule (written before looking at the counts): the first MATH-500 problem in dataset order (smallest pid) whose sample sid=0 is correct at base, step 700 and final; no marker-based criterion. Counts are per response (sid=0): n_wait = occurrences of 'wait' (indices.trace_counts), n_rev = rule-based revision events (revisions.py), chains = reduplicated wait runs",
+      "value": 2022
+    },
+    {
+      "key": "fig1.case.mid.nchain",
+      "src": "selection rule (written before looking at the counts): the first MATH-500 problem in dataset order (smallest pid) whose sample sid=0 is correct at base, step 700 and final; no marker-based criterion. Counts are per response (sid=0): n_wait = occurrences of 'wait' (indices.trace_counts), n_rev = rule-based revision events (revisions.py), chains = reduplicated wait runs",
+      "value": 4
+    },
+    {
+      "key": "fig1.case.last.nwait",
+      "src": "selection rule (written before looking at the counts): the first MATH-500 problem in dataset order (smallest pid) whose sample sid=0 is correct at base, step 700 and final; no marker-based criterion. Counts are per response (sid=0): n_wait = occurrences of 'wait' (indices.trace_counts), n_rev = rule-based revision events (revisions.py), chains = reduplicated wait runs",
+      "value": 36
+    },
+    {
+      "key": "fig1.case.last.nrev",
+      "src": "selection rule (written before looking at the counts): the first MATH-500 problem in dataset order (smallest pid) whose sample sid=0 is correct at base, step 700 and final; no marker-based criterion. Counts are per response (sid=0): n_wait = occurrences of 'wait' (indices.trace_counts), n_rev = rule-based revision events (revisions.py), chains = reduplicated wait runs",
+      "value": 3
+    },
+    {
+      "key": "fig1.case.last.ntok",
+      "src": "selection rule (written before looking at the counts): the first MATH-500 problem in dataset order (smallest pid) whose sample sid=0 is correct at base, step 700 and final; no marker-based criterion. Counts are per response (sid=0): n_wait = occurrences of 'wait' (indices.trace_counts), n_rev = rule-based revision events (revisions.py), chains = reduplicated wait runs",
+      "value": 2764
+    },
+    {
+      "key": "fig1.case.last.nchain",
+      "src": "selection rule (written before looking at the counts): the first MATH-500 problem in dataset order (smallest pid) whose sample sid=0 is correct at base, step 700 and final; no marker-based criterion. Counts are per response (sid=0): n_wait = occurrences of 'wait' (indices.trace_counts), n_rev = rule-based revision events (revisions.py), chains = reduplicated wait runs",
+      "value": 9
+    }
+  ]
+}

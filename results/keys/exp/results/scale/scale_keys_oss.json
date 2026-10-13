@@ -1,0 +1,2106 @@
+{
+  "entries": [
+    {
+      "key": "h4.s8base.final.prev_wait_oss",
+      "src": "scale_report::E3_shared.S8_base.wait.est",
+      "value": 55.5
+    },
+    {
+      "key": "h4.s8base.final.prev_wait_oss.lo",
+      "src": "scale_report::E3_shared.S8_base.wait.lo",
+      "value": 49.8
+    },
+    {
+      "key": "h4.s8base.final.prev_wait_oss.hi",
+      "src": "scale_report::E3_shared.S8_base.wait.hi",
+      "value": 61.3
+    },
+    {
+      "key": "h4.s8base.final.prev_next_oss",
+      "src": "scale_report::E3_shared.S8_base.next.est",
+      "value": 24.8
+    },
+    {
+      "key": "h4.s8base.final.prev_next_oss.lo",
+      "src": "scale_report::E3_shared.S8_base.next.lo",
+      "value": 18.0
+    },
+    {
+      "key": "h4.s8base.final.prev_next_oss.hi",
+      "src": "scale_report::E3_shared.S8_base.next.hi",
+      "value": 31.5
+    },
+    {
+      "key": "h4.s8base.final.prev_holdon_oss",
+      "src": "scale_report::E3_shared.S8_base.hold_on.est",
+      "value": 48.0
+    },
+    {
+      "key": "h4.s8base.final.prev_holdon_oss.lo",
+      "src": "scale_report::E3_shared.S8_base.hold_on.lo",
+      "value": 42.0
+    },
+    {
+      "key": "h4.s8base.final.prev_holdon_oss.hi",
+      "src": "scale_report::E3_shared.S8_base.hold_on.hi",
+      "value": 53.8
+    },
+    {
+      "key": "h4.s8base.final.prev_none_oss",
+      "src": "scale_report::E3_shared.S8_base.none.est",
+      "value": 19.0
+    },
+    {
+      "key": "h4.s8base.final.prev_none_oss.lo",
+      "src": "scale_report::E3_shared.S8_base.none.lo",
+      "value": 13.0
+    },
+    {
+      "key": "h4.s8base.final.prev_none_oss.hi",
+      "src": "scale_report::E3_shared.S8_base.none.hi",
+      "value": 25.2
+    },
+    {
+      "key": "h4.s8base.final.prev_syn_oss",
+      "src": "scale_report::E3_shared.S8_base.syn.est",
+      "value": 48.0
+    },
+    {
+      "key": "h4.s8base.final.prev_syn_oss.lo",
+      "src": "scale_report::E3_shared.S8_base.syn.lo",
+      "value": 42.0
+    },
+    {
+      "key": "h4.s8base.final.prev_syn_oss.hi",
+      "src": "scale_report::E3_shared.S8_base.syn.hi",
+      "value": 53.8
+    },
+    {
+      "key": "h4.s8base.final.rd_op_oss",
+      "src": "scale_report::E3_shared.S8_base.RD_next.est",
+      "value": 30.8
+    },
+    {
+      "key": "h4.s8base.final.rd_op_oss.lo",
+      "src": "scale_report::E3_shared.S8_base.RD_next.lo",
+      "value": 23.8
+    },
+    {
+      "key": "h4.s8base.final.rd_op_oss.hi",
+      "src": "scale_report::E3_shared.S8_base.RD_next.hi",
+      "value": 37.5
+    },
+    {
+      "key": "h4.s8base.final.or_op_oss",
+      "src": "scale_report::E3_shared.S8_base.OR_next.est",
+      "value": 3.78
+    },
+    {
+      "key": "h4.s8base.final.or_op_oss.lo",
+      "src": "scale_report::E3_shared.S8_base.OR_next.lo",
+      "value": 2.7
+    },
+    {
+      "key": "h4.s8base.final.or_op_oss.hi",
+      "src": "scale_report::E3_shared.S8_base.OR_next.hi",
+      "value": 5.46
+    },
+    {
+      "key": "h4.s8base.final.rr_op_oss",
+      "src": "scale_report::E3_shared.S8_base.RR_next.est",
+      "value": 2.24
+    },
+    {
+      "key": "h4.s8base.final.rr_op_oss.lo",
+      "src": "scale_report::E3_shared.S8_base.RR_next.lo",
+      "value": 1.78
+    },
+    {
+      "key": "h4.s8base.final.rr_op_oss.hi",
+      "src": "scale_report::E3_shared.S8_base.RR_next.hi",
+      "value": 2.97
+    },
+    {
+      "key": "h4.s8base.final.rd_syn_oss",
+      "src": "scale_report::E3_shared.S8_base.RD_syn.est",
+      "value": 7.5
+    },
+    {
+      "key": "h4.s8base.final.rd_syn_oss.lo",
+      "src": "scale_report::E3_shared.S8_base.RD_syn.lo",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8base.final.rd_syn_oss.hi",
+      "src": "scale_report::E3_shared.S8_base.RD_syn.hi",
+      "value": 14.0
+    },
+    {
+      "key": "h4.s8base.final.rd_none_oss",
+      "src": "scale_report::E3_shared.S8_base.RD_none.est",
+      "value": 36.5
+    },
+    {
+      "key": "h4.s8base.final.rd_none_oss.lo",
+      "src": "scale_report::E3_shared.S8_base.RD_none.lo",
+      "value": 29.5
+    },
+    {
+      "key": "h4.s8base.final.rd_none_oss.hi",
+      "src": "scale_report::E3_shared.S8_base.RD_none.hi",
+      "value": 43.2
+    },
+    {
+      "key": "h4.s8base.trend.r_amp_oss",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).est",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8base.trend.r_amp_oss.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).lo",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8base.trend.r_amp_oss.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).hi",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8base.trend.d_amp_oss",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).est",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.trend.d_amp_oss.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8base.trend.d_amp_oss.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).hi",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8dapo.final.prev_wait_oss",
+      "src": "scale_report::E3_shared.S8_dapo.wait.est",
+      "value": 18.8
+    },
+    {
+      "key": "h4.s8dapo.final.prev_wait_oss.lo",
+      "src": "scale_report::E3_shared.S8_dapo.wait.lo",
+      "value": 13.0
+    },
+    {
+      "key": "h4.s8dapo.final.prev_wait_oss.hi",
+      "src": "scale_report::E3_shared.S8_dapo.wait.hi",
+      "value": 25.0
+    },
+    {
+      "key": "h4.s8dapo.final.prev_next_oss",
+      "src": "scale_report::E3_shared.S8_dapo.next.est",
+      "value": 10.2
+    },
+    {
+      "key": "h4.s8dapo.final.prev_next_oss.lo",
+      "src": "scale_report::E3_shared.S8_dapo.next.lo",
+      "value": 5.8
+    },
+    {
+      "key": "h4.s8dapo.final.prev_next_oss.hi",
+      "src": "scale_report::E3_shared.S8_dapo.next.hi",
+      "value": 15.2
+    },
+    {
+      "key": "h4.s8dapo.final.prev_holdon_oss",
+      "src": "scale_report::E3_shared.S8_dapo.hold_on.est",
+      "value": 18.0
+    },
+    {
+      "key": "h4.s8dapo.final.prev_holdon_oss.lo",
+      "src": "scale_report::E3_shared.S8_dapo.hold_on.lo",
+      "value": 12.2
+    },
+    {
+      "key": "h4.s8dapo.final.prev_holdon_oss.hi",
+      "src": "scale_report::E3_shared.S8_dapo.hold_on.hi",
+      "value": 24.0
+    },
+    {
+      "key": "h4.s8dapo.final.prev_none_oss",
+      "src": "scale_report::E3_shared.S8_dapo.none.est",
+      "value": 12.8
+    },
+    {
+      "key": "h4.s8dapo.final.prev_none_oss.lo",
+      "src": "scale_report::E3_shared.S8_dapo.none.lo",
+      "value": 8.0
+    },
+    {
+      "key": "h4.s8dapo.final.prev_none_oss.hi",
+      "src": "scale_report::E3_shared.S8_dapo.none.hi",
+      "value": 18.0
+    },
+    {
+      "key": "h4.s8dapo.final.prev_syn_oss",
+      "src": "scale_report::E3_shared.S8_dapo.syn.est",
+      "value": 18.0
+    },
+    {
+      "key": "h4.s8dapo.final.prev_syn_oss.lo",
+      "src": "scale_report::E3_shared.S8_dapo.syn.lo",
+      "value": 12.2
+    },
+    {
+      "key": "h4.s8dapo.final.prev_syn_oss.hi",
+      "src": "scale_report::E3_shared.S8_dapo.syn.hi",
+      "value": 24.0
+    },
+    {
+      "key": "h4.s8dapo.final.rd_op_oss",
+      "src": "scale_report::E3_shared.S8_dapo.RD_next.est",
+      "value": 8.5
+    },
+    {
+      "key": "h4.s8dapo.final.rd_op_oss.lo",
+      "src": "scale_report::E3_shared.S8_dapo.RD_next.lo",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s8dapo.final.rd_op_oss.hi",
+      "src": "scale_report::E3_shared.S8_dapo.RD_next.hi",
+      "value": 13.2
+    },
+    {
+      "key": "h4.s8dapo.final.or_op_oss",
+      "src": "scale_report::E3_shared.S8_dapo.OR_next.est",
+      "value": 2.01
+    },
+    {
+      "key": "h4.s8dapo.final.or_op_oss.lo",
+      "src": "scale_report::E3_shared.S8_dapo.OR_next.lo",
+      "value": 1.41
+    },
+    {
+      "key": "h4.s8dapo.final.or_op_oss.hi",
+      "src": "scale_report::E3_shared.S8_dapo.OR_next.hi",
+      "value": 3.06
+    },
+    {
+      "key": "h4.s8dapo.final.rr_op_oss",
+      "src": "scale_report::E3_shared.S8_dapo.RR_next.est",
+      "value": 1.82
+    },
+    {
+      "key": "h4.s8dapo.final.rr_op_oss.lo",
+      "src": "scale_report::E3_shared.S8_dapo.RR_next.lo",
+      "value": 1.34
+    },
+    {
+      "key": "h4.s8dapo.final.rr_op_oss.hi",
+      "src": "scale_report::E3_shared.S8_dapo.RR_next.hi",
+      "value": 2.69
+    },
+    {
+      "key": "h4.s8dapo.final.rd_syn_oss",
+      "src": "scale_report::E3_shared.S8_dapo.RD_syn.est",
+      "value": 0.8
+    },
+    {
+      "key": "h4.s8dapo.final.rd_syn_oss.lo",
+      "src": "scale_report::E3_shared.S8_dapo.RD_syn.lo",
+      "value": -2.3
+    },
+    {
+      "key": "h4.s8dapo.final.rd_syn_oss.hi",
+      "src": "scale_report::E3_shared.S8_dapo.RD_syn.hi",
+      "value": 4.0
+    },
+    {
+      "key": "h4.s8dapo.final.rd_none_oss",
+      "src": "scale_report::E3_shared.S8_dapo.RD_none.est",
+      "value": 6.0
+    },
+    {
+      "key": "h4.s8dapo.final.rd_none_oss.lo",
+      "src": "scale_report::E3_shared.S8_dapo.RD_none.lo",
+      "value": 2.2
+    },
+    {
+      "key": "h4.s8dapo.final.rd_none_oss.hi",
+      "src": "scale_report::E3_shared.S8_dapo.RD_none.hi",
+      "value": 10.2
+    },
+    {
+      "key": "h4.s8dapo.trend.r_amp_oss",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).est",
+      "value": 0.28
+    },
+    {
+      "key": "h4.s8dapo.trend.r_amp_oss.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).lo",
+      "value": 0.13
+    },
+    {
+      "key": "h4.s8dapo.trend.r_amp_oss.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).hi",
+      "value": 0.46
+    },
+    {
+      "key": "h4.s8dapo.trend.d_amp_oss",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).est",
+      "value": -22.2
+    },
+    {
+      "key": "h4.s8dapo.trend.d_amp_oss.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).lo",
+      "value": -30.5
+    },
+    {
+      "key": "h4.s8dapo.trend.d_amp_oss.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).hi",
+      "value": -13.8
+    },
+    {
+      "key": "h4.s8qwq.final.prev_wait_oss",
+      "src": "scale_report::E3_shared.S8_qwq.wait.est",
+      "value": 26.2
+    },
+    {
+      "key": "h4.s8qwq.final.prev_wait_oss.lo",
+      "src": "scale_report::E3_shared.S8_qwq.wait.lo",
+      "value": 20.0
+    },
+    {
+      "key": "h4.s8qwq.final.prev_wait_oss.hi",
+      "src": "scale_report::E3_shared.S8_qwq.wait.hi",
+      "value": 32.2
+    },
+    {
+      "key": "h4.s8qwq.final.prev_next_oss",
+      "src": "scale_report::E3_shared.S8_qwq.next.est",
+      "value": 18.8
+    },
+    {
+      "key": "h4.s8qwq.final.prev_next_oss.lo",
+      "src": "scale_report::E3_shared.S8_qwq.next.lo",
+      "value": 13.5
+    },
+    {
+      "key": "h4.s8qwq.final.prev_next_oss.hi",
+      "src": "scale_report::E3_shared.S8_qwq.next.hi",
+      "value": 23.8
+    },
+    {
+      "key": "h4.s8qwq.final.prev_holdon_oss",
+      "src": "scale_report::E3_shared.S8_qwq.hold_on.est",
+      "value": 22.5
+    },
+    {
+      "key": "h4.s8qwq.final.prev_holdon_oss.lo",
+      "src": "scale_report::E3_shared.S8_qwq.hold_on.lo",
+      "value": 17.0
+    },
+    {
+      "key": "h4.s8qwq.final.prev_holdon_oss.hi",
+      "src": "scale_report::E3_shared.S8_qwq.hold_on.hi",
+      "value": 28.0
+    },
+    {
+      "key": "h4.s8qwq.final.prev_none_oss",
+      "src": "scale_report::E3_shared.S8_qwq.none.est",
+      "value": 21.8
+    },
+    {
+      "key": "h4.s8qwq.final.prev_none_oss.lo",
+      "src": "scale_report::E3_shared.S8_qwq.none.lo",
+      "value": 15.8
+    },
+    {
+      "key": "h4.s8qwq.final.prev_none_oss.hi",
+      "src": "scale_report::E3_shared.S8_qwq.none.hi",
+      "value": 28.3
+    },
+    {
+      "key": "h4.s8qwq.final.prev_syn_oss",
+      "src": "scale_report::E3_shared.S8_qwq.syn.est",
+      "value": 22.5
+    },
+    {
+      "key": "h4.s8qwq.final.prev_syn_oss.lo",
+      "src": "scale_report::E3_shared.S8_qwq.syn.lo",
+      "value": 17.0
+    },
+    {
+      "key": "h4.s8qwq.final.prev_syn_oss.hi",
+      "src": "scale_report::E3_shared.S8_qwq.syn.hi",
+      "value": 28.0
+    },
+    {
+      "key": "h4.s8qwq.final.rd_op_oss",
+      "src": "scale_report::E3_shared.S8_qwq.RD_next.est",
+      "value": 7.5
+    },
+    {
+      "key": "h4.s8qwq.final.rd_op_oss.lo",
+      "src": "scale_report::E3_shared.S8_qwq.RD_next.lo",
+      "value": 2.0
+    },
+    {
+      "key": "h4.s8qwq.final.rd_op_oss.hi",
+      "src": "scale_report::E3_shared.S8_qwq.RD_next.hi",
+      "value": 13.0
+    },
+    {
+      "key": "h4.s8qwq.final.or_op_oss",
+      "src": "scale_report::E3_shared.S8_qwq.OR_next.est",
+      "value": 1.54
+    },
+    {
+      "key": "h4.s8qwq.final.or_op_oss.lo",
+      "src": "scale_report::E3_shared.S8_qwq.OR_next.lo",
+      "value": 1.13
+    },
+    {
+      "key": "h4.s8qwq.final.or_op_oss.hi",
+      "src": "scale_report::E3_shared.S8_qwq.OR_next.hi",
+      "value": 2.11
+    },
+    {
+      "key": "h4.s8qwq.final.rr_op_oss",
+      "src": "scale_report::E3_shared.S8_qwq.RR_next.est",
+      "value": 1.4
+    },
+    {
+      "key": "h4.s8qwq.final.rr_op_oss.lo",
+      "src": "scale_report::E3_shared.S8_qwq.RR_next.lo",
+      "value": 1.1
+    },
+    {
+      "key": "h4.s8qwq.final.rr_op_oss.hi",
+      "src": "scale_report::E3_shared.S8_qwq.RR_next.hi",
+      "value": 1.79
+    },
+    {
+      "key": "h4.s8qwq.final.rd_syn_oss",
+      "src": "scale_report::E3_shared.S8_qwq.RD_syn.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s8qwq.final.rd_syn_oss.lo",
+      "src": "scale_report::E3_shared.S8_qwq.RD_syn.lo",
+      "value": -1.5
+    },
+    {
+      "key": "h4.s8qwq.final.rd_syn_oss.hi",
+      "src": "scale_report::E3_shared.S8_qwq.RD_syn.hi",
+      "value": 9.2
+    },
+    {
+      "key": "h4.s8qwq.final.rd_none_oss",
+      "src": "scale_report::E3_shared.S8_qwq.RD_none.est",
+      "value": 4.5
+    },
+    {
+      "key": "h4.s8qwq.final.rd_none_oss.lo",
+      "src": "scale_report::E3_shared.S8_qwq.RD_none.lo",
+      "value": -0.8
+    },
+    {
+      "key": "h4.s8qwq.final.rd_none_oss.hi",
+      "src": "scale_report::E3_shared.S8_qwq.RD_none.hi",
+      "value": 9.8
+    },
+    {
+      "key": "h4.s8qwq.trend.r_amp_oss",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).est",
+      "value": 0.24
+    },
+    {
+      "key": "h4.s8qwq.trend.r_amp_oss.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).lo",
+      "value": 0.07
+    },
+    {
+      "key": "h4.s8qwq.trend.r_amp_oss.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).hi",
+      "value": 0.45
+    },
+    {
+      "key": "h4.s8qwq.trend.d_amp_oss",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).est",
+      "value": -23.2
+    },
+    {
+      "key": "h4.s8qwq.trend.d_amp_oss.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).lo",
+      "value": -32.0
+    },
+    {
+      "key": "h4.s8qwq.trend.d_amp_oss.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).hi",
+      "value": -14.5
+    },
+    {
+      "key": "h4.s8orz.final.prev_wait_oss",
+      "src": "scale_report::E3_shared.S8_orz.wait.est",
+      "value": 29.8
+    },
+    {
+      "key": "h4.s8orz.final.prev_wait_oss.lo",
+      "src": "scale_report::E3_shared.S8_orz.wait.lo",
+      "value": 23.8
+    },
+    {
+      "key": "h4.s8orz.final.prev_wait_oss.hi",
+      "src": "scale_report::E3_shared.S8_orz.wait.hi",
+      "value": 36.0
+    },
+    {
+      "key": "h4.s8orz.final.prev_next_oss",
+      "src": "scale_report::E3_shared.S8_orz.next.est",
+      "value": 14.8
+    },
+    {
+      "key": "h4.s8orz.final.prev_next_oss.lo",
+      "src": "scale_report::E3_shared.S8_orz.next.lo",
+      "value": 9.8
+    },
+    {
+      "key": "h4.s8orz.final.prev_next_oss.hi",
+      "src": "scale_report::E3_shared.S8_orz.next.hi",
+      "value": 20.0
+    },
+    {
+      "key": "h4.s8orz.final.prev_holdon_oss",
+      "src": "scale_report::E3_shared.S8_orz.hold_on.est",
+      "value": 27.3
+    },
+    {
+      "key": "h4.s8orz.final.prev_holdon_oss.lo",
+      "src": "scale_report::E3_shared.S8_orz.hold_on.lo",
+      "value": 21.2
+    },
+    {
+      "key": "h4.s8orz.final.prev_holdon_oss.hi",
+      "src": "scale_report::E3_shared.S8_orz.hold_on.hi",
+      "value": 33.8
+    },
+    {
+      "key": "h4.s8orz.final.prev_none_oss",
+      "src": "scale_report::E3_shared.S8_orz.none.est",
+      "value": 14.8
+    },
+    {
+      "key": "h4.s8orz.final.prev_none_oss.lo",
+      "src": "scale_report::E3_shared.S8_orz.none.lo",
+      "value": 9.8
+    },
+    {
+      "key": "h4.s8orz.final.prev_none_oss.hi",
+      "src": "scale_report::E3_shared.S8_orz.none.hi",
+      "value": 20.3
+    },
+    {
+      "key": "h4.s8orz.final.prev_syn_oss",
+      "src": "scale_report::E3_shared.S8_orz.syn.est",
+      "value": 27.3
+    },
+    {
+      "key": "h4.s8orz.final.prev_syn_oss.lo",
+      "src": "scale_report::E3_shared.S8_orz.syn.lo",
+      "value": 21.2
+    },
+    {
+      "key": "h4.s8orz.final.prev_syn_oss.hi",
+      "src": "scale_report::E3_shared.S8_orz.syn.hi",
+      "value": 33.8
+    },
+    {
+      "key": "h4.s8orz.final.rd_op_oss",
+      "src": "scale_report::E3_shared.S8_orz.RD_next.est",
+      "value": 15.0
+    },
+    {
+      "key": "h4.s8orz.final.rd_op_oss.lo",
+      "src": "scale_report::E3_shared.S8_orz.RD_next.lo",
+      "value": 9.2
+    },
+    {
+      "key": "h4.s8orz.final.rd_op_oss.hi",
+      "src": "scale_report::E3_shared.S8_orz.RD_next.hi",
+      "value": 21.2
+    },
+    {
+      "key": "h4.s8orz.final.or_op_oss",
+      "src": "scale_report::E3_shared.S8_orz.OR_next.est",
+      "value": 2.44
+    },
+    {
+      "key": "h4.s8orz.final.or_op_oss.lo",
+      "src": "scale_report::E3_shared.S8_orz.OR_next.lo",
+      "value": 1.71
+    },
+    {
+      "key": "h4.s8orz.final.or_op_oss.hi",
+      "src": "scale_report::E3_shared.S8_orz.OR_next.hi",
+      "value": 3.68
+    },
+    {
+      "key": "h4.s8orz.final.rr_op_oss",
+      "src": "scale_report::E3_shared.S8_orz.RR_next.est",
+      "value": 2.01
+    },
+    {
+      "key": "h4.s8orz.final.rr_op_oss.lo",
+      "src": "scale_report::E3_shared.S8_orz.RR_next.lo",
+      "value": 1.5
+    },
+    {
+      "key": "h4.s8orz.final.rr_op_oss.hi",
+      "src": "scale_report::E3_shared.S8_orz.RR_next.hi",
+      "value": 2.82
+    },
+    {
+      "key": "h4.s8orz.final.rd_syn_oss",
+      "src": "scale_report::E3_shared.S8_orz.RD_syn.est",
+      "value": 2.5
+    },
+    {
+      "key": "h4.s8orz.final.rd_syn_oss.lo",
+      "src": "scale_report::E3_shared.S8_orz.RD_syn.lo",
+      "value": -2.2
+    },
+    {
+      "key": "h4.s8orz.final.rd_syn_oss.hi",
+      "src": "scale_report::E3_shared.S8_orz.RD_syn.hi",
+      "value": 7.5
+    },
+    {
+      "key": "h4.s8orz.final.rd_none_oss",
+      "src": "scale_report::E3_shared.S8_orz.RD_none.est",
+      "value": 15.0
+    },
+    {
+      "key": "h4.s8orz.final.rd_none_oss.lo",
+      "src": "scale_report::E3_shared.S8_orz.RD_none.lo",
+      "value": 9.2
+    },
+    {
+      "key": "h4.s8orz.final.rd_none_oss.hi",
+      "src": "scale_report::E3_shared.S8_orz.RD_none.hi",
+      "value": 20.8
+    },
+    {
+      "key": "h4.s8orz.trend.r_amp_oss",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).est",
+      "value": 0.49
+    },
+    {
+      "key": "h4.s8orz.trend.r_amp_oss.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).lo",
+      "value": 0.3
+    },
+    {
+      "key": "h4.s8orz.trend.r_amp_oss.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).hi",
+      "value": 0.73
+    },
+    {
+      "key": "h4.s8orz.trend.d_amp_oss",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).est",
+      "value": -15.8
+    },
+    {
+      "key": "h4.s8orz.trend.d_amp_oss.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).lo",
+      "value": -24.2
+    },
+    {
+      "key": "h4.s8orz.trend.d_amp_oss.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).hi",
+      "value": -7.2
+    },
+    {
+      "key": "h4.s8r1d.final.prev_wait_oss",
+      "src": "scale_report::E3_shared.S8_r1distill.wait.est",
+      "value": 33.0
+    },
+    {
+      "key": "h4.s8r1d.final.prev_wait_oss.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.wait.lo",
+      "value": 26.5
+    },
+    {
+      "key": "h4.s8r1d.final.prev_wait_oss.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.wait.hi",
+      "value": 40.0
+    },
+    {
+      "key": "h4.s8r1d.final.prev_next_oss",
+      "src": "scale_report::E3_shared.S8_r1distill.next.est",
+      "value": 9.0
+    },
+    {
+      "key": "h4.s8r1d.final.prev_next_oss.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.next.lo",
+      "value": 5.8
+    },
+    {
+      "key": "h4.s8r1d.final.prev_next_oss.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.next.hi",
+      "value": 12.3
+    },
+    {
+      "key": "h4.s8r1d.final.prev_holdon_oss",
+      "src": "scale_report::E3_shared.S8_r1distill.hold_on.est",
+      "value": 30.2
+    },
+    {
+      "key": "h4.s8r1d.final.prev_holdon_oss.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.hold_on.lo",
+      "value": 24.2
+    },
+    {
+      "key": "h4.s8r1d.final.prev_holdon_oss.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.hold_on.hi",
+      "value": 36.8
+    },
+    {
+      "key": "h4.s8r1d.final.prev_none_oss",
+      "src": "scale_report::E3_shared.S8_r1distill.none.est",
+      "value": 16.5
+    },
+    {
+      "key": "h4.s8r1d.final.prev_none_oss.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.none.lo",
+      "value": 11.0
+    },
+    {
+      "key": "h4.s8r1d.final.prev_none_oss.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.none.hi",
+      "value": 22.2
+    },
+    {
+      "key": "h4.s8r1d.final.prev_syn_oss",
+      "src": "scale_report::E3_shared.S8_r1distill.syn.est",
+      "value": 30.2
+    },
+    {
+      "key": "h4.s8r1d.final.prev_syn_oss.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.syn.lo",
+      "value": 24.2
+    },
+    {
+      "key": "h4.s8r1d.final.prev_syn_oss.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.syn.hi",
+      "value": 36.8
+    },
+    {
+      "key": "h4.s8r1d.final.rd_op_oss",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_next.est",
+      "value": 24.0
+    },
+    {
+      "key": "h4.s8r1d.final.rd_op_oss.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_next.lo",
+      "value": 17.5
+    },
+    {
+      "key": "h4.s8r1d.final.rd_op_oss.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_next.hi",
+      "value": 30.8
+    },
+    {
+      "key": "h4.s8r1d.final.or_op_oss",
+      "src": "scale_report::E3_shared.S8_r1distill.OR_next.est",
+      "value": 4.93
+    },
+    {
+      "key": "h4.s8r1d.final.or_op_oss.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.OR_next.lo",
+      "value": 3.25
+    },
+    {
+      "key": "h4.s8r1d.final.or_op_oss.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.OR_next.hi",
+      "value": 7.88
+    },
+    {
+      "key": "h4.s8r1d.final.rr_op_oss",
+      "src": "scale_report::E3_shared.S8_r1distill.RR_next.est",
+      "value": 3.63
+    },
+    {
+      "key": "h4.s8r1d.final.rr_op_oss.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.RR_next.lo",
+      "value": 2.56
+    },
+    {
+      "key": "h4.s8r1d.final.rr_op_oss.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.RR_next.hi",
+      "value": 5.41
+    },
+    {
+      "key": "h4.s8r1d.final.rd_syn_oss",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_syn.est",
+      "value": 2.8
+    },
+    {
+      "key": "h4.s8r1d.final.rd_syn_oss.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_syn.lo",
+      "value": -2.5
+    },
+    {
+      "key": "h4.s8r1d.final.rd_syn_oss.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_syn.hi",
+      "value": 8.0
+    },
+    {
+      "key": "h4.s8r1d.final.rd_none_oss",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_none.est",
+      "value": 16.5
+    },
+    {
+      "key": "h4.s8r1d.final.rd_none_oss.lo",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_none.lo",
+      "value": 9.0
+    },
+    {
+      "key": "h4.s8r1d.final.rd_none_oss.hi",
+      "src": "scale_report::E3_shared.S8_r1distill.RD_none.hi",
+      "value": 23.2
+    },
+    {
+      "key": "h4.s8r1d.trend.r_amp_oss",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).est",
+      "value": 0.78
+    },
+    {
+      "key": "h4.s8r1d.trend.r_amp_oss.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).lo",
+      "value": 0.55
+    },
+    {
+      "key": "h4.s8r1d.trend.r_amp_oss.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).hi",
+      "value": 1.08
+    },
+    {
+      "key": "h4.s8r1d.trend.d_amp_oss",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).est",
+      "value": -6.8
+    },
+    {
+      "key": "h4.s8r1d.trend.d_amp_oss.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).lo",
+      "value": -15.2
+    },
+    {
+      "key": "h4.s8r1d.trend.d_amp_oss.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).hi",
+      "value": 2.2
+    },
+    {
+      "key": "h4.s10low.final.prev_wait_oss",
+      "src": "scale_report::E3_shared.S10_low.wait.est",
+      "value": 22.5
+    },
+    {
+      "key": "h4.s10low.final.prev_wait_oss.lo",
+      "src": "scale_report::E3_shared.S10_low.wait.lo",
+      "value": 17.2
+    },
+    {
+      "key": "h4.s10low.final.prev_wait_oss.hi",
+      "src": "scale_report::E3_shared.S10_low.wait.hi",
+      "value": 28.0
+    },
+    {
+      "key": "h4.s10low.final.prev_next_oss",
+      "src": "scale_report::E3_shared.S10_low.next.est",
+      "value": 27.3
+    },
+    {
+      "key": "h4.s10low.final.prev_next_oss.lo",
+      "src": "scale_report::E3_shared.S10_low.next.lo",
+      "value": 22.0
+    },
+    {
+      "key": "h4.s10low.final.prev_next_oss.hi",
+      "src": "scale_report::E3_shared.S10_low.next.hi",
+      "value": 32.8
+    },
+    {
+      "key": "h4.s10low.final.prev_holdon_oss",
+      "src": "scale_report::E3_shared.S10_low.hold_on.est",
+      "value": 20.2
+    },
+    {
+      "key": "h4.s10low.final.prev_holdon_oss.lo",
+      "src": "scale_report::E3_shared.S10_low.hold_on.lo",
+      "value": 15.2
+    },
+    {
+      "key": "h4.s10low.final.prev_holdon_oss.hi",
+      "src": "scale_report::E3_shared.S10_low.hold_on.hi",
+      "value": 25.5
+    },
+    {
+      "key": "h4.s10low.final.prev_none_oss",
+      "src": "scale_report::E3_shared.S10_low.none.est",
+      "value": 28.2
+    },
+    {
+      "key": "h4.s10low.final.prev_none_oss.lo",
+      "src": "scale_report::E3_shared.S10_low.none.lo",
+      "value": 22.0
+    },
+    {
+      "key": "h4.s10low.final.prev_none_oss.hi",
+      "src": "scale_report::E3_shared.S10_low.none.hi",
+      "value": 34.3
+    },
+    {
+      "key": "h4.s10low.final.prev_syn_oss",
+      "src": "scale_report::E3_shared.S10_low.syn.est",
+      "value": 20.2
+    },
+    {
+      "key": "h4.s10low.final.prev_syn_oss.lo",
+      "src": "scale_report::E3_shared.S10_low.syn.lo",
+      "value": 15.2
+    },
+    {
+      "key": "h4.s10low.final.prev_syn_oss.hi",
+      "src": "scale_report::E3_shared.S10_low.syn.hi",
+      "value": 25.5
+    },
+    {
+      "key": "h4.s10low.final.rd_op_oss",
+      "src": "scale_report::E3_shared.S10_low.RD_next.est",
+      "value": -4.8
+    },
+    {
+      "key": "h4.s10low.final.rd_op_oss.lo",
+      "src": "scale_report::E3_shared.S10_low.RD_next.lo",
+      "value": -11.0
+    },
+    {
+      "key": "h4.s10low.final.rd_op_oss.hi",
+      "src": "scale_report::E3_shared.S10_low.RD_next.hi",
+      "value": 1.8
+    },
+    {
+      "key": "h4.s10low.final.or_op_oss",
+      "src": "scale_report::E3_shared.S10_low.OR_next.est",
+      "value": 0.78
+    },
+    {
+      "key": "h4.s10low.final.or_op_oss.lo",
+      "src": "scale_report::E3_shared.S10_low.OR_next.lo",
+      "value": 0.55
+    },
+    {
+      "key": "h4.s10low.final.or_op_oss.hi",
+      "src": "scale_report::E3_shared.S10_low.OR_next.hi",
+      "value": 1.09
+    },
+    {
+      "key": "h4.s10low.final.rr_op_oss",
+      "src": "scale_report::E3_shared.S10_low.RR_next.est",
+      "value": 0.83
+    },
+    {
+      "key": "h4.s10low.final.rr_op_oss.lo",
+      "src": "scale_report::E3_shared.S10_low.RR_next.lo",
+      "value": 0.63
+    },
+    {
+      "key": "h4.s10low.final.rr_op_oss.hi",
+      "src": "scale_report::E3_shared.S10_low.RR_next.hi",
+      "value": 1.07
+    },
+    {
+      "key": "h4.s10low.final.rd_syn_oss",
+      "src": "scale_report::E3_shared.S10_low.RD_syn.est",
+      "value": 2.2
+    },
+    {
+      "key": "h4.s10low.final.rd_syn_oss.lo",
+      "src": "scale_report::E3_shared.S10_low.RD_syn.lo",
+      "value": -3.5
+    },
+    {
+      "key": "h4.s10low.final.rd_syn_oss.hi",
+      "src": "scale_report::E3_shared.S10_low.RD_syn.hi",
+      "value": 7.8
+    },
+    {
+      "key": "h4.s10low.final.rd_none_oss",
+      "src": "scale_report::E3_shared.S10_low.RD_none.est",
+      "value": -5.8
+    },
+    {
+      "key": "h4.s10low.final.rd_none_oss.lo",
+      "src": "scale_report::E3_shared.S10_low.RD_none.lo",
+      "value": -11.8
+    },
+    {
+      "key": "h4.s10low.final.rd_none_oss.hi",
+      "src": "scale_report::E3_shared.S10_low.RD_none.hi",
+      "value": 0.2
+    },
+    {
+      "key": "h4.s10low.trend.r_amp_oss",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).est",
+      "value": -0.15
+    },
+    {
+      "key": "h4.s10low.trend.r_amp_oss.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).lo",
+      "value": -0.37
+    },
+    {
+      "key": "h4.s10low.trend.r_amp_oss.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).hi",
+      "value": 0.05
+    },
+    {
+      "key": "h4.s10low.trend.d_amp_oss",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).est",
+      "value": -35.5
+    },
+    {
+      "key": "h4.s10low.trend.d_amp_oss.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).lo",
+      "value": -45.5
+    },
+    {
+      "key": "h4.s10low.trend.d_amp_oss.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).hi",
+      "value": -25.8
+    },
+    {
+      "key": "h4.s10med.final.prev_wait_oss",
+      "src": "scale_report::E3_shared.S10_med.wait.est",
+      "value": 28.5
+    },
+    {
+      "key": "h4.s10med.final.prev_wait_oss.lo",
+      "src": "scale_report::E3_shared.S10_med.wait.lo",
+      "value": 23.8
+    },
+    {
+      "key": "h4.s10med.final.prev_wait_oss.hi",
+      "src": "scale_report::E3_shared.S10_med.wait.hi",
+      "value": 33.8
+    },
+    {
+      "key": "h4.s10med.final.prev_next_oss",
+      "src": "scale_report::E3_shared.S10_med.next.est",
+      "value": 19.8
+    },
+    {
+      "key": "h4.s10med.final.prev_next_oss.lo",
+      "src": "scale_report::E3_shared.S10_med.next.lo",
+      "value": 15.0
+    },
+    {
+      "key": "h4.s10med.final.prev_next_oss.hi",
+      "src": "scale_report::E3_shared.S10_med.next.hi",
+      "value": 25.2
+    },
+    {
+      "key": "h4.s10med.final.prev_holdon_oss",
+      "src": "scale_report::E3_shared.S10_med.hold_on.est",
+      "value": 26.2
+    },
+    {
+      "key": "h4.s10med.final.prev_holdon_oss.lo",
+      "src": "scale_report::E3_shared.S10_med.hold_on.lo",
+      "value": 21.0
+    },
+    {
+      "key": "h4.s10med.final.prev_holdon_oss.hi",
+      "src": "scale_report::E3_shared.S10_med.hold_on.hi",
+      "value": 31.8
+    },
+    {
+      "key": "h4.s10med.final.prev_none_oss",
+      "src": "scale_report::E3_shared.S10_med.none.est",
+      "value": 28.5
+    },
+    {
+      "key": "h4.s10med.final.prev_none_oss.lo",
+      "src": "scale_report::E3_shared.S10_med.none.lo",
+      "value": 22.8
+    },
+    {
+      "key": "h4.s10med.final.prev_none_oss.hi",
+      "src": "scale_report::E3_shared.S10_med.none.hi",
+      "value": 34.2
+    },
+    {
+      "key": "h4.s10med.final.prev_syn_oss",
+      "src": "scale_report::E3_shared.S10_med.syn.est",
+      "value": 26.2
+    },
+    {
+      "key": "h4.s10med.final.prev_syn_oss.lo",
+      "src": "scale_report::E3_shared.S10_med.syn.lo",
+      "value": 21.0
+    },
+    {
+      "key": "h4.s10med.final.prev_syn_oss.hi",
+      "src": "scale_report::E3_shared.S10_med.syn.hi",
+      "value": 31.8
+    },
+    {
+      "key": "h4.s10med.final.rd_op_oss",
+      "src": "scale_report::E3_shared.S10_med.RD_next.est",
+      "value": 8.8
+    },
+    {
+      "key": "h4.s10med.final.rd_op_oss.lo",
+      "src": "scale_report::E3_shared.S10_med.RD_next.lo",
+      "value": 3.2
+    },
+    {
+      "key": "h4.s10med.final.rd_op_oss.hi",
+      "src": "scale_report::E3_shared.S10_med.RD_next.hi",
+      "value": 14.0
+    },
+    {
+      "key": "h4.s10med.final.or_op_oss",
+      "src": "scale_report::E3_shared.S10_med.OR_next.est",
+      "value": 1.62
+    },
+    {
+      "key": "h4.s10med.final.or_op_oss.lo",
+      "src": "scale_report::E3_shared.S10_med.OR_next.lo",
+      "value": 1.2
+    },
+    {
+      "key": "h4.s10med.final.or_op_oss.hi",
+      "src": "scale_report::E3_shared.S10_med.OR_next.hi",
+      "value": 2.21
+    },
+    {
+      "key": "h4.s10med.final.rr_op_oss",
+      "src": "scale_report::E3_shared.S10_med.RR_next.est",
+      "value": 1.44
+    },
+    {
+      "key": "h4.s10med.final.rr_op_oss.lo",
+      "src": "scale_report::E3_shared.S10_med.RR_next.lo",
+      "value": 1.15
+    },
+    {
+      "key": "h4.s10med.final.rr_op_oss.hi",
+      "src": "scale_report::E3_shared.S10_med.RR_next.hi",
+      "value": 1.84
+    },
+    {
+      "key": "h4.s10med.final.rd_syn_oss",
+      "src": "scale_report::E3_shared.S10_med.RD_syn.est",
+      "value": 2.2
+    },
+    {
+      "key": "h4.s10med.final.rd_syn_oss.lo",
+      "src": "scale_report::E3_shared.S10_med.RD_syn.lo",
+      "value": -3.0
+    },
+    {
+      "key": "h4.s10med.final.rd_syn_oss.hi",
+      "src": "scale_report::E3_shared.S10_med.RD_syn.hi",
+      "value": 7.3
+    },
+    {
+      "key": "h4.s10med.final.rd_none_oss",
+      "src": "scale_report::E3_shared.S10_med.RD_none.est",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s10med.final.rd_none_oss.lo",
+      "src": "scale_report::E3_shared.S10_med.RD_none.lo",
+      "value": -6.5
+    },
+    {
+      "key": "h4.s10med.final.rd_none_oss.hi",
+      "src": "scale_report::E3_shared.S10_med.RD_none.hi",
+      "value": 6.3
+    },
+    {
+      "key": "h4.s10med.trend.r_amp_oss",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).est",
+      "value": 0.28
+    },
+    {
+      "key": "h4.s10med.trend.r_amp_oss.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).lo",
+      "value": 0.11
+    },
+    {
+      "key": "h4.s10med.trend.r_amp_oss.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).hi",
+      "value": 0.47
+    },
+    {
+      "key": "h4.s10med.trend.d_amp_oss",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).est",
+      "value": -22.0
+    },
+    {
+      "key": "h4.s10med.trend.d_amp_oss.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).lo",
+      "value": -30.5
+    },
+    {
+      "key": "h4.s10med.trend.d_amp_oss.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).hi",
+      "value": -14.5
+    },
+    {
+      "key": "h4.s10high.final.prev_wait_oss",
+      "src": "scale_report::E3_shared.S10_high.wait.est",
+      "value": 35.8
+    },
+    {
+      "key": "h4.s10high.final.prev_wait_oss.lo",
+      "src": "scale_report::E3_shared.S10_high.wait.lo",
+      "value": 30.2
+    },
+    {
+      "key": "h4.s10high.final.prev_wait_oss.hi",
+      "src": "scale_report::E3_shared.S10_high.wait.hi",
+      "value": 41.8
+    },
+    {
+      "key": "h4.s10high.final.prev_next_oss",
+      "src": "scale_report::E3_shared.S10_high.next.est",
+      "value": 33.0
+    },
+    {
+      "key": "h4.s10high.final.prev_next_oss.lo",
+      "src": "scale_report::E3_shared.S10_high.next.lo",
+      "value": 27.3
+    },
+    {
+      "key": "h4.s10high.final.prev_next_oss.hi",
+      "src": "scale_report::E3_shared.S10_high.next.hi",
+      "value": 39.0
+    },
+    {
+      "key": "h4.s10high.final.prev_holdon_oss",
+      "src": "scale_report::E3_shared.S10_high.hold_on.est",
+      "value": 33.0
+    },
+    {
+      "key": "h4.s10high.final.prev_holdon_oss.lo",
+      "src": "scale_report::E3_shared.S10_high.hold_on.lo",
+      "value": 27.8
+    },
+    {
+      "key": "h4.s10high.final.prev_holdon_oss.hi",
+      "src": "scale_report::E3_shared.S10_high.hold_on.hi",
+      "value": 38.5
+    },
+    {
+      "key": "h4.s10high.final.prev_none_oss",
+      "src": "scale_report::E3_shared.S10_high.none.est",
+      "value": 34.8
+    },
+    {
+      "key": "h4.s10high.final.prev_none_oss.lo",
+      "src": "scale_report::E3_shared.S10_high.none.lo",
+      "value": 29.5
+    },
+    {
+      "key": "h4.s10high.final.prev_none_oss.hi",
+      "src": "scale_report::E3_shared.S10_high.none.hi",
+      "value": 40.0
+    },
+    {
+      "key": "h4.s10high.final.prev_syn_oss",
+      "src": "scale_report::E3_shared.S10_high.syn.est",
+      "value": 33.0
+    },
+    {
+      "key": "h4.s10high.final.prev_syn_oss.lo",
+      "src": "scale_report::E3_shared.S10_high.syn.lo",
+      "value": 27.8
+    },
+    {
+      "key": "h4.s10high.final.prev_syn_oss.hi",
+      "src": "scale_report::E3_shared.S10_high.syn.hi",
+      "value": 38.5
+    },
+    {
+      "key": "h4.s10high.final.rd_op_oss",
+      "src": "scale_report::E3_shared.S10_high.RD_next.est",
+      "value": 2.8
+    },
+    {
+      "key": "h4.s10high.final.rd_op_oss.lo",
+      "src": "scale_report::E3_shared.S10_high.RD_next.lo",
+      "value": -4.0
+    },
+    {
+      "key": "h4.s10high.final.rd_op_oss.hi",
+      "src": "scale_report::E3_shared.S10_high.RD_next.hi",
+      "value": 9.5
+    },
+    {
+      "key": "h4.s10high.final.or_op_oss",
+      "src": "scale_report::E3_shared.S10_high.OR_next.est",
+      "value": 1.13
+    },
+    {
+      "key": "h4.s10high.final.or_op_oss.lo",
+      "src": "scale_report::E3_shared.S10_high.OR_next.lo",
+      "value": 0.83
+    },
+    {
+      "key": "h4.s10high.final.or_op_oss.hi",
+      "src": "scale_report::E3_shared.S10_high.OR_next.hi",
+      "value": 1.54
+    },
+    {
+      "key": "h4.s10high.final.rr_op_oss",
+      "src": "scale_report::E3_shared.S10_high.RR_next.est",
+      "value": 1.08
+    },
+    {
+      "key": "h4.s10high.final.rr_op_oss.lo",
+      "src": "scale_report::E3_shared.S10_high.RR_next.lo",
+      "value": 0.88
+    },
+    {
+      "key": "h4.s10high.final.rr_op_oss.hi",
+      "src": "scale_report::E3_shared.S10_high.RR_next.hi",
+      "value": 1.32
+    },
+    {
+      "key": "h4.s10high.final.rd_syn_oss",
+      "src": "scale_report::E3_shared.S10_high.RD_syn.est",
+      "value": 2.7
+    },
+    {
+      "key": "h4.s10high.final.rd_syn_oss.lo",
+      "src": "scale_report::E3_shared.S10_high.RD_syn.lo",
+      "value": -3.3
+    },
+    {
+      "key": "h4.s10high.final.rd_syn_oss.hi",
+      "src": "scale_report::E3_shared.S10_high.RD_syn.hi",
+      "value": 8.8
+    },
+    {
+      "key": "h4.s10high.final.rd_none_oss",
+      "src": "scale_report::E3_shared.S10_high.RD_none.est",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s10high.final.rd_none_oss.lo",
+      "src": "scale_report::E3_shared.S10_high.RD_none.lo",
+      "value": -5.8
+    },
+    {
+      "key": "h4.s10high.final.rd_none_oss.hi",
+      "src": "scale_report::E3_shared.S10_high.RD_none.hi",
+      "value": 7.8
+    },
+    {
+      "key": "h4.s10high.trend.r_amp_oss",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).est",
+      "value": 0.09
+    },
+    {
+      "key": "h4.s10high.trend.r_amp_oss.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).lo",
+      "value": -0.14
+    },
+    {
+      "key": "h4.s10high.trend.r_amp_oss.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (R_amp_RD_next).hi",
+      "value": 0.31
+    },
+    {
+      "key": "h4.s10high.trend.d_amp_oss",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).est",
+      "value": -28.0
+    },
+    {
+      "key": "h4.s10high.trend.d_amp_oss.lo",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).lo",
+      "value": -37.2
+    },
+    {
+      "key": "h4.s10high.trend.d_amp_oss.hi",
+      "src": "scale_report::E3_shared paired vs S8_base (dRD_next_last_minus_base).hi",
+      "value": -19.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_policy_effect_late_src_oss",
+      "src": "scale_report::crossed.policy_effect_late_src.est",
+      "value": -40.8
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_policy_effect_late_src_oss.lo",
+      "src": "scale_report::crossed.policy_effect_late_src.lo",
+      "value": -47.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_policy_effect_late_src_oss.hi",
+      "src": "scale_report::crossed.policy_effect_late_src.hi",
+      "value": -34.8
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_policy_effect_base_src_oss",
+      "src": "scale_report::crossed.policy_effect_base_src.est",
+      "value": -22.2
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_policy_effect_base_src_oss.lo",
+      "src": "scale_report::crossed.policy_effect_base_src.lo",
+      "value": -30.2
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_policy_effect_base_src_oss.hi",
+      "src": "scale_report::crossed.policy_effect_base_src.hi",
+      "value": -14.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_did_oss",
+      "src": "scale_report::crossed.DiD.est",
+      "value": -18.5
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_did_oss.lo",
+      "src": "scale_report::crossed.DiD.lo",
+      "value": -28.8
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_did_oss.hi",
+      "src": "scale_report::crossed.DiD.hi",
+      "value": -8.5
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_reference_arm_is_next_oss",
+      "src": "scale_report::crossed.reference_arm_is_next.est",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_reference_arm_is_next_oss.lo",
+      "src": "scale_report::crossed.reference_arm_is_next.lo",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_reference_arm_is_next_oss.hi",
+      "src": "scale_report::crossed.reference_arm_is_next.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_base_on_base_src_oss",
+      "src": "scale_report::crossed.RD_base_on_base_src.est",
+      "value": 30.8
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_base_on_base_src_oss.lo",
+      "src": "scale_report::crossed.RD_base_on_base_src.lo",
+      "value": 23.8
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_base_on_base_src_oss.hi",
+      "src": "scale_report::crossed.RD_base_on_base_src.hi",
+      "value": 37.5
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_base_on_late_src_oss",
+      "src": "scale_report::crossed.RD_base_on_late_src.est",
+      "value": 42.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_base_on_late_src_oss.lo",
+      "src": "scale_report::crossed.RD_base_on_late_src.lo",
+      "value": 36.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_base_on_late_src_oss.hi",
+      "src": "scale_report::crossed.RD_base_on_late_src.hi",
+      "value": 48.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_last_on_base_src_oss",
+      "src": "scale_report::crossed.RD_last_on_base_src.est",
+      "value": 8.5
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_last_on_base_src_oss.lo",
+      "src": "scale_report::crossed.RD_last_on_base_src.lo",
+      "value": 4.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_last_on_base_src_oss.hi",
+      "src": "scale_report::crossed.RD_last_on_base_src.hi",
+      "value": 13.2
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_last_on_late_src_oss",
+      "src": "scale_report::crossed.RD_last_on_late_src.est",
+      "value": 1.2
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_last_on_late_src_oss.lo",
+      "src": "scale_report::crossed.RD_last_on_late_src.lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8dapo.trend.crossed_rd_last_on_late_src_oss.hi",
+      "src": "scale_report::crossed.RD_last_on_late_src.hi",
+      "value": 2.8
+    },
+    {
+      "key": "h4.s8dapo.final.rd_op_own_oss",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": 1.2
+    },
+    {
+      "key": "h4.s8dapo.final.rd_op_own_oss.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8dapo.final.rd_op_own_oss.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": 2.8
+    },
+    {
+      "key": "h4.s8dapo.trend.r_amp_own_oss",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": 0.03
+    },
+    {
+      "key": "h4.s8dapo.trend.r_amp_own_oss.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": 0.0
+    },
+    {
+      "key": "h4.s8dapo.trend.r_amp_own_oss.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": 0.07
+    },
+    {
+      "key": "h4.s8dapo.trend.d_amp_own_oss",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": -40.8
+    },
+    {
+      "key": "h4.s8dapo.trend.d_amp_own_oss.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": -47.0
+    },
+    {
+      "key": "h4.s8dapo.trend.d_amp_own_oss.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": -34.5
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_policy_effect_late_src_oss",
+      "src": "scale_report::crossed.policy_effect_late_src.est",
+      "value": -10.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_policy_effect_late_src_oss.lo",
+      "src": "scale_report::crossed.policy_effect_late_src.lo",
+      "value": -15.8
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_policy_effect_late_src_oss.hi",
+      "src": "scale_report::crossed.policy_effect_late_src.hi",
+      "value": -4.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_policy_effect_base_src_oss",
+      "src": "scale_report::crossed.policy_effect_base_src.est",
+      "value": -23.2
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_policy_effect_base_src_oss.lo",
+      "src": "scale_report::crossed.policy_effect_base_src.lo",
+      "value": -31.5
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_policy_effect_base_src_oss.hi",
+      "src": "scale_report::crossed.policy_effect_base_src.hi",
+      "value": -14.5
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_did_oss",
+      "src": "scale_report::crossed.DiD.est",
+      "value": 13.2
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_did_oss.lo",
+      "src": "scale_report::crossed.DiD.lo",
+      "value": 3.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_did_oss.hi",
+      "src": "scale_report::crossed.DiD.hi",
+      "value": 23.5
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_reference_arm_is_next_oss",
+      "src": "scale_report::crossed.reference_arm_is_next.est",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_reference_arm_is_next_oss.lo",
+      "src": "scale_report::crossed.reference_arm_is_next.lo",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_reference_arm_is_next_oss.hi",
+      "src": "scale_report::crossed.reference_arm_is_next.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_base_on_base_src_oss",
+      "src": "scale_report::crossed.RD_base_on_base_src.est",
+      "value": 30.8
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_base_on_base_src_oss.lo",
+      "src": "scale_report::crossed.RD_base_on_base_src.lo",
+      "value": 23.8
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_base_on_base_src_oss.hi",
+      "src": "scale_report::crossed.RD_base_on_base_src.hi",
+      "value": 37.5
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_base_on_late_src_oss",
+      "src": "scale_report::crossed.RD_base_on_late_src.est",
+      "value": 10.2
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_base_on_late_src_oss.lo",
+      "src": "scale_report::crossed.RD_base_on_late_src.lo",
+      "value": 4.8
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_base_on_late_src_oss.hi",
+      "src": "scale_report::crossed.RD_base_on_late_src.hi",
+      "value": 15.8
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_last_on_base_src_oss",
+      "src": "scale_report::crossed.RD_last_on_base_src.est",
+      "value": 7.5
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_last_on_base_src_oss.lo",
+      "src": "scale_report::crossed.RD_last_on_base_src.lo",
+      "value": 2.0
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_last_on_base_src_oss.hi",
+      "src": "scale_report::crossed.RD_last_on_base_src.hi",
+      "value": 13.5
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_last_on_late_src_oss",
+      "src": "scale_report::crossed.RD_last_on_late_src.est",
+      "value": 0.2
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_last_on_late_src_oss.lo",
+      "src": "scale_report::crossed.RD_last_on_late_src.lo",
+      "value": -1.8
+    },
+    {
+      "key": "h4.s8qwq.trend.crossed_rd_last_on_late_src_oss.hi",
+      "src": "scale_report::crossed.RD_last_on_late_src.hi",
+      "value": 2.2
+    },
+    {
+      "key": "h4.s8qwq.final.rd_op_own_oss",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": 0.2
+    },
+    {
+      "key": "h4.s8qwq.final.rd_op_own_oss.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": -1.5
+    },
+    {
+      "key": "h4.s8qwq.final.rd_op_own_oss.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": 2.2
+    },
+    {
+      "key": "h4.s8qwq.trend.r_amp_own_oss",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": 0.02
+    },
+    {
+      "key": "h4.s8qwq.trend.r_amp_own_oss.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": -0.18
+    },
+    {
+      "key": "h4.s8qwq.trend.r_amp_own_oss.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": 0.27
+    },
+    {
+      "key": "h4.s8qwq.trend.d_amp_own_oss",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": -10.0
+    },
+    {
+      "key": "h4.s8qwq.trend.d_amp_own_oss.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": -15.5
+    },
+    {
+      "key": "h4.s8qwq.trend.d_amp_own_oss.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": -4.2
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_policy_effect_late_src_oss",
+      "src": "scale_report::crossed.policy_effect_late_src.est",
+      "value": -30.8
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_policy_effect_late_src_oss.lo",
+      "src": "scale_report::crossed.policy_effect_late_src.lo",
+      "value": -37.5
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_policy_effect_late_src_oss.hi",
+      "src": "scale_report::crossed.policy_effect_late_src.hi",
+      "value": -24.0
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_policy_effect_base_src_oss",
+      "src": "scale_report::crossed.policy_effect_base_src.est",
+      "value": -15.8
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_policy_effect_base_src_oss.lo",
+      "src": "scale_report::crossed.policy_effect_base_src.lo",
+      "value": -23.8
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_policy_effect_base_src_oss.hi",
+      "src": "scale_report::crossed.policy_effect_base_src.hi",
+      "value": -7.2
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_did_oss",
+      "src": "scale_report::crossed.DiD.est",
+      "value": -15.0
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_did_oss.lo",
+      "src": "scale_report::crossed.DiD.lo",
+      "value": -25.5
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_did_oss.hi",
+      "src": "scale_report::crossed.DiD.hi",
+      "value": -4.2
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_reference_arm_is_next_oss",
+      "src": "scale_report::crossed.reference_arm_is_next.est",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_reference_arm_is_next_oss.lo",
+      "src": "scale_report::crossed.reference_arm_is_next.lo",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_reference_arm_is_next_oss.hi",
+      "src": "scale_report::crossed.reference_arm_is_next.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_base_on_base_src_oss",
+      "src": "scale_report::crossed.RD_base_on_base_src.est",
+      "value": 30.8
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_base_on_base_src_oss.lo",
+      "src": "scale_report::crossed.RD_base_on_base_src.lo",
+      "value": 23.8
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_base_on_base_src_oss.hi",
+      "src": "scale_report::crossed.RD_base_on_base_src.hi",
+      "value": 37.5
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_base_on_late_src_oss",
+      "src": "scale_report::crossed.RD_base_on_late_src.est",
+      "value": 38.5
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_base_on_late_src_oss.lo",
+      "src": "scale_report::crossed.RD_base_on_late_src.lo",
+      "value": 32.5
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_base_on_late_src_oss.hi",
+      "src": "scale_report::crossed.RD_base_on_late_src.hi",
+      "value": 44.8
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_last_on_base_src_oss",
+      "src": "scale_report::crossed.RD_last_on_base_src.est",
+      "value": 15.0
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_last_on_base_src_oss.lo",
+      "src": "scale_report::crossed.RD_last_on_base_src.lo",
+      "value": 9.2
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_last_on_base_src_oss.hi",
+      "src": "scale_report::crossed.RD_last_on_base_src.hi",
+      "value": 20.8
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_last_on_late_src_oss",
+      "src": "scale_report::crossed.RD_last_on_late_src.est",
+      "value": 7.8
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_last_on_late_src_oss.lo",
+      "src": "scale_report::crossed.RD_last_on_late_src.lo",
+      "value": 4.0
+    },
+    {
+      "key": "h4.s8orz.trend.crossed_rd_last_on_late_src_oss.hi",
+      "src": "scale_report::crossed.RD_last_on_late_src.hi",
+      "value": 12.2
+    },
+    {
+      "key": "h4.s8orz.final.rd_op_own_oss",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": 7.8
+    },
+    {
+      "key": "h4.s8orz.final.rd_op_own_oss.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s8orz.final.rd_op_own_oss.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": 12.2
+    },
+    {
+      "key": "h4.s8orz.trend.r_amp_own_oss",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": 0.2
+    },
+    {
+      "key": "h4.s8orz.trend.r_amp_own_oss.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": 0.11
+    },
+    {
+      "key": "h4.s8orz.trend.r_amp_own_oss.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": 0.31
+    },
+    {
+      "key": "h4.s8orz.trend.d_amp_own_oss",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": -30.8
+    },
+    {
+      "key": "h4.s8orz.trend.d_amp_own_oss.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": -37.3
+    },
+    {
+      "key": "h4.s8orz.trend.d_amp_own_oss.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": -23.8
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_policy_effect_late_src_oss",
+      "src": "scale_report::crossed.policy_effect_late_src.est",
+      "value": -11.2
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_policy_effect_late_src_oss.lo",
+      "src": "scale_report::crossed.policy_effect_late_src.lo",
+      "value": -17.2
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_policy_effect_late_src_oss.hi",
+      "src": "scale_report::crossed.policy_effect_late_src.hi",
+      "value": -5.2
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_policy_effect_base_src_oss",
+      "src": "scale_report::crossed.policy_effect_base_src.est",
+      "value": -6.8
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_policy_effect_base_src_oss.lo",
+      "src": "scale_report::crossed.policy_effect_base_src.lo",
+      "value": -15.0
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_policy_effect_base_src_oss.hi",
+      "src": "scale_report::crossed.policy_effect_base_src.hi",
+      "value": 2.0
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_did_oss",
+      "src": "scale_report::crossed.DiD.est",
+      "value": -4.5
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_did_oss.lo",
+      "src": "scale_report::crossed.DiD.lo",
+      "value": -14.8
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_did_oss.hi",
+      "src": "scale_report::crossed.DiD.hi",
+      "value": 5.5
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_reference_arm_is_next_oss",
+      "src": "scale_report::crossed.reference_arm_is_next.est",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_reference_arm_is_next_oss.lo",
+      "src": "scale_report::crossed.reference_arm_is_next.lo",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_reference_arm_is_next_oss.hi",
+      "src": "scale_report::crossed.reference_arm_is_next.hi",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_base_on_base_src_oss",
+      "src": "scale_report::crossed.RD_base_on_base_src.est",
+      "value": 30.8
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_base_on_base_src_oss.lo",
+      "src": "scale_report::crossed.RD_base_on_base_src.lo",
+      "value": 23.8
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_base_on_base_src_oss.hi",
+      "src": "scale_report::crossed.RD_base_on_base_src.hi",
+      "value": 37.5
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_base_on_late_src_oss",
+      "src": "scale_report::crossed.RD_base_on_late_src.est",
+      "value": 15.5
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_base_on_late_src_oss.lo",
+      "src": "scale_report::crossed.RD_base_on_late_src.lo",
+      "value": 10.2
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_base_on_late_src_oss.hi",
+      "src": "scale_report::crossed.RD_base_on_late_src.hi",
+      "value": 20.8
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_last_on_base_src_oss",
+      "src": "scale_report::crossed.RD_last_on_base_src.est",
+      "value": 24.0
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_last_on_base_src_oss.lo",
+      "src": "scale_report::crossed.RD_last_on_base_src.lo",
+      "value": 17.5
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_last_on_base_src_oss.hi",
+      "src": "scale_report::crossed.RD_last_on_base_src.hi",
+      "value": 30.5
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_last_on_late_src_oss",
+      "src": "scale_report::crossed.RD_last_on_late_src.est",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_last_on_late_src_oss.lo",
+      "src": "scale_report::crossed.RD_last_on_late_src.lo",
+      "value": 1.8
+    },
+    {
+      "key": "h4.s8r1d.trend.crossed_rd_last_on_late_src_oss.hi",
+      "src": "scale_report::crossed.RD_last_on_late_src.hi",
+      "value": 7.0
+    },
+    {
+      "key": "h4.s8r1d.final.rd_op_own_oss",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s8r1d.final.rd_op_own_oss.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": 1.8
+    },
+    {
+      "key": "h4.s8r1d.final.rd_op_own_oss.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": 7.0
+    },
+    {
+      "key": "h4.s8r1d.trend.r_amp_own_oss",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": 0.27
+    },
+    {
+      "key": "h4.s8r1d.trend.r_amp_own_oss.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": 0.1
+    },
+    {
+      "key": "h4.s8r1d.trend.r_amp_own_oss.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": 0.53
+    },
+    {
+      "key": "h4.s8r1d.trend.d_amp_own_oss",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).est",
+      "value": -11.2
+    },
+    {
+      "key": "h4.s8r1d.trend.d_amp_own_oss.lo",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).lo",
+      "value": -17.2
+    },
+    {
+      "key": "h4.s8r1d.trend.d_amp_own_oss.hi",
+      "src": "scale_report::own-derived prefixes (model vs base, paired).hi",
+      "value": -5.5
+    }
+  ],
+  "judge_tag": "oss",
+  "pilot": false
+}

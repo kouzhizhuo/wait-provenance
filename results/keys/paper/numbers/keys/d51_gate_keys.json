@@ -1,0 +1,54 @@
+{
+ "entries": [
+  {
+   "key": "h5.d51.gate.fp32.max_rel_pct",
+   "value": 1.3,
+   "src": "exp/results/cw/d51/ (D51a/D51b gate (i), Qwen3-0.6B L18; throughput Qwen3-8B L24)"
+  },
+  {
+   "key": "h5.d51.gate.fp32.mean_rel_pct",
+   "value": 0.07,
+   "src": "exp/results/cw/d51/ (D51a/D51b gate (i), Qwen3-0.6B L18; throughput Qwen3-8B L24)"
+  },
+  {
+   "key": "h5.d51.gate.bf16.max_rel_pct",
+   "value": 22.6,
+   "src": "exp/results/cw/d51/ (D51a/D51b gate (i), Qwen3-0.6B L18; throughput Qwen3-8B L24)"
+  },
+  {
+   "key": "h5.d51.gate.bf16.mean_rel_pct",
+   "value": 1.2,
+   "src": "exp/results/cw/d51/ (D51a/D51b gate (i), Qwen3-0.6B L18; throughput Qwen3-8B L24)"
+  },
+  {
+   "key": "h5.d51.gate.n_pos",
+   "value": 960,
+   "src": "exp/results/cw/d51/ (D51a/D51b gate (i), Qwen3-0.6B L18; throughput Qwen3-8B L24)"
+  },
+  {
+   "key": "h5.d51.gate.n_seq",
+   "value": 20,
+   "src": "exp/results/cw/d51/ (D51a/D51b gate (i), Qwen3-0.6B L18; throughput Qwen3-8B L24)"
+  },
+  {
+   "key": "h5.d51.tput.plain",
+   "value": 5443,
+   "src": "exp/results/cw/d51/ (D51a/D51b gate (i), Qwen3-0.6B L18; throughput Qwen3-8B L24)"
+  },
+  {
+   "key": "h5.d51.tput.hook",
+   "value": 4158,
+   "src": "exp/results/cw/d51/ (D51a/D51b gate (i), Qwen3-0.6B L18; throughput Qwen3-8B L24)"
+  },
+  {
+   "key": "h5.d51.tput.hf",
+   "value": 320,
+   "src": "exp/results/cw/d51/ (D51a/D51b gate (i), Qwen3-0.6B L18; throughput Qwen3-8B L24)"
+  },
+  {
+   "key": "h5.d51.tput.hook_pct",
+   "value": 76,
+   "src": "exp/results/cw/d51/ (D51a/D51b gate (i), Qwen3-0.6B L18; throughput Qwen3-8B L24)"
+  }
+ ]
+}

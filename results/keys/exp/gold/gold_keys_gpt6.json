@@ -1,0 +1,191 @@
+{
+  "entries": [
+    {
+      "key": "gold.gpt6.kappa_qwen",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs qwen on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.54
+    },
+    {
+      "key": "gold.gpt6.kappa_qwen.lo",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs qwen on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.29
+    },
+    {
+      "key": "gold.gpt6.kappa_qwen.hi",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs qwen on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.75
+    },
+    {
+      "key": "gold.gpt6.ac1_qwen",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs qwen on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.56
+    },
+    {
+      "key": "gold.gpt6.ac1_qwen.lo",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs qwen on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.31
+    },
+    {
+      "key": "gold.gpt6.ac1_qwen.hi",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs qwen on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.78
+    },
+    {
+      "key": "gold.gpt6.kappa_oss",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs oss on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.66
+    },
+    {
+      "key": "gold.gpt6.kappa_oss.lo",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs oss on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.44
+    },
+    {
+      "key": "gold.gpt6.kappa_oss.hi",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs oss on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.86
+    },
+    {
+      "key": "gold.gpt6.ac1_oss",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs oss on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.68
+    },
+    {
+      "key": "gold.gpt6.ac1_oss.lo",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs oss on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.46
+    },
+    {
+      "key": "gold.gpt6.ac1_oss.hi",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs oss on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.88
+    },
+    {
+      "key": "gold.gpt6.kappa_rule",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs rule on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.33
+    },
+    {
+      "key": "gold.gpt6.kappa_rule.lo",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs rule on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.07
+    },
+    {
+      "key": "gold.gpt6.kappa_rule.hi",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs rule on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.58
+    },
+    {
+      "key": "gold.gpt6.ac1_rule",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs rule on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.35
+    },
+    {
+      "key": "gold.gpt6.ac1_rule.lo",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs rule on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.08
+    },
+    {
+      "key": "gold.gpt6.ac1_rule.hi",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs rule on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.62
+    },
+    {
+      "key": "gold.gpt6.kappa_qwen_exunsure",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs qwen on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.56
+    },
+    {
+      "key": "gold.gpt6.kappa_qwen_exunsure.lo",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs qwen on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.32
+    },
+    {
+      "key": "gold.gpt6.kappa_qwen_exunsure.hi",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs qwen on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.78
+    },
+    {
+      "key": "gold.gpt6.ac1_qwen_exunsure",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs qwen on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.58
+    },
+    {
+      "key": "gold.gpt6.ac1_qwen_exunsure.lo",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs qwen on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.34
+    },
+    {
+      "key": "gold.gpt6.ac1_qwen_exunsure.hi",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs qwen on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.8
+    },
+    {
+      "key": "gold.gpt6.kappa_oss_exunsure",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs oss on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.73
+    },
+    {
+      "key": "gold.gpt6.kappa_oss_exunsure.lo",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs oss on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.5
+    },
+    {
+      "key": "gold.gpt6.kappa_oss_exunsure.hi",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs oss on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.91
+    },
+    {
+      "key": "gold.gpt6.ac1_oss_exunsure",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs oss on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.75
+    },
+    {
+      "key": "gold.gpt6.ac1_oss_exunsure.lo",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs oss on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.55
+    },
+    {
+      "key": "gold.gpt6.ac1_oss_exunsure.hi",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs oss on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.92
+    },
+    {
+      "key": "gold.gpt6.kappa_rule_exunsure",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs rule on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.35
+    },
+    {
+      "key": "gold.gpt6.kappa_rule_exunsure.lo",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs rule on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.08
+    },
+    {
+      "key": "gold.gpt6.kappa_rule_exunsure.hi",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs rule on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.6
+    },
+    {
+      "key": "gold.gpt6.ac1_rule_exunsure",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs rule on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.36
+    },
+    {
+      "key": "gold.gpt6.ac1_rule_exunsure.lo",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs rule on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.09
+    },
+    {
+      "key": "gold.gpt6.ac1_rule_exunsure.hi",
+      "src": "exp/gold/LLM_GPT6_AUDIT_V3_LABELS.jsonl (GPT-6/Codex labels, reviewed by an author; NOT human labels) vs rule on the 48 part-A items; item bootstrap B=5000",
+      "value": 0.62
+    },
+    {
+      "key": "gold.gpt6.n_A",
+      "src": "part A items",
+      "value": 48
+    }
+  ],
+  "note": "GPT-6 (Codex) labels reviewed by an author; extra rater only; never human labels; not counted toward the human-validation bars",
+  "pilot": false
+}

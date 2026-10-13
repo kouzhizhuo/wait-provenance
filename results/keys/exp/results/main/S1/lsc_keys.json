@@ -1,0 +1,545 @@
+{
+  "entries": [
+    {
+      "key": "h2.s1.step0100.apd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.apd (encoder = series base model; B=1000).est",
+      "value": 0.33
+    },
+    {
+      "key": "h2.s1.step0100.apd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.apd (encoder = series base model; B=1000).lo",
+      "value": 0.325
+    },
+    {
+      "key": "h2.s1.step0100.apd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.apd (encoder = series base model; B=1000).hi",
+      "value": 0.335
+    },
+    {
+      "key": "h2.s1.early.apd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.apd (encoder = series base model; B=1000).est",
+      "value": 0.33
+    },
+    {
+      "key": "h2.s1.early.apd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.apd (encoder = series base model; B=1000).lo",
+      "value": 0.325
+    },
+    {
+      "key": "h2.s1.early.apd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.apd (encoder = series base model; B=1000).hi",
+      "value": 0.335
+    },
+    {
+      "key": "h2.s1.step0100.prt_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.prt (encoder = series base model; B=1000).est",
+      "value": 0.001
+    },
+    {
+      "key": "h2.s1.step0100.prt_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.prt (encoder = series base model; B=1000).lo",
+      "value": 0.001
+    },
+    {
+      "key": "h2.s1.step0100.prt_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.prt (encoder = series base model; B=1000).hi",
+      "value": 0.003
+    },
+    {
+      "key": "h2.s1.early.prt_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.prt (encoder = series base model; B=1000).est",
+      "value": 0.001
+    },
+    {
+      "key": "h2.s1.early.prt_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.prt (encoder = series base model; B=1000).lo",
+      "value": 0.001
+    },
+    {
+      "key": "h2.s1.early.prt_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.prt (encoder = series base model; B=1000).hi",
+      "value": 0.003
+    },
+    {
+      "key": "h2.s1.step0100.jsd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.jsd (encoder = series base model; B=1000).est",
+      "value": 0.0
+    },
+    {
+      "key": "h2.s1.step0100.jsd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.jsd (encoder = series base model; B=1000).lo",
+      "value": 0.0
+    },
+    {
+      "key": "h2.s1.step0100.jsd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.jsd (encoder = series base model; B=1000).hi",
+      "value": 0.004
+    },
+    {
+      "key": "h2.s1.early.jsd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.jsd (encoder = series base model; B=1000).est",
+      "value": 0.0
+    },
+    {
+      "key": "h2.s1.early.jsd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.jsd (encoder = series base model; B=1000).lo",
+      "value": 0.0
+    },
+    {
+      "key": "h2.s1.early.jsd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.100.jsd (encoder = series base model; B=1000).hi",
+      "value": 0.004
+    },
+    {
+      "key": "h2.s1.step0200.apd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.200.apd (encoder = series base model; B=1000).est",
+      "value": 0.331
+    },
+    {
+      "key": "h2.s1.step0200.apd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.200.apd (encoder = series base model; B=1000).lo",
+      "value": 0.326
+    },
+    {
+      "key": "h2.s1.step0200.apd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.200.apd (encoder = series base model; B=1000).hi",
+      "value": 0.336
+    },
+    {
+      "key": "h2.s1.step0200.prt_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.200.prt (encoder = series base model; B=1000).est",
+      "value": 0.001
+    },
+    {
+      "key": "h2.s1.step0200.prt_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.200.prt (encoder = series base model; B=1000).lo",
+      "value": 0.001
+    },
+    {
+      "key": "h2.s1.step0200.prt_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.200.prt (encoder = series base model; B=1000).hi",
+      "value": 0.003
+    },
+    {
+      "key": "h2.s1.step0200.jsd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.200.jsd (encoder = series base model; B=1000).est",
+      "value": 0.0
+    },
+    {
+      "key": "h2.s1.step0200.jsd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.200.jsd (encoder = series base model; B=1000).lo",
+      "value": 0.0
+    },
+    {
+      "key": "h2.s1.step0200.jsd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.200.jsd (encoder = series base model; B=1000).hi",
+      "value": 0.005
+    },
+    {
+      "key": "h2.s1.step0400.apd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.400.apd (encoder = series base model; B=1000).est",
+      "value": 0.33
+    },
+    {
+      "key": "h2.s1.step0400.apd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.400.apd (encoder = series base model; B=1000).lo",
+      "value": 0.326
+    },
+    {
+      "key": "h2.s1.step0400.apd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.400.apd (encoder = series base model; B=1000).hi",
+      "value": 0.335
+    },
+    {
+      "key": "h2.s1.step0400.prt_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.400.prt (encoder = series base model; B=1000).est",
+      "value": 0.004
+    },
+    {
+      "key": "h2.s1.step0400.prt_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.400.prt (encoder = series base model; B=1000).lo",
+      "value": 0.003
+    },
+    {
+      "key": "h2.s1.step0400.prt_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.400.prt (encoder = series base model; B=1000).hi",
+      "value": 0.007
+    },
+    {
+      "key": "h2.s1.step0400.jsd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.400.jsd (encoder = series base model; B=1000).est",
+      "value": 0.003
+    },
+    {
+      "key": "h2.s1.step0400.jsd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.400.jsd (encoder = series base model; B=1000).lo",
+      "value": 0.0
+    },
+    {
+      "key": "h2.s1.step0400.jsd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.400.jsd (encoder = series base model; B=1000).hi",
+      "value": 0.012
+    },
+    {
+      "key": "h2.s1.step0700.apd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.apd (encoder = series base model; B=1000).est",
+      "value": 0.333
+    },
+    {
+      "key": "h2.s1.step0700.apd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.apd (encoder = series base model; B=1000).lo",
+      "value": 0.328
+    },
+    {
+      "key": "h2.s1.step0700.apd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.apd (encoder = series base model; B=1000).hi",
+      "value": 0.337
+    },
+    {
+      "key": "h2.s1.mid.apd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.apd (encoder = series base model; B=1000).est",
+      "value": 0.333
+    },
+    {
+      "key": "h2.s1.mid.apd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.apd (encoder = series base model; B=1000).lo",
+      "value": 0.328
+    },
+    {
+      "key": "h2.s1.mid.apd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.apd (encoder = series base model; B=1000).hi",
+      "value": 0.337
+    },
+    {
+      "key": "h2.s1.step0700.prt_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.prt (encoder = series base model; B=1000).est",
+      "value": 0.005
+    },
+    {
+      "key": "h2.s1.step0700.prt_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.prt (encoder = series base model; B=1000).lo",
+      "value": 0.004
+    },
+    {
+      "key": "h2.s1.step0700.prt_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.prt (encoder = series base model; B=1000).hi",
+      "value": 0.009
+    },
+    {
+      "key": "h2.s1.mid.prt_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.prt (encoder = series base model; B=1000).est",
+      "value": 0.005
+    },
+    {
+      "key": "h2.s1.mid.prt_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.prt (encoder = series base model; B=1000).lo",
+      "value": 0.004
+    },
+    {
+      "key": "h2.s1.mid.prt_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.prt (encoder = series base model; B=1000).hi",
+      "value": 0.009
+    },
+    {
+      "key": "h2.s1.step0700.jsd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.jsd (encoder = series base model; B=1000).est",
+      "value": 0.007
+    },
+    {
+      "key": "h2.s1.step0700.jsd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.jsd (encoder = series base model; B=1000).lo",
+      "value": 0.001
+    },
+    {
+      "key": "h2.s1.step0700.jsd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.jsd (encoder = series base model; B=1000).hi",
+      "value": 0.02
+    },
+    {
+      "key": "h2.s1.mid.jsd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.jsd (encoder = series base model; B=1000).est",
+      "value": 0.007
+    },
+    {
+      "key": "h2.s1.mid.jsd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.jsd (encoder = series base model; B=1000).lo",
+      "value": 0.001
+    },
+    {
+      "key": "h2.s1.mid.jsd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.700.jsd (encoder = series base model; B=1000).hi",
+      "value": 0.02
+    },
+    {
+      "key": "h2.s1.step1000.apd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1000.apd (encoder = series base model; B=1000).est",
+      "value": 0.335
+    },
+    {
+      "key": "h2.s1.step1000.apd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1000.apd (encoder = series base model; B=1000).lo",
+      "value": 0.33
+    },
+    {
+      "key": "h2.s1.step1000.apd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1000.apd (encoder = series base model; B=1000).hi",
+      "value": 0.34
+    },
+    {
+      "key": "h2.s1.step1000.prt_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1000.prt (encoder = series base model; B=1000).est",
+      "value": 0.011
+    },
+    {
+      "key": "h2.s1.step1000.prt_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1000.prt (encoder = series base model; B=1000).lo",
+      "value": 0.009
+    },
+    {
+      "key": "h2.s1.step1000.prt_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1000.prt (encoder = series base model; B=1000).hi",
+      "value": 0.017
+    },
+    {
+      "key": "h2.s1.step1000.jsd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1000.jsd (encoder = series base model; B=1000).est",
+      "value": 0.016
+    },
+    {
+      "key": "h2.s1.step1000.jsd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1000.jsd (encoder = series base model; B=1000).lo",
+      "value": 0.005
+    },
+    {
+      "key": "h2.s1.step1000.jsd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1000.jsd (encoder = series base model; B=1000).hi",
+      "value": 0.032
+    },
+    {
+      "key": "h2.s1.step1400.apd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1400.apd (encoder = series base model; B=1000).est",
+      "value": 0.344
+    },
+    {
+      "key": "h2.s1.step1400.apd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1400.apd (encoder = series base model; B=1000).lo",
+      "value": 0.338
+    },
+    {
+      "key": "h2.s1.step1400.apd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1400.apd (encoder = series base model; B=1000).hi",
+      "value": 0.349
+    },
+    {
+      "key": "h2.s1.step1400.prt_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1400.prt (encoder = series base model; B=1000).est",
+      "value": 0.027
+    },
+    {
+      "key": "h2.s1.step1400.prt_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1400.prt (encoder = series base model; B=1000).lo",
+      "value": 0.022
+    },
+    {
+      "key": "h2.s1.step1400.prt_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1400.prt (encoder = series base model; B=1000).hi",
+      "value": 0.034
+    },
+    {
+      "key": "h2.s1.step1400.jsd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1400.jsd (encoder = series base model; B=1000).est",
+      "value": 0.036
+    },
+    {
+      "key": "h2.s1.step1400.jsd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1400.jsd (encoder = series base model; B=1000).lo",
+      "value": 0.018
+    },
+    {
+      "key": "h2.s1.step1400.jsd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1400.jsd (encoder = series base model; B=1000).hi",
+      "value": 0.059
+    },
+    {
+      "key": "h2.s1.step1900.apd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.apd (encoder = series base model; B=1000).est",
+      "value": 0.384
+    },
+    {
+      "key": "h2.s1.step1900.apd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.apd (encoder = series base model; B=1000).lo",
+      "value": 0.378
+    },
+    {
+      "key": "h2.s1.step1900.apd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.apd (encoder = series base model; B=1000).hi",
+      "value": 0.391
+    },
+    {
+      "key": "h2.s1.late.apd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.apd (encoder = series base model; B=1000).est",
+      "value": 0.384
+    },
+    {
+      "key": "h2.s1.late.apd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.apd (encoder = series base model; B=1000).lo",
+      "value": 0.378
+    },
+    {
+      "key": "h2.s1.late.apd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.apd (encoder = series base model; B=1000).hi",
+      "value": 0.391
+    },
+    {
+      "key": "h2.s1.step1900.prt_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.prt (encoder = series base model; B=1000).est",
+      "value": 0.057
+    },
+    {
+      "key": "h2.s1.step1900.prt_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.prt (encoder = series base model; B=1000).lo",
+      "value": 0.051
+    },
+    {
+      "key": "h2.s1.step1900.prt_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.prt (encoder = series base model; B=1000).hi",
+      "value": 0.067
+    },
+    {
+      "key": "h2.s1.late.prt_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.prt (encoder = series base model; B=1000).est",
+      "value": 0.057
+    },
+    {
+      "key": "h2.s1.late.prt_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.prt (encoder = series base model; B=1000).lo",
+      "value": 0.051
+    },
+    {
+      "key": "h2.s1.late.prt_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.prt (encoder = series base model; B=1000).hi",
+      "value": 0.067
+    },
+    {
+      "key": "h2.s1.step1900.jsd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.jsd (encoder = series base model; B=1000).est",
+      "value": 0.085
+    },
+    {
+      "key": "h2.s1.step1900.jsd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.jsd (encoder = series base model; B=1000).lo",
+      "value": 0.058
+    },
+    {
+      "key": "h2.s1.step1900.jsd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.jsd (encoder = series base model; B=1000).hi",
+      "value": 0.119
+    },
+    {
+      "key": "h2.s1.late.jsd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.jsd (encoder = series base model; B=1000).est",
+      "value": 0.085
+    },
+    {
+      "key": "h2.s1.late.jsd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.jsd (encoder = series base model; B=1000).lo",
+      "value": 0.058
+    },
+    {
+      "key": "h2.s1.late.jsd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.1900.jsd (encoder = series base model; B=1000).hi",
+      "value": 0.119
+    },
+    {
+      "key": "h2.s1.final.apd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.final.apd (encoder = series base model; B=1000).est",
+      "value": 0.382
+    },
+    {
+      "key": "h2.s1.final.apd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.final.apd (encoder = series base model; B=1000).lo",
+      "value": 0.374
+    },
+    {
+      "key": "h2.s1.final.apd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.final.apd (encoder = series base model; B=1000).hi",
+      "value": 0.39
+    },
+    {
+      "key": "h2.s1.final.prt_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.final.prt (encoder = series base model; B=1000).est",
+      "value": 0.044
+    },
+    {
+      "key": "h2.s1.final.prt_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.final.prt (encoder = series base model; B=1000).lo",
+      "value": 0.037
+    },
+    {
+      "key": "h2.s1.final.prt_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.final.prt (encoder = series base model; B=1000).hi",
+      "value": 0.053
+    },
+    {
+      "key": "h2.s1.final.jsd_base",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.final.jsd (encoder = series base model; B=1000).est",
+      "value": 0.05
+    },
+    {
+      "key": "h2.s1.final.jsd_base.lo",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.final.jsd (encoder = series base model; B=1000).lo",
+      "value": 0.029
+    },
+    {
+      "key": "h2.s1.final.jsd_base.hi",
+      "src": "exp/results/main/S1/lsc.json::checkpoints.final.jsd (encoder = series base model; B=1000).hi",
+      "value": 0.076
+    },
+    {
+      "key": "h2.s1.base.apd_floor",
+      "src": "exp/results/main/S1/lsc.json: split-half of the base occurrences (mean of 50 random splits)",
+      "value": 0.334
+    },
+    {
+      "key": "h2.s1.base.prt_floor",
+      "src": "exp/results/main/S1/lsc.json: split-half of the base occurrences (mean of 50 random splits)",
+      "value": 0.002
+    },
+    {
+      "key": "h2.s1.base.jsd_floor",
+      "src": "exp/results/main/S1/lsc.json: split-half of the base occurrences (mean of 50 random splits)",
+      "value": 0.002
+    },
+    {
+      "key": "h2.s1.trend.rho_apd_base",
+      "src": "exp/results/main/S1/lsc.json: Spearman(step, apd vs base) over 7 checkpoints",
+      "value": 0.96
+    },
+    {
+      "key": "h2.s1.trend.rho_prt_base",
+      "src": "exp/results/main/S1/lsc.json: Spearman(step, prt vs base) over 7 checkpoints",
+      "value": 0.96
+    },
+    {
+      "key": "h2.s1.trend.rho_jsd_base",
+      "src": "exp/results/main/S1/lsc.json: Spearman(step, jsd vs base) over 7 checkpoints",
+      "value": 1.0
+    },
+    {
+      "key": "h2.s1.trend.layer_share_last",
+      "src": "exp/results/main/S1/lsc.json: share of occurrences in the fastest-growing cluster at the last checkpoint",
+      "value": 78.5
+    },
+    {
+      "key": "h2.s1.trend.layer_share_base",
+      "src": "exp/results/main/S1/lsc.json: same at the base",
+      "value": 53.8
+    },
+    {
+      "key": "h2.s1.trend.layer_lex",
+      "src": "exp/results/main/S1/lsc.json: lexical ('wait for') share inside that cluster",
+      "value": 0.0
+    }
+  ],
+  "pilot": false
+}

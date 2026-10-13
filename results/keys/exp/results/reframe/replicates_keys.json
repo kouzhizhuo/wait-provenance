@@ -1,0 +1,6819 @@
+{
+  "entries": [
+    {
+      "key": "h1.s1seed1.base.freq",
+      "src": "<LOCAL>
+      "value": 5.1
+    },
+    {
+      "key": "h1.s1seed1.base.freq.lo",
+      "src": "<LOCAL>
+      "value": 4.8
+    },
+    {
+      "key": "h1.s1seed1.base.freq.hi",
+      "src": "<LOCAL>
+      "value": 5.4
+    },
+    {
+      "key": "h1.s1seed1.base.freq100",
+      "src": "<LOCAL>
+      "value": 9.4
+    },
+    {
+      "key": "h1.s1seed1.base.freq100.lo",
+      "src": "<LOCAL>
+      "value": 8.8
+    },
+    {
+      "key": "h1.s1seed1.base.freq100.hi",
+      "src": "<LOCAL>
+      "value": 9.9
+    },
+    {
+      "key": "h1.s1seed1.base.fdisc",
+      "src": "<LOCAL>
+      "value": 11.4
+    },
+    {
+      "key": "h1.s1seed1.base.fdisc.lo",
+      "src": "<LOCAL>
+      "value": 10.8
+    },
+    {
+      "key": "h1.s1seed1.base.fdisc.hi",
+      "src": "<LOCAL>
+      "value": 11.9
+    },
+    {
+      "key": "h1.s1seed1.base.si",
+      "src": "<LOCAL>
+      "value": 89.3
+    },
+    {
+      "key": "h1.s1seed1.base.si.lo",
+      "src": "<LOCAL>
+      "value": 88.2
+    },
+    {
+      "key": "h1.s1seed1.base.si.hi",
+      "src": "<LOCAL>
+      "value": 90.2
+    },
+    {
+      "key": "h1.s1seed1.base.si.n",
+      "src": "<LOCAL>
+      "value": 11554
+    },
+    {
+      "key": "h1.s1seed1.base.siconn",
+      "src": "<LOCAL>
+      "value": 95.0
+    },
+    {
+      "key": "h1.s1seed1.base.siconn.lo",
+      "src": "<LOCAL>
+      "value": 94.5
+    },
+    {
+      "key": "h1.s1seed1.base.siconn.hi",
+      "src": "<LOCAL>
+      "value": 95.6
+    },
+    {
+      "key": "h1.s1seed1.base.siconn.n",
+      "src": "<LOCAL>
+      "value": 11554
+    },
+    {
+      "key": "h1.s1seed1.base.pi",
+      "src": "<LOCAL>
+      "value": 33.4
+    },
+    {
+      "key": "h1.s1seed1.base.pi.lo",
+      "src": "<LOCAL>
+      "value": 31.7
+    },
+    {
+      "key": "h1.s1seed1.base.pi.hi",
+      "src": "<LOCAL>
+      "value": 35.3
+    },
+    {
+      "key": "h1.s1seed1.base.orth",
+      "src": "<LOCAL>
+      "value": 88.6
+    },
+    {
+      "key": "h1.s1seed1.base.orth.lo",
+      "src": "<LOCAL>
+      "value": 87.5
+    },
+    {
+      "key": "h1.s1seed1.base.orth.hi",
+      "src": "<LOCAL>
+      "value": 89.5
+    },
+    {
+      "key": "h1.s1seed1.base.orth.n",
+      "src": "<LOCAL>
+      "value": 11554
+    },
+    {
+      "key": "h1.s1seed1.base.orthmax",
+      "src": "<LOCAL>
+      "value": 88.6
+    },
+    {
+      "key": "h1.s1seed1.base.orthmax.lo",
+      "src": "<LOCAL>
+      "value": 87.5
+    },
+    {
+      "key": "h1.s1seed1.base.orthmax.hi",
+      "src": "<LOCAL>
+      "value": 89.5
+    },
+    {
+      "key": "h1.s1seed1.base.orthmax.n",
+      "src": "<LOCAL>
+      "value": 11554
+    },
+    {
+      "key": "h1.s1seed1.base.commadrop",
+      "src": "<LOCAL>
+      "value": 2.7
+    },
+    {
+      "key": "h1.s1seed1.base.commadrop.lo",
+      "src": "<LOCAL>
+      "value": 2.4
+    },
+    {
+      "key": "h1.s1seed1.base.commadrop.hi",
+      "src": "<LOCAL>
+      "value": 3.1
+    },
+    {
+      "key": "h1.s1seed1.base.commadrop.n",
+      "src": "<LOCAL>
+      "value": 11554
+    },
+    {
+      "key": "h1.s1seed1.base.chain",
+      "src": "<LOCAL>
+      "value": 123.9
+    },
+    {
+      "key": "h1.s1seed1.base.chain.lo",
+      "src": "<LOCAL>
+      "value": 117.1
+    },
+    {
+      "key": "h1.s1seed1.base.chain.hi",
+      "src": "<LOCAL>
+      "value": 130.8
+    },
+    {
+      "key": "h1.s1seed1.base.chainshare",
+      "src": "<LOCAL>
+      "value": 15.4
+    },
+    {
+      "key": "h1.s1seed1.base.chainshare.lo",
+      "src": "<LOCAL>
+      "value": 14.4
+    },
+    {
+      "key": "h1.s1seed1.base.chainshare.hi",
+      "src": "<LOCAL>
+      "value": 16.5
+    },
+    {
+      "key": "h1.s1seed1.base.neff",
+      "src": "<LOCAL>
+      "value": 6.11
+    },
+    {
+      "key": "h1.s1seed1.base.neff.lo",
+      "src": "<LOCAL>
+      "value": 5.68
+    },
+    {
+      "key": "h1.s1seed1.base.neff.hi",
+      "src": "<LOCAL>
+      "value": 6.47
+    },
+    {
+      "key": "h1.s1seed1.base.sharewait",
+      "src": "<LOCAL>
+      "value": 32.5
+    },
+    {
+      "key": "h1.s1seed1.base.sharewait.lo",
+      "src": "<LOCAL>
+      "value": 30.0
+    },
+    {
+      "key": "h1.s1seed1.base.sharewait.hi",
+      "src": "<LOCAL>
+      "value": 35.1
+    },
+    {
+      "key": "h1.s1seed1.base.obl",
+      "src": "<LOCAL>
+      "value": 56.6
+    },
+    {
+      "key": "h1.s1seed1.base.obl.lo",
+      "src": "<LOCAL>
+      "value": 53.0
+    },
+    {
+      "key": "h1.s1seed1.base.obl.hi",
+      "src": "<LOCAL>
+      "value": 59.8
+    },
+    {
+      "key": "h1.s1seed1.base.obl.n",
+      "src": "<LOCAL>
+      "value": 3139
+    },
+    {
+      "key": "h1.s1seed1.base.rel",
+      "src": "<LOCAL>
+      "value": 11.2
+    },
+    {
+      "key": "h1.s1seed1.base.rel.lo",
+      "src": "<LOCAL>
+      "value": 9.9
+    },
+    {
+      "key": "h1.s1seed1.base.rel.hi",
+      "src": "<LOCAL>
+      "value": 12.4
+    },
+    {
+      "key": "h1.s1seed1.base.rel.n",
+      "src": "<LOCAL>
+      "value": 24091
+    },
+    {
+      "key": "h1.s1seed1.base.eros",
+      "src": "<LOCAL>
+      "value": 26.1
+    },
+    {
+      "key": "h1.s1seed1.base.eros.lo",
+      "src": "<LOCAL>
+      "value": 21.7
+    },
+    {
+      "key": "h1.s1seed1.base.eros.hi",
+      "src": "<LOCAL>
+      "value": 31.5
+    },
+    {
+      "key": "h1.s1seed1.base.sentlen",
+      "src": "<LOCAL>
+      "value": 11.6
+    },
+    {
+      "key": "h1.s1seed1.base.sentlen.lo",
+      "src": "<LOCAL>
+      "value": 11.4
+    },
+    {
+      "key": "h1.s1seed1.base.sentlen.hi",
+      "src": "<LOCAL>
+      "value": 11.9
+    },
+    {
+      "key": "h1.s1seed1.base.ctx",
+      "src": "<LOCAL>
+      "value": 1.15
+    },
+    {
+      "key": "h1.s1seed1.base.ctx.lo",
+      "src": "<LOCAL>
+      "value": 1.13
+    },
+    {
+      "key": "h1.s1seed1.base.ctx.hi",
+      "src": "<LOCAL>
+      "value": 1.17
+    },
+    {
+      "key": "h1.s1seed1.base.lex",
+      "src": "<LOCAL>
+      "value": 0.6
+    },
+    {
+      "key": "h1.s1seed1.base.lex.lo",
+      "src": "<LOCAL>
+      "value": 0.5
+    },
+    {
+      "key": "h1.s1seed1.base.lex.hi",
+      "src": "<LOCAL>
+      "value": 0.8
+    },
+    {
+      "key": "h1.s1seed1.base.revrate",
+      "src": "<LOCAL>
+      "value": 2.55
+    },
+    {
+      "key": "h1.s1seed1.base.revrate.lo",
+      "src": "<LOCAL>
+      "value": 2.29
+    },
+    {
+      "key": "h1.s1seed1.base.revrate.hi",
+      "src": "<LOCAL>
+      "value": 2.8
+    },
+    {
+      "key": "h1.s1seed1.base.toks",
+      "src": "<LOCAL>
+      "value": 2260
+    },
+    {
+      "key": "h1.s1seed1.base.toks.lo",
+      "src": "<LOCAL>
+      "value": 2069
+    },
+    {
+      "key": "h1.s1seed1.base.toks.hi",
+      "src": "<LOCAL>
+      "value": 2455
+    },
+    {
+      "key": "n.s1seed1.base.resp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "ctl.s1seed1.base.acc",
+      "src": "<LOCAL>
+      "value": 51.1
+    },
+    {
+      "key": "ctl.s1seed1.base.trunc",
+      "src": "<LOCAL>
+      "value": 10.6
+    },
+    {
+      "key": "h1.s1seed1.final.freq",
+      "src": "<LOCAL>
+      "value": 15.4
+    },
+    {
+      "key": "h1.s1seed1.final.freq.lo",
+      "src": "<LOCAL>
+      "value": 12.2
+    },
+    {
+      "key": "h1.s1seed1.final.freq.hi",
+      "src": "<LOCAL>
+      "value": 19.4
+    },
+    {
+      "key": "h1.s1seed1.final.freq100",
+      "src": "<LOCAL>
+      "value": 18.8
+    },
+    {
+      "key": "h1.s1seed1.final.freq100.lo",
+      "src": "<LOCAL>
+      "value": 15.3
+    },
+    {
+      "key": "h1.s1seed1.final.freq100.hi",
+      "src": "<LOCAL>
+      "value": 22.7
+    },
+    {
+      "key": "h1.s1seed1.final.fdisc",
+      "src": "<LOCAL>
+      "value": 22.6
+    },
+    {
+      "key": "h1.s1seed1.final.fdisc.lo",
+      "src": "<LOCAL>
+      "value": 19.4
+    },
+    {
+      "key": "h1.s1seed1.final.fdisc.hi",
+      "src": "<LOCAL>
+      "value": 26.7
+    },
+    {
+      "key": "h1.s1seed1.final.si",
+      "src": "<LOCAL>
+      "value": 91.5
+    },
+    {
+      "key": "h1.s1seed1.final.si.lo",
+      "src": "<LOCAL>
+      "value": 89.1
+    },
+    {
+      "key": "h1.s1seed1.final.si.hi",
+      "src": "<LOCAL>
+      "value": 93.3
+    },
+    {
+      "key": "h1.s1seed1.final.si.n",
+      "src": "<LOCAL>
+      "value": 61980
+    },
+    {
+      "key": "h1.s1seed1.final.siconn",
+      "src": "<LOCAL>
+      "value": 95.2
+    },
+    {
+      "key": "h1.s1seed1.final.siconn.lo",
+      "src": "<LOCAL>
+      "value": 93.8
+    },
+    {
+      "key": "h1.s1seed1.final.siconn.hi",
+      "src": "<LOCAL>
+      "value": 96.2
+    },
+    {
+      "key": "h1.s1seed1.final.siconn.n",
+      "src": "<LOCAL>
+      "value": 61980
+    },
+    {
+      "key": "h1.s1seed1.final.pi",
+      "src": "<LOCAL>
+      "value": 27.9
+    },
+    {
+      "key": "h1.s1seed1.final.pi.lo",
+      "src": "<LOCAL>
+      "value": 22.0
+    },
+    {
+      "key": "h1.s1seed1.final.pi.hi",
+      "src": "<LOCAL>
+      "value": 35.8
+    },
+    {
+      "key": "h1.s1seed1.final.orth",
+      "src": "<LOCAL>
+      "value": 30.5
+    },
+    {
+      "key": "h1.s1seed1.final.orth.lo",
+      "src": "<LOCAL>
+      "value": 24.0
+    },
+    {
+      "key": "h1.s1seed1.final.orth.hi",
+      "src": "<LOCAL>
+      "value": 38.9
+    },
+    {
+      "key": "h1.s1seed1.final.orth.n",
+      "src": "<LOCAL>
+      "value": 61980
+    },
+    {
+      "key": "h1.s1seed1.final.orthmax",
+      "src": "<LOCAL>
+      "value": 32.4
+    },
+    {
+      "key": "h1.s1seed1.final.orthmax.lo",
+      "src": "<LOCAL>
+      "value": 31.2
+    },
+    {
+      "key": "h1.s1seed1.final.orthmax.hi",
+      "src": "<LOCAL>
+      "value": 46.5
+    },
+    {
+      "key": "h1.s1seed1.final.orthmax.n",
+      "src": "<LOCAL>
+      "value": 61980
+    },
+    {
+      "key": "h1.s1seed1.final.commadrop",
+      "src": "<LOCAL>
+      "value": 65.6
+    },
+    {
+      "key": "h1.s1seed1.final.commadrop.lo",
+      "src": "<LOCAL>
+      "value": 56.1
+    },
+    {
+      "key": "h1.s1seed1.final.commadrop.hi",
+      "src": "<LOCAL>
+      "value": 72.8
+    },
+    {
+      "key": "h1.s1seed1.final.commadrop.n",
+      "src": "<LOCAL>
+      "value": 61980
+    },
+    {
+      "key": "h1.s1seed1.final.chain",
+      "src": "<LOCAL>
+      "value": 165.0
+    },
+    {
+      "key": "h1.s1seed1.final.chain.lo",
+      "src": "<LOCAL>
+      "value": 130.0
+    },
+    {
+      "key": "h1.s1seed1.final.chain.hi",
+      "src": "<LOCAL>
+      "value": 209.4
+    },
+    {
+      "key": "h1.s1seed1.final.chainshare",
+      "src": "<LOCAL>
+      "value": 57.8
+    },
+    {
+      "key": "h1.s1seed1.final.chainshare.lo",
+      "src": "<LOCAL>
+      "value": 46.4
+    },
+    {
+      "key": "h1.s1seed1.final.chainshare.hi",
+      "src": "<LOCAL>
+      "value": 66.7
+    },
+    {
+      "key": "h1.s1seed1.final.neff",
+      "src": "<LOCAL>
+      "value": 5.69
+    },
+    {
+      "key": "h1.s1seed1.final.neff.lo",
+      "src": "<LOCAL>
+      "value": 5.48
+    },
+    {
+      "key": "h1.s1seed1.final.neff.hi",
+      "src": "<LOCAL>
+      "value": 5.89
+    },
+    {
+      "key": "h1.s1seed1.final.sharewait",
+      "src": "<LOCAL>
+      "value": 36.4
+    },
+    {
+      "key": "h1.s1seed1.final.sharewait.lo",
+      "src": "<LOCAL>
+      "value": 34.5
+    },
+    {
+      "key": "h1.s1seed1.final.sharewait.hi",
+      "src": "<LOCAL>
+      "value": 38.5
+    },
+    {
+      "key": "h1.s1seed1.final.obl",
+      "src": "<LOCAL>
+      "value": 44.1
+    },
+    {
+      "key": "h1.s1seed1.final.obl.lo",
+      "src": "<LOCAL>
+      "value": 40.9
+    },
+    {
+      "key": "h1.s1seed1.final.obl.hi",
+      "src": "<LOCAL>
+      "value": 47.3
+    },
+    {
+      "key": "h1.s1seed1.final.obl.n",
+      "src": "<LOCAL>
+      "value": 3314
+    },
+    {
+      "key": "h1.s1seed1.final.rel",
+      "src": "<LOCAL>
+      "value": 3.0
+    },
+    {
+      "key": "h1.s1seed1.final.rel.lo",
+      "src": "<LOCAL>
+      "value": 2.5
+    },
+    {
+      "key": "h1.s1seed1.final.rel.hi",
+      "src": "<LOCAL>
+      "value": 3.7
+    },
+    {
+      "key": "h1.s1seed1.final.rel.n",
+      "src": "<LOCAL>
+      "value": 83793
+    },
+    {
+      "key": "h1.s1seed1.final.eros",
+      "src": "<LOCAL>
+      "value": 129.5
+    },
+    {
+      "key": "h1.s1seed1.final.eros.lo",
+      "src": "<LOCAL>
+      "value": 29.0
+    },
+    {
+      "key": "h1.s1seed1.final.eros.hi",
+      "src": "<LOCAL>
+      "value": 307.1
+    },
+    {
+      "key": "h1.s1seed1.final.sentlen",
+      "src": "<LOCAL>
+      "value": 4.9
+    },
+    {
+      "key": "h1.s1seed1.final.sentlen.lo",
+      "src": "<LOCAL>
+      "value": 4.0
+    },
+    {
+      "key": "h1.s1seed1.final.sentlen.hi",
+      "src": "<LOCAL>
+      "value": 6.0
+    },
+    {
+      "key": "h1.s1seed1.final.ctx",
+      "src": "<LOCAL>
+      "value": 2.13
+    },
+    {
+      "key": "h1.s1seed1.final.ctx.lo",
+      "src": "<LOCAL>
+      "value": 1.89
+    },
+    {
+      "key": "h1.s1seed1.final.ctx.hi",
+      "src": "<LOCAL>
+      "value": 2.47
+    },
+    {
+      "key": "h1.s1seed1.final.lex",
+      "src": "<LOCAL>
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1seed1.final.lex.lo",
+      "src": "<LOCAL>
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1seed1.final.lex.hi",
+      "src": "<LOCAL>
+      "value": 0.2
+    },
+    {
+      "key": "h1.s1seed1.final.revrate",
+      "src": "<LOCAL>
+      "value": 1.01
+    },
+    {
+      "key": "h1.s1seed1.final.revrate.lo",
+      "src": "<LOCAL>
+      "value": 0.91
+    },
+    {
+      "key": "h1.s1seed1.final.revrate.hi",
+      "src": "<LOCAL>
+      "value": 1.11
+    },
+    {
+      "key": "h1.s1seed1.final.toks",
+      "src": "<LOCAL>
+      "value": 4023
+    },
+    {
+      "key": "h1.s1seed1.final.toks.lo",
+      "src": "<LOCAL>
+      "value": 3832
+    },
+    {
+      "key": "h1.s1seed1.final.toks.hi",
+      "src": "<LOCAL>
+      "value": 4221
+    },
+    {
+      "key": "n.s1seed1.final.resp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "ctl.s1seed1.final.acc",
+      "src": "<LOCAL>
+      "value": 83.8
+    },
+    {
+      "key": "ctl.s1seed1.final.trunc",
+      "src": "<LOCAL>
+      "value": 14.5
+    },
+    {
+      "key": "n.s1seed1.ckpts",
+      "src": "<LOCAL>
+      "value": 2
+    },
+    {
+      "key": "h1.s1seed2.base.freq",
+      "src": "<LOCAL>
+      "value": 5.0
+    },
+    {
+      "key": "h1.s1seed2.base.freq.lo",
+      "src": "<LOCAL>
+      "value": 4.7
+    },
+    {
+      "key": "h1.s1seed2.base.freq.hi",
+      "src": "<LOCAL>
+      "value": 5.3
+    },
+    {
+      "key": "h1.s1seed2.base.freq100",
+      "src": "<LOCAL>
+      "value": 9.3
+    },
+    {
+      "key": "h1.s1seed2.base.freq100.lo",
+      "src": "<LOCAL>
+      "value": 8.8
+    },
+    {
+      "key": "h1.s1seed2.base.freq100.hi",
+      "src": "<LOCAL>
+      "value": 9.9
+    },
+    {
+      "key": "h1.s1seed2.base.fdisc",
+      "src": "<LOCAL>
+      "value": 11.2
+    },
+    {
+      "key": "h1.s1seed2.base.fdisc.lo",
+      "src": "<LOCAL>
+      "value": 10.7
+    },
+    {
+      "key": "h1.s1seed2.base.fdisc.hi",
+      "src": "<LOCAL>
+      "value": 11.8
+    },
+    {
+      "key": "h1.s1seed2.base.si",
+      "src": "<LOCAL>
+      "value": 89.6
+    },
+    {
+      "key": "h1.s1seed2.base.si.lo",
+      "src": "<LOCAL>
+      "value": 88.6
+    },
+    {
+      "key": "h1.s1seed2.base.si.hi",
+      "src": "<LOCAL>
+      "value": 90.6
+    },
+    {
+      "key": "h1.s1seed2.base.si.n",
+      "src": "<LOCAL>
+      "value": 11387
+    },
+    {
+      "key": "h1.s1seed2.base.siconn",
+      "src": "<LOCAL>
+      "value": 95.3
+    },
+    {
+      "key": "h1.s1seed2.base.siconn.lo",
+      "src": "<LOCAL>
+      "value": 94.8
+    },
+    {
+      "key": "h1.s1seed2.base.siconn.hi",
+      "src": "<LOCAL>
+      "value": 95.8
+    },
+    {
+      "key": "h1.s1seed2.base.siconn.n",
+      "src": "<LOCAL>
+      "value": 11387
+    },
+    {
+      "key": "h1.s1seed2.base.pi",
+      "src": "<LOCAL>
+      "value": 33.4
+    },
+    {
+      "key": "h1.s1seed2.base.pi.lo",
+      "src": "<LOCAL>
+      "value": 31.7
+    },
+    {
+      "key": "h1.s1seed2.base.pi.hi",
+      "src": "<LOCAL>
+      "value": 35.2
+    },
+    {
+      "key": "h1.s1seed2.base.orth",
+      "src": "<LOCAL>
+      "value": 88.9
+    },
+    {
+      "key": "h1.s1seed2.base.orth.lo",
+      "src": "<LOCAL>
+      "value": 87.8
+    },
+    {
+      "key": "h1.s1seed2.base.orth.hi",
+      "src": "<LOCAL>
+      "value": 89.9
+    },
+    {
+      "key": "h1.s1seed2.base.orth.n",
+      "src": "<LOCAL>
+      "value": 11387
+    },
+    {
+      "key": "h1.s1seed2.base.orthmax",
+      "src": "<LOCAL>
+      "value": 88.9
+    },
+    {
+      "key": "h1.s1seed2.base.orthmax.lo",
+      "src": "<LOCAL>
+      "value": 87.8
+    },
+    {
+      "key": "h1.s1seed2.base.orthmax.hi",
+      "src": "<LOCAL>
+      "value": 89.9
+    },
+    {
+      "key": "h1.s1seed2.base.orthmax.n",
+      "src": "<LOCAL>
+      "value": 11387
+    },
+    {
+      "key": "h1.s1seed2.base.commadrop",
+      "src": "<LOCAL>
+      "value": 2.6
+    },
+    {
+      "key": "h1.s1seed2.base.commadrop.lo",
+      "src": "<LOCAL>
+      "value": 2.2
+    },
+    {
+      "key": "h1.s1seed2.base.commadrop.hi",
+      "src": "<LOCAL>
+      "value": 3.1
+    },
+    {
+      "key": "h1.s1seed2.base.commadrop.n",
+      "src": "<LOCAL>
+      "value": 11387
+    },
+    {
+      "key": "h1.s1seed2.base.chain",
+      "src": "<LOCAL>
+      "value": 122.2
+    },
+    {
+      "key": "h1.s1seed2.base.chain.lo",
+      "src": "<LOCAL>
+      "value": 114.2
+    },
+    {
+      "key": "h1.s1seed2.base.chain.hi",
+      "src": "<LOCAL>
+      "value": 130.3
+    },
+    {
+      "key": "h1.s1seed2.base.chainshare",
+      "src": "<LOCAL>
+      "value": 15.0
+    },
+    {
+      "key": "h1.s1seed2.base.chainshare.lo",
+      "src": "<LOCAL>
+      "value": 13.9
+    },
+    {
+      "key": "h1.s1seed2.base.chainshare.hi",
+      "src": "<LOCAL>
+      "value": 16.1
+    },
+    {
+      "key": "h1.s1seed2.base.neff",
+      "src": "<LOCAL>
+      "value": 6.08
+    },
+    {
+      "key": "h1.s1seed2.base.neff.lo",
+      "src": "<LOCAL>
+      "value": 5.85
+    },
+    {
+      "key": "h1.s1seed2.base.neff.hi",
+      "src": "<LOCAL>
+      "value": 6.33
+    },
+    {
+      "key": "h1.s1seed2.base.sharewait",
+      "src": "<LOCAL>
+      "value": 31.4
+    },
+    {
+      "key": "h1.s1seed2.base.sharewait.lo",
+      "src": "<LOCAL>
+      "value": 29.2
+    },
+    {
+      "key": "h1.s1seed2.base.sharewait.hi",
+      "src": "<LOCAL>
+      "value": 33.7
+    },
+    {
+      "key": "h1.s1seed2.base.obl",
+      "src": "<LOCAL>
+      "value": 54.5
+    },
+    {
+      "key": "h1.s1seed2.base.obl.lo",
+      "src": "<LOCAL>
+      "value": 51.6
+    },
+    {
+      "key": "h1.s1seed2.base.obl.hi",
+      "src": "<LOCAL>
+      "value": 57.3
+    },
+    {
+      "key": "h1.s1seed2.base.obl.n",
+      "src": "<LOCAL>
+      "value": 2911
+    },
+    {
+      "key": "h1.s1seed2.base.rel",
+      "src": "<LOCAL>
+      "value": 10.3
+    },
+    {
+      "key": "h1.s1seed2.base.rel.lo",
+      "src": "<LOCAL>
+      "value": 9.3
+    },
+    {
+      "key": "h1.s1seed2.base.rel.hi",
+      "src": "<LOCAL>
+      "value": 11.6
+    },
+    {
+      "key": "h1.s1seed2.base.rel.n",
+      "src": "<LOCAL>
+      "value": 23942
+    },
+    {
+      "key": "h1.s1seed2.base.eros",
+      "src": "<LOCAL>
+      "value": 26.2
+    },
+    {
+      "key": "h1.s1seed2.base.eros.lo",
+      "src": "<LOCAL>
+      "value": 22.4
+    },
+    {
+      "key": "h1.s1seed2.base.eros.hi",
+      "src": "<LOCAL>
+      "value": 31.1
+    },
+    {
+      "key": "h1.s1seed2.base.sentlen",
+      "src": "<LOCAL>
+      "value": 11.7
+    },
+    {
+      "key": "h1.s1seed2.base.sentlen.lo",
+      "src": "<LOCAL>
+      "value": 11.4
+    },
+    {
+      "key": "h1.s1seed2.base.sentlen.hi",
+      "src": "<LOCAL>
+      "value": 12.0
+    },
+    {
+      "key": "h1.s1seed2.base.ctx",
+      "src": "<LOCAL>
+      "value": 1.15
+    },
+    {
+      "key": "h1.s1seed2.base.ctx.lo",
+      "src": "<LOCAL>
+      "value": 1.13
+    },
+    {
+      "key": "h1.s1seed2.base.ctx.hi",
+      "src": "<LOCAL>
+      "value": 1.17
+    },
+    {
+      "key": "h1.s1seed2.base.lex",
+      "src": "<LOCAL>
+      "value": 0.5
+    },
+    {
+      "key": "h1.s1seed2.base.lex.lo",
+      "src": "<LOCAL>
+      "value": 0.4
+    },
+    {
+      "key": "h1.s1seed2.base.lex.hi",
+      "src": "<LOCAL>
+      "value": 0.7
+    },
+    {
+      "key": "h1.s1seed2.base.revrate",
+      "src": "<LOCAL>
+      "value": 2.39
+    },
+    {
+      "key": "h1.s1seed2.base.revrate.lo",
+      "src": "<LOCAL>
+      "value": 2.13
+    },
+    {
+      "key": "h1.s1seed2.base.revrate.hi",
+      "src": "<LOCAL>
+      "value": 2.65
+    },
+    {
+      "key": "h1.s1seed2.base.toks",
+      "src": "<LOCAL>
+      "value": 2273
+    },
+    {
+      "key": "h1.s1seed2.base.toks.lo",
+      "src": "<LOCAL>
+      "value": 2090
+    },
+    {
+      "key": "h1.s1seed2.base.toks.hi",
+      "src": "<LOCAL>
+      "value": 2463
+    },
+    {
+      "key": "n.s1seed2.base.resp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "ctl.s1seed2.base.acc",
+      "src": "<LOCAL>
+      "value": 53.7
+    },
+    {
+      "key": "ctl.s1seed2.base.trunc",
+      "src": "<LOCAL>
+      "value": 9.5
+    },
+    {
+      "key": "h1.s1seed2.final.freq",
+      "src": "<LOCAL>
+      "value": 12.7
+    },
+    {
+      "key": "h1.s1seed2.final.freq.lo",
+      "src": "<LOCAL>
+      "value": 10.9
+    },
+    {
+      "key": "h1.s1seed2.final.freq.hi",
+      "src": "<LOCAL>
+      "value": 15.2
+    },
+    {
+      "key": "h1.s1seed2.final.freq100",
+      "src": "<LOCAL>
+      "value": 15.9
+    },
+    {
+      "key": "h1.s1seed2.final.freq100.lo",
+      "src": "<LOCAL>
+      "value": 13.9
+    },
+    {
+      "key": "h1.s1seed2.final.freq100.hi",
+      "src": "<LOCAL>
+      "value": 18.5
+    },
+    {
+      "key": "h1.s1seed2.final.fdisc",
+      "src": "<LOCAL>
+      "value": 20.9
+    },
+    {
+      "key": "h1.s1seed2.final.fdisc.lo",
+      "src": "<LOCAL>
+      "value": 18.6
+    },
+    {
+      "key": "h1.s1seed2.final.fdisc.hi",
+      "src": "<LOCAL>
+      "value": 23.8
+    },
+    {
+      "key": "h1.s1seed2.final.si",
+      "src": "<LOCAL>
+      "value": 89.2
+    },
+    {
+      "key": "h1.s1seed2.final.si.lo",
+      "src": "<LOCAL>
+      "value": 87.4
+    },
+    {
+      "key": "h1.s1seed2.final.si.hi",
+      "src": "<LOCAL>
+      "value": 91.0
+    },
+    {
+      "key": "h1.s1seed2.final.si.n",
+      "src": "<LOCAL>
+      "value": 51290
+    },
+    {
+      "key": "h1.s1seed2.final.siconn",
+      "src": "<LOCAL>
+      "value": 93.9
+    },
+    {
+      "key": "h1.s1seed2.final.siconn.lo",
+      "src": "<LOCAL>
+      "value": 92.8
+    },
+    {
+      "key": "h1.s1seed2.final.siconn.hi",
+      "src": "<LOCAL>
+      "value": 95.0
+    },
+    {
+      "key": "h1.s1seed2.final.siconn.n",
+      "src": "<LOCAL>
+      "value": 51290
+    },
+    {
+      "key": "h1.s1seed2.final.pi",
+      "src": "<LOCAL>
+      "value": 34.5
+    },
+    {
+      "key": "h1.s1seed2.final.pi.lo",
+      "src": "<LOCAL>
+      "value": 28.7
+    },
+    {
+      "key": "h1.s1seed2.final.pi.hi",
+      "src": "<LOCAL>
+      "value": 40.6
+    },
+    {
+      "key": "h1.s1seed2.final.orth",
+      "src": "<LOCAL>
+      "value": 37.6
+    },
+    {
+      "key": "h1.s1seed2.final.orth.lo",
+      "src": "<LOCAL>
+      "value": 31.3
+    },
+    {
+      "key": "h1.s1seed2.final.orth.hi",
+      "src": "<LOCAL>
+      "value": 43.9
+    },
+    {
+      "key": "h1.s1seed2.final.orth.n",
+      "src": "<LOCAL>
+      "value": 51290
+    },
+    {
+      "key": "h1.s1seed2.final.orthmax",
+      "src": "<LOCAL>
+      "value": 37.6
+    },
+    {
+      "key": "h1.s1seed2.final.orthmax.lo",
+      "src": "<LOCAL>
+      "value": 32.0
+    },
+    {
+      "key": "h1.s1seed2.final.orthmax.hi",
+      "src": "<LOCAL>
+      "value": 43.9
+    },
+    {
+      "key": "h1.s1seed2.final.orthmax.n",
+      "src": "<LOCAL>
+      "value": 51290
+    },
+    {
+      "key": "h1.s1seed2.final.commadrop",
+      "src": "<LOCAL>
+      "value": 57.5
+    },
+    {
+      "key": "h1.s1seed2.final.commadrop.lo",
+      "src": "<LOCAL>
+      "value": 50.4
+    },
+    {
+      "key": "h1.s1seed2.final.commadrop.hi",
+      "src": "<LOCAL>
+      "value": 64.6
+    },
+    {
+      "key": "h1.s1seed2.final.commadrop.n",
+      "src": "<LOCAL>
+      "value": 51290
+    },
+    {
+      "key": "h1.s1seed2.final.chain",
+      "src": "<LOCAL>
+      "value": 203.5
+    },
+    {
+      "key": "h1.s1seed2.final.chain.lo",
+      "src": "<LOCAL>
+      "value": 170.3
+    },
+    {
+      "key": "h1.s1seed2.final.chain.hi",
+      "src": "<LOCAL>
+      "value": 238.3
+    },
+    {
+      "key": "h1.s1seed2.final.chainshare",
+      "src": "<LOCAL>
+      "value": 48.0
+    },
+    {
+      "key": "h1.s1seed2.final.chainshare.lo",
+      "src": "<LOCAL>
+      "value": 39.2
+    },
+    {
+      "key": "h1.s1seed2.final.chainshare.hi",
+      "src": "<LOCAL>
+      "value": 56.4
+    },
+    {
+      "key": "h1.s1seed2.final.neff",
+      "src": "<LOCAL>
+      "value": 5.73
+    },
+    {
+      "key": "h1.s1seed2.final.neff.lo",
+      "src": "<LOCAL>
+      "value": 5.53
+    },
+    {
+      "key": "h1.s1seed2.final.neff.hi",
+      "src": "<LOCAL>
+      "value": 5.9
+    },
+    {
+      "key": "h1.s1seed2.final.sharewait",
+      "src": "<LOCAL>
+      "value": 36.9
+    },
+    {
+      "key": "h1.s1seed2.final.sharewait.lo",
+      "src": "<LOCAL>
+      "value": 34.9
+    },
+    {
+      "key": "h1.s1seed2.final.sharewait.hi",
+      "src": "<LOCAL>
+      "value": 38.9
+    },
+    {
+      "key": "h1.s1seed2.final.obl",
+      "src": "<LOCAL>
+      "value": 44.8
+    },
+    {
+      "key": "h1.s1seed2.final.obl.lo",
+      "src": "<LOCAL>
+      "value": 42.1
+    },
+    {
+      "key": "h1.s1seed2.final.obl.hi",
+      "src": "<LOCAL>
+      "value": 47.7
+    },
+    {
+      "key": "h1.s1seed2.final.obl.n",
+      "src": "<LOCAL>
+      "value": 3352
+    },
+    {
+      "key": "h1.s1seed2.final.rel",
+      "src": "<LOCAL>
+      "value": 3.4
+    },
+    {
+      "key": "h1.s1seed2.final.rel.lo",
+      "src": "<LOCAL>
+      "value": 2.8
+    },
+    {
+      "key": "h1.s1seed2.final.rel.hi",
+      "src": "<LOCAL>
+      "value": 4.0
+    },
+    {
+      "key": "h1.s1seed2.final.rel.n",
+      "src": "<LOCAL>
+      "value": 76381
+    },
+    {
+      "key": "h1.s1seed2.final.eros",
+      "src": "<LOCAL>
+      "value": 195.0
+    },
+    {
+      "key": "h1.s1seed2.final.eros.lo",
+      "src": "<LOCAL>
+      "value": 30.5
+    },
+    {
+      "key": "h1.s1seed2.final.eros.hi",
+      "src": "<LOCAL>
+      "value": 401.8
+    },
+    {
+      "key": "h1.s1seed2.final.sentlen",
+      "src": "<LOCAL>
+      "value": 5.9
+    },
+    {
+      "key": "h1.s1seed2.final.sentlen.lo",
+      "src": "<LOCAL>
+      "value": 5.0
+    },
+    {
+      "key": "h1.s1seed2.final.sentlen.hi",
+      "src": "<LOCAL>
+      "value": 6.8
+    },
+    {
+      "key": "h1.s1seed2.final.ctx",
+      "src": "<LOCAL>
+      "value": 2.38
+    },
+    {
+      "key": "h1.s1seed2.final.ctx.lo",
+      "src": "<LOCAL>
+      "value": 2.15
+    },
+    {
+      "key": "h1.s1seed2.final.ctx.hi",
+      "src": "<LOCAL>
+      "value": 2.64
+    },
+    {
+      "key": "h1.s1seed2.final.lex",
+      "src": "<LOCAL>
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1seed2.final.lex.lo",
+      "src": "<LOCAL>
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1seed2.final.lex.hi",
+      "src": "<LOCAL>
+      "value": 0.2
+    },
+    {
+      "key": "h1.s1seed2.final.revrate",
+      "src": "<LOCAL>
+      "value": 1.04
+    },
+    {
+      "key": "h1.s1seed2.final.revrate.lo",
+      "src": "<LOCAL>
+      "value": 0.95
+    },
+    {
+      "key": "h1.s1seed2.final.revrate.hi",
+      "src": "<LOCAL>
+      "value": 1.15
+    },
+    {
+      "key": "h1.s1seed2.final.toks",
+      "src": "<LOCAL>
+      "value": 4024
+    },
+    {
+      "key": "h1.s1seed2.final.toks.lo",
+      "src": "<LOCAL>
+      "value": 3841
+    },
+    {
+      "key": "h1.s1seed2.final.toks.hi",
+      "src": "<LOCAL>
+      "value": 4210
+    },
+    {
+      "key": "n.s1seed2.final.resp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "ctl.s1seed2.final.acc",
+      "src": "<LOCAL>
+      "value": 84.7
+    },
+    {
+      "key": "ctl.s1seed2.final.trunc",
+      "src": "<LOCAL>
+      "value": 13.2
+    },
+    {
+      "key": "n.s1seed2.ckpts",
+      "src": "<LOCAL>
+      "value": 2
+    },
+    {
+      "key": "h1.s1seed3.base.freq",
+      "src": "<LOCAL>
+      "value": 5.1
+    },
+    {
+      "key": "h1.s1seed3.base.freq.lo",
+      "src": "<LOCAL>
+      "value": 4.7
+    },
+    {
+      "key": "h1.s1seed3.base.freq.hi",
+      "src": "<LOCAL>
+      "value": 5.4
+    },
+    {
+      "key": "h1.s1seed3.base.freq100",
+      "src": "<LOCAL>
+      "value": 9.4
+    },
+    {
+      "key": "h1.s1seed3.base.freq100.lo",
+      "src": "<LOCAL>
+      "value": 8.8
+    },
+    {
+      "key": "h1.s1seed3.base.freq100.hi",
+      "src": "<LOCAL>
+      "value": 10.0
+    },
+    {
+      "key": "h1.s1seed3.base.fdisc",
+      "src": "<LOCAL>
+      "value": 11.3
+    },
+    {
+      "key": "h1.s1seed3.base.fdisc.lo",
+      "src": "<LOCAL>
+      "value": 10.7
+    },
+    {
+      "key": "h1.s1seed3.base.fdisc.hi",
+      "src": "<LOCAL>
+      "value": 11.8
+    },
+    {
+      "key": "h1.s1seed3.base.si",
+      "src": "<LOCAL>
+      "value": 89.3
+    },
+    {
+      "key": "h1.s1seed3.base.si.lo",
+      "src": "<LOCAL>
+      "value": 88.1
+    },
+    {
+      "key": "h1.s1seed3.base.si.hi",
+      "src": "<LOCAL>
+      "value": 90.3
+    },
+    {
+      "key": "h1.s1seed3.base.si.n",
+      "src": "<LOCAL>
+      "value": 11637
+    },
+    {
+      "key": "h1.s1seed3.base.siconn",
+      "src": "<LOCAL>
+      "value": 95.3
+    },
+    {
+      "key": "h1.s1seed3.base.siconn.lo",
+      "src": "<LOCAL>
+      "value": 94.8
+    },
+    {
+      "key": "h1.s1seed3.base.siconn.hi",
+      "src": "<LOCAL>
+      "value": 95.8
+    },
+    {
+      "key": "h1.s1seed3.base.siconn.n",
+      "src": "<LOCAL>
+      "value": 11637
+    },
+    {
+      "key": "h1.s1seed3.base.pi",
+      "src": "<LOCAL>
+      "value": 33.9
+    },
+    {
+      "key": "h1.s1seed3.base.pi.lo",
+      "src": "<LOCAL>
+      "value": 31.7
+    },
+    {
+      "key": "h1.s1seed3.base.pi.hi",
+      "src": "<LOCAL>
+      "value": 36.3
+    },
+    {
+      "key": "h1.s1seed3.base.orth",
+      "src": "<LOCAL>
+      "value": 88.5
+    },
+    {
+      "key": "h1.s1seed3.base.orth.lo",
+      "src": "<LOCAL>
+      "value": 87.3
+    },
+    {
+      "key": "h1.s1seed3.base.orth.hi",
+      "src": "<LOCAL>
+      "value": 89.6
+    },
+    {
+      "key": "h1.s1seed3.base.orth.n",
+      "src": "<LOCAL>
+      "value": 11637
+    },
+    {
+      "key": "h1.s1seed3.base.orthmax",
+      "src": "<LOCAL>
+      "value": 88.5
+    },
+    {
+      "key": "h1.s1seed3.base.orthmax.lo",
+      "src": "<LOCAL>
+      "value": 87.3
+    },
+    {
+      "key": "h1.s1seed3.base.orthmax.hi",
+      "src": "<LOCAL>
+      "value": 89.6
+    },
+    {
+      "key": "h1.s1seed3.base.orthmax.n",
+      "src": "<LOCAL>
+      "value": 11637
+    },
+    {
+      "key": "h1.s1seed3.base.commadrop",
+      "src": "<LOCAL>
+      "value": 2.9
+    },
+    {
+      "key": "h1.s1seed3.base.commadrop.lo",
+      "src": "<LOCAL>
+      "value": 2.5
+    },
+    {
+      "key": "h1.s1seed3.base.commadrop.hi",
+      "src": "<LOCAL>
+      "value": 3.4
+    },
+    {
+      "key": "h1.s1seed3.base.commadrop.n",
+      "src": "<LOCAL>
+      "value": 11637
+    },
+    {
+      "key": "h1.s1seed3.base.chain",
+      "src": "<LOCAL>
+      "value": 117.6
+    },
+    {
+      "key": "h1.s1seed3.base.chain.lo",
+      "src": "<LOCAL>
+      "value": 110.2
+    },
+    {
+      "key": "h1.s1seed3.base.chain.hi",
+      "src": "<LOCAL>
+      "value": 125.1
+    },
+    {
+      "key": "h1.s1seed3.base.chainshare",
+      "src": "<LOCAL>
+      "value": 14.1
+    },
+    {
+      "key": "h1.s1seed3.base.chainshare.lo",
+      "src": "<LOCAL>
+      "value": 13.2
+    },
+    {
+      "key": "h1.s1seed3.base.chainshare.hi",
+      "src": "<LOCAL>
+      "value": 15.1
+    },
+    {
+      "key": "h1.s1seed3.base.neff",
+      "src": "<LOCAL>
+      "value": 5.72
+    },
+    {
+      "key": "h1.s1seed3.base.neff.lo",
+      "src": "<LOCAL>
+      "value": 5.48
+    },
+    {
+      "key": "h1.s1seed3.base.neff.hi",
+      "src": "<LOCAL>
+      "value": 5.95
+    },
+    {
+      "key": "h1.s1seed3.base.sharewait",
+      "src": "<LOCAL>
+      "value": 32.8
+    },
+    {
+      "key": "h1.s1seed3.base.sharewait.lo",
+      "src": "<LOCAL>
+      "value": 30.8
+    },
+    {
+      "key": "h1.s1seed3.base.sharewait.hi",
+      "src": "<LOCAL>
+      "value": 34.7
+    },
+    {
+      "key": "h1.s1seed3.base.obl",
+      "src": "<LOCAL>
+      "value": 54.7
+    },
+    {
+      "key": "h1.s1seed3.base.obl.lo",
+      "src": "<LOCAL>
+      "value": 51.7
+    },
+    {
+      "key": "h1.s1seed3.base.obl.hi",
+      "src": "<LOCAL>
+      "value": 57.5
+    },
+    {
+      "key": "h1.s1seed3.base.obl.n",
+      "src": "<LOCAL>
+      "value": 2947
+    },
+    {
+      "key": "h1.s1seed3.base.rel",
+      "src": "<LOCAL>
+      "value": 10.3
+    },
+    {
+      "key": "h1.s1seed3.base.rel.lo",
+      "src": "<LOCAL>
+      "value": 9.2
+    },
+    {
+      "key": "h1.s1seed3.base.rel.hi",
+      "src": "<LOCAL>
+      "value": 11.5
+    },
+    {
+      "key": "h1.s1seed3.base.rel.n",
+      "src": "<LOCAL>
+      "value": 24290
+    },
+    {
+      "key": "h1.s1seed3.base.eros",
+      "src": "<LOCAL>
+      "value": 28.3
+    },
+    {
+      "key": "h1.s1seed3.base.eros.lo",
+      "src": "<LOCAL>
+      "value": 23.2
+    },
+    {
+      "key": "h1.s1seed3.base.eros.hi",
+      "src": "<LOCAL>
+      "value": 34.5
+    },
+    {
+      "key": "h1.s1seed3.base.sentlen",
+      "src": "<LOCAL>
+      "value": 11.6
+    },
+    {
+      "key": "h1.s1seed3.base.sentlen.lo",
+      "src": "<LOCAL>
+      "value": 11.3
+    },
+    {
+      "key": "h1.s1seed3.base.sentlen.hi",
+      "src": "<LOCAL>
+      "value": 11.9
+    },
+    {
+      "key": "h1.s1seed3.base.ctx",
+      "src": "<LOCAL>
+      "value": 1.15
+    },
+    {
+      "key": "h1.s1seed3.base.ctx.lo",
+      "src": "<LOCAL>
+      "value": 1.13
+    },
+    {
+      "key": "h1.s1seed3.base.ctx.hi",
+      "src": "<LOCAL>
+      "value": 1.18
+    },
+    {
+      "key": "h1.s1seed3.base.lex",
+      "src": "<LOCAL>
+      "value": 0.6
+    },
+    {
+      "key": "h1.s1seed3.base.lex.lo",
+      "src": "<LOCAL>
+      "value": 0.5
+    },
+    {
+      "key": "h1.s1seed3.base.lex.hi",
+      "src": "<LOCAL>
+      "value": 0.8
+    },
+    {
+      "key": "h1.s1seed3.base.revrate",
+      "src": "<LOCAL>
+      "value": 2.39
+    },
+    {
+      "key": "h1.s1seed3.base.revrate.lo",
+      "src": "<LOCAL>
+      "value": 2.15
+    },
+    {
+      "key": "h1.s1seed3.base.revrate.hi",
+      "src": "<LOCAL>
+      "value": 2.63
+    },
+    {
+      "key": "h1.s1seed3.base.toks",
+      "src": "<LOCAL>
+      "value": 2298
+    },
+    {
+      "key": "h1.s1seed3.base.toks.lo",
+      "src": "<LOCAL>
+      "value": 2107
+    },
+    {
+      "key": "h1.s1seed3.base.toks.hi",
+      "src": "<LOCAL>
+      "value": 2504
+    },
+    {
+      "key": "n.s1seed3.base.resp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "ctl.s1seed3.base.acc",
+      "src": "<LOCAL>
+      "value": 53.8
+    },
+    {
+      "key": "ctl.s1seed3.base.trunc",
+      "src": "<LOCAL>
+      "value": 10.9
+    },
+    {
+      "key": "h1.s1seed3.final.freq",
+      "src": "<LOCAL>
+      "value": 11.1
+    },
+    {
+      "key": "h1.s1seed3.final.freq.lo",
+      "src": "<LOCAL>
+      "value": 10.7
+    },
+    {
+      "key": "h1.s1seed3.final.freq.hi",
+      "src": "<LOCAL>
+      "value": 11.5
+    },
+    {
+      "key": "h1.s1seed3.final.freq100",
+      "src": "<LOCAL>
+      "value": 14.1
+    },
+    {
+      "key": "h1.s1seed3.final.freq100.lo",
+      "src": "<LOCAL>
+      "value": 13.7
+    },
+    {
+      "key": "h1.s1seed3.final.freq100.hi",
+      "src": "<LOCAL>
+      "value": 14.6
+    },
+    {
+      "key": "h1.s1seed3.final.fdisc",
+      "src": "<LOCAL>
+      "value": 18.4
+    },
+    {
+      "key": "h1.s1seed3.final.fdisc.lo",
+      "src": "<LOCAL>
+      "value": 17.9
+    },
+    {
+      "key": "h1.s1seed3.final.fdisc.hi",
+      "src": "<LOCAL>
+      "value": 18.9
+    },
+    {
+      "key": "h1.s1seed3.final.si",
+      "src": "<LOCAL>
+      "value": 88.0
+    },
+    {
+      "key": "h1.s1seed3.final.si.lo",
+      "src": "<LOCAL>
+      "value": 87.3
+    },
+    {
+      "key": "h1.s1seed3.final.si.hi",
+      "src": "<LOCAL>
+      "value": 88.7
+    },
+    {
+      "key": "h1.s1seed3.final.si.n",
+      "src": "<LOCAL>
+      "value": 44717
+    },
+    {
+      "key": "h1.s1seed3.final.siconn",
+      "src": "<LOCAL>
+      "value": 93.1
+    },
+    {
+      "key": "h1.s1seed3.final.siconn.lo",
+      "src": "<LOCAL>
+      "value": 92.6
+    },
+    {
+      "key": "h1.s1seed3.final.siconn.hi",
+      "src": "<LOCAL>
+      "value": 93.5
+    },
+    {
+      "key": "h1.s1seed3.final.siconn.n",
+      "src": "<LOCAL>
+      "value": 44717
+    },
+    {
+      "key": "h1.s1seed3.final.pi",
+      "src": "<LOCAL>
+      "value": 40.7
+    },
+    {
+      "key": "h1.s1seed3.final.pi.lo",
+      "src": "<LOCAL>
+      "value": 39.4
+    },
+    {
+      "key": "h1.s1seed3.final.pi.hi",
+      "src": "<LOCAL>
+      "value": 42.0
+    },
+    {
+      "key": "h1.s1seed3.final.orth",
+      "src": "<LOCAL>
+      "value": 44.4
+    },
+    {
+      "key": "h1.s1seed3.final.orth.lo",
+      "src": "<LOCAL>
+      "value": 42.4
+    },
+    {
+      "key": "h1.s1seed3.final.orth.hi",
+      "src": "<LOCAL>
+      "value": 46.5
+    },
+    {
+      "key": "h1.s1seed3.final.orth.n",
+      "src": "<LOCAL>
+      "value": 44717
+    },
+    {
+      "key": "h1.s1seed3.final.orthmax",
+      "src": "<LOCAL>
+      "value": 44.4
+    },
+    {
+      "key": "h1.s1seed3.final.orthmax.lo",
+      "src": "<LOCAL>
+      "value": 42.9
+    },
+    {
+      "key": "h1.s1seed3.final.orthmax.hi",
+      "src": "<LOCAL>
+      "value": 46.5
+    },
+    {
+      "key": "h1.s1seed3.final.orthmax.n",
+      "src": "<LOCAL>
+      "value": 44717
+    },
+    {
+      "key": "h1.s1seed3.final.commadrop",
+      "src": "<LOCAL>
+      "value": 50.3
+    },
+    {
+      "key": "h1.s1seed3.final.commadrop.lo",
+      "src": "<LOCAL>
+      "value": 48.1
+    },
+    {
+      "key": "h1.s1seed3.final.commadrop.hi",
+      "src": "<LOCAL>
+      "value": 52.4
+    },
+    {
+      "key": "h1.s1seed3.final.commadrop.n",
+      "src": "<LOCAL>
+      "value": 44717
+    },
+    {
+      "key": "h1.s1seed3.final.chain",
+      "src": "<LOCAL>
+      "value": 241.7
+    },
+    {
+      "key": "h1.s1seed3.final.chain.lo",
+      "src": "<LOCAL>
+      "value": 237.2
+    },
+    {
+      "key": "h1.s1seed3.final.chain.hi",
+      "src": "<LOCAL>
+      "value": 245.9
+    },
+    {
+      "key": "h1.s1seed3.final.chainshare",
+      "src": "<LOCAL>
+      "value": 39.3
+    },
+    {
+      "key": "h1.s1seed3.final.chainshare.lo",
+      "src": "<LOCAL>
+      "value": 38.0
+    },
+    {
+      "key": "h1.s1seed3.final.chainshare.hi",
+      "src": "<LOCAL>
+      "value": 40.5
+    },
+    {
+      "key": "h1.s1seed3.final.neff",
+      "src": "<LOCAL>
+      "value": 5.48
+    },
+    {
+      "key": "h1.s1seed3.final.neff.lo",
+      "src": "<LOCAL>
+      "value": 5.29
+    },
+    {
+      "key": "h1.s1seed3.final.neff.hi",
+      "src": "<LOCAL>
+      "value": 5.66
+    },
+    {
+      "key": "h1.s1seed3.final.sharewait",
+      "src": "<LOCAL>
+      "value": 38.0
+    },
+    {
+      "key": "h1.s1seed3.final.sharewait.lo",
+      "src": "<LOCAL>
+      "value": 35.7
+    },
+    {
+      "key": "h1.s1seed3.final.sharewait.hi",
+      "src": "<LOCAL>
+      "value": 40.1
+    },
+    {
+      "key": "h1.s1seed3.final.obl",
+      "src": "<LOCAL>
+      "value": 44.2
+    },
+    {
+      "key": "h1.s1seed3.final.obl.lo",
+      "src": "<LOCAL>
+      "value": 41.7
+    },
+    {
+      "key": "h1.s1seed3.final.obl.hi",
+      "src": "<LOCAL>
+      "value": 46.7
+    },
+    {
+      "key": "h1.s1seed3.final.obl.n",
+      "src": "<LOCAL>
+      "value": 3368
+    },
+    {
+      "key": "h1.s1seed3.final.rel",
+      "src": "<LOCAL>
+      "value": 3.9
+    },
+    {
+      "key": "h1.s1seed3.final.rel.lo",
+      "src": "<LOCAL>
+      "value": 3.6
+    },
+    {
+      "key": "h1.s1seed3.final.rel.hi",
+      "src": "<LOCAL>
+      "value": 4.2
+    },
+    {
+      "key": "h1.s1seed3.final.rel.n",
+      "src": "<LOCAL>
+      "value": 66729
+    },
+    {
+      "key": "h1.s1seed3.final.eros",
+      "src": "<LOCAL>
+      "value": 30.9
+    },
+    {
+      "key": "h1.s1seed3.final.eros.lo",
+      "src": "<LOCAL>
+      "value": 27.3
+    },
+    {
+      "key": "h1.s1seed3.final.eros.hi",
+      "src": "<LOCAL>
+      "value": 34.9
+    },
+    {
+      "key": "h1.s1seed3.final.sentlen",
+      "src": "<LOCAL>
+      "value": 6.8
+    },
+    {
+      "key": "h1.s1seed3.final.sentlen.lo",
+      "src": "<LOCAL>
+      "value": 6.6
+    },
+    {
+      "key": "h1.s1seed3.final.sentlen.hi",
+      "src": "<LOCAL>
+      "value": 6.9
+    },
+    {
+      "key": "h1.s1seed3.final.ctx",
+      "src": "<LOCAL>
+      "value": 2.62
+    },
+    {
+      "key": "h1.s1seed3.final.ctx.lo",
+      "src": "<LOCAL>
+      "value": 2.53
+    },
+    {
+      "key": "h1.s1seed3.final.ctx.hi",
+      "src": "<LOCAL>
+      "value": 2.71
+    },
+    {
+      "key": "h1.s1seed3.final.lex",
+      "src": "<LOCAL>
+      "value": 0.2
+    },
+    {
+      "key": "h1.s1seed3.final.lex.lo",
+      "src": "<LOCAL>
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1seed3.final.lex.hi",
+      "src": "<LOCAL>
+      "value": 0.2
+    },
+    {
+      "key": "h1.s1seed3.final.revrate",
+      "src": "<LOCAL>
+      "value": 1.07
+    },
+    {
+      "key": "h1.s1seed3.final.revrate.lo",
+      "src": "<LOCAL>
+      "value": 0.99
+    },
+    {
+      "key": "h1.s1seed3.final.revrate.hi",
+      "src": "<LOCAL>
+      "value": 1.16
+    },
+    {
+      "key": "h1.s1seed3.final.toks",
+      "src": "<LOCAL>
+      "value": 4035
+    },
+    {
+      "key": "h1.s1seed3.final.toks.lo",
+      "src": "<LOCAL>
+      "value": 3842
+    },
+    {
+      "key": "h1.s1seed3.final.toks.hi",
+      "src": "<LOCAL>
+      "value": 4228
+    },
+    {
+      "key": "n.s1seed3.final.resp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "ctl.s1seed3.final.acc",
+      "src": "<LOCAL>
+      "value": 85.7
+    },
+    {
+      "key": "ctl.s1seed3.final.trunc",
+      "src": "<LOCAL>
+      "value": 12.9
+    },
+    {
+      "key": "n.s1seed3.ckpts",
+      "src": "<LOCAL>
+      "value": 2
+    },
+    {
+      "key": "h1.s1seed4.base.freq",
+      "src": "<LOCAL>
+      "value": 5.4
+    },
+    {
+      "key": "h1.s1seed4.base.freq.lo",
+      "src": "<LOCAL>
+      "value": 5.1
+    },
+    {
+      "key": "h1.s1seed4.base.freq.hi",
+      "src": "<LOCAL>
+      "value": 5.7
+    },
+    {
+      "key": "h1.s1seed4.base.freq100",
+      "src": "<LOCAL>
+      "value": 9.8
+    },
+    {
+      "key": "h1.s1seed4.base.freq100.lo",
+      "src": "<LOCAL>
+      "value": 9.2
+    },
+    {
+      "key": "h1.s1seed4.base.freq100.hi",
+      "src": "<LOCAL>
+      "value": 10.3
+    },
+    {
+      "key": "h1.s1seed4.base.fdisc",
+      "src": "<LOCAL>
+      "value": 11.7
+    },
+    {
+      "key": "h1.s1seed4.base.fdisc.lo",
+      "src": "<LOCAL>
+      "value": 11.2
+    },
+    {
+      "key": "h1.s1seed4.base.fdisc.hi",
+      "src": "<LOCAL>
+      "value": 12.2
+    },
+    {
+      "key": "h1.s1seed4.base.si",
+      "src": "<LOCAL>
+      "value": 89.9
+    },
+    {
+      "key": "h1.s1seed4.base.si.lo",
+      "src": "<LOCAL>
+      "value": 89.1
+    },
+    {
+      "key": "h1.s1seed4.base.si.hi",
+      "src": "<LOCAL>
+      "value": 90.7
+    },
+    {
+      "key": "h1.s1seed4.base.si.n",
+      "src": "<LOCAL>
+      "value": 12815
+    },
+    {
+      "key": "h1.s1seed4.base.siconn",
+      "src": "<LOCAL>
+      "value": 95.2
+    },
+    {
+      "key": "h1.s1seed4.base.siconn.lo",
+      "src": "<LOCAL>
+      "value": 94.7
+    },
+    {
+      "key": "h1.s1seed4.base.siconn.hi",
+      "src": "<LOCAL>
+      "value": 95.6
+    },
+    {
+      "key": "h1.s1seed4.base.siconn.n",
+      "src": "<LOCAL>
+      "value": 12815
+    },
+    {
+      "key": "h1.s1seed4.base.pi",
+      "src": "<LOCAL>
+      "value": 34.3
+    },
+    {
+      "key": "h1.s1seed4.base.pi.lo",
+      "src": "<LOCAL>
+      "value": 32.7
+    },
+    {
+      "key": "h1.s1seed4.base.pi.hi",
+      "src": "<LOCAL>
+      "value": 36.0
+    },
+    {
+      "key": "h1.s1seed4.base.orth",
+      "src": "<LOCAL>
+      "value": 89.2
+    },
+    {
+      "key": "h1.s1seed4.base.orth.lo",
+      "src": "<LOCAL>
+      "value": 88.2
+    },
+    {
+      "key": "h1.s1seed4.base.orth.hi",
+      "src": "<LOCAL>
+      "value": 90.0
+    },
+    {
+      "key": "h1.s1seed4.base.orth.n",
+      "src": "<LOCAL>
+      "value": 12815
+    },
+    {
+      "key": "h1.s1seed4.base.orthmax",
+      "src": "<LOCAL>
+      "value": 89.2
+    },
+    {
+      "key": "h1.s1seed4.base.orthmax.lo",
+      "src": "<LOCAL>
+      "value": 88.2
+    },
+    {
+      "key": "h1.s1seed4.base.orthmax.hi",
+      "src": "<LOCAL>
+      "value": 90.0
+    },
+    {
+      "key": "h1.s1seed4.base.orthmax.n",
+      "src": "<LOCAL>
+      "value": 12815
+    },
+    {
+      "key": "h1.s1seed4.base.commadrop",
+      "src": "<LOCAL>
+      "value": 2.7
+    },
+    {
+      "key": "h1.s1seed4.base.commadrop.lo",
+      "src": "<LOCAL>
+      "value": 2.3
+    },
+    {
+      "key": "h1.s1seed4.base.commadrop.hi",
+      "src": "<LOCAL>
+      "value": 3.2
+    },
+    {
+      "key": "h1.s1seed4.base.commadrop.n",
+      "src": "<LOCAL>
+      "value": 12815
+    },
+    {
+      "key": "h1.s1seed4.base.chain",
+      "src": "<LOCAL>
+      "value": 122.3
+    },
+    {
+      "key": "h1.s1seed4.base.chain.lo",
+      "src": "<LOCAL>
+      "value": 115.4
+    },
+    {
+      "key": "h1.s1seed4.base.chain.hi",
+      "src": "<LOCAL>
+      "value": 128.9
+    },
+    {
+      "key": "h1.s1seed4.base.chainshare",
+      "src": "<LOCAL>
+      "value": 14.8
+    },
+    {
+      "key": "h1.s1seed4.base.chainshare.lo",
+      "src": "<LOCAL>
+      "value": 13.9
+    },
+    {
+      "key": "h1.s1seed4.base.chainshare.hi",
+      "src": "<LOCAL>
+      "value": 15.7
+    },
+    {
+      "key": "h1.s1seed4.base.neff",
+      "src": "<LOCAL>
+      "value": 5.73
+    },
+    {
+      "key": "h1.s1seed4.base.neff.lo",
+      "src": "<LOCAL>
+      "value": 5.47
+    },
+    {
+      "key": "h1.s1seed4.base.neff.hi",
+      "src": "<LOCAL>
+      "value": 5.97
+    },
+    {
+      "key": "h1.s1seed4.base.sharewait",
+      "src": "<LOCAL>
+      "value": 33.6
+    },
+    {
+      "key": "h1.s1seed4.base.sharewait.lo",
+      "src": "<LOCAL>
+      "value": 31.5
+    },
+    {
+      "key": "h1.s1seed4.base.sharewait.hi",
+      "src": "<LOCAL>
+      "value": 35.8
+    },
+    {
+      "key": "h1.s1seed4.base.obl",
+      "src": "<LOCAL>
+      "value": 56.0
+    },
+    {
+      "key": "h1.s1seed4.base.obl.lo",
+      "src": "<LOCAL>
+      "value": 53.1
+    },
+    {
+      "key": "h1.s1seed4.base.obl.hi",
+      "src": "<LOCAL>
+      "value": 58.7
+    },
+    {
+      "key": "h1.s1seed4.base.obl.n",
+      "src": "<LOCAL>
+      "value": 3588
+    },
+    {
+      "key": "h1.s1seed4.base.rel",
+      "src": "<LOCAL>
+      "value": 11.8
+    },
+    {
+      "key": "h1.s1seed4.base.rel.lo",
+      "src": "<LOCAL>
+      "value": 10.5
+    },
+    {
+      "key": "h1.s1seed4.base.rel.hi",
+      "src": "<LOCAL>
+      "value": 13.1
+    },
+    {
+      "key": "h1.s1seed4.base.rel.n",
+      "src": "<LOCAL>
+      "value": 26244
+    },
+    {
+      "key": "h1.s1seed4.base.eros",
+      "src": "<LOCAL>
+      "value": 26.4
+    },
+    {
+      "key": "h1.s1seed4.base.eros.lo",
+      "src": "<LOCAL>
+      "value": 22.6
+    },
+    {
+      "key": "h1.s1seed4.base.eros.hi",
+      "src": "<LOCAL>
+      "value": 31.1
+    },
+    {
+      "key": "h1.s1seed4.base.sentlen",
+      "src": "<LOCAL>
+      "value": 11.4
+    },
+    {
+      "key": "h1.s1seed4.base.sentlen.lo",
+      "src": "<LOCAL>
+      "value": 11.1
+    },
+    {
+      "key": "h1.s1seed4.base.sentlen.hi",
+      "src": "<LOCAL>
+      "value": 11.7
+    },
+    {
+      "key": "h1.s1seed4.base.ctx",
+      "src": "<LOCAL>
+      "value": 1.14
+    },
+    {
+      "key": "h1.s1seed4.base.ctx.lo",
+      "src": "<LOCAL>
+      "value": 1.12
+    },
+    {
+      "key": "h1.s1seed4.base.ctx.hi",
+      "src": "<LOCAL>
+      "value": 1.16
+    },
+    {
+      "key": "h1.s1seed4.base.lex",
+      "src": "<LOCAL>
+      "value": 0.5
+    },
+    {
+      "key": "h1.s1seed4.base.lex.lo",
+      "src": "<LOCAL>
+      "value": 0.3
+    },
+    {
+      "key": "h1.s1seed4.base.lex.hi",
+      "src": "<LOCAL>
+      "value": 0.7
+    },
+    {
+      "key": "h1.s1seed4.base.revrate",
+      "src": "<LOCAL>
+      "value": 2.73
+    },
+    {
+      "key": "h1.s1seed4.base.revrate.lo",
+      "src": "<LOCAL>
+      "value": 2.48
+    },
+    {
+      "key": "h1.s1seed4.base.revrate.hi",
+      "src": "<LOCAL>
+      "value": 3.0
+    },
+    {
+      "key": "h1.s1seed4.base.toks",
+      "src": "<LOCAL>
+      "value": 2386
+    },
+    {
+      "key": "h1.s1seed4.base.toks.lo",
+      "src": "<LOCAL>
+      "value": 2176
+    },
+    {
+      "key": "h1.s1seed4.base.toks.hi",
+      "src": "<LOCAL>
+      "value": 2599
+    },
+    {
+      "key": "n.s1seed4.base.resp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "ctl.s1seed4.base.acc",
+      "src": "<LOCAL>
+      "value": 52.1
+    },
+    {
+      "key": "ctl.s1seed4.base.trunc",
+      "src": "<LOCAL>
+      "value": 12.2
+    },
+    {
+      "key": "h1.s1seed4.final.freq",
+      "src": "<LOCAL>
+      "value": 11.4
+    },
+    {
+      "key": "h1.s1seed4.final.freq.lo",
+      "src": "<LOCAL>
+      "value": 10.5
+    },
+    {
+      "key": "h1.s1seed4.final.freq.hi",
+      "src": "<LOCAL>
+      "value": 12.7
+    },
+    {
+      "key": "h1.s1seed4.final.freq100",
+      "src": "<LOCAL>
+      "value": 14.3
+    },
+    {
+      "key": "h1.s1seed4.final.freq100.lo",
+      "src": "<LOCAL>
+      "value": 13.3
+    },
+    {
+      "key": "h1.s1seed4.final.freq100.hi",
+      "src": "<LOCAL>
+      "value": 15.7
+    },
+    {
+      "key": "h1.s1seed4.final.fdisc",
+      "src": "<LOCAL>
+      "value": 19.2
+    },
+    {
+      "key": "h1.s1seed4.final.fdisc.lo",
+      "src": "<LOCAL>
+      "value": 17.9
+    },
+    {
+      "key": "h1.s1seed4.final.fdisc.hi",
+      "src": "<LOCAL>
+      "value": 20.9
+    },
+    {
+      "key": "h1.s1seed4.final.si",
+      "src": "<LOCAL>
+      "value": 88.7
+    },
+    {
+      "key": "h1.s1seed4.final.si.lo",
+      "src": "<LOCAL>
+      "value": 87.6
+    },
+    {
+      "key": "h1.s1seed4.final.si.hi",
+      "src": "<LOCAL>
+      "value": 89.9
+    },
+    {
+      "key": "h1.s1seed4.final.si.n",
+      "src": "<LOCAL>
+      "value": 46387
+    },
+    {
+      "key": "h1.s1seed4.final.siconn",
+      "src": "<LOCAL>
+      "value": 93.6
+    },
+    {
+      "key": "h1.s1seed4.final.siconn.lo",
+      "src": "<LOCAL>
+      "value": 92.9
+    },
+    {
+      "key": "h1.s1seed4.final.siconn.hi",
+      "src": "<LOCAL>
+      "value": 94.3
+    },
+    {
+      "key": "h1.s1seed4.final.siconn.n",
+      "src": "<LOCAL>
+      "value": 46387
+    },
+    {
+      "key": "h1.s1seed4.final.pi",
+      "src": "<LOCAL>
+      "value": 39.0
+    },
+    {
+      "key": "h1.s1seed4.final.pi.lo",
+      "src": "<LOCAL>
+      "value": 34.7
+    },
+    {
+      "key": "h1.s1seed4.final.pi.hi",
+      "src": "<LOCAL>
+      "value": 42.1
+    },
+    {
+      "key": "h1.s1seed4.final.orth",
+      "src": "<LOCAL>
+      "value": 41.5
+    },
+    {
+      "key": "h1.s1seed4.final.orth.lo",
+      "src": "<LOCAL>
+      "value": 37.1
+    },
+    {
+      "key": "h1.s1seed4.final.orth.hi",
+      "src": "<LOCAL>
+      "value": 45.3
+    },
+    {
+      "key": "h1.s1seed4.final.orth.n",
+      "src": "<LOCAL>
+      "value": 46387
+    },
+    {
+      "key": "h1.s1seed4.final.orthmax",
+      "src": "<LOCAL>
+      "value": 41.5
+    },
+    {
+      "key": "h1.s1seed4.final.orthmax.lo",
+      "src": "<LOCAL>
+      "value": 37.3
+    },
+    {
+      "key": "h1.s1seed4.final.orthmax.hi",
+      "src": "<LOCAL>
+      "value": 45.3
+    },
+    {
+      "key": "h1.s1seed4.final.orthmax.n",
+      "src": "<LOCAL>
+      "value": 46387
+    },
+    {
+      "key": "h1.s1seed4.final.commadrop",
+      "src": "<LOCAL>
+      "value": 53.4
+    },
+    {
+      "key": "h1.s1seed4.final.commadrop.lo",
+      "src": "<LOCAL>
+      "value": 49.3
+    },
+    {
+      "key": "h1.s1seed4.final.commadrop.hi",
+      "src": "<LOCAL>
+      "value": 58.6
+    },
+    {
+      "key": "h1.s1seed4.final.commadrop.n",
+      "src": "<LOCAL>
+      "value": 46387
+    },
+    {
+      "key": "h1.s1seed4.final.chain",
+      "src": "<LOCAL>
+      "value": 225.3
+    },
+    {
+      "key": "h1.s1seed4.final.chain.lo",
+      "src": "<LOCAL>
+      "value": 202.1
+    },
+    {
+      "key": "h1.s1seed4.final.chain.hi",
+      "src": "<LOCAL>
+      "value": 241.2
+    },
+    {
+      "key": "h1.s1seed4.final.chainshare",
+      "src": "<LOCAL>
+      "value": 41.7
+    },
+    {
+      "key": "h1.s1seed4.final.chainshare.lo",
+      "src": "<LOCAL>
+      "value": 37.4
+    },
+    {
+      "key": "h1.s1seed4.final.chainshare.hi",
+      "src": "<LOCAL>
+      "value": 47.7
+    },
+    {
+      "key": "h1.s1seed4.final.neff",
+      "src": "<LOCAL>
+      "value": 5.57
+    },
+    {
+      "key": "h1.s1seed4.final.neff.lo",
+      "src": "<LOCAL>
+      "value": 5.37
+    },
+    {
+      "key": "h1.s1seed4.final.neff.hi",
+      "src": "<LOCAL>
+      "value": 5.75
+    },
+    {
+      "key": "h1.s1seed4.final.sharewait",
+      "src": "<LOCAL>
+      "value": 36.0
+    },
+    {
+      "key": "h1.s1seed4.final.sharewait.lo",
+      "src": "<LOCAL>
+      "value": 34.0
+    },
+    {
+      "key": "h1.s1seed4.final.sharewait.hi",
+      "src": "<LOCAL>
+      "value": 38.1
+    },
+    {
+      "key": "h1.s1seed4.final.obl",
+      "src": "<LOCAL>
+      "value": 44.9
+    },
+    {
+      "key": "h1.s1seed4.final.obl.lo",
+      "src": "<LOCAL>
+      "value": 42.1
+    },
+    {
+      "key": "h1.s1seed4.final.obl.hi",
+      "src": "<LOCAL>
+      "value": 47.5
+    },
+    {
+      "key": "h1.s1seed4.final.obl.n",
+      "src": "<LOCAL>
+      "value": 3507
+    },
+    {
+      "key": "h1.s1seed4.final.rel",
+      "src": "<LOCAL>
+      "value": 3.7
+    },
+    {
+      "key": "h1.s1seed4.final.rel.lo",
+      "src": "<LOCAL>
+      "value": 3.2
+    },
+    {
+      "key": "h1.s1seed4.final.rel.hi",
+      "src": "<LOCAL>
+      "value": 4.1
+    },
+    {
+      "key": "h1.s1seed4.final.rel.n",
+      "src": "<LOCAL>
+      "value": 71213
+    },
+    {
+      "key": "h1.s1seed4.final.eros",
+      "src": "<LOCAL>
+      "value": 32.6
+    },
+    {
+      "key": "h1.s1seed4.final.eros.lo",
+      "src": "<LOCAL>
+      "value": 28.4
+    },
+    {
+      "key": "h1.s1seed4.final.eros.hi",
+      "src": "<LOCAL>
+      "value": 37.2
+    },
+    {
+      "key": "h1.s1seed4.final.sentlen",
+      "src": "<LOCAL>
+      "value": 6.5
+    },
+    {
+      "key": "h1.s1seed4.final.sentlen.lo",
+      "src": "<LOCAL>
+      "value": 5.9
+    },
+    {
+      "key": "h1.s1seed4.final.sentlen.hi",
+      "src": "<LOCAL>
+      "value": 7.0
+    },
+    {
+      "key": "h1.s1seed4.final.ctx",
+      "src": "<LOCAL>
+      "value": 2.57
+    },
+    {
+      "key": "h1.s1seed4.final.ctx.lo",
+      "src": "<LOCAL>
+      "value": 2.38
+    },
+    {
+      "key": "h1.s1seed4.final.ctx.hi",
+      "src": "<LOCAL>
+      "value": 2.73
+    },
+    {
+      "key": "h1.s1seed4.final.lex",
+      "src": "<LOCAL>
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1seed4.final.lex.lo",
+      "src": "<LOCAL>
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1seed4.final.lex.hi",
+      "src": "<LOCAL>
+      "value": 0.2
+    },
+    {
+      "key": "h1.s1seed4.final.revrate",
+      "src": "<LOCAL>
+      "value": 1.08
+    },
+    {
+      "key": "h1.s1seed4.final.revrate.lo",
+      "src": "<LOCAL>
+      "value": 0.99
+    },
+    {
+      "key": "h1.s1seed4.final.revrate.hi",
+      "src": "<LOCAL>
+      "value": 1.18
+    },
+    {
+      "key": "h1.s1seed4.final.toks",
+      "src": "<LOCAL>
+      "value": 4084
+    },
+    {
+      "key": "h1.s1seed4.final.toks.lo",
+      "src": "<LOCAL>
+      "value": 3893
+    },
+    {
+      "key": "h1.s1seed4.final.toks.hi",
+      "src": "<LOCAL>
+      "value": 4270
+    },
+    {
+      "key": "n.s1seed4.final.resp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "ctl.s1seed4.final.acc",
+      "src": "<LOCAL>
+      "value": 86.1
+    },
+    {
+      "key": "ctl.s1seed4.final.trunc",
+      "src": "<LOCAL>
+      "value": 13.1
+    },
+    {
+      "key": "n.s1seed4.ckpts",
+      "src": "<LOCAL>
+      "value": 2
+    },
+    {
+      "key": "h1.s1seed5.base.freq",
+      "src": "<LOCAL>
+      "value": 4.9
+    },
+    {
+      "key": "h1.s1seed5.base.freq.lo",
+      "src": "<LOCAL>
+      "value": 4.6
+    },
+    {
+      "key": "h1.s1seed5.base.freq.hi",
+      "src": "<LOCAL>
+      "value": 5.2
+    },
+    {
+      "key": "h1.s1seed5.base.freq100",
+      "src": "<LOCAL>
+      "value": 9.1
+    },
+    {
+      "key": "h1.s1seed5.base.freq100.lo",
+      "src": "<LOCAL>
+      "value": 8.6
+    },
+    {
+      "key": "h1.s1seed5.base.freq100.hi",
+      "src": "<LOCAL>
+      "value": 9.6
+    },
+    {
+      "key": "h1.s1seed5.base.fdisc",
+      "src": "<LOCAL>
+      "value": 11.1
+    },
+    {
+      "key": "h1.s1seed5.base.fdisc.lo",
+      "src": "<LOCAL>
+      "value": 10.5
+    },
+    {
+      "key": "h1.s1seed5.base.fdisc.hi",
+      "src": "<LOCAL>
+      "value": 11.6
+    },
+    {
+      "key": "h1.s1seed5.base.si",
+      "src": "<LOCAL>
+      "value": 89.6
+    },
+    {
+      "key": "h1.s1seed5.base.si.lo",
+      "src": "<LOCAL>
+      "value": 88.6
+    },
+    {
+      "key": "h1.s1seed5.base.si.hi",
+      "src": "<LOCAL>
+      "value": 90.5
+    },
+    {
+      "key": "h1.s1seed5.base.si.n",
+      "src": "<LOCAL>
+      "value": 11561
+    },
+    {
+      "key": "h1.s1seed5.base.siconn",
+      "src": "<LOCAL>
+      "value": 95.7
+    },
+    {
+      "key": "h1.s1seed5.base.siconn.lo",
+      "src": "<LOCAL>
+      "value": 95.2
+    },
+    {
+      "key": "h1.s1seed5.base.siconn.hi",
+      "src": "<LOCAL>
+      "value": 96.1
+    },
+    {
+      "key": "h1.s1seed5.base.siconn.n",
+      "src": "<LOCAL>
+      "value": 11561
+    },
+    {
+      "key": "h1.s1seed5.base.pi",
+      "src": "<LOCAL>
+      "value": 34.1
+    },
+    {
+      "key": "h1.s1seed5.base.pi.lo",
+      "src": "<LOCAL>
+      "value": 32.3
+    },
+    {
+      "key": "h1.s1seed5.base.pi.hi",
+      "src": "<LOCAL>
+      "value": 35.9
+    },
+    {
+      "key": "h1.s1seed5.base.orth",
+      "src": "<LOCAL>
+      "value": 88.8
+    },
+    {
+      "key": "h1.s1seed5.base.orth.lo",
+      "src": "<LOCAL>
+      "value": 87.7
+    },
+    {
+      "key": "h1.s1seed5.base.orth.hi",
+      "src": "<LOCAL>
+      "value": 89.9
+    },
+    {
+      "key": "h1.s1seed5.base.orth.n",
+      "src": "<LOCAL>
+      "value": 11561
+    },
+    {
+      "key": "h1.s1seed5.base.orthmax",
+      "src": "<LOCAL>
+      "value": 88.8
+    },
+    {
+      "key": "h1.s1seed5.base.orthmax.lo",
+      "src": "<LOCAL>
+      "value": 87.7
+    },
+    {
+      "key": "h1.s1seed5.base.orthmax.hi",
+      "src": "<LOCAL>
+      "value": 89.9
+    },
+    {
+      "key": "h1.s1seed5.base.orthmax.n",
+      "src": "<LOCAL>
+      "value": 11561
+    },
+    {
+      "key": "h1.s1seed5.base.commadrop",
+      "src": "<LOCAL>
+      "value": 2.6
+    },
+    {
+      "key": "h1.s1seed5.base.commadrop.lo",
+      "src": "<LOCAL>
+      "value": 2.3
+    },
+    {
+      "key": "h1.s1seed5.base.commadrop.hi",
+      "src": "<LOCAL>
+      "value": 3.0
+    },
+    {
+      "key": "h1.s1seed5.base.commadrop.n",
+      "src": "<LOCAL>
+      "value": 11561
+    },
+    {
+      "key": "h1.s1seed5.base.chain",
+      "src": "<LOCAL>
+      "value": 116.3
+    },
+    {
+      "key": "h1.s1seed5.base.chain.lo",
+      "src": "<LOCAL>
+      "value": 108.7
+    },
+    {
+      "key": "h1.s1seed5.base.chain.hi",
+      "src": "<LOCAL>
+      "value": 123.5
+    },
+    {
+      "key": "h1.s1seed5.base.chainshare",
+      "src": "<LOCAL>
+      "value": 14.0
+    },
+    {
+      "key": "h1.s1seed5.base.chainshare.lo",
+      "src": "<LOCAL>
+      "value": 13.0
+    },
+    {
+      "key": "h1.s1seed5.base.chainshare.hi",
+      "src": "<LOCAL>
+      "value": 14.9
+    },
+    {
+      "key": "h1.s1seed5.base.neff",
+      "src": "<LOCAL>
+      "value": 5.87
+    },
+    {
+      "key": "h1.s1seed5.base.neff.lo",
+      "src": "<LOCAL>
+      "value": 5.62
+    },
+    {
+      "key": "h1.s1seed5.base.neff.hi",
+      "src": "<LOCAL>
+      "value": 6.13
+    },
+    {
+      "key": "h1.s1seed5.base.sharewait",
+      "src": "<LOCAL>
+      "value": 33.4
+    },
+    {
+      "key": "h1.s1seed5.base.sharewait.lo",
+      "src": "<LOCAL>
+      "value": 31.4
+    },
+    {
+      "key": "h1.s1seed5.base.sharewait.hi",
+      "src": "<LOCAL>
+      "value": 35.5
+    },
+    {
+      "key": "h1.s1seed5.base.obl",
+      "src": "<LOCAL>
+      "value": 56.2
+    },
+    {
+      "key": "h1.s1seed5.base.obl.lo",
+      "src": "<LOCAL>
+      "value": 53.0
+    },
+    {
+      "key": "h1.s1seed5.base.obl.hi",
+      "src": "<LOCAL>
+      "value": 59.2
+    },
+    {
+      "key": "h1.s1seed5.base.obl.n",
+      "src": "<LOCAL>
+      "value": 3040
+    },
+    {
+      "key": "h1.s1seed5.base.rel",
+      "src": "<LOCAL>
+      "value": 10.8
+    },
+    {
+      "key": "h1.s1seed5.base.rel.lo",
+      "src": "<LOCAL>
+      "value": 9.7
+    },
+    {
+      "key": "h1.s1seed5.base.rel.hi",
+      "src": "<LOCAL>
+      "value": 11.9
+    },
+    {
+      "key": "h1.s1seed5.base.rel.n",
+      "src": "<LOCAL>
+      "value": 24375
+    },
+    {
+      "key": "h1.s1seed5.base.eros",
+      "src": "<LOCAL>
+      "value": 25.7
+    },
+    {
+      "key": "h1.s1seed5.base.eros.lo",
+      "src": "<LOCAL>
+      "value": 22.0
+    },
+    {
+      "key": "h1.s1seed5.base.eros.hi",
+      "src": "<LOCAL>
+      "value": 30.1
+    },
+    {
+      "key": "h1.s1seed5.base.sentlen",
+      "src": "<LOCAL>
+      "value": 11.7
+    },
+    {
+      "key": "h1.s1seed5.base.sentlen.lo",
+      "src": "<LOCAL>
+      "value": 11.4
+    },
+    {
+      "key": "h1.s1seed5.base.sentlen.hi",
+      "src": "<LOCAL>
+      "value": 11.9
+    },
+    {
+      "key": "h1.s1seed5.base.ctx",
+      "src": "<LOCAL>
+      "value": 1.15
+    },
+    {
+      "key": "h1.s1seed5.base.ctx.lo",
+      "src": "<LOCAL>
+      "value": 1.13
+    },
+    {
+      "key": "h1.s1seed5.base.ctx.hi",
+      "src": "<LOCAL>
+      "value": 1.17
+    },
+    {
+      "key": "h1.s1seed5.base.lex",
+      "src": "<LOCAL>
+      "value": 0.6
+    },
+    {
+      "key": "h1.s1seed5.base.lex.lo",
+      "src": "<LOCAL>
+      "value": 0.4
+    },
+    {
+      "key": "h1.s1seed5.base.lex.hi",
+      "src": "<LOCAL>
+      "value": 0.8
+    },
+    {
+      "key": "h1.s1seed5.base.revrate",
+      "src": "<LOCAL>
+      "value": 2.39
+    },
+    {
+      "key": "h1.s1seed5.base.revrate.lo",
+      "src": "<LOCAL>
+      "value": 2.16
+    },
+    {
+      "key": "h1.s1seed5.base.revrate.hi",
+      "src": "<LOCAL>
+      "value": 2.62
+    },
+    {
+      "key": "h1.s1seed5.base.toks",
+      "src": "<LOCAL>
+      "value": 2350
+    },
+    {
+      "key": "h1.s1seed5.base.toks.lo",
+      "src": "<LOCAL>
+      "value": 2158
+    },
+    {
+      "key": "h1.s1seed5.base.toks.hi",
+      "src": "<LOCAL>
+      "value": 2552
+    },
+    {
+      "key": "n.s1seed5.base.resp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "ctl.s1seed5.base.acc",
+      "src": "<LOCAL>
+      "value": 51.9
+    },
+    {
+      "key": "ctl.s1seed5.base.trunc",
+      "src": "<LOCAL>
+      "value": 11.2
+    },
+    {
+      "key": "h1.s1seed5.final.freq",
+      "src": "<LOCAL>
+      "value": 13.1
+    },
+    {
+      "key": "h1.s1seed5.final.freq.lo",
+      "src": "<LOCAL>
+      "value": 11.0
+    },
+    {
+      "key": "h1.s1seed5.final.freq.hi",
+      "src": "<LOCAL>
+      "value": 15.9
+    },
+    {
+      "key": "h1.s1seed5.final.freq100",
+      "src": "<LOCAL>
+      "value": 16.2
+    },
+    {
+      "key": "h1.s1seed5.final.freq100.lo",
+      "src": "<LOCAL>
+      "value": 14.0
+    },
+    {
+      "key": "h1.s1seed5.final.freq100.hi",
+      "src": "<LOCAL>
+      "value": 19.1
+    },
+    {
+      "key": "h1.s1seed5.final.fdisc",
+      "src": "<LOCAL>
+      "value": 21.2
+    },
+    {
+      "key": "h1.s1seed5.final.fdisc.lo",
+      "src": "<LOCAL>
+      "value": 18.9
+    },
+    {
+      "key": "h1.s1seed5.final.fdisc.hi",
+      "src": "<LOCAL>
+      "value": 24.3
+    },
+    {
+      "key": "h1.s1seed5.final.si",
+      "src": "<LOCAL>
+      "value": 89.8
+    },
+    {
+      "key": "h1.s1seed5.final.si.lo",
+      "src": "<LOCAL>
+      "value": 87.9
+    },
+    {
+      "key": "h1.s1seed5.final.si.hi",
+      "src": "<LOCAL>
+      "value": 91.7
+    },
+    {
+      "key": "h1.s1seed5.final.si.n",
+      "src": "<LOCAL>
+      "value": 54252
+    },
+    {
+      "key": "h1.s1seed5.final.siconn",
+      "src": "<LOCAL>
+      "value": 94.2
+    },
+    {
+      "key": "h1.s1seed5.final.siconn.lo",
+      "src": "<LOCAL>
+      "value": 93.1
+    },
+    {
+      "key": "h1.s1seed5.final.siconn.hi",
+      "src": "<LOCAL>
+      "value": 95.3
+    },
+    {
+      "key": "h1.s1seed5.final.siconn.n",
+      "src": "<LOCAL>
+      "value": 54252
+    },
+    {
+      "key": "h1.s1seed5.final.pi",
+      "src": "<LOCAL>
+      "value": 43.0
+    },
+    {
+      "key": "h1.s1seed5.final.pi.lo",
+      "src": "<LOCAL>
+      "value": 36.2
+    },
+    {
+      "key": "h1.s1seed5.final.pi.hi",
+      "src": "<LOCAL>
+      "value": 51.2
+    },
+    {
+      "key": "h1.s1seed5.final.orth",
+      "src": "<LOCAL>
+      "value": 36.2
+    },
+    {
+      "key": "h1.s1seed5.final.orth.lo",
+      "src": "<LOCAL>
+      "value": 29.7
+    },
+    {
+      "key": "h1.s1seed5.final.orth.hi",
+      "src": "<LOCAL>
+      "value": 42.7
+    },
+    {
+      "key": "h1.s1seed5.final.orth.n",
+      "src": "<LOCAL>
+      "value": 54252
+    },
+    {
+      "key": "h1.s1seed5.final.orthmax",
+      "src": "<LOCAL>
+      "value": 36.2
+    },
+    {
+      "key": "h1.s1seed5.final.orthmax.lo",
+      "src": "<LOCAL>
+      "value": 31.5
+    },
+    {
+      "key": "h1.s1seed5.final.orthmax.hi",
+      "src": "<LOCAL>
+      "value": 43.3
+    },
+    {
+      "key": "h1.s1seed5.final.orthmax.n",
+      "src": "<LOCAL>
+      "value": 54252
+    },
+    {
+      "key": "h1.s1seed5.final.commadrop",
+      "src": "<LOCAL>
+      "value": 59.4
+    },
+    {
+      "key": "h1.s1seed5.final.commadrop.lo",
+      "src": "<LOCAL>
+      "value": 52.1
+    },
+    {
+      "key": "h1.s1seed5.final.commadrop.hi",
+      "src": "<LOCAL>
+      "value": 66.7
+    },
+    {
+      "key": "h1.s1seed5.final.commadrop.n",
+      "src": "<LOCAL>
+      "value": 54252
+    },
+    {
+      "key": "h1.s1seed5.final.chain",
+      "src": "<LOCAL>
+      "value": 200.3
+    },
+    {
+      "key": "h1.s1seed5.final.chain.lo",
+      "src": "<LOCAL>
+      "value": 165.1
+    },
+    {
+      "key": "h1.s1seed5.final.chain.hi",
+      "src": "<LOCAL>
+      "value": 236.7
+    },
+    {
+      "key": "h1.s1seed5.final.chainshare",
+      "src": "<LOCAL>
+      "value": 48.6
+    },
+    {
+      "key": "h1.s1seed5.final.chainshare.lo",
+      "src": "<LOCAL>
+      "value": 39.0
+    },
+    {
+      "key": "h1.s1seed5.final.chainshare.hi",
+      "src": "<LOCAL>
+      "value": 57.8
+    },
+    {
+      "key": "h1.s1seed5.final.neff",
+      "src": "<LOCAL>
+      "value": 5.56
+    },
+    {
+      "key": "h1.s1seed5.final.neff.lo",
+      "src": "<LOCAL>
+      "value": 5.37
+    },
+    {
+      "key": "h1.s1seed5.final.neff.hi",
+      "src": "<LOCAL>
+      "value": 5.73
+    },
+    {
+      "key": "h1.s1seed5.final.sharewait",
+      "src": "<LOCAL>
+      "value": 37.3
+    },
+    {
+      "key": "h1.s1seed5.final.sharewait.lo",
+      "src": "<LOCAL>
+      "value": 35.0
+    },
+    {
+      "key": "h1.s1seed5.final.sharewait.hi",
+      "src": "<LOCAL>
+      "value": 39.6
+    },
+    {
+      "key": "h1.s1seed5.final.obl",
+      "src": "<LOCAL>
+      "value": 44.9
+    },
+    {
+      "key": "h1.s1seed5.final.obl.lo",
+      "src": "<LOCAL>
+      "value": 42.3
+    },
+    {
+      "key": "h1.s1seed5.final.obl.hi",
+      "src": "<LOCAL>
+      "value": 47.6
+    },
+    {
+      "key": "h1.s1seed5.final.obl.n",
+      "src": "<LOCAL>
+      "value": 3495
+    },
+    {
+      "key": "h1.s1seed5.final.rel",
+      "src": "<LOCAL>
+      "value": 3.3
+    },
+    {
+      "key": "h1.s1seed5.final.rel.lo",
+      "src": "<LOCAL>
+      "value": 2.8
+    },
+    {
+      "key": "h1.s1seed5.final.rel.hi",
+      "src": "<LOCAL>
+      "value": 3.9
+    },
+    {
+      "key": "h1.s1seed5.final.rel.n",
+      "src": "<LOCAL>
+      "value": 80364
+    },
+    {
+      "key": "h1.s1seed5.final.eros",
+      "src": "<LOCAL>
+      "value": 33.3
+    },
+    {
+      "key": "h1.s1seed5.final.eros.lo",
+      "src": "<LOCAL>
+      "value": 29.3
+    },
+    {
+      "key": "h1.s1seed5.final.eros.hi",
+      "src": "<LOCAL>
+      "value": 37.8
+    },
+    {
+      "key": "h1.s1seed5.final.sentlen",
+      "src": "<LOCAL>
+      "value": 5.8
+    },
+    {
+      "key": "h1.s1seed5.final.sentlen.lo",
+      "src": "<LOCAL>
+      "value": 4.9
+    },
+    {
+      "key": "h1.s1seed5.final.sentlen.hi",
+      "src": "<LOCAL>
+      "value": 6.8
+    },
+    {
+      "key": "h1.s1seed5.final.ctx",
+      "src": "<LOCAL>
+      "value": 2.42
+    },
+    {
+      "key": "h1.s1seed5.final.ctx.lo",
+      "src": "<LOCAL>
+      "value": 2.16
+    },
+    {
+      "key": "h1.s1seed5.final.ctx.hi",
+      "src": "<LOCAL>
+      "value": 2.69
+    },
+    {
+      "key": "h1.s1seed5.final.lex",
+      "src": "<LOCAL>
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1seed5.final.lex.lo",
+      "src": "<LOCAL>
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1seed5.final.lex.hi",
+      "src": "<LOCAL>
+      "value": 0.2
+    },
+    {
+      "key": "h1.s1seed5.final.revrate",
+      "src": "<LOCAL>
+      "value": 1.05
+    },
+    {
+      "key": "h1.s1seed5.final.revrate.lo",
+      "src": "<LOCAL>
+      "value": 0.96
+    },
+    {
+      "key": "h1.s1seed5.final.revrate.hi",
+      "src": "<LOCAL>
+      "value": 1.13
+    },
+    {
+      "key": "h1.s1seed5.final.toks",
+      "src": "<LOCAL>
+      "value": 4152
+    },
+    {
+      "key": "h1.s1seed5.final.toks.lo",
+      "src": "<LOCAL>
+      "value": 3957
+    },
+    {
+      "key": "h1.s1seed5.final.toks.hi",
+      "src": "<LOCAL>
+      "value": 4347
+    },
+    {
+      "key": "n.s1seed5.final.resp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "ctl.s1seed5.final.acc",
+      "src": "<LOCAL>
+      "value": 83.9
+    },
+    {
+      "key": "ctl.s1seed5.final.trunc",
+      "src": "<LOCAL>
+      "value": 15.2
+    },
+    {
+      "key": "n.s1seed5.ckpts",
+      "src": "<LOCAL>
+      "value": 2
+    },
+    {
+      "key": "h1.s1t06.base.freq",
+      "src": "<LOCAL>
+      "value": 5.1
+    },
+    {
+      "key": "h1.s1t06.base.freq.lo",
+      "src": "<LOCAL>
+      "value": 4.6
+    },
+    {
+      "key": "h1.s1t06.base.freq.hi",
+      "src": "<LOCAL>
+      "value": 5.7
+    },
+    {
+      "key": "h1.s1t06.base.freq100",
+      "src": "<LOCAL>
+      "value": 8.9
+    },
+    {
+      "key": "h1.s1t06.base.freq100.lo",
+      "src": "<LOCAL>
+      "value": 8.0
+    },
+    {
+      "key": "h1.s1t06.base.freq100.hi",
+      "src": "<LOCAL>
+      "value": 10.0
+    },
+    {
+      "key": "h1.s1t06.base.fdisc",
+      "src": "<LOCAL>
+      "value": 12.0
+    },
+    {
+      "key": "h1.s1t06.base.fdisc.lo",
+      "src": "<LOCAL>
+      "value": 11.2
+    },
+    {
+      "key": "h1.s1t06.base.fdisc.hi",
+      "src": "<LOCAL>
+      "value": 12.9
+    },
+    {
+      "key": "h1.s1t06.base.si",
+      "src": "<LOCAL>
+      "value": 91.7
+    },
+    {
+      "key": "h1.s1t06.base.si.lo",
+      "src": "<LOCAL>
+      "value": 90.0
+    },
+    {
+      "key": "h1.s1t06.base.si.hi",
+      "src": "<LOCAL>
+      "value": 93.2
+    },
+    {
+      "key": "h1.s1t06.base.si.n",
+      "src": "<LOCAL>
+      "value": 14232
+    },
+    {
+      "key": "h1.s1t06.base.siconn",
+      "src": "<LOCAL>
+      "value": 98.8
+    },
+    {
+      "key": "h1.s1t06.base.siconn.lo",
+      "src": "<LOCAL>
+      "value": 98.5
+    },
+    {
+      "key": "h1.s1t06.base.siconn.hi",
+      "src": "<LOCAL>
+      "value": 99.1
+    },
+    {
+      "key": "h1.s1t06.base.siconn.n",
+      "src": "<LOCAL>
+      "value": 14232
+    },
+    {
+      "key": "h1.s1t06.base.pi",
+      "src": "<LOCAL>
+      "value": 31.0
+    },
+    {
+      "key": "h1.s1t06.base.pi.lo",
+      "src": "<LOCAL>
+      "value": 26.9
+    },
+    {
+      "key": "h1.s1t06.base.pi.hi",
+      "src": "<LOCAL>
+      "value": 35.1
+    },
+    {
+      "key": "h1.s1t06.base.orth",
+      "src": "<LOCAL>
+      "value": 91.7
+    },
+    {
+      "key": "h1.s1t06.base.orth.lo",
+      "src": "<LOCAL>
+      "value": 90.1
+    },
+    {
+      "key": "h1.s1t06.base.orth.hi",
+      "src": "<LOCAL>
+      "value": 93.2
+    },
+    {
+      "key": "h1.s1t06.base.orth.n",
+      "src": "<LOCAL>
+      "value": 14232
+    },
+    {
+      "key": "h1.s1t06.base.orthmax",
+      "src": "<LOCAL>
+      "value": 91.7
+    },
+    {
+      "key": "h1.s1t06.base.orthmax.lo",
+      "src": "<LOCAL>
+      "value": 90.1
+    },
+    {
+      "key": "h1.s1t06.base.orthmax.hi",
+      "src": "<LOCAL>
+      "value": 93.2
+    },
+    {
+      "key": "h1.s1t06.base.orthmax.n",
+      "src": "<LOCAL>
+      "value": 14232
+    },
+    {
+      "key": "h1.s1t06.base.commadrop",
+      "src": "<LOCAL>
+      "value": 0.4
+    },
+    {
+      "key": "h1.s1t06.base.commadrop.lo",
+      "src": "<LOCAL>
+      "value": 0.3
+    },
+    {
+      "key": "h1.s1t06.base.commadrop.hi",
+      "src": "<LOCAL>
+      "value": 0.5
+    },
+    {
+      "key": "h1.s1t06.base.commadrop.n",
+      "src": "<LOCAL>
+      "value": 14232
+    },
+    {
+      "key": "h1.s1t06.base.chain",
+      "src": "<LOCAL>
+      "value": 84.8
+    },
+    {
+      "key": "h1.s1t06.base.chain.lo",
+      "src": "<LOCAL>
+      "value": 70.8
+    },
+    {
+      "key": "h1.s1t06.base.chain.hi",
+      "src": "<LOCAL>
+      "value": 99.4
+    },
+    {
+      "key": "h1.s1t06.base.chainshare",
+      "src": "<LOCAL>
+      "value": 16.3
+    },
+    {
+      "key": "h1.s1t06.base.chainshare.lo",
+      "src": "<LOCAL>
+      "value": 9.8
+    },
+    {
+      "key": "h1.s1t06.base.chainshare.hi",
+      "src": "<LOCAL>
+      "value": 24.3
+    },
+    {
+      "key": "h1.s1t06.base.neff",
+      "src": "<LOCAL>
+      "value": 5.5
+    },
+    {
+      "key": "h1.s1t06.base.neff.lo",
+      "src": "<LOCAL>
+      "value": 4.71
+    },
+    {
+      "key": "h1.s1t06.base.neff.hi",
+      "src": "<LOCAL>
+      "value": 6.15
+    },
+    {
+      "key": "h1.s1t06.base.sharewait",
+      "src": "<LOCAL>
+      "value": 27.5
+    },
+    {
+      "key": "h1.s1t06.base.sharewait.lo",
+      "src": "<LOCAL>
+      "value": 25.1
+    },
+    {
+      "key": "h1.s1t06.base.sharewait.hi",
+      "src": "<LOCAL>
+      "value": 30.0
+    },
+    {
+      "key": "h1.s1t06.base.obl",
+      "src": "<LOCAL>
+      "value": 59.0
+    },
+    {
+      "key": "h1.s1t06.base.obl.lo",
+      "src": "<LOCAL>
+      "value": 54.1
+    },
+    {
+      "key": "h1.s1t06.base.obl.hi",
+      "src": "<LOCAL>
+      "value": 63.6
+    },
+    {
+      "key": "h1.s1t06.base.obl.n",
+      "src": "<LOCAL>
+      "value": 4421
+    },
+    {
+      "key": "h1.s1t06.base.rel",
+      "src": "<LOCAL>
+      "value": 12.7
+    },
+    {
+      "key": "h1.s1t06.base.rel.lo",
+      "src": "<LOCAL>
+      "value": 10.5
+    },
+    {
+      "key": "h1.s1t06.base.rel.hi",
+      "src": "<LOCAL>
+      "value": 15.2
+    },
+    {
+      "key": "h1.s1t06.base.rel.n",
+      "src": "<LOCAL>
+      "value": 31972
+    },
+    {
+      "key": "h1.s1t06.base.eros",
+      "src": "<LOCAL>
+      "value": 25.1
+    },
+    {
+      "key": "h1.s1t06.base.eros.lo",
+      "src": "<LOCAL>
+      "value": 21.0
+    },
+    {
+      "key": "h1.s1t06.base.eros.hi",
+      "src": "<LOCAL>
+      "value": 29.4
+    },
+    {
+      "key": "h1.s1t06.base.sentlen",
+      "src": "<LOCAL>
+      "value": 11.7
+    },
+    {
+      "key": "h1.s1t06.base.sentlen.lo",
+      "src": "<LOCAL>
+      "value": 11.0
+    },
+    {
+      "key": "h1.s1t06.base.sentlen.hi",
+      "src": "<LOCAL>
+      "value": 12.5
+    },
+    {
+      "key": "h1.s1t06.base.ctx",
+      "src": "<LOCAL>
+      "value": 1.09
+    },
+    {
+      "key": "h1.s1t06.base.ctx.lo",
+      "src": "<LOCAL>
+      "value": 1.07
+    },
+    {
+      "key": "h1.s1t06.base.ctx.hi",
+      "src": "<LOCAL>
+      "value": 1.11
+    },
+    {
+      "key": "h1.s1t06.base.lex",
+      "src": "<LOCAL>
+      "value": 0.4
+    },
+    {
+      "key": "h1.s1t06.base.lex.lo",
+      "src": "<LOCAL>
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1t06.base.lex.hi",
+      "src": "<LOCAL>
+      "value": 0.7
+    },
+    {
+      "key": "h1.s1t06.base.revrate",
+      "src": "<LOCAL>
+      "value": 2.77
+    },
+    {
+      "key": "h1.s1t06.base.revrate.lo",
+      "src": "<LOCAL>
+      "value": 2.4
+    },
+    {
+      "key": "h1.s1t06.base.revrate.hi",
+      "src": "<LOCAL>
+      "value": 3.18
+    },
+    {
+      "key": "h1.s1t06.base.toks",
+      "src": "<LOCAL>
+      "value": 2788
+    },
+    {
+      "key": "h1.s1t06.base.toks.lo",
+      "src": "<LOCAL>
+      "value": 2572
+    },
+    {
+      "key": "h1.s1t06.base.toks.hi",
+      "src": "<LOCAL>
+      "value": 3010
+    },
+    {
+      "key": "n.s1t06.base.resp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "ctl.s1t06.base.acc",
+      "src": "<LOCAL>
+      "value": 69.5
+    },
+    {
+      "key": "ctl.s1t06.base.trunc",
+      "src": "<LOCAL>
+      "value": 17.8
+    },
+    {
+      "key": "h1.s1t06.final.freq",
+      "src": "<LOCAL>
+      "value": 76.5
+    },
+    {
+      "key": "h1.s1t06.final.freq.lo",
+      "src": "<LOCAL>
+      "value": 64.3
+    },
+    {
+      "key": "h1.s1t06.final.freq.hi",
+      "src": "<LOCAL>
+      "value": 88.6
+    },
+    {
+      "key": "h1.s1t06.final.freq100",
+      "src": "<LOCAL>
+      "value": 58.5
+    },
+    {
+      "key": "h1.s1t06.final.freq100.lo",
+      "src": "<LOCAL>
+      "value": 53.3
+    },
+    {
+      "key": "h1.s1t06.final.freq100.hi",
+      "src": "<LOCAL>
+      "value": 62.7
+    },
+    {
+      "key": "h1.s1t06.final.fdisc",
+      "src": "<LOCAL>
+      "value": 82.6
+    },
+    {
+      "key": "h1.s1t06.final.fdisc.lo",
+      "src": "<LOCAL>
+      "value": 70.8
+    },
+    {
+      "key": "h1.s1t06.final.fdisc.hi",
+      "src": "<LOCAL>
+      "value": 94.3
+    },
+    {
+      "key": "h1.s1t06.final.si",
+      "src": "<LOCAL>
+      "value": 98.6
+    },
+    {
+      "key": "h1.s1t06.final.si.lo",
+      "src": "<LOCAL>
+      "value": 98.3
+    },
+    {
+      "key": "h1.s1t06.final.si.hi",
+      "src": "<LOCAL>
+      "value": 98.9
+    },
+    {
+      "key": "h1.s1t06.final.si.n",
+      "src": "<LOCAL>
+      "value": 355902
+    },
+    {
+      "key": "h1.s1t06.final.siconn",
+      "src": "<LOCAL>
+      "value": 99.4
+    },
+    {
+      "key": "h1.s1t06.final.siconn.lo",
+      "src": "<LOCAL>
+      "value": 99.3
+    },
+    {
+      "key": "h1.s1t06.final.siconn.hi",
+      "src": "<LOCAL>
+      "value": 99.5
+    },
+    {
+      "key": "h1.s1t06.final.siconn.n",
+      "src": "<LOCAL>
+      "value": 355902
+    },
+    {
+      "key": "h1.s1t06.final.pi",
+      "src": "<LOCAL>
+      "value": 6.5
+    },
+    {
+      "key": "h1.s1t06.final.pi.lo",
+      "src": "<LOCAL>
+      "value": 5.0
+    },
+    {
+      "key": "h1.s1t06.final.pi.hi",
+      "src": "<LOCAL>
+      "value": 8.3
+    },
+    {
+      "key": "h1.s1t06.final.orth",
+      "src": "<LOCAL>
+      "value": 36.4
+    },
+    {
+      "key": "h1.s1t06.final.orth.lo",
+      "src": "<LOCAL>
+      "value": 29.9
+    },
+    {
+      "key": "h1.s1t06.final.orth.hi",
+      "src": "<LOCAL>
+      "value": 43.7
+    },
+    {
+      "key": "h1.s1t06.final.orth.n",
+      "src": "<LOCAL>
+      "value": 355902
+    },
+    {
+      "key": "h1.s1t06.final.orthmax",
+      "src": "<LOCAL>
+      "value": 56.4
+    },
+    {
+      "key": "h1.s1t06.final.orthmax.lo",
+      "src": "<LOCAL>
+      "value": 48.2
+    },
+    {
+      "key": "h1.s1t06.final.orthmax.hi",
+      "src": "<LOCAL>
+      "value": 63.7
+    },
+    {
+      "key": "h1.s1t06.final.orthmax.n",
+      "src": "<LOCAL>
+      "value": 355902
+    },
+    {
+      "key": "h1.s1t06.final.commadrop",
+      "src": "<LOCAL>
+      "value": 62.7
+    },
+    {
+      "key": "h1.s1t06.final.commadrop.lo",
+      "src": "<LOCAL>
+      "value": 55.4
+    },
+    {
+      "key": "h1.s1t06.final.commadrop.hi",
+      "src": "<LOCAL>
+      "value": 69.3
+    },
+    {
+      "key": "h1.s1t06.final.commadrop.n",
+      "src": "<LOCAL>
+      "value": 355902
+    },
+    {
+      "key": "h1.s1t06.final.chain",
+      "src": "<LOCAL>
+      "value": 30.3
+    },
+    {
+      "key": "h1.s1t06.final.chain.lo",
+      "src": "<LOCAL>
+      "value": 24.7
+    },
+    {
+      "key": "h1.s1t06.final.chain.hi",
+      "src": "<LOCAL>
+      "value": 37.7
+    },
+    {
+      "key": "h1.s1t06.final.chainshare",
+      "src": "<LOCAL>
+      "value": 93.2
+    },
+    {
+      "key": "h1.s1t06.final.chainshare.lo",
+      "src": "<LOCAL>
+      "value": 91.6
+    },
+    {
+      "key": "h1.s1t06.final.chainshare.hi",
+      "src": "<LOCAL>
+      "value": 94.4
+    },
+    {
+      "key": "h1.s1t06.final.neff",
+      "src": "<LOCAL>
+      "value": 5.62
+    },
+    {
+      "key": "h1.s1t06.final.neff.lo",
+      "src": "<LOCAL>
+      "value": 5.4
+    },
+    {
+      "key": "h1.s1t06.final.neff.hi",
+      "src": "<LOCAL>
+      "value": 5.81
+    },
+    {
+      "key": "h1.s1t06.final.sharewait",
+      "src": "<LOCAL>
+      "value": 31.1
+    },
+    {
+      "key": "h1.s1t06.final.sharewait.lo",
+      "src": "<LOCAL>
+      "value": 28.6
+    },
+    {
+      "key": "h1.s1t06.final.sharewait.hi",
+      "src": "<LOCAL>
+      "value": 33.6
+    },
+    {
+      "key": "h1.s1t06.final.obl",
+      "src": "<LOCAL>
+      "value": 41.2
+    },
+    {
+      "key": "h1.s1t06.final.obl.lo",
+      "src": "<LOCAL>
+      "value": 38.3
+    },
+    {
+      "key": "h1.s1t06.final.obl.hi",
+      "src": "<LOCAL>
+      "value": 44.5
+    },
+    {
+      "key": "h1.s1t06.final.obl.n",
+      "src": "<LOCAL>
+      "value": 2976
+    },
+    {
+      "key": "h1.s1t06.final.rel",
+      "src": "<LOCAL>
+      "value": 0.6
+    },
+    {
+      "key": "h1.s1t06.final.rel.lo",
+      "src": "<LOCAL>
+      "value": 0.5
+    },
+    {
+      "key": "h1.s1t06.final.rel.hi",
+      "src": "<LOCAL>
+      "value": 0.7
+    },
+    {
+      "key": "h1.s1t06.final.rel.n",
+      "src": "<LOCAL>
+      "value": 377815
+    },
+    {
+      "key": "h1.s1t06.final.eros",
+      "src": "<LOCAL>
+      "value": 32.3
+    },
+    {
+      "key": "h1.s1t06.final.eros.lo",
+      "src": "<LOCAL>
+      "value": 26.6
+    },
+    {
+      "key": "h1.s1t06.final.eros.hi",
+      "src": "<LOCAL>
+      "value": 39.1
+    },
+    {
+      "key": "h1.s1t06.final.sentlen",
+      "src": "<LOCAL>
+      "value": 2.0
+    },
+    {
+      "key": "h1.s1t06.final.sentlen.lo",
+      "src": "<LOCAL>
+      "value": 1.8
+    },
+    {
+      "key": "h1.s1t06.final.sentlen.hi",
+      "src": "<LOCAL>
+      "value": 2.1
+    },
+    {
+      "key": "h1.s1t06.final.ctx",
+      "src": "<LOCAL>
+      "value": 1.11
+    },
+    {
+      "key": "h1.s1t06.final.ctx.lo",
+      "src": "<LOCAL>
+      "value": 1.08
+    },
+    {
+      "key": "h1.s1t06.final.ctx.hi",
+      "src": "<LOCAL>
+      "value": 1.16
+    },
+    {
+      "key": "h1.s1t06.final.lex",
+      "src": "<LOCAL>
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1t06.final.lex.lo",
+      "src": "<LOCAL>
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1t06.final.lex.hi",
+      "src": "<LOCAL>
+      "value": 0.0
+    },
+    {
+      "key": "h1.s1t06.final.revrate",
+      "src": "<LOCAL>
+      "value": 0.49
+    },
+    {
+      "key": "h1.s1t06.final.revrate.lo",
+      "src": "<LOCAL>
+      "value": 0.42
+    },
+    {
+      "key": "h1.s1t06.final.revrate.hi",
+      "src": "<LOCAL>
+      "value": 0.57
+    },
+    {
+      "key": "h1.s1t06.final.toks",
+      "src": "<LOCAL>
+      "value": 4652
+    },
+    {
+      "key": "h1.s1t06.final.toks.lo",
+      "src": "<LOCAL>
+      "value": 4445
+    },
+    {
+      "key": "h1.s1t06.final.toks.hi",
+      "src": "<LOCAL>
+      "value": 4866
+    },
+    {
+      "key": "n.s1t06.final.resp",
+      "src": "<LOCAL>
+      "value": 1000
+    },
+    {
+      "key": "ctl.s1t06.final.acc",
+      "src": "<LOCAL>
+      "value": 70.5
+    },
+    {
+      "key": "ctl.s1t06.final.trunc",
+      "src": "<LOCAL>
+      "value": 29.1
+    },
+    {
+      "key": "n.s1t06.ckpts",
+      "src": "<LOCAL>
+      "value": 2
+    },
+    {
+      "key": "h1.s2seed1.base.freq",
+      "src": "<LOCAL>
+      "value": 3.9
+    },
+    {
+      "key": "h1.s2seed1.base.freq.lo",
+      "src": "<LOCAL>
+      "value": 3.6
+    },
+    {
+      "key": "h1.s2seed1.base.freq.hi",
+      "src": "<LOCAL>
+      "value": 4.1
+    },
+    {
+      "key": "h1.s2seed1.base.freq100",
+      "src": "<LOCAL>
+      "value": 7.2
+    },
+    {
+      "key": "h1.s2seed1.base.freq100.lo",
+      "src": "<LOCAL>
+      "value": 6.6
+    },
+    {
+      "key": "h1.s2seed1.base.freq100.hi",
+      "src": "<LOCAL>
+      "value": 7.7
+    },
+    {
+      "key": "h1.s2seed1.base.fdisc",
+      "src": "<LOCAL>
+      "value": 10.5
+    },
+    {
+      "key": "h1.s2seed1.base.fdisc.lo",
+      "src": "<LOCAL>
+      "value": 9.9
+    },
+    {
+      "key": "h1.s2seed1.base.fdisc.hi",
+      "src": "<LOCAL>
+      "value": 11.1
+    },
+    {
+      "key": "h1.s2seed1.base.si",
+      "src": "<LOCAL>
+      "value": 87.8
+    },
+    {
+      "key": "h1.s2seed1.base.si.lo",
+      "src": "<LOCAL>
+      "value": 86.4
+    },
+    {
+      "key": "h1.s2seed1.base.si.hi",
+      "src": "<LOCAL>
+      "value": 89.0
+    },
+    {
+      "key": "h1.s2seed1.base.si.n",
+      "src": "<LOCAL>
+      "value": 10321
+    },
+    {
+      "key": "h1.s2seed1.base.siconn",
+      "src": "<LOCAL>
+      "value": 96.6
+    },
+    {
+      "key": "h1.s2seed1.base.siconn.lo",
+      "src": "<LOCAL>
+      "value": 96.2
+    },
+    {
+      "key": "h1.s2seed1.base.siconn.hi",
+      "src": "<LOCAL>
+      "value": 97.0
+    },
+    {
+      "key": "h1.s2seed1.base.siconn.n",
+      "src": "<LOCAL>
+      "value": 10321
+    },
+    {
+      "key": "h1.s2seed1.base.pi",
+      "src": "<LOCAL>
+      "value": 35.0
+    },
+    {
+      "key": "h1.s2seed1.base.pi.lo",
+      "src": "<LOCAL>
+      "value": 33.0
+    },
+    {
+      "key": "h1.s2seed1.base.pi.hi",
+      "src": "<LOCAL>
+      "value": 36.9
+    },
+    {
+      "key": "h1.s2seed1.base.orth",
+      "src": "<LOCAL>
+      "value": 56.4
+    },
+    {
+      "key": "h1.s2seed1.base.orth.lo",
+      "src": "<LOCAL>
+      "value": 53.6
+    },
+    {
+      "key": "h1.s2seed1.base.orth.hi",
+      "src": "<LOCAL>
+      "value": 59.2
+    },
+    {
+      "key": "h1.s2seed1.base.orth.n",
+      "src": "<LOCAL>
+      "value": 10321
+    },
+    {
+      "key": "h1.s2seed1.base.orthmax",
+      "src": "<LOCAL>
+      "value": 56.4
+    },
+    {
+      "key": "h1.s2seed1.base.orthmax.lo",
+      "src": "<LOCAL>
+      "value": 53.6
+    },
+    {
+      "key": "h1.s2seed1.base.orthmax.hi",
+      "src": "<LOCAL>
+      "value": 59.2
+    },
+    {
+      "key": "h1.s2seed1.base.orthmax.n",
+      "src": "<LOCAL>
+      "value": 10321
+    },
+    {
+      "key": "h1.s2seed1.base.commadrop",
+      "src": "<LOCAL>
+      "value": 34.3
+    },
+    {
+      "key": "h1.s2seed1.base.commadrop.lo",
+      "src": "<LOCAL>
+      "value": 31.0
+    },
+    {
+      "key": "h1.s2seed1.base.commadrop.hi",
+      "src": "<LOCAL>
+      "value": 37.5
+    },
+    {
+      "key": "h1.s2seed1.base.commadrop.n",
+      "src": "<LOCAL>
+      "value": 10321
+    },
+    {
+      "key": "h1.s2seed1.base.chain",
+      "src": "<LOCAL>
+      "value": 79.2
+    },
+    {
+      "key": "h1.s2seed1.base.chain.lo",
+      "src": "<LOCAL>
+      "value": 70.9
+    },
+    {
+      "key": "h1.s2seed1.base.chain.hi",
+      "src": "<LOCAL>
+      "value": 87.9
+    },
+    {
+      "key": "h1.s2seed1.base.chainshare",
+      "src": "<LOCAL>
+      "value": 9.4
+    },
+    {
+      "key": "h1.s2seed1.base.chainshare.lo",
+      "src": "<LOCAL>
+      "value": 8.3
+    },
+    {
+      "key": "h1.s2seed1.base.chainshare.hi",
+      "src": "<LOCAL>
+      "value": 10.4
+    },
+    {
+      "key": "h1.s2seed1.base.neff",
+      "src": "<LOCAL>
+      "value": 7.23
+    },
+    {
+      "key": "h1.s2seed1.base.neff.lo",
+      "src": "<LOCAL>
+      "value": 6.99
+    },
+    {
+      "key": "h1.s2seed1.base.neff.hi",
+      "src": "<LOCAL>
+      "value": 7.43
+    },
+    {
+      "key": "h1.s2seed1.base.sharewait",
+      "src": "<LOCAL>
+      "value": 26.1
+    },
+    {
+      "key": "h1.s2seed1.base.sharewait.lo",
+      "src": "<LOCAL>
+      "value": 24.2
+    },
+    {
+      "key": "h1.s2seed1.base.sharewait.hi",
+      "src": "<LOCAL>
+      "value": 27.8
+    },
+    {
+      "key": "h1.s2seed1.base.obl",
+      "src": "<LOCAL>
+      "value": 52.8
+    },
+    {
+      "key": "h1.s2seed1.base.obl.lo",
+      "src": "<LOCAL>
+      "value": 49.5
+    },
+    {
+      "key": "h1.s2seed1.base.obl.hi",
+      "src": "<LOCAL>
+      "value": 55.9
+    },
+    {
+      "key": "h1.s2seed1.base.obl.n",
+      "src": "<LOCAL>
+      "value": 2478
+    },
+    {
+      "key": "h1.s2seed1.base.rel",
+      "src": "<LOCAL>
+      "value": 8.3
+    },
+    {
+      "key": "h1.s2seed1.base.rel.lo",
+      "src": "<LOCAL>
+      "value": 7.4
+    },
+    {
+      "key": "h1.s2seed1.base.rel.hi",
+      "src": "<LOCAL>
+      "value": 9.2
+    },
+    {
+      "key": "h1.s2seed1.base.rel.n",
+      "src": "<LOCAL>
+      "value": 24500
+    },
+    {
+      "key": "h1.s2seed1.base.eros",
+      "src": "<LOCAL>
+      "value": 29.9
+    },
+    {
+      "key": "h1.s2seed1.base.eros.lo",
+      "src": "<LOCAL>
+      "value": 24.1
+    },
+    {
+      "key": "h1.s2seed1.base.eros.hi",
+      "src": "<LOCAL>
+      "value": 37.9
+    },
+    {
+      "key": "h1.s2seed1.base.sentlen",
+      "src": "<LOCAL>
+      "value": 13.6
+    },
+    {
+      "key": "h1.s2seed1.base.sentlen.lo",
+      "src": "<LOCAL>
+      "value": 13.2
+    },
+    {
+      "key": "h1.s2seed1.base.sentlen.hi",
+      "src": "<LOCAL>
+      "value": 14.0
+    },
+    {
+      "key": "h1.s2seed1.base.ctx",
+      "src": "<LOCAL>
+      "value": 2.37
+    },
+    {
+      "key": "h1.s2seed1.base.ctx.lo",
+      "src": "<LOCAL>
+      "value": 2.2
+    },
+    {
+      "key": "h1.s2seed1.base.ctx.hi",
+      "src": "<LOCAL>
+      "value": 2.54
+    },
+    {
+      "key": "h1.s2seed1.base.lex",
+      "src": "<LOCAL>
+      "value": 0.4
+    },
+    {
+      "key": "h1.s2seed1.base.lex.lo",
+      "src": "<LOCAL>
+      "value": 0.3
+    },
+    {
+      "key": "h1.s2seed1.base.lex.hi",
+      "src": "<LOCAL>
+      "value": 0.6
+    },
+    {
+      "key": "h1.s2seed1.base.revrate",
+      "src": "<LOCAL>
+      "value": 1.72
+    },
+    {
+      "key": "h1.s2seed1.base.revrate.lo",
+      "src": "<LOCAL>
+      "value": 1.57
+    },
+    {
+      "key": "h1.s2seed1.base.revrate.hi",
+      "src": "<LOCAL>
+      "value": 1.9
+    },
+    {
+      "key": "h1.s2seed1.base.toks",
+      "src": "<LOCAL>
+      "value": 4459
+    },
+    {
+      "key": "h1.s2seed1.base.toks.lo",
+      "src": "<LOCAL>
+      "value": 4071
+    },
+    {
+      "key": "h1.s2seed1.base.toks.hi",
+      "src": "<LOCAL>
+      "value": 4853
+    },
+    {
+      "key": "n.s2seed1.base.resp",
+      "src": "<LOCAL>
+      "value": 600
+    },
+    {
+      "key": "ctl.s2seed1.base.acc",
+      "src": "<LOCAL>
+      "value": 88.3
+    },
+    {
+      "key": "ctl.s2seed1.base.trunc",
+      "src": "<LOCAL>
+      "value": 9.0
+    },
+    {
+      "key": "h1.s2seed1.late.freq",
+      "src": "<LOCAL>
+      "value": 4.6
+    },
+    {
+      "key": "h1.s2seed1.late.freq.lo",
+      "src": "<LOCAL>
+      "value": 4.3
+    },
+    {
+      "key": "h1.s2seed1.late.freq.hi",
+      "src": "<LOCAL>
+      "value": 4.9
+    },
+    {
+      "key": "h1.s2seed1.late.freq100",
+      "src": "<LOCAL>
+      "value": 8.0
+    },
+    {
+      "key": "h1.s2seed1.late.freq100.lo",
+      "src": "<LOCAL>
+      "value": 7.4
+    },
+    {
+      "key": "h1.s2seed1.late.freq100.hi",
+      "src": "<LOCAL>
+      "value": 8.6
+    },
+    {
+      "key": "h1.s2seed1.late.fdisc",
+      "src": "<LOCAL>
+      "value": 11.3
+    },
+    {
+      "key": "h1.s2seed1.late.fdisc.lo",
+      "src": "<LOCAL>
+      "value": 10.8
+    },
+    {
+      "key": "h1.s2seed1.late.fdisc.hi",
+      "src": "<LOCAL>
+      "value": 11.8
+    },
+    {
+      "key": "h1.s2seed1.late.si",
+      "src": "<LOCAL>
+      "value": 93.4
+    },
+    {
+      "key": "h1.s2seed1.late.si.lo",
+      "src": "<LOCAL>
+      "value": 92.4
+    },
+    {
+      "key": "h1.s2seed1.late.si.hi",
+      "src": "<LOCAL>
+      "value": 94.2
+    },
+    {
+      "key": "h1.s2seed1.late.si.n",
+      "src": "<LOCAL>
+      "value": 14292
+    },
+    {
+      "key": "h1.s2seed1.late.siconn",
+      "src": "<LOCAL>
+      "value": 98.1
+    },
+    {
+      "key": "h1.s2seed1.late.siconn.lo",
+      "src": "<LOCAL>
+      "value": 97.8
+    },
+    {
+      "key": "h1.s2seed1.late.siconn.hi",
+      "src": "<LOCAL>
+      "value": 98.4
+    },
+    {
+      "key": "h1.s2seed1.late.siconn.n",
+      "src": "<LOCAL>
+      "value": 14292
+    },
+    {
+      "key": "h1.s2seed1.late.pi",
+      "src": "<LOCAL>
+      "value": 32.2
+    },
+    {
+      "key": "h1.s2seed1.late.pi.lo",
+      "src": "<LOCAL>
+      "value": 30.2
+    },
+    {
+      "key": "h1.s2seed1.late.pi.hi",
+      "src": "<LOCAL>
+      "value": 34.1
+    },
+    {
+      "key": "h1.s2seed1.late.orth",
+      "src": "<LOCAL>
+      "value": 77.0
+    },
+    {
+      "key": "h1.s2seed1.late.orth.lo",
+      "src": "<LOCAL>
+      "value": 74.6
+    },
+    {
+      "key": "h1.s2seed1.late.orth.hi",
+      "src": "<LOCAL>
+      "value": 79.2
+    },
+    {
+      "key": "h1.s2seed1.late.orth.n",
+      "src": "<LOCAL>
+      "value": 14292
+    },
+    {
+      "key": "h1.s2seed1.late.orthmax",
+      "src": "<LOCAL>
+      "value": 77.0
+    },
+    {
+      "key": "h1.s2seed1.late.orthmax.lo",
+      "src": "<LOCAL>
+      "value": 74.6
+    },
+    {
+      "key": "h1.s2seed1.late.orthmax.hi",
+      "src": "<LOCAL>
+      "value": 79.2
+    },
+    {
+      "key": "h1.s2seed1.late.orthmax.n",
+      "src": "<LOCAL>
+      "value": 14292
+    },
+    {
+      "key": "h1.s2seed1.late.commadrop",
+      "src": "<LOCAL>
+      "value": 17.7
+    },
+    {
+      "key": "h1.s2seed1.late.commadrop.lo",
+      "src": "<LOCAL>
+      "value": 15.5
+    },
+    {
+      "key": "h1.s2seed1.late.commadrop.hi",
+      "src": "<LOCAL>
+      "value": 20.0
+    },
+    {
+      "key": "h1.s2seed1.late.commadrop.n",
+      "src": "<LOCAL>
+      "value": 14292
+    },
+    {
+      "key": "h1.s2seed1.late.chain",
+      "src": "<LOCAL>
+      "value": 113.0
+    },
+    {
+      "key": "h1.s2seed1.late.chain.lo",
+      "src": "<LOCAL>
+      "value": 104.2
+    },
+    {
+      "key": "h1.s2seed1.late.chain.hi",
+      "src": "<LOCAL>
+      "value": 121.8
+    },
+    {
+      "key": "h1.s2seed1.late.chainshare",
+      "src": "<LOCAL>
+      "value": 14.0
+    },
+    {
+      "key": "h1.s2seed1.late.chainshare.lo",
+      "src": "<LOCAL>
+      "value": 12.5
+    },
+    {
+      "key": "h1.s2seed1.late.chainshare.hi",
+      "src": "<LOCAL>
+      "value": 15.5
+    },
+    {
+      "key": "h1.s2seed1.late.neff",
+      "src": "<LOCAL>
+      "value": 6.78
+    },
+    {
+      "key": "h1.s2seed1.late.neff.lo",
+      "src": "<LOCAL>
+      "value": 6.6
+    },
+    {
+      "key": "h1.s2seed1.late.neff.hi",
+      "src": "<LOCAL>
+      "value": 6.93
+    },
+    {
+      "key": "h1.s2seed1.late.sharewait",
+      "src": "<LOCAL>
+      "value": 28.7
+    },
+    {
+      "key": "h1.s2seed1.late.sharewait.lo",
+      "src": "<LOCAL>
+      "value": 27.0
+    },
+    {
+      "key": "h1.s2seed1.late.sharewait.hi",
+      "src": "<LOCAL>
+      "value": 30.6
+    },
+    {
+      "key": "h1.s2seed1.late.obl",
+      "src": "<LOCAL>
+      "value": 53.0
+    },
+    {
+      "key": "h1.s2seed1.late.obl.lo",
+      "src": "<LOCAL>
+      "value": 50.1
+    },
+    {
+      "key": "h1.s2seed1.late.obl.hi",
+      "src": "<LOCAL>
+      "value": 55.8
+    },
+    {
+      "key": "h1.s2seed1.late.obl.n",
+      "src": "<LOCAL>
+      "value": 3471
+    },
+    {
+      "key": "h1.s2seed1.late.rel",
+      "src": "<LOCAL>
+      "value": 9.3
+    },
+    {
+      "key": "h1.s2seed1.late.rel.lo",
+      "src": "<LOCAL>
+      "value": 8.4
+    },
+    {
+      "key": "h1.s2seed1.late.rel.hi",
+      "src": "<LOCAL>
+      "value": 10.2
+    },
+    {
+      "key": "h1.s2seed1.late.rel.n",
+      "src": "<LOCAL>
+      "value": 31506
+    },
+    {
+      "key": "h1.s2seed1.late.eros",
+      "src": "<LOCAL>
+      "value": 30.1
+    },
+    {
+      "key": "h1.s2seed1.late.eros.lo",
+      "src": "<LOCAL>
+      "value": 24.4
+    },
+    {
+      "key": "h1.s2seed1.late.eros.hi",
+      "src": "<LOCAL>
+      "value": 37.2
+    },
+    {
+      "key": "h1.s2seed1.late.sentlen",
+      "src": "<LOCAL>
+      "value": 12.7
+    },
+    {
+      "key": "h1.s2seed1.late.sentlen.lo",
+      "src": "<LOCAL>
+      "value": 12.3
+    },
+    {
+      "key": "h1.s2seed1.late.sentlen.hi",
+      "src": "<LOCAL>
+      "value": 13.1
+    },
+    {
+      "key": "h1.s2seed1.late.ctx",
+      "src": "<LOCAL>
+      "value": 1.62
+    },
+    {
+      "key": "h1.s2seed1.late.ctx.lo",
+      "src": "<LOCAL>
+      "value": 1.52
+    },
+    {
+      "key": "h1.s2seed1.late.ctx.hi",
+      "src": "<LOCAL>
+      "value": 1.73
+    },
+    {
+      "key": "h1.s2seed1.late.lex",
+      "src": "<LOCAL>
+      "value": 0.4
+    },
+    {
+      "key": "h1.s2seed1.late.lex.lo",
+      "src": "<LOCAL>
+      "value": 0.2
+    },
+    {
+      "key": "h1.s2seed1.late.lex.hi",
+      "src": "<LOCAL>
+      "value": 0.6
+    },
+    {
+      "key": "h1.s2seed1.late.revrate",
+      "src": "<LOCAL>
+      "value": 1.93
+    },
+    {
+      "key": "h1.s2seed1.late.revrate.lo",
+      "src": "<LOCAL>
+      "value": 1.76
+    },
+    {
+      "key": "h1.s2seed1.late.revrate.hi",
+      "src": "<LOCAL>
+      "value": 2.11
+    },
+    {
+      "key": "h1.s2seed1.late.toks",
+      "src": "<LOCAL>
+      "value": 5213
+    },
+    {
+      "key": "h1.s2seed1.late.toks.lo",
+      "src": "<LOCAL>
+      "value": 4843
+    },
+    {
+      "key": "h1.s2seed1.late.toks.hi",
+      "src": "<LOCAL>
+      "value": 5572
+    },
+    {
+      "key": "n.s2seed1.late.resp",
+      "src": "<LOCAL>
+      "value": 600
+    },
+    {
+      "key": "ctl.s2seed1.late.acc",
+      "src": "<LOCAL>
+      "value": 90.5
+    },
+    {
+      "key": "ctl.s2seed1.late.trunc",
+      "src": "<LOCAL>
+      "value": 9.3
+    },
+    {
+      "key": "n.s2seed1.ckpts",
+      "src": "<LOCAL>
+      "value": 2
+    },
+    {
+      "key": "h1.s1seeds.base.freq_mean",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): FREQ_wait_1k over 6 runs",
+      "value": 5.07
+    },
+    {
+      "key": "h1.s1seeds.base.freq_std",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): FREQ_wait_1k over 6 runs",
+      "value": 0.17
+    },
+    {
+      "key": "h1.s1seeds.base.freq_min",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): FREQ_wait_1k over 6 runs",
+      "value": 4.92
+    },
+    {
+      "key": "h1.s1seeds.base.freq_max",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): FREQ_wait_1k over 6 runs",
+      "value": 5.37
+    },
+    {
+      "key": "h1.s1seeds.base.freq_n",
+      "src": "number of decoding-seed runs",
+      "value": 6
+    },
+    {
+      "key": "h1.s1seeds.base.orth_mean",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): ORTH over 6 runs",
+      "value": 88.8
+    },
+    {
+      "key": "h1.s1seeds.base.orth_std",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): ORTH over 6 runs",
+      "value": 0.2
+    },
+    {
+      "key": "h1.s1seeds.base.orth_min",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): ORTH over 6 runs",
+      "value": 88.5
+    },
+    {
+      "key": "h1.s1seeds.base.orth_max",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): ORTH over 6 runs",
+      "value": 89.2
+    },
+    {
+      "key": "h1.s1seeds.base.orth_n",
+      "src": "number of decoding-seed runs",
+      "value": 6
+    },
+    {
+      "key": "h1.s1seeds.base.si_mean",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): SI over 6 runs",
+      "value": 89.5
+    },
+    {
+      "key": "h1.s1seeds.base.si_std",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): SI over 6 runs",
+      "value": 0.2
+    },
+    {
+      "key": "h1.s1seeds.base.si_min",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): SI over 6 runs",
+      "value": 89.3
+    },
+    {
+      "key": "h1.s1seeds.base.si_max",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): SI over 6 runs",
+      "value": 89.9
+    },
+    {
+      "key": "h1.s1seeds.base.si_n",
+      "src": "number of decoding-seed runs",
+      "value": 6
+    },
+    {
+      "key": "h1.s1seeds.base.neff_mean",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): N_eff over 6 runs",
+      "value": 5.93
+    },
+    {
+      "key": "h1.s1seeds.base.neff_std",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): N_eff over 6 runs",
+      "value": 0.18
+    },
+    {
+      "key": "h1.s1seeds.base.neff_min",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): N_eff over 6 runs",
+      "value": 5.72
+    },
+    {
+      "key": "h1.s1seeds.base.neff_max",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): N_eff over 6 runs",
+      "value": 6.11
+    },
+    {
+      "key": "h1.s1seeds.base.neff_n",
+      "src": "number of decoding-seed runs",
+      "value": 6
+    },
+    {
+      "key": "h1.s1seeds.base.commadrop_mean",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): COMMA_DROP over 6 runs",
+      "value": 2.7
+    },
+    {
+      "key": "h1.s1seeds.base.commadrop_std",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): COMMA_DROP over 6 runs",
+      "value": 0.1
+    },
+    {
+      "key": "h1.s1seeds.base.commadrop_min",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): COMMA_DROP over 6 runs",
+      "value": 2.6
+    },
+    {
+      "key": "h1.s1seeds.base.commadrop_max",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): COMMA_DROP over 6 runs",
+      "value": 2.9
+    },
+    {
+      "key": "h1.s1seeds.base.commadrop_n",
+      "src": "number of decoding-seed runs",
+      "value": 6
+    },
+    {
+      "key": "ctl.s1seeds.base.acc_mean",
+      "src": "MATH-500 accuracy over decoding seeds",
+      "value": 52.3
+    },
+    {
+      "key": "ctl.s1seeds.base.acc_std",
+      "src": "MATH-500 accuracy over decoding seeds",
+      "value": 1.2
+    },
+    {
+      "key": "ctl.s1seeds.base.acc_min",
+      "src": "MATH-500 accuracy over decoding seeds",
+      "value": 51.1
+    },
+    {
+      "key": "ctl.s1seeds.base.acc_max",
+      "src": "MATH-500 accuracy over decoding seeds",
+      "value": 53.8
+    },
+    {
+      "key": "h1.s1seeds.final.freq_mean",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): FREQ_wait_1k over 6 runs",
+      "value": 12.68
+    },
+    {
+      "key": "h1.s1seeds.final.freq_std",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): FREQ_wait_1k over 6 runs",
+      "value": 1.55
+    },
+    {
+      "key": "h1.s1seeds.final.freq_min",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): FREQ_wait_1k over 6 runs",
+      "value": 11.08
+    },
+    {
+      "key": "h1.s1seeds.final.freq_max",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): FREQ_wait_1k over 6 runs",
+      "value": 15.41
+    },
+    {
+      "key": "h1.s1seeds.final.freq_n",
+      "src": "number of decoding-seed runs",
+      "value": 6
+    },
+    {
+      "key": "h1.s1seeds.final.orth_mean",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): ORTH over 6 runs",
+      "value": 38.0
+    },
+    {
+      "key": "h1.s1seeds.final.orth_std",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): ORTH over 6 runs",
+      "value": 4.8
+    },
+    {
+      "key": "h1.s1seeds.final.orth_min",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): ORTH over 6 runs",
+      "value": 30.5
+    },
+    {
+      "key": "h1.s1seeds.final.orth_max",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): ORTH over 6 runs",
+      "value": 44.4
+    },
+    {
+      "key": "h1.s1seeds.final.orth_n",
+      "src": "number of decoding-seed runs",
+      "value": 6
+    },
+    {
+      "key": "h1.s1seeds.final.si_mean",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): SI over 6 runs",
+      "value": 89.4
+    },
+    {
+      "key": "h1.s1seeds.final.si_std",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): SI over 6 runs",
+      "value": 1.2
+    },
+    {
+      "key": "h1.s1seeds.final.si_min",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): SI over 6 runs",
+      "value": 88.0
+    },
+    {
+      "key": "h1.s1seeds.final.si_max",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): SI over 6 runs",
+      "value": 91.5
+    },
+    {
+      "key": "h1.s1seeds.final.si_n",
+      "src": "number of decoding-seed runs",
+      "value": 6
+    },
+    {
+      "key": "h1.s1seeds.final.neff_mean",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): N_eff over 6 runs",
+      "value": 5.58
+    },
+    {
+      "key": "h1.s1seeds.final.neff_std",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): N_eff over 6 runs",
+      "value": 0.12
+    },
+    {
+      "key": "h1.s1seeds.final.neff_min",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): N_eff over 6 runs",
+      "value": 5.43
+    },
+    {
+      "key": "h1.s1seeds.final.neff_max",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): N_eff over 6 runs",
+      "value": 5.73
+    },
+    {
+      "key": "h1.s1seeds.final.neff_n",
+      "src": "number of decoding-seed runs",
+      "value": 6
+    },
+    {
+      "key": "h1.s1seeds.final.commadrop_mean",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): COMMA_DROP over 6 runs",
+      "value": 57.3
+    },
+    {
+      "key": "h1.s1seeds.final.commadrop_std",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): COMMA_DROP over 6 runs",
+      "value": 5.3
+    },
+    {
+      "key": "h1.s1seeds.final.commadrop_min",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): COMMA_DROP over 6 runs",
+      "value": 50.3
+    },
+    {
+      "key": "h1.s1seeds.final.commadrop_max",
+      "src": "exp/_incoming/hostA/main/S1sd{1..5} + results/main/S1 (seed 0): COMMA_DROP over 6 runs",
+      "value": 65.6
+    },
+    {
+      "key": "h1.s1seeds.final.commadrop_n",
+      "src": "number of decoding-seed runs",
+      "value": 6
+    },
+    {
+      "key": "ctl.s1seeds.final.acc_mean",
+      "src": "MATH-500 accuracy over decoding seeds",
+      "value": 84.9
+    },
+    {
+      "key": "ctl.s1seeds.final.acc_std",
+      "src": "MATH-500 accuracy over decoding seeds",
+      "value": 0.9
+    },
+    {
+      "key": "ctl.s1seeds.final.acc_min",
+      "src": "MATH-500 accuracy over decoding seeds",
+      "value": 83.8
+    },
+    {
+      "key": "ctl.s1seeds.final.acc_max",
+      "src": "MATH-500 accuracy over decoding seeds",
+      "value": 86.1
+    },
+    {
+      "key": "h4.s1seed1.base.rd_op_late",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": 10.7
+    },
+    {
+      "key": "h4.s1seed1.base.rd_op_late.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": 8.4
+    },
+    {
+      "key": "h4.s1seed1.base.rd_op_late.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 13.1
+    },
+    {
+      "key": "h4.s1seed1.base.or_op_late",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": 4.59
+    },
+    {
+      "key": "h4.s1seed1.base.or_op_late.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": 3.3
+    },
+    {
+      "key": "h4.s1seed1.base.or_op_late.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 6.99
+    },
+    {
+      "key": "h4.s1seed1.base.rd_syn_late",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": -1.9
+    },
+    {
+      "key": "h4.s1seed1.base.rd_syn_late.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": -4.8
+    },
+    {
+      "key": "h4.s1seed1.base.rd_syn_late.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 0.8
+    },
+    {
+      "key": "h4.s1seed1.base.prev_wait_late",
+      "src": "same.est",
+      "value": 14.1
+    },
+    {
+      "key": "h4.s1seed1.base.prev_wait_late.lo",
+      "src": "same.lo",
+      "value": 11.9
+    },
+    {
+      "key": "h4.s1seed1.base.prev_wait_late.hi",
+      "src": "same.hi",
+      "value": 16.2
+    },
+    {
+      "key": "h4.s1seed1.base.prev_next_late",
+      "src": "same.est",
+      "value": 3.4
+    },
+    {
+      "key": "h4.s1seed1.base.prev_next_late.lo",
+      "src": "same.lo",
+      "value": 2.2
+    },
+    {
+      "key": "h4.s1seed1.base.prev_next_late.hi",
+      "src": "same.hi",
+      "value": 4.6
+    },
+    {
+      "key": "h4.s1seed1.base.prev_holdon_late",
+      "src": "same.est",
+      "value": 16.0
+    },
+    {
+      "key": "h4.s1seed1.base.prev_holdon_late.lo",
+      "src": "same.lo",
+      "value": 13.6
+    },
+    {
+      "key": "h4.s1seed1.base.prev_holdon_late.hi",
+      "src": "same.hi",
+      "value": 18.5
+    },
+    {
+      "key": "h4.s1seed1.base.prev_none_late",
+      "src": "same.est",
+      "value": 3.7
+    },
+    {
+      "key": "h4.s1seed1.base.prev_none_late.lo",
+      "src": "same.lo",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s1seed1.base.prev_none_late.hi",
+      "src": "same.hi",
+      "value": 5.1
+    },
+    {
+      "key": "h4.s1seed1.late.rd_op_late",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": 19.8
+    },
+    {
+      "key": "h4.s1seed1.late.rd_op_late.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": 16.6
+    },
+    {
+      "key": "h4.s1seed1.late.rd_op_late.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 23.3
+    },
+    {
+      "key": "h4.s1seed1.late.or_op_late",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": 6.68
+    },
+    {
+      "key": "h4.s1seed1.late.or_op_late.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": 4.81
+    },
+    {
+      "key": "h4.s1seed1.late.or_op_late.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 9.75
+    },
+    {
+      "key": "h4.s1seed1.late.rd_syn_late",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": -0.3
+    },
+    {
+      "key": "h4.s1seed1.late.rd_syn_late.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": -3.4
+    },
+    {
+      "key": "h4.s1seed1.late.rd_syn_late.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 2.9
+    },
+    {
+      "key": "h4.s1seed1.late.prev_wait_late",
+      "src": "same.est",
+      "value": 24.4
+    },
+    {
+      "key": "h4.s1seed1.late.prev_wait_late.lo",
+      "src": "same.lo",
+      "value": 21.2
+    },
+    {
+      "key": "h4.s1seed1.late.prev_wait_late.hi",
+      "src": "same.hi",
+      "value": 27.8
+    },
+    {
+      "key": "h4.s1seed1.late.prev_next_late",
+      "src": "same.est",
+      "value": 4.6
+    },
+    {
+      "key": "h4.s1seed1.late.prev_next_late.lo",
+      "src": "same.lo",
+      "value": 3.2
+    },
+    {
+      "key": "h4.s1seed1.late.prev_next_late.hi",
+      "src": "same.hi",
+      "value": 6.0
+    },
+    {
+      "key": "h4.s1seed1.late.prev_holdon_late",
+      "src": "same.est",
+      "value": 24.7
+    },
+    {
+      "key": "h4.s1seed1.late.prev_holdon_late.lo",
+      "src": "same.lo",
+      "value": 21.5
+    },
+    {
+      "key": "h4.s1seed1.late.prev_holdon_late.hi",
+      "src": "same.hi",
+      "value": 27.9
+    },
+    {
+      "key": "h4.s1seed1.late.prev_none_late",
+      "src": "same.est",
+      "value": 5.3
+    },
+    {
+      "key": "h4.s1seed1.late.prev_none_late.lo",
+      "src": "same.lo",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s1seed1.late.prev_none_late.hi",
+      "src": "same.hi",
+      "value": 6.9
+    },
+    {
+      "key": "h4.s1seed1.final.rd_op_late",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": 14.6
+    },
+    {
+      "key": "h4.s1seed1.final.rd_op_late.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": 11.4
+    },
+    {
+      "key": "h4.s1seed1.final.rd_op_late.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 17.9
+    },
+    {
+      "key": "h4.s1seed1.final.or_op_late",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": 4.49
+    },
+    {
+      "key": "h4.s1seed1.final.or_op_late.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": 3.26
+    },
+    {
+      "key": "h4.s1seed1.final.or_op_late.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 6.36
+    },
+    {
+      "key": "h4.s1seed1.final.rd_syn_late",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": -2.7
+    },
+    {
+      "key": "h4.s1seed1.final.rd_syn_late.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": -5.7
+    },
+    {
+      "key": "h4.s1seed1.final.rd_syn_late.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 0.3
+    },
+    {
+      "key": "h4.s1seed1.final.prev_wait_late",
+      "src": "same.est",
+      "value": 19.8
+    },
+    {
+      "key": "h4.s1seed1.final.prev_wait_late.lo",
+      "src": "same.lo",
+      "value": 16.8
+    },
+    {
+      "key": "h4.s1seed1.final.prev_wait_late.hi",
+      "src": "same.hi",
+      "value": 22.7
+    },
+    {
+      "key": "h4.s1seed1.final.prev_next_late",
+      "src": "same.est",
+      "value": 5.2
+    },
+    {
+      "key": "h4.s1seed1.final.prev_next_late.lo",
+      "src": "same.lo",
+      "value": 3.7
+    },
+    {
+      "key": "h4.s1seed1.final.prev_next_late.hi",
+      "src": "same.hi",
+      "value": 6.7
+    },
+    {
+      "key": "h4.s1seed1.final.prev_holdon_late",
+      "src": "same.est",
+      "value": 22.5
+    },
+    {
+      "key": "h4.s1seed1.final.prev_holdon_late.lo",
+      "src": "same.lo",
+      "value": 19.4
+    },
+    {
+      "key": "h4.s1seed1.final.prev_holdon_late.hi",
+      "src": "same.hi",
+      "value": 25.8
+    },
+    {
+      "key": "h4.s1seed1.final.prev_none_late",
+      "src": "same.est",
+      "value": 5.2
+    },
+    {
+      "key": "h4.s1seed1.final.prev_none_late.lo",
+      "src": "same.lo",
+      "value": 3.7
+    },
+    {
+      "key": "h4.s1seed1.final.prev_none_late.hi",
+      "src": "same.hi",
+      "value": 6.8
+    },
+    {
+      "key": "h4.s1seed1.trend.r_amp_late",
+      "src": "fresh-prefix E3, final vs base.est",
+      "value": 1.37
+    },
+    {
+      "key": "h4.s1seed1.trend.r_amp_late.lo",
+      "src": "fresh-prefix E3, final vs base.lo",
+      "value": 1.07
+    },
+    {
+      "key": "h4.s1seed1.trend.r_amp_late.hi",
+      "src": "fresh-prefix E3, final vs base.hi",
+      "value": 1.73
+    },
+    {
+      "key": "h4.s1seed1.trend.d_amp_late",
+      "src": "fresh-prefix E3, final vs base.est",
+      "value": 3.9
+    },
+    {
+      "key": "h4.s1seed1.trend.d_amp_late.lo",
+      "src": "fresh-prefix E3, final vs base.lo",
+      "value": 0.8
+    },
+    {
+      "key": "h4.s1seed1.trend.d_amp_late.hi",
+      "src": "fresh-prefix E3, final vs base.hi",
+      "value": 6.9
+    },
+    {
+      "key": "h4.s1seed1.base.rd_op_base",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": 12.0
+    },
+    {
+      "key": "h4.s1seed1.base.rd_op_base.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": 8.0
+    },
+    {
+      "key": "h4.s1seed1.base.rd_op_base.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 16.2
+    },
+    {
+      "key": "h4.s1seed1.base.or_op_base",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": 3.54
+    },
+    {
+      "key": "h4.s1seed1.base.or_op_base.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": 2.42
+    },
+    {
+      "key": "h4.s1seed1.base.or_op_base.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 5.48
+    },
+    {
+      "key": "h4.s1seed1.base.rd_syn_base",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": 1.0
+    },
+    {
+      "key": "h4.s1seed1.base.rd_syn_base.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": -3.8
+    },
+    {
+      "key": "h4.s1seed1.base.rd_syn_base.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 5.5
+    },
+    {
+      "key": "h4.s1seed1.base.prev_wait_base",
+      "src": "same.est",
+      "value": 17.7
+    },
+    {
+      "key": "h4.s1seed1.base.prev_wait_base.lo",
+      "src": "same.lo",
+      "value": 13.7
+    },
+    {
+      "key": "h4.s1seed1.base.prev_wait_base.hi",
+      "src": "same.hi",
+      "value": 21.7
+    },
+    {
+      "key": "h4.s1seed1.base.prev_next_base",
+      "src": "same.est",
+      "value": 5.7
+    },
+    {
+      "key": "h4.s1seed1.base.prev_next_base.lo",
+      "src": "same.lo",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s1seed1.base.prev_next_base.hi",
+      "src": "same.hi",
+      "value": 7.7
+    },
+    {
+      "key": "h4.s1seed1.base.prev_holdon_base",
+      "src": "same.est",
+      "value": 16.7
+    },
+    {
+      "key": "h4.s1seed1.base.prev_holdon_base.lo",
+      "src": "same.lo",
+      "value": 13.0
+    },
+    {
+      "key": "h4.s1seed1.base.prev_holdon_base.hi",
+      "src": "same.hi",
+      "value": 20.5
+    },
+    {
+      "key": "h4.s1seed1.base.prev_none_base",
+      "src": "same.est",
+      "value": 4.8
+    },
+    {
+      "key": "h4.s1seed1.base.prev_none_base.lo",
+      "src": "same.lo",
+      "value": 2.8
+    },
+    {
+      "key": "h4.s1seed1.base.prev_none_base.hi",
+      "src": "same.hi",
+      "value": 7.0
+    },
+    {
+      "key": "h4.s1seed1.late.rd_op_base",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": 24.2
+    },
+    {
+      "key": "h4.s1seed1.late.rd_op_base.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": 18.2
+    },
+    {
+      "key": "h4.s1seed1.late.rd_op_base.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 30.3
+    },
+    {
+      "key": "h4.s1seed1.late.or_op_base",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": 4.45
+    },
+    {
+      "key": "h4.s1seed1.late.or_op_base.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": 3.04
+    },
+    {
+      "key": "h4.s1seed1.late.or_op_base.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 6.84
+    },
+    {
+      "key": "h4.s1seed1.late.rd_syn_base",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": -0.7
+    },
+    {
+      "key": "h4.s1seed1.late.rd_syn_base.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": -4.8
+    },
+    {
+      "key": "h4.s1seed1.late.rd_syn_base.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 3.7
+    },
+    {
+      "key": "h4.s1seed1.late.prev_wait_base",
+      "src": "same.est",
+      "value": 34.8
+    },
+    {
+      "key": "h4.s1seed1.late.prev_wait_base.lo",
+      "src": "same.lo",
+      "value": 29.3
+    },
+    {
+      "key": "h4.s1seed1.late.prev_wait_base.hi",
+      "src": "same.hi",
+      "value": 40.5
+    },
+    {
+      "key": "h4.s1seed1.late.prev_next_base",
+      "src": "same.est",
+      "value": 10.7
+    },
+    {
+      "key": "h4.s1seed1.late.prev_next_base.lo",
+      "src": "same.lo",
+      "value": 7.5
+    },
+    {
+      "key": "h4.s1seed1.late.prev_next_base.hi",
+      "src": "same.hi",
+      "value": 14.0
+    },
+    {
+      "key": "h4.s1seed1.late.prev_holdon_base",
+      "src": "same.est",
+      "value": 35.5
+    },
+    {
+      "key": "h4.s1seed1.late.prev_holdon_base.lo",
+      "src": "same.lo",
+      "value": 30.7
+    },
+    {
+      "key": "h4.s1seed1.late.prev_holdon_base.hi",
+      "src": "same.hi",
+      "value": 40.5
+    },
+    {
+      "key": "h4.s1seed1.late.prev_none_base",
+      "src": "same.est",
+      "value": 11.0
+    },
+    {
+      "key": "h4.s1seed1.late.prev_none_base.lo",
+      "src": "same.lo",
+      "value": 7.7
+    },
+    {
+      "key": "h4.s1seed1.late.prev_none_base.hi",
+      "src": "same.hi",
+      "value": 14.3
+    },
+    {
+      "key": "h4.s1seed1.final.rd_op_base",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": 26.3
+    },
+    {
+      "key": "h4.s1seed1.final.rd_op_base.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": 20.7
+    },
+    {
+      "key": "h4.s1seed1.final.rd_op_base.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 32.5
+    },
+    {
+      "key": "h4.s1seed1.final.or_op_base",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": 5.79
+    },
+    {
+      "key": "h4.s1seed1.final.or_op_base.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": 4.04
+    },
+    {
+      "key": "h4.s1seed1.final.or_op_base.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 8.98
+    },
+    {
+      "key": "h4.s1seed1.final.rd_syn_base",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": 0.8
+    },
+    {
+      "key": "h4.s1seed1.final.rd_syn_base.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": -3.8
+    },
+    {
+      "key": "h4.s1seed1.final.rd_syn_base.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 5.8
+    },
+    {
+      "key": "h4.s1seed1.final.prev_wait_base",
+      "src": "same.est",
+      "value": 34.7
+    },
+    {
+      "key": "h4.s1seed1.final.prev_wait_base.lo",
+      "src": "same.lo",
+      "value": 29.0
+    },
+    {
+      "key": "h4.s1seed1.final.prev_wait_base.hi",
+      "src": "same.hi",
+      "value": 40.3
+    },
+    {
+      "key": "h4.s1seed1.final.prev_next_base",
+      "src": "same.est",
+      "value": 8.3
+    },
+    {
+      "key": "h4.s1seed1.final.prev_next_base.lo",
+      "src": "same.lo",
+      "value": 6.0
+    },
+    {
+      "key": "h4.s1seed1.final.prev_next_base.hi",
+      "src": "same.hi",
+      "value": 11.0
+    },
+    {
+      "key": "h4.s1seed1.final.prev_holdon_base",
+      "src": "same.est",
+      "value": 33.8
+    },
+    {
+      "key": "h4.s1seed1.final.prev_holdon_base.lo",
+      "src": "same.lo",
+      "value": 29.0
+    },
+    {
+      "key": "h4.s1seed1.final.prev_holdon_base.hi",
+      "src": "same.hi",
+      "value": 38.5
+    },
+    {
+      "key": "h4.s1seed1.final.prev_none_base",
+      "src": "same.est",
+      "value": 11.3
+    },
+    {
+      "key": "h4.s1seed1.final.prev_none_base.lo",
+      "src": "same.lo",
+      "value": 8.2
+    },
+    {
+      "key": "h4.s1seed1.final.prev_none_base.hi",
+      "src": "same.hi",
+      "value": 14.7
+    },
+    {
+      "key": "h4.s1seed1.trend.r_amp_base",
+      "src": "fresh-prefix E3, final vs base.est",
+      "value": 2.19
+    },
+    {
+      "key": "h4.s1seed1.trend.r_amp_base.lo",
+      "src": "fresh-prefix E3, final vs base.lo",
+      "value": 1.66
+    },
+    {
+      "key": "h4.s1seed1.trend.r_amp_base.hi",
+      "src": "fresh-prefix E3, final vs base.hi",
+      "value": 3.18
+    },
+    {
+      "key": "h4.s1seed1.trend.d_amp_base",
+      "src": "fresh-prefix E3, final vs base.est",
+      "value": 14.3
+    },
+    {
+      "key": "h4.s1seed1.trend.d_amp_base.lo",
+      "src": "fresh-prefix E3, final vs base.lo",
+      "value": 9.2
+    },
+    {
+      "key": "h4.s1seed1.trend.d_amp_base.hi",
+      "src": "fresh-prefix E3, final vs base.hi",
+      "value": 20.2
+    },
+    {
+      "key": "h4.s1seed1.base.rd_op_late_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": 4.4
+    },
+    {
+      "key": "h4.s1seed1.base.rd_op_late_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s1seed1.base.rd_op_late_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 6.2
+    },
+    {
+      "key": "h4.s1seed1.base.or_op_late_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": 2.13
+    },
+    {
+      "key": "h4.s1seed1.base.or_op_late_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": 1.49
+    },
+    {
+      "key": "h4.s1seed1.base.or_op_late_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 3.12
+    },
+    {
+      "key": "h4.s1seed1.base.rd_syn_late_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": -1.1
+    },
+    {
+      "key": "h4.s1seed1.base.rd_syn_late_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": -3.3
+    },
+    {
+      "key": "h4.s1seed1.base.rd_syn_late_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 0.9
+    },
+    {
+      "key": "h4.s1seed1.base.prev_wait_late_oss",
+      "src": "same.est",
+      "value": 8.7
+    },
+    {
+      "key": "h4.s1seed1.base.prev_wait_late_oss.lo",
+      "src": "same.lo",
+      "value": 6.9
+    },
+    {
+      "key": "h4.s1seed1.base.prev_wait_late_oss.hi",
+      "src": "same.hi",
+      "value": 10.6
+    },
+    {
+      "key": "h4.s1seed1.base.prev_next_late_oss",
+      "src": "same.est",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s1seed1.base.prev_next_late_oss.lo",
+      "src": "same.lo",
+      "value": 2.8
+    },
+    {
+      "key": "h4.s1seed1.base.prev_next_late_oss.hi",
+      "src": "same.hi",
+      "value": 5.8
+    },
+    {
+      "key": "h4.s1seed1.base.prev_holdon_late_oss",
+      "src": "same.est",
+      "value": 9.8
+    },
+    {
+      "key": "h4.s1seed1.base.prev_holdon_late_oss.lo",
+      "src": "same.lo",
+      "value": 7.8
+    },
+    {
+      "key": "h4.s1seed1.base.prev_holdon_late_oss.hi",
+      "src": "same.hi",
+      "value": 11.8
+    },
+    {
+      "key": "h4.s1seed1.base.prev_none_late_oss",
+      "src": "same.est",
+      "value": 3.2
+    },
+    {
+      "key": "h4.s1seed1.base.prev_none_late_oss.lo",
+      "src": "same.lo",
+      "value": 2.0
+    },
+    {
+      "key": "h4.s1seed1.base.prev_none_late_oss.hi",
+      "src": "same.hi",
+      "value": 4.7
+    },
+    {
+      "key": "h4.s1seed1.late.rd_op_late_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": 7.8
+    },
+    {
+      "key": "h4.s1seed1.late.rd_op_late_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": 5.6
+    },
+    {
+      "key": "h4.s1seed1.late.rd_op_late_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 10.2
+    },
+    {
+      "key": "h4.s1seed1.late.or_op_late_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": 3.29
+    },
+    {
+      "key": "h4.s1seed1.late.or_op_late_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": 2.31
+    },
+    {
+      "key": "h4.s1seed1.late.or_op_late_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 5.0
+    },
+    {
+      "key": "h4.s1seed1.late.rd_syn_late_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": -1.3
+    },
+    {
+      "key": "h4.s1seed1.late.rd_syn_late_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": -3.8
+    },
+    {
+      "key": "h4.s1seed1.late.rd_syn_late_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 1.2
+    },
+    {
+      "key": "h4.s1seed1.late.prev_wait_late_oss",
+      "src": "same.est",
+      "value": 11.7
+    },
+    {
+      "key": "h4.s1seed1.late.prev_wait_late_oss.lo",
+      "src": "same.lo",
+      "value": 9.6
+    },
+    {
+      "key": "h4.s1seed1.late.prev_wait_late_oss.hi",
+      "src": "same.hi",
+      "value": 13.8
+    },
+    {
+      "key": "h4.s1seed1.late.prev_next_late_oss",
+      "src": "same.est",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s1seed1.late.prev_next_late_oss.lo",
+      "src": "same.lo",
+      "value": 2.5
+    },
+    {
+      "key": "h4.s1seed1.late.prev_next_late_oss.hi",
+      "src": "same.hi",
+      "value": 5.3
+    },
+    {
+      "key": "h4.s1seed1.late.prev_holdon_late_oss",
+      "src": "same.est",
+      "value": 13.0
+    },
+    {
+      "key": "h4.s1seed1.late.prev_holdon_late_oss.lo",
+      "src": "same.lo",
+      "value": 10.8
+    },
+    {
+      "key": "h4.s1seed1.late.prev_holdon_late_oss.hi",
+      "src": "same.hi",
+      "value": 15.2
+    },
+    {
+      "key": "h4.s1seed1.late.prev_none_late_oss",
+      "src": "same.est",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s1seed1.late.prev_none_late_oss.lo",
+      "src": "same.lo",
+      "value": 2.8
+    },
+    {
+      "key": "h4.s1seed1.late.prev_none_late_oss.hi",
+      "src": "same.hi",
+      "value": 5.8
+    },
+    {
+      "key": "h4.s1seed1.final.rd_op_late_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": 4.8
+    },
+    {
+      "key": "h4.s1seed1.final.rd_op_late_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": 2.4
+    },
+    {
+      "key": "h4.s1seed1.final.rd_op_late_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 7.1
+    },
+    {
+      "key": "h4.s1seed1.final.or_op_late_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": 2.13
+    },
+    {
+      "key": "h4.s1seed1.final.or_op_late_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": 1.46
+    },
+    {
+      "key": "h4.s1seed1.final.or_op_late_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 3.27
+    },
+    {
+      "key": "h4.s1seed1.final.rd_syn_late_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).est",
+      "value": -0.3
+    },
+    {
+      "key": "h4.s1seed1.final.rd_syn_late_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).lo",
+      "value": -2.6
+    },
+    {
+      "key": "h4.s1seed1.final.rd_syn_late_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_late_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=300).hi",
+      "value": 1.9
+    },
+    {
+      "key": "h4.s1seed1.final.prev_wait_late_oss",
+      "src": "same.est",
+      "value": 9.3
+    },
+    {
+      "key": "h4.s1seed1.final.prev_wait_late_oss.lo",
+      "src": "same.lo",
+      "value": 7.4
+    },
+    {
+      "key": "h4.s1seed1.final.prev_wait_late_oss.hi",
+      "src": "same.hi",
+      "value": 11.4
+    },
+    {
+      "key": "h4.s1seed1.final.prev_next_late_oss",
+      "src": "same.est",
+      "value": 4.6
+    },
+    {
+      "key": "h4.s1seed1.final.prev_next_late_oss.lo",
+      "src": "same.lo",
+      "value": 3.1
+    },
+    {
+      "key": "h4.s1seed1.final.prev_next_late_oss.hi",
+      "src": "same.hi",
+      "value": 6.3
+    },
+    {
+      "key": "h4.s1seed1.final.prev_holdon_late_oss",
+      "src": "same.est",
+      "value": 9.7
+    },
+    {
+      "key": "h4.s1seed1.final.prev_holdon_late_oss.lo",
+      "src": "same.lo",
+      "value": 7.9
+    },
+    {
+      "key": "h4.s1seed1.final.prev_holdon_late_oss.hi",
+      "src": "same.hi",
+      "value": 11.7
+    },
+    {
+      "key": "h4.s1seed1.final.prev_none_late_oss",
+      "src": "same.est",
+      "value": 3.7
+    },
+    {
+      "key": "h4.s1seed1.final.prev_none_late_oss.lo",
+      "src": "same.lo",
+      "value": 2.3
+    },
+    {
+      "key": "h4.s1seed1.final.prev_none_late_oss.hi",
+      "src": "same.hi",
+      "value": 5.3
+    },
+    {
+      "key": "h4.s1seed1.trend.r_amp_late_oss",
+      "src": "fresh-prefix E3, final vs base.est",
+      "value": 1.08
+    },
+    {
+      "key": "h4.s1seed1.trend.r_amp_late_oss.lo",
+      "src": "fresh-prefix E3, final vs base.lo",
+      "value": 0.54
+    },
+    {
+      "key": "h4.s1seed1.trend.r_amp_late_oss.hi",
+      "src": "fresh-prefix E3, final vs base.hi",
+      "value": 2.07
+    },
+    {
+      "key": "h4.s1seed1.trend.d_amp_late_oss",
+      "src": "fresh-prefix E3, final vs base.est",
+      "value": 0.3
+    },
+    {
+      "key": "h4.s1seed1.trend.d_amp_late_oss.lo",
+      "src": "fresh-prefix E3, final vs base.lo",
+      "value": -2.3
+    },
+    {
+      "key": "h4.s1seed1.trend.d_amp_late_oss.hi",
+      "src": "fresh-prefix E3, final vs base.hi",
+      "value": 3.1
+    },
+    {
+      "key": "h4.s1seed1.base.rd_op_base_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": 5.0
+    },
+    {
+      "key": "h4.s1seed1.base.rd_op_base_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": 2.2
+    },
+    {
+      "key": "h4.s1seed1.base.rd_op_base_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 7.8
+    },
+    {
+      "key": "h4.s1seed1.base.or_op_base_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": 1.8
+    },
+    {
+      "key": "h4.s1seed1.base.or_op_base_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": 1.3
+    },
+    {
+      "key": "h4.s1seed1.base.or_op_base_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 2.54
+    },
+    {
+      "key": "h4.s1seed1.base.rd_syn_base_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": 0.2
+    },
+    {
+      "key": "h4.s1seed1.base.rd_syn_base_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": -3.3
+    },
+    {
+      "key": "h4.s1seed1.base.rd_syn_base_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 3.7
+    },
+    {
+      "key": "h4.s1seed1.base.prev_wait_base_oss",
+      "src": "same.est",
+      "value": 12.0
+    },
+    {
+      "key": "h4.s1seed1.base.prev_wait_base_oss.lo",
+      "src": "same.lo",
+      "value": 9.0
+    },
+    {
+      "key": "h4.s1seed1.base.prev_wait_base_oss.hi",
+      "src": "same.hi",
+      "value": 15.2
+    },
+    {
+      "key": "h4.s1seed1.base.prev_next_base_oss",
+      "src": "same.est",
+      "value": 7.0
+    },
+    {
+      "key": "h4.s1seed1.base.prev_next_base_oss.lo",
+      "src": "same.lo",
+      "value": 4.8
+    },
+    {
+      "key": "h4.s1seed1.base.prev_next_base_oss.hi",
+      "src": "same.hi",
+      "value": 9.3
+    },
+    {
+      "key": "h4.s1seed1.base.prev_holdon_base_oss",
+      "src": "same.est",
+      "value": 11.8
+    },
+    {
+      "key": "h4.s1seed1.base.prev_holdon_base_oss.lo",
+      "src": "same.lo",
+      "value": 8.5
+    },
+    {
+      "key": "h4.s1seed1.base.prev_holdon_base_oss.hi",
+      "src": "same.hi",
+      "value": 15.3
+    },
+    {
+      "key": "h4.s1seed1.base.prev_none_base_oss",
+      "src": "same.est",
+      "value": 5.7
+    },
+    {
+      "key": "h4.s1seed1.base.prev_none_base_oss.lo",
+      "src": "same.lo",
+      "value": 3.2
+    },
+    {
+      "key": "h4.s1seed1.base.prev_none_base_oss.hi",
+      "src": "same.hi",
+      "value": 8.5
+    },
+    {
+      "key": "h4.s1seed1.late.rd_op_base_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": 14.0
+    },
+    {
+      "key": "h4.s1seed1.late.rd_op_base_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": 9.2
+    },
+    {
+      "key": "h4.s1seed1.late.rd_op_base_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 19.0
+    },
+    {
+      "key": "h4.s1seed1.late.or_op_base_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": 3.5
+    },
+    {
+      "key": "h4.s1seed1.late.or_op_base_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": 2.33
+    },
+    {
+      "key": "h4.s1seed1.late.or_op_base_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 5.69
+    },
+    {
+      "key": "h4.s1seed1.late.rd_syn_base_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": -0.2
+    },
+    {
+      "key": "h4.s1seed1.late.rd_syn_base_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": -4.7
+    },
+    {
+      "key": "h4.s1seed1.late.rd_syn_base_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 4.3
+    },
+    {
+      "key": "h4.s1seed1.late.prev_wait_base_oss",
+      "src": "same.est",
+      "value": 21.0
+    },
+    {
+      "key": "h4.s1seed1.late.prev_wait_base_oss.lo",
+      "src": "same.lo",
+      "value": 16.7
+    },
+    {
+      "key": "h4.s1seed1.late.prev_wait_base_oss.hi",
+      "src": "same.hi",
+      "value": 25.3
+    },
+    {
+      "key": "h4.s1seed1.late.prev_next_base_oss",
+      "src": "same.est",
+      "value": 7.0
+    },
+    {
+      "key": "h4.s1seed1.late.prev_next_base_oss.lo",
+      "src": "same.lo",
+      "value": 4.7
+    },
+    {
+      "key": "h4.s1seed1.late.prev_next_base_oss.hi",
+      "src": "same.hi",
+      "value": 9.7
+    },
+    {
+      "key": "h4.s1seed1.late.prev_holdon_base_oss",
+      "src": "same.est",
+      "value": 21.2
+    },
+    {
+      "key": "h4.s1seed1.late.prev_holdon_base_oss.lo",
+      "src": "same.lo",
+      "value": 17.3
+    },
+    {
+      "key": "h4.s1seed1.late.prev_holdon_base_oss.hi",
+      "src": "same.hi",
+      "value": 25.0
+    },
+    {
+      "key": "h4.s1seed1.late.prev_none_base_oss",
+      "src": "same.est",
+      "value": 7.8
+    },
+    {
+      "key": "h4.s1seed1.late.prev_none_base_oss.lo",
+      "src": "same.lo",
+      "value": 5.0
+    },
+    {
+      "key": "h4.s1seed1.late.prev_none_base_oss.hi",
+      "src": "same.hi",
+      "value": 10.7
+    },
+    {
+      "key": "h4.s1seed1.final.rd_op_base_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": 12.8
+    },
+    {
+      "key": "h4.s1seed1.final.rd_op_base_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": 9.0
+    },
+    {
+      "key": "h4.s1seed1.final.rd_op_base_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 17.2
+    },
+    {
+      "key": "h4.s1seed1.final.or_op_base_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": 3.42
+    },
+    {
+      "key": "h4.s1seed1.final.or_op_base_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": 2.33
+    },
+    {
+      "key": "h4.s1seed1.final.or_op_base_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 5.54
+    },
+    {
+      "key": "h4.s1seed1.final.rd_syn_base_oss",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).est",
+      "value": 0.3
+    },
+    {
+      "key": "h4.s1seed1.final.rd_syn_base_oss.lo",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).lo",
+      "value": -3.8
+    },
+    {
+      "key": "h4.s1seed1.final.rd_syn_base_oss.hi",
+      "src": "exp/_incoming/hostA/main/S1seed1/insertion/judged_basesrc_oss.jsonl.gz (fresh prefixes, seed 1; n_prefixes=150).hi",
+      "value": 4.8
+    },
+    {
+      "key": "h4.s1seed1.final.prev_wait_base_oss",
+      "src": "same.est",
+      "value": 19.3
+    },
+    {
+      "key": "h4.s1seed1.final.prev_wait_base_oss.lo",
+      "src": "same.lo",
+      "value": 15.0
+    },
+    {
+      "key": "h4.s1seed1.final.prev_wait_base_oss.hi",
+      "src": "same.hi",
+      "value": 24.0
+    },
+    {
+      "key": "h4.s1seed1.final.prev_next_base_oss",
+      "src": "same.est",
+      "value": 6.5
+    },
+    {
+      "key": "h4.s1seed1.final.prev_next_base_oss.lo",
+      "src": "same.lo",
+      "value": 4.2
+    },
+    {
+      "key": "h4.s1seed1.final.prev_next_base_oss.hi",
+      "src": "same.hi",
+      "value": 9.3
+    },
+    {
+      "key": "h4.s1seed1.final.prev_holdon_base_oss",
+      "src": "same.est",
+      "value": 19.0
+    },
+    {
+      "key": "h4.s1seed1.final.prev_holdon_base_oss.lo",
+      "src": "same.lo",
+      "value": 15.2
+    },
+    {
+      "key": "h4.s1seed1.final.prev_holdon_base_oss.hi",
+      "src": "same.hi",
+      "value": 22.8
+    },
+    {
+      "key": "h4.s1seed1.final.prev_none_base_oss",
+      "src": "same.est",
+      "value": 7.7
+    },
+    {
+      "key": "h4.s1seed1.final.prev_none_base_oss.lo",
+      "src": "same.lo",
+      "value": 4.8
+    },
+    {
+      "key": "h4.s1seed1.final.prev_none_base_oss.hi",
+      "src": "same.hi",
+      "value": 11.0
+    },
+    {
+      "key": "h4.s1seed1.trend.r_amp_base_oss",
+      "src": "fresh-prefix E3, final vs base.est",
+      "value": 2.57
+    },
+    {
+      "key": "h4.s1seed1.trend.r_amp_base_oss.lo",
+      "src": "fresh-prefix E3, final vs base.lo",
+      "value": 1.58
+    },
+    {
+      "key": "h4.s1seed1.trend.r_amp_base_oss.hi",
+      "src": "fresh-prefix E3, final vs base.hi",
+      "value": 5.47
+    },
+    {
+      "key": "h4.s1seed1.trend.d_amp_base_oss",
+      "src": "fresh-prefix E3, final vs base.est",
+      "value": 7.8
+    },
+    {
+      "key": "h4.s1seed1.trend.d_amp_base_oss.lo",
+      "src": "fresh-prefix E3, final vs base.lo",
+      "value": 3.8
+    },
+    {
+      "key": "h4.s1seed1.trend.d_amp_base_oss.hi",
+      "src": "fresh-prefix E3, final vs base.hi",
+      "value": 12.2
+    }
+  ]
+}
