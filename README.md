@@ -1,6 +1,7 @@
-# Where Does *Wait* Come From? Reasoning Markers Are Inherited, Rarely Coined, in Open RL Trajectories
+# Inherited, Not Invented: Tracing the Provenance of Wait in Reasoning Models
 
-Anonymous code and data release for an ACL Rolling Review submission.
+
+
 
 Reinforcement learning (RL) is often credited with teaching reasoning models to write *wait* before they re-check a step. We trace this marker through the training histories of open models with label-free indices (frequency, position, form, usage) and an injected-error alarm test, all computed from sampled outputs. Zero-RL from bases that do not use the marker almost never coins it; the marker arrives with training data (mid-training, reasoning-rich pretraining, or fine-tuning on reasoning traces); where it already exists, released RL-Zero recipes multiply it and reshape it, while other recipes leave it unchanged or erase it. This repository contains the measurement pipeline, the scripts that turn result files into every number, table and figure, the pre-registration log, and the anonymised expert consensus labels of the human audits.
 
